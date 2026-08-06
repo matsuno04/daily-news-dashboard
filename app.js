@@ -1,4 +1,4 @@
-// ステップ1: 今日分の2/2記事(両ソースが報じたイベント)のみを静的に表示する。
+// ステップ2: 1/2記事(NHK単独・Yahoo単独)をソース別セクションで表示する。
 // 日付は今のところ固定。アーカイブ機能(日付セレクター)実装時に動的化する。
 //
 // 2026-08-05 を暫定の表示日にしている。理由: daily-news-digest側の自動実行
@@ -27,6 +27,7 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
+// 2/2記事: Haiku要約(headline/summary/category) + 両ソースへのリンク
 function renderMatchedCard(summary, event) {
   const nhk = event.sources["NHK"];
   const yahoo = event.sources["Yahoo!ニュース"];
@@ -47,30 +48,78 @@ function renderMatchedCard(summary, event) {
   return article;
 }
 
-async function loadMatchedSection(date) {
-  const listEl = document.getElementById("matched-list");
-  try {
-    const [eventsData, summariesData] = await Promise.all([
-      fetchJSON(`data/${date}.events.json`),
-      fetchJSON(`data/${date}.summaries.json`),
-    ]);
+// 1/2記事: RSSタイトルそのまま(Haiku要約なし、追加コストなし) + ソースタグ + 元記事リンク
+function renderUnmatchedCard(item) {
+  const isNhk = item.source === "NHK";
+  const tagClass = isNhk ? "source-tag-nhk" : "source-tag-yahoo";
+  const linkClass = isNhk ? "source-nhk" : "source-yahoo";
+  const linkLabel = isNhk ? "NHKで読む" : "Yahoo!で読む";
 
-    const eventsById = Object.fromEntries(eventsData.events.map((e) => [e.event_id, e]));
+  const article = document.createElement("article");
+  article.className = "news-card";
+  article.innerHTML = `
+    <div class="card-header">
+      <span class="source-tag ${tagClass}">${isNhk ? "NHK" : "Yahoo"}</span>
+    </div>
+    <h3 class="headline">${escapeHtml(item.title)}</h3>
+    <div class="source-links">
+      <a class="source-link ${linkClass}" href="${item.link}" target="_blank" rel="noopener">${linkLabel}</a>
+    </div>
+  `;
+  return article;
+}
 
-    listEl.innerHTML = "";
-    if (summariesData.summaries.length === 0) {
-      listEl.innerHTML = `<p class="empty">この日は両ソースが共通して報じたニュースがありませんでした。</p>`;
-      return;
-    }
-
-    for (const summary of summariesData.summaries) {
-      const event = eventsById[summary.event_id];
-      if (!event) continue;
-      listEl.appendChild(renderMatchedCard(summary, event));
-    }
-  } catch (err) {
-    listEl.innerHTML = `<p class="error">データの読み込みに失敗しました: ${escapeHtml(err.message)}</p>`;
+function renderList(containerEl, items, renderFn, emptyMessage) {
+  containerEl.innerHTML = "";
+  if (items.length === 0) {
+    containerEl.innerHTML = `<p class="empty">${emptyMessage}</p>`;
+    return;
+  }
+  for (const item of items) {
+    containerEl.appendChild(renderFn(item));
   }
 }
 
-loadMatchedSection(DISPLAY_DATE);
+function showError(containerEls, message) {
+  for (const el of containerEls) {
+    el.innerHTML = `<p class="error">データの読み込みに失敗しました: ${escapeHtml(message)}</p>`;
+  }
+}
+
+async function main(date) {
+  const matchedListEl = document.getElementById("matched-list");
+  const nhkOnlyListEl = document.getElementById("nhk-only-list");
+  const yahooOnlyListEl = document.getElementById("yahoo-only-list");
+
+  let eventsData;
+  let summariesData;
+  try {
+    [eventsData, summariesData] = await Promise.all([
+      fetchJSON(`data/${date}.events.json`),
+      fetchJSON(`data/${date}.summaries.json`),
+    ]);
+  } catch (err) {
+    showError([matchedListEl, nhkOnlyListEl, yahooOnlyListEl], err.message);
+    return;
+  }
+
+  const eventsById = Object.fromEntries(eventsData.events.map((e) => [e.event_id, e]));
+  const matchedItems = summariesData.summaries
+    .map((summary) => ({ summary, event: eventsById[summary.event_id] }))
+    .filter(({ event }) => event);
+
+  renderList(
+    matchedListEl,
+    matchedItems,
+    ({ summary, event }) => renderMatchedCard(summary, event),
+    "この日は両ソースが共通して報じたニュースがありませんでした。"
+  );
+
+  const nhkOnly = eventsData.unmatched.filter((a) => a.source === "NHK");
+  const yahooOnly = eventsData.unmatched.filter((a) => a.source === "Yahoo!ニュース");
+
+  renderList(nhkOnlyListEl, nhkOnly, renderUnmatchedCard, "この日はNHK単独の記事がありませんでした。");
+  renderList(yahooOnlyListEl, yahooOnly, renderUnmatchedCard, "この日はYahoo!単独の記事がありませんでした。");
+}
+
+main(DISPLAY_DATE);
