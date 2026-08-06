@@ -1,0 +1,181 @@
+:root {
+  color-scheme: light;
+  --page-bg: #f9f9f7;
+  --surface: #fcfcfb;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #898781;
+  --border: rgba(11, 11, 11, 0.10);
+  --gridline: #e1e0d9;
+
+  /* カテゴリ8色(datavizスキルの検証済み既定パレット、slot 1-8をそのまま使用) */
+  --cat-1: #2a78d6; /* 政治 */
+  --cat-2: #eb6834; /* 経済 */
+  --cat-3: #1baf7a; /* 社会 */
+  --cat-4: #eda100; /* 国際 */
+  --cat-5: #e87ba4; /* 災害 */
+  --cat-6: #008300; /* スポーツ */
+  --cat-7: #4a3aa7; /* エンタメ */
+  --cat-8: #e34948; /* その他 */
+
+  /* ソースタグ: NHK=青系 / Yahoo=赤系(ユーザー指定)。カテゴリパレットのslot1・8を流用 */
+  --source-nhk: #2a78d6;
+  --source-yahoo: #e34948;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --page-bg: #0d0d0d;
+    --surface: #1a1a19;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #898781;
+    --border: rgba(255, 255, 255, 0.10);
+    --gridline: #2c2c2a;
+
+    --cat-1: #3987e5;
+    --cat-2: #d95926;
+    --cat-3: #199e70;
+    --cat-4: #c98500;
+    --cat-5: #d55181;
+    --cat-6: #008300;
+    --cat-7: #9085e9;
+    --cat-8: #e66767;
+
+    --source-nhk: #3987e5;
+    --source-yahoo: #e66767;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: var(--page-bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.app-header {
+  padding: 20px 16px 16px;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.app-header h1 {
+  font-size: 1.4rem;
+  margin: 0 0 4px;
+}
+
+.app-subtitle {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+}
+
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 16px 40px;
+}
+
+.section {
+  margin-top: 24px;
+}
+
+.section-title {
+  font-size: 1.05rem;
+  margin: 0 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--gridline);
+}
+
+.card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.news-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+
+.card-header {
+  margin-bottom: 8px;
+}
+
+.category-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 9px;
+  border-radius: 999px;
+  color: #fff;
+}
+
+.cat-1 { background: var(--cat-1); }
+.cat-2 { background: var(--cat-2); }
+.cat-3 { background: var(--cat-3); }
+.cat-4 { background: var(--cat-4); }
+.cat-5 { background: var(--cat-5); }
+.cat-6 { background: var(--cat-6); }
+.cat-7 { background: var(--cat-7); }
+.cat-8 { background: var(--cat-8); }
+
+.headline {
+  font-size: 1.02rem;
+  margin: 0 0 6px;
+  line-height: 1.4;
+}
+
+.summary {
+  margin: 0 0 10px;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.source-links {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 6px;
+  border: 1.5px solid transparent;
+}
+
+.source-nhk {
+  color: var(--source-nhk);
+  border-color: var(--source-nhk);
+}
+
+.source-yahoo {
+  color: var(--source-yahoo);
+  border-color: var(--source-yahoo);
+}
+
+.loading,
+.empty,
+.error {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.error {
+  color: var(--source-yahoo);
+}

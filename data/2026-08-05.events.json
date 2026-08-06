@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-05",
+  "matched_at": "2026-08-07T00:49:55.126997+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
+          "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
+          "description": "アメリカのベッセント財務長官がNHKの単独インタビューに応じました。日米の通貨当局が歴史的な円安を阻止するために先週、実施した円買いの協調介入について、日米連携の象徴的な意味合いだったと述べたうえで、円安の本格的な是正に向けては、日本が打ち出す政策が着実に実施されていくことを確認する必要があるとの認識を示しました。",
+          "pub_date": "2026-08-05T08:08:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米財務長官 円の水準を問題視",
+          "link": "https://news.yahoo.co.jp/pickup/6590567?source=rss",
+          "description": "",
+          "pub_date": "2026-08-05T08:56:06+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "広島 東広島で火事 全焼した住宅の家族4人と連絡とれず",
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196791000.html",
+      "description": "5日午前3時半ごろ、広島県東広島市黒瀬楢原東の住宅で火事があり、消防が消火活動にあたって火はおよそ2時間半後にほぼ消し止められましたが、2階建ての住宅が全焼したほか近くの住宅2棟にも延焼しました。警察によりますと、全焼した住宅には家族4人が暮らしていたという情報があり、これまでのところいずれも連絡が取れていないということで、警察と消防が確認を進めています。",
+      "pub_date": "2026-08-05T07:42:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "熊本 震度5強程度以上の地震注意 復旧作業の際は熱中症対策を",
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196771000.html",
+      "description": "熊本県で震度7の揺れを観測した地震から1週間がたちましたが、気象庁は、今後1週間程度は震度5強程度以上の地震に引き続き注意するよう呼びかけています。5日、熊本県内では危険な暑さが見込まれていて、復旧作業の際も休みを取るなど、できる限りの熱中症対策を心がけてください。",
+      "pub_date": "2026-08-05T05:35:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196631000.html",
+      "description": "大型で非常に強い台風13号は、今後、強い勢力で沖縄・奄美に近づく見込みで、高波と暴風に厳重な警戒が必要です。最新の情報を確認して早めの備えを進めてください。",
+      "pub_date": "2026-08-05T06:55:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風14号が発生 付近を通る船舶に注意呼びかけ 気象庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196811000.html",
+      "description": "5日午前、南シナ海で台風14号が発生しました。日本への直接の影響はない見込みで、気象庁は、付近を通る船舶に注意するよう呼びかけています。",
+      "pub_date": "2026-08-05T08:32:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税 基本方針案 閣議決定へ 野党は国会でただす構え",
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196581000.html",
+      "description": "食料品の消費税減税をめぐり、政府は、来年4月から2年間1％に引き下げるなどとした基本方針案を5日に閣議決定したいとしています。これを受けて、与党は税制改正大綱の検討に入り、具体的な制度設計を本格化させる方針です。",
+      "pub_date": "2026-08-05T05:42:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "三菱重工業 次世代型原子炉「SMR」国内実用化に向け本格開発へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196481000.html",
+      "description": "政府が原子力を最大限活用する方針を打ち出す中、大手機械メーカーの「三菱重工業」が、「SMR」と呼ばれる次世代型の原子炉の国内での実用化に向け、本格的な開発に乗り出す方針を固めたことがわかりました。",
+      "pub_date": "2026-08-05T06:24:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "九州-東海猛暑 熊本40℃迫る予想",
+      "link": "https://news.yahoo.co.jp/pickup/6590561?source=rss",
+      "description": "",
+      "pub_date": "2026-08-05T07:58:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "避難後なぜ再入館 証言からの実態",
+      "link": "https://news.yahoo.co.jp/pickup/6590566?source=rss",
+      "description": "",
+      "pub_date": "2026-08-05T08:39:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "威嚇射撃応じず警官発砲 男死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590563?source=rss",
+      "description": "",
+      "pub_date": "2026-08-05T07:58:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "交通整備中にはねられ 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590570?source=rss",
+      "description": "",
+      "pub_date": "2026-08-05T09:07:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "偽iPhone大量発見 不正還付発覚",
+      "link": "https://news.yahoo.co.jp/pickup/6590559?source=rss",
+      "description": "",
+      "pub_date": "2026-08-05T07:43:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドジャース 異例の捕手総入れ替え",
+      "link": "https://news.yahoo.co.jp/pickup/6590562?source=rss",
+      "description": "",
+      "pub_date": "2026-08-05T08:09:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドリーファンクジュニアさん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6590557?source=rss",
+      "description": "",
+      "pub_date": "2026-08-05T07:27:09+09:00"
+    }
+  ]
+}

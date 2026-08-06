@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-05",
+  "summarized_at": "2026-08-07T00:49:57.422632+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "summaries": [
+    {
+      "event_id": "evt-0001",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "米財務長官 円の水準を問題視",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6590567?source=rss",
+      "body_excerpt": "米財務長官 円の水準を問題視\nベッセント氏、円の水準を問題視－日本支援へ｢必要なこと何でもする｣\nBloomberg\n（ブルームバーグ）： ベッセント米財務長官は4日、円安は日本のインフレの一因となっているほか、アジア通貨全体の下落を招くリスクを高めているとの認識を示した。その上で、為替相場の安定化に向けた取り組みを米国として支持する考えを改めて示した。",
+      "headline": "米財務長官 円安を問題視",
+      "summary": "ベッセント米財務長官は円安がインフレの一因となり、アジア通貨全体の下落リスクを高めていると指摘。為替相場の安定化に向けた取り組みを支持する考えを示した。",
+      "category": "国際"
+    }
+  ],
+  "failed_event_ids": []
+}
