@@ -1,11 +1,6 @@
-// ステップ2: 1/2記事(NHK単独・Yahoo単独)をソース別セクションで表示する。
-// 日付は今のところ固定。アーカイブ機能(日付セレクター)実装時に動的化する。
-//
-// 2026-08-05 を暫定の表示日にしている。理由: daily-news-digest側の自動実行
-// (収集7:30〜21:30・突合/要約21:45 JST)はまだ当日分が生成されていないため、
-// 実データでHaiku要約まで完了している最初の日である2026-08-05を使う。
-const DISPLAY_DATE = "2026-08-05";
-
+// ステップ3: アーカイブ機能(日付セレクター)。
+// data/index.json に、公開済みの日次データの日付一覧を保持する。
+// daily-news-digest側からの自動連携(ステップ6)で、新しい日付が追記されていく想定。
 const CATEGORY_ORDER = ["政治", "経済", "社会", "国際", "災害", "スポーツ", "エンタメ", "その他"];
 
 async function fetchJSON(path) {
@@ -25,6 +20,25 @@ function escapeHtml(str) {
   const div = document.createElement("div");
   div.textContent = str ?? "";
   return div.innerHTML;
+}
+
+// JSTでの「今日」をYYYY-MM-DD形式で返す(サーバー/ブラウザのタイムゾーンに依存しないように)
+function todayInJst() {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Tokyo",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
+  const get = (type) => parts.find((p) => p.type === type).value;
+  return `${get("year")}-${get("month")}-${get("day")}`;
+}
+
+function formatDateLabel(dateStr) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  const date = new Date(Date.UTC(y, m - 1, d));
+  const weekday = ["日", "月", "火", "水", "木", "金", "土"][date.getUTCDay()];
+  return `${y}年${m}月${d}日(${weekday})`;
 }
 
 // 2/2記事: Haiku要約(headline/summary/category) + 両ソースへのリンク
@@ -80,16 +94,25 @@ function renderList(containerEl, items, renderFn, emptyMessage) {
   }
 }
 
+function setLoading(containerEls) {
+  for (const el of containerEls) {
+    el.innerHTML = `<p class="loading">読み込み中…</p>`;
+  }
+}
+
 function showError(containerEls, message) {
   for (const el of containerEls) {
     el.innerHTML = `<p class="error">データの読み込みに失敗しました: ${escapeHtml(message)}</p>`;
   }
 }
 
-async function main(date) {
+async function loadDate(date) {
   const matchedListEl = document.getElementById("matched-list");
   const nhkOnlyListEl = document.getElementById("nhk-only-list");
   const yahooOnlyListEl = document.getElementById("yahoo-only-list");
+  const sections = [matchedListEl, nhkOnlyListEl, yahooOnlyListEl];
+
+  setLoading(sections);
 
   let eventsData;
   let summariesData;
@@ -99,7 +122,7 @@ async function main(date) {
       fetchJSON(`data/${date}.summaries.json`),
     ]);
   } catch (err) {
-    showError([matchedListEl, nhkOnlyListEl, yahooOnlyListEl], err.message);
+    showError(sections, err.message);
     return;
   }
 
@@ -122,4 +145,38 @@ async function main(date) {
   renderList(yahooOnlyListEl, yahooOnly, renderUnmatchedCard, "この日はYahoo!単独の記事がありませんでした。");
 }
 
-main(DISPLAY_DATE);
+function setupDatePicker(dates) {
+  const select = document.getElementById("date-select");
+  // 新しい日付が上に来るよう降順で並べる
+  const sorted = [...dates].sort((a, b) => (a < b ? 1 : -1));
+  select.innerHTML = sorted
+    .map((d) => `<option value="${d}">${formatDateLabel(d)}</option>`)
+    .join("");
+
+  select.addEventListener("change", () => loadDate(select.value));
+  return select;
+}
+
+async function main() {
+  let manifest;
+  try {
+    manifest = await fetchJSON("data/index.json");
+  } catch (err) {
+    showError(
+      [document.getElementById("matched-list"), document.getElementById("nhk-only-list"), document.getElementById("yahoo-only-list")],
+      err.message
+    );
+    return;
+  }
+
+  const dates = manifest.dates;
+  const today = todayInJst();
+  const defaultDate = dates.includes(today) ? today : dates[dates.length - 1];
+
+  const select = setupDatePicker(dates);
+  select.value = defaultDate;
+
+  await loadDate(defaultDate);
+}
+
+main();
