@@ -5,7 +5,8 @@ const CATEGORY_ORDER = ["政治", "経済", "社会", "国際", "災害", "ス�
 
 // ステップ5: オンデマンドAI解説(Cloudflare Worker経由)。
 // APIキーはWorker側のSecretに保持し、ここには一切含めない。
-// 下記URLは仮置き。実際のworkers.devサブドメインが確定次第、正しい値に差し替える。
+// ページ読み込み時には一切呼び出さず、各カードの「詳しく見る」ボタンが
+// クリックされた時だけWorkerを呼ぶ(=Haikuが呼ばれる)。
 const EXPLAIN_WORKER_URL = "https://daily-news-explain.matsuno04.workers.dev";
 
 async function fetchJSON(path) {
