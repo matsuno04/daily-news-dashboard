@@ -121,6 +121,35 @@ body {
   gap: 12px;
 }
 
+/* 1/2記事(NHK単独・Yahoo単独)用の高密度リスト。
+   セクション見出しでソースが分かるためタグやボタンを持たず、
+   スマホで一度に多く見られるよう1行あたりの高さを詰めている。 */
+.brief-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.brief-item {
+  border-bottom: 1px solid var(--gridline);
+}
+
+.brief-item:last-child {
+  border-bottom: none;
+}
+
+.brief-link {
+  display: block;
+  padding: 9px 2px;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.brief-link:active {
+  color: var(--text-secondary);
+}
+
 .news-card {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -149,18 +178,6 @@ body {
 .cat-6 { background: var(--cat-6); }
 .cat-7 { background: var(--cat-7); }
 .cat-8 { background: var(--cat-8); }
-
-.source-tag {
-  display: inline-block;
-  font-size: 0.72rem;
-  font-weight: 700;
-  padding: 2px 9px;
-  border-radius: 999px;
-  color: #fff;
-}
-
-.source-tag-nhk { background: var(--source-nhk); }
-.source-tag-yahoo { background: var(--source-yahoo); }
 
 .headline {
   font-size: 1.02rem;

@@ -93,26 +93,22 @@ function renderMatchedCard(summary, event) {
   return article;
 }
 
-// 1/2記事: RSSタイトルそのまま(Haiku要約なし、追加コストなし) + ソースタグ + 元記事リンク + 詳しく見るボタン
-function renderUnmatchedCard(item) {
-  const isNhk = item.source === "NHK";
-  const tagClass = isNhk ? "source-tag-nhk" : "source-tag-yahoo";
-  const linkClass = isNhk ? "source-nhk" : "source-yahoo";
-  const linkLabel = isNhk ? "NHKで読む" : "Yahoo!で読む";
+// 1/2記事: RSSタイトルそのまま(Haiku要約なし、追加コストなし)を1行リストで表示。
+// セクション見出し自体(「NHKのみ」「Yahoo!のみ」)でソースは分かるため、
+// 個別のタグや詳しく見るボタンは付けず、スマホで一度に多く見られる密度を優先する。
+function renderUnmatchedItem(item) {
+  const row = document.createElement("div");
+  row.className = "brief-item";
 
-  const article = document.createElement("article");
-  article.className = "news-card";
-  article.innerHTML = `
-    <div class="card-header">
-      <span class="source-tag ${tagClass}">${isNhk ? "NHK" : "Yahoo"}</span>
-    </div>
-    <h3 class="headline">${escapeHtml(item.title)}</h3>
-    <div class="source-links">
-      <a class="source-link ${linkClass}" href="${item.link}" target="_blank" rel="noopener">${linkLabel}</a>
-    </div>
-  `;
-  appendExplainSection(article, item.link, item.title);
-  return article;
+  const link = document.createElement("a");
+  link.className = "brief-link";
+  link.href = item.link;
+  link.target = "_blank";
+  link.rel = "noopener";
+  link.textContent = item.title;
+
+  row.appendChild(link);
+  return row;
 }
 
 function renderList(containerEl, items, renderFn, emptyMessage) {
@@ -173,8 +169,8 @@ async function loadDate(date) {
   const nhkOnly = eventsData.unmatched.filter((a) => a.source === "NHK");
   const yahooOnly = eventsData.unmatched.filter((a) => a.source === "Yahoo!ニュース");
 
-  renderList(nhkOnlyListEl, nhkOnly, renderUnmatchedCard, "この日はNHK単独の記事がありませんでした。");
-  renderList(yahooOnlyListEl, yahooOnly, renderUnmatchedCard, "この日はYahoo!単独の記事がありませんでした。");
+  renderList(nhkOnlyListEl, nhkOnly, renderUnmatchedItem, "この日はNHK単独の記事がありませんでした。");
+  renderList(yahooOnlyListEl, yahooOnly, renderUnmatchedItem, "この日はYahoo!単独の記事がありませんでした。");
 }
 
 function setupDatePicker(dates) {
@@ -231,9 +227,8 @@ async function main() {
   const matchedListEl = document.getElementById("matched-list");
   const nhkOnlyListEl = document.getElementById("nhk-only-list");
   const yahooOnlyListEl = document.getElementById("yahoo-only-list");
-  for (const el of [matchedListEl, nhkOnlyListEl, yahooOnlyListEl]) {
-    setupExplainDelegation(el);
-  }
+  // 詳しく見るボタンは2/2記事にのみ存在する(1/2記事はタイトルリンクのみ)
+  setupExplainDelegation(matchedListEl);
 
   let manifest;
   try {
