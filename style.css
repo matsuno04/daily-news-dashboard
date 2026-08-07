@@ -219,10 +219,6 @@ body {
   border-color: var(--source-yahoo);
 }
 
-.explain-row {
-  margin-top: 10px;
-}
-
 .explain-btn {
   font: inherit;
   font-size: 0.78rem;

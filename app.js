@@ -47,26 +47,22 @@ function formatDateLabel(dateStr) {
   return `${y}年${m}月${d}日(${weekday})`;
 }
 
-// 「詳しく見る」ボタン+解説表示欄を追加する。
+// 「詳しく見る」ボタンを、渡された行(actionsRow)の末尾に追加する。
+// NHK/Yahooリンクと同じ行に並べる(枠内に収まる想定 -> 収まらない端末はflex-wrapで折り返す)。
 // data属性はテンプレート文字列に埋め込まず、要素のプロパティとして直接設定する
 // (見出しに引用符が含まれる場合のHTML属性エスケープ漏れを避けるため)。
-function appendExplainSection(article, url, title) {
-  const row = document.createElement("div");
-  row.className = "explain-row";
-
+function appendExplainButton(article, actionsRow, url, title) {
   const btn = document.createElement("button");
   btn.type = "button";
   btn.className = "explain-btn";
   btn.textContent = "詳しく見る";
   btn.dataset.url = url;
   btn.dataset.title = title;
-  row.appendChild(btn);
+  actionsRow.appendChild(btn);
 
   const explanationEl = document.createElement("div");
   explanationEl.className = "explanation";
   explanationEl.hidden = true;
-
-  article.appendChild(row);
   article.appendChild(explanationEl);
 }
 
@@ -89,7 +85,8 @@ function renderMatchedCard(summary, event) {
       ${yahoo ? `<a class="source-link source-yahoo" href="${yahoo.link}" target="_blank" rel="noopener">Yahoo!で読む</a>` : ""}
     </div>
   `;
-  appendExplainSection(article, summary.representative_link, summary.representative_title);
+  const actionsRow = article.querySelector(".source-links");
+  appendExplainButton(article, actionsRow, summary.representative_link, summary.representative_title);
   return article;
 }
 
