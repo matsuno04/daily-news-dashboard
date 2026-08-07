@@ -1,0 +1,521 @@
+{
+  "date": "2026-08-07",
+  "matched_at": "2026-08-07T21:29:13.794825+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大型で非常に強い台風13号 大雨や暴風など厳重警戒【中継も】",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198521000.html",
+          "description": "大型で非常に強い台風13号はこの時間、沖縄本島地方や奄美地方に最も近づいていて、沖縄・奄美では雨風ともに強まり、レベル4危険警報が発表されている地域があります。沖縄・奄美では雨や風の影響が長引くおそれがあり、暴風や高波のほか、大雨による浸水や土砂災害などにも厳重な警戒を続けてください。",
+          "pub_date": "2026-08-07T20:44:36+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風13号 沖縄・奄美に最接近",
+          "link": "https://news.yahoo.co.jp/pickup/6590846?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T11:58:27+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "4月30日の市場介入 6兆円余 円買いとして1日あたりで過去最大",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198801000.html",
+          "description": "政府・日銀がことし4月30日に加え、大型連休中の5月4日と6日に市場介入を行ったことが分かりました。",
+          "pub_date": "2026-08-07T10:30:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "4/30に6兆円超の介入 政府・日銀",
+          "link": "https://news.yahoo.co.jp/pickup/6590832?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T09:56:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "地震被害の熊本 夜も気温下がらず 熱中症対策 揺れにも備えを",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198731000.html",
+          "description": "最大震度7の地震で大きな被害のあった熊本県は、7日も各地で猛烈な暑さとなりました。夜も気温は下がらず、熊本市の8日朝の最低気温は30度と予想されていて、熱中症対策は昼夜問わず徹底するようにしてください。また、台風13号の影響で雨が降っているところもあり、土砂災害への注意が必要です。",
+          "pub_date": "2026-08-07T18:41:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風 沖縄・奄美で暴風雨続く恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6590883?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T17:56:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6651人避難",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198921000.html",
+          "description": "今回の地震で熊本県内では8月7日午後2時の時点で、災害関連死の疑いがある人などを含めて38人が死亡し、避難所には6651人が避難しています。",
+          "pub_date": "2026-08-07T18:47:34+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "熊本地震を激甚災害に指定 政府",
+          "link": "https://news.yahoo.co.jp/pickup/6590858?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T14:00:26+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "国民民主党代表選 2人が立候補を届け出 選挙戦に",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198901000.html",
+          "description": "国民民主党の代表選挙は7日、立候補の受け付けが行われ、現職の玉木代表と当選2回の橋本幹彦衆議院議員の2人が届け出ました。来月開かれる臨時党大会で投開票が行われ、新たな代表が選出されます。",
+          "pub_date": "2026-08-07T12:32:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "国民代表選 玉木氏と橋本氏立候補",
+          "link": "https://news.yahoo.co.jp/pickup/6590859?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T13:59:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北海道 江別 強盗致死事件裁判 当時18歳被告に無期懲役の判決",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199131000.html",
+          "description": "おととし、北海道江別市の公園で男子大学生から集団で金品などを奪ったうえ、暴行を加えて死亡させた罪などに問われた当時18歳のアルバイト従業員の被告に、札幌地方裁判所は「全体を通じて終始主導し、主犯と評価するのが相当だ」として無期懲役の判決を言い渡しました。",
+          "pub_date": "2026-08-07T19:17:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "江別暴行 当時18歳に無期懲役判決",
+          "link": "https://news.yahoo.co.jp/pickup/6590860?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T13:41:53+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "イオンモール熊本 妹亡くした男性“当時の対応 丁寧に調査を”",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199501000.html",
+          "description": "熊本県嘉島町の「イオンモール熊本」で、地震のあとの爆発に巻き込まれて亡くなった、30代の女性従業員の兄がNHKの取材に応じ、「今まで当たり前にいた存在が急にいなくなってしまい、全く意識をしていない時に悲しみが襲ってきます」などと胸の内を明かしました。",
+          "pub_date": "2026-08-07T19:38:01+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "イオン爆発遺族 本当のこと言って",
+          "link": "https://news.yahoo.co.jp/pickup/6590821?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T08:09:41+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "九州新幹線 新水俣駅～鹿児島中央駅で運転再開 本数は大幅減",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198771000.html",
+      "description": "地震の影響で運転をとりやめている九州新幹線のうち、新水俣駅と鹿児島中央駅の間は7日、運転を再開しました。",
+      "pub_date": "2026-08-07T08:41:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "6月 実質消費支出 7か月連続減少 家計調査",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198791000.html",
+      "description": "総務省が発表したことし6月の家計調査で2人以上の世帯が消費に使った金額は物価の変動を除いた実質で、前の年の同じ月より3.3％減少しました。減少は7か月連続です。1世帯あたりの消費額は29万886円でした。",
+      "pub_date": "2026-08-07T08:50:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "熊本地震 3万6000戸余で断水続く 解消は今月末の見込み",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198531000.html",
+      "description": "熊本県内では、地震から10日がたつ今も3万6000戸あまりで断水が続いています。水道水を各家庭に届ける配水管の復旧作業に時間がかかっていることから、県内全域での解消は今月末までかかる見込みです。",
+      "pub_date": "2026-08-07T07:22:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イラン“船舶から料金徴収” 海運業界団体は反対",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198781000.html",
+      "description": "ホルムズ海峡をめぐって、イランが対岸のオマーンとの協議は「調整の最終段階にある」との考えを示すなか、イランメディアは船舶から料金が徴収される見通しだと伝えました。アメリカのトランプ政権はこれまで、イランが主導して管理することは容認できないという姿勢で、通航がどのような形で再開するのか、不透明な情勢です。",
+      "pub_date": "2026-08-07T09:04:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福岡県議 現職アンケート 金銭授受「うわさ聞いた」半数近く",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198861000.html",
+      "description": "福岡県議会の正副議長ポストをめぐり、金銭授受があったと指摘されている問題などについて、NHKがすべての現職の県議会議員を対象にアンケートを行った結果、金銭のやり取りについて「うわさを聞いたことがある」と答えたのは回答したうちの半数近い40人だったことが分かりました。",
+      "pub_date": "2026-08-07T15:59:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "終戦の日の首相の靖国神社参拝「自身で適切に判断」 官房長官",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199051000.html",
+      "description": "今月15日の「終戦の日」をめぐり、木原官房長官は記者会見で、高市総理大臣が靖国神社に参拝するかどうかについては、本人が適切に判断すると説明しました。",
+      "pub_date": "2026-08-07T12:59:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広陵高校野球部めぐる暴力問題 中井前監督が陳謝 広島",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199071000.html",
+      "description": "広島市の広陵高校の野球部で去年起きた暴力問題をめぐり、中井哲之前監督が記者会見し、「部の責任者として暴力を防げなかったことを深く受け止めている」と陳謝しました。",
+      "pub_date": "2026-08-07T13:19:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "熊本地震の被害を「激甚災害」に指定 自治体の復旧費用支援へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198971000.html",
+      "description": "熊本県で最大震度7を観測した今回の熊本地震について、政府は7日の持ち回り閣議で「激甚災害」に指定し、復旧にかかる自治体の費用について支援することを決めました。",
+      "pub_date": "2026-08-07T14:47:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "食料自給率 過去最低 ここにも“米騒動”の影響が【Q＆A】",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199111000.html",
+      "description": "7日発表された昨年度のカロリーベースの食料自給率は37％。2020年度などとならんで過去最低の数字です。この落ち込みにも影を落としているのが、おととし以降のコメ価格の高騰だといいます。",
+      "pub_date": "2026-08-07T15:33:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "公的年金積立金 過去最高302兆円余 令和7年度決算",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199231000.html",
+      "description": "公的年金の昨年度・令和7年度の決算がまとまり、厚生年金と国民年金の積立金の総額は、運用収益の増加や賃上げなどの影響で、過去最高の302兆円余りとなりました。",
+      "pub_date": "2026-08-07T17:14:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "土地取得ルール「届け出必要な対象拡大を」国交省の有識者会議",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199271000.html",
+      "description": "不適切な土地の利用による住民とのトラブルなどを防ぐため、国土交通省の有識者会議は土地を取得する際に届け出が必要となる対象を広げるべきなどとする提言をまとめました。",
+      "pub_date": "2026-08-07T16:31:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "悠仁さま 広島で原爆の犠牲者を慰霊",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199221000.html",
+      "description": "秋篠宮ご夫妻の長男の悠仁さまは7日、広島県を訪ね、原爆の犠牲者を慰霊されました。",
+      "pub_date": "2026-08-07T15:53:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "長野県で「記録的短時間大雨」の気象防災速報を発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199511000.html",
+      "description": "気象庁によりますと、長野県の池田町付近と松川村付近ではいずれもレーダーによる解析で午後6時10分までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨」の気象防災速報を発表し、安全を確保するよう呼びかけています。",
+      "pub_date": "2026-08-07T18:41:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "熊本地震 亡くなった3人の氏名や年齢などを県が新たに公表",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199411000.html",
+      "description": "熊本県は7日、今回の地震で亡くなった3人の氏名や年齢などを新たに公表しました。",
+      "pub_date": "2026-08-07T19:11:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199401000.html",
+      "description": "国内の主な航空会社によりますと、台風の影響で7日は沖縄県や鹿児島県の空港を発着する便を中心に、およそ470便が欠航となりました。",
+      "pub_date": "2026-08-07T17:41:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "陸自が個人情報収集か 対象者証言",
+      "link": "https://news.yahoo.co.jp/pickup/6590805?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T00:18:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性研究者支援 新制度設ける方針",
+      "link": "https://news.yahoo.co.jp/pickup/6590820?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T07:58:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "全東信破産 539億円超焦げ付くか",
+      "link": "https://news.yahoo.co.jp/pickup/6590831?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T10:07:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "月のロケット残骸衝突跡 画像公開",
+      "link": "https://news.yahoo.co.jp/pickup/6590828?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T09:26:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "歌舞伎の中村小三郎さん 書類送検",
+      "link": "https://news.yahoo.co.jp/pickup/6590825?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T09:03:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "お盆の帰省で休めない どうすれば",
+      "link": "https://news.yahoo.co.jp/pickup/6590822?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T08:16:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "UEFAがW杯ボイコット方針を継続",
+      "link": "https://news.yahoo.co.jp/pickup/6590823?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T08:35:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島が嫌いだった 86歳で初の式典",
+      "link": "https://news.yahoo.co.jp/pickup/6590842?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T11:58:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スクーターと車衝突 高校生が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590840?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T11:36:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "従業員「退職」で倒産 最多ペース",
+      "link": "https://news.yahoo.co.jp/pickup/6590833?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T10:30:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大手ボーナス増 裏側で広がる格差",
+      "link": "https://news.yahoo.co.jp/pickup/6590856?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T13:14:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西鉄の駅で不適切音声 被害届検討",
+      "link": "https://news.yahoo.co.jp/pickup/6590838?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T11:35:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "50年正体わからぬ「Wow!信号」",
+      "link": "https://news.yahoo.co.jp/pickup/6590853?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T12:20:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "競泳の本多灯が活動自粛 昨年事故",
+      "link": "https://news.yahoo.co.jp/pickup/6590854?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T12:34:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田沢湖で60代男性が溺れる 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590864?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T15:35:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国カフェが日本に続々上陸 理由",
+      "link": "https://news.yahoo.co.jp/pickup/6590848?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T14:41:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジャングリア ロイヤルチケを発売",
+      "link": "https://news.yahoo.co.jp/pickup/6590861?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T14:22:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "改憲は必要? 国会と世論に乖離も",
+      "link": "https://news.yahoo.co.jp/pickup/6590870?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:01:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国家公務員の月給3.51%増へ 勧告",
+      "link": "https://news.yahoo.co.jp/pickup/6590876?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:04:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "脳腫瘍手術で誤摘出 京大病院謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6590868?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T15:58:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイの学校で銃撃 教職員5人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590881?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:30:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京駅近く 地下シェルター整備へ",
+      "link": "https://news.yahoo.co.jp/pickup/6590862?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T14:48:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "倉持由香 子の「自閉症」告知に涙",
+      "link": "https://news.yahoo.co.jp/pickup/6590871?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T16:43:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報 立命館宇治が有明をリード",
+      "link": "https://news.yahoo.co.jp/pickup/6590880?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:19:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "13時半からなぜ3試合 甲子園2部制",
+      "link": "https://news.yahoo.co.jp/pickup/6590873?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T16:48:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "爆心地から500mで被爆 生還した父",
+      "link": "https://news.yahoo.co.jp/pickup/6590878?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:43:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鉄塔の保守作業員が死亡 熱中症か",
+      "link": "https://news.yahoo.co.jp/pickup/6590877?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:30:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ペンギン4羽死ぬ 園が死因発表",
+      "link": "https://news.yahoo.co.jp/pickup/6590882?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:40:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "有明 被災地熊本に届ける劇的勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6590891?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T18:34:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "持田香織 歌手活動より子育て優先",
+      "link": "https://news.yahoo.co.jp/pickup/6590889?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T18:47:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くりぃむ所属事務所 熊本に寄付",
+      "link": "https://news.yahoo.co.jp/pickup/6590892?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T19:09:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "穴にショベルカー転落 運転手死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590893?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T19:28:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風15号 来週に東・北日本接近か",
+      "link": "https://news.yahoo.co.jp/pickup/6590888?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T20:58:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "81年前 6歳の私かばい死んだ祖母",
+      "link": "https://news.yahoo.co.jp/pickup/6590895?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T20:03:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「家族いる」前提の世間 抱く不安",
+      "link": "https://news.yahoo.co.jp/pickup/6590896?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T20:30:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生成AIが新ウイルス設計 米研究",
+      "link": "https://news.yahoo.co.jp/pickup/6590898?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T20:40:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元K-1王者 久保優太が再婚を報告",
+      "link": "https://news.yahoo.co.jp/pickup/6590900?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T20:49:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "レインボー池田&佐藤佳奈アナ結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6590897?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T20:20:25+09:00"
+    }
+  ]
+}
