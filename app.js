@@ -3,6 +3,11 @@
 // daily-news-digest側からの自動連携(ステップ6)で、新しい日付が追記されていく想定。
 const CATEGORY_ORDER = ["政治", "経済", "社会", "国際", "災害", "スポーツ", "エンタメ", "その他"];
 
+// ステップ5: オンデマンドAI解説(Cloudflare Worker経由)。
+// APIキーはWorker側のSecretに保持し、ここには一切含めない。
+// 下記URLは仮置き。実際のworkers.devサブドメインが確定次第、正しい値に差し替える。
+const EXPLAIN_WORKER_URL = "https://daily-news-explain.matsuno04.workers.dev";
+
 async function fetchJSON(path) {
   const res = await fetch(path);
   if (!res.ok) {
@@ -41,7 +46,31 @@ function formatDateLabel(dateStr) {
   return `${y}年${m}月${d}日(${weekday})`;
 }
 
-// 2/2記事: Haiku要約(headline/summary/category) + 両ソースへのリンク
+// 「詳しく見る」ボタン+解説表示欄を追加する。
+// data属性はテンプレート文字列に埋め込まず、要素のプロパティとして直接設定する
+// (見出しに引用符が含まれる場合のHTML属性エスケープ漏れを避けるため)。
+function appendExplainSection(article, url, title) {
+  const row = document.createElement("div");
+  row.className = "explain-row";
+
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "explain-btn";
+  btn.textContent = "詳しく見る";
+  btn.dataset.url = url;
+  btn.dataset.title = title;
+  row.appendChild(btn);
+
+  const explanationEl = document.createElement("div");
+  explanationEl.className = "explanation";
+  explanationEl.hidden = true;
+
+  article.appendChild(row);
+  article.appendChild(explanationEl);
+}
+
+// 2/2記事: Haiku要約(headline/summary/category) + 両ソースへのリンク + 詳しく見るボタン
+// (詳しく見るボタンは代表記事のリンクを使う。要約生成時と同じ記事)
 function renderMatchedCard(summary, event) {
   const nhk = event.sources["NHK"];
   const yahoo = event.sources["Yahoo!ニュース"];
@@ -59,10 +88,11 @@ function renderMatchedCard(summary, event) {
       ${yahoo ? `<a class="source-link source-yahoo" href="${yahoo.link}" target="_blank" rel="noopener">Yahoo!で読む</a>` : ""}
     </div>
   `;
+  appendExplainSection(article, summary.representative_link, summary.representative_title);
   return article;
 }
 
-// 1/2記事: RSSタイトルそのまま(Haiku要約なし、追加コストなし) + ソースタグ + 元記事リンク
+// 1/2記事: RSSタイトルそのまま(Haiku要約なし、追加コストなし) + ソースタグ + 元記事リンク + 詳しく見るボタン
 function renderUnmatchedCard(item) {
   const isNhk = item.source === "NHK";
   const tagClass = isNhk ? "source-tag-nhk" : "source-tag-yahoo";
@@ -80,6 +110,7 @@ function renderUnmatchedCard(item) {
       <a class="source-link ${linkClass}" href="${item.link}" target="_blank" rel="noopener">${linkLabel}</a>
     </div>
   `;
+  appendExplainSection(article, item.link, item.title);
   return article;
 }
 
@@ -157,15 +188,57 @@ function setupDatePicker(dates) {
   return select;
 }
 
+// 「詳しく見る」ボタンのクリックをコンテナ単位で一括処理する(イベント委任)。
+// renderList()がcontainerEl.innerHTMLを日付切替のたびに差し替えるため、
+// リスナーはコンテナに1回だけ登録すれば、再描画後のボタンにも効く。
+async function handleExplainClick(btn) {
+  const { url, title } = btn.dataset;
+  const explanationEl = btn.closest(".news-card").querySelector(".explanation");
+
+  btn.disabled = true;
+  btn.textContent = "解説を生成中…";
+  explanationEl.hidden = false;
+  explanationEl.innerHTML = `<p class="loading">読み込み中…</p>`;
+
+  try {
+    const res = await fetch(EXPLAIN_WORKER_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ url, title }),
+    });
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok || data.error) {
+      throw new Error(data.error || `HTTP ${res.status}`);
+    }
+    explanationEl.innerHTML = `<p class="explanation-text">${escapeHtml(data.explanation)}</p>`;
+    btn.remove(); // 取得済みの記事に再度リクエストされないようボタン自体を消す
+  } catch (err) {
+    explanationEl.innerHTML = `<p class="error">解説の取得に失敗しました: ${escapeHtml(err.message)}</p>`;
+    btn.disabled = false;
+    btn.textContent = "詳しく見る";
+  }
+}
+
+function setupExplainDelegation(containerEl) {
+  containerEl.addEventListener("click", (e) => {
+    const btn = e.target.closest(".explain-btn");
+    if (btn) handleExplainClick(btn);
+  });
+}
+
 async function main() {
+  const matchedListEl = document.getElementById("matched-list");
+  const nhkOnlyListEl = document.getElementById("nhk-only-list");
+  const yahooOnlyListEl = document.getElementById("yahoo-only-list");
+  for (const el of [matchedListEl, nhkOnlyListEl, yahooOnlyListEl]) {
+    setupExplainDelegation(el);
+  }
+
   let manifest;
   try {
     manifest = await fetchJSON("data/index.json");
   } catch (err) {
-    showError(
-      [document.getElementById("matched-list"), document.getElementById("nhk-only-list"), document.getElementById("yahoo-only-list")],
-      err.message
-    );
+    showError([matchedListEl, nhkOnlyListEl, yahooOnlyListEl], err.message);
     return;
   }
 
