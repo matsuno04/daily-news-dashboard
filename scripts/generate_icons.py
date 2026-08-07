@@ -1,13 +1,12 @@
 """PWA用アイコンを生成する(1回限りの手作業スクリプト、CIには組み込まない)。
 
-デザイン: ブランドカラー(#2a78d6、datavizパレットのcat-1/source-nhkと同じ青)の
-角丸背景に、白い「紙面」+見出し線+本文線のシンプルな新聞アイコン。
-白い紙面のまわりに青い余白を広めに取り、圧迫感のない見た目にしている
+デザイン: 紺色の角丸背景に、白い「紙面」+見出し線+本文線のシンプルな新聞アイコン。
+白い紙面のまわりに紺の余白を広めに取り、圧迫感のない見た目にしている
 (maskable用の安全余白としても機能する: OSの円形マスクで切れない)。
 """
 from PIL import Image, ImageDraw
 
-BRAND = (42, 120, 214)  # #2a78d6
+BRAND = (26, 42, 74)  # #1a2a4a (紺)
 WHITE = (255, 255, 255)
 
 
@@ -15,7 +14,7 @@ def rounded_rect(draw, box, radius, fill):
     draw.rounded_rectangle(box, radius=radius, fill=fill)
 
 
-def make_icon(size, out_path, safe_margin_ratio=0.22):
+def make_icon(size, out_path, safe_margin_ratio=0.30):
     img = Image.new("RGBA", (size, size), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
 
@@ -52,5 +51,5 @@ def make_icon(size, out_path, safe_margin_ratio=0.22):
 if __name__ == "__main__":
     make_icon(512, "icons/icon-512.png")
     make_icon(192, "icons/icon-192.png")
-    make_icon(180, "icons/apple-touch-icon.png", safe_margin_ratio=0.18)
-    make_icon(32, "favicon.png", safe_margin_ratio=0.16)
+    make_icon(180, "icons/apple-touch-icon.png", safe_margin_ratio=0.26)
+    make_icon(32, "favicon.png", safe_margin_ratio=0.22)
