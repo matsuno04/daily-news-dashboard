@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "matched_at": "2026-08-07T21:29:13.794825+09:00",
+  "matched_at": "2026-08-07T22:57:33.248582+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -12,8 +12,8 @@
           "source": "NHK",
           "title": "大型で非常に強い台風13号 大雨や暴風など厳重警戒【中継も】",
           "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198521000.html",
-          "description": "大型で非常に強い台風13号はこの時間、沖縄本島地方や奄美地方に最も近づいていて、沖縄・奄美では雨風ともに強まり、レベル4危険警報が発表されている地域があります。沖縄・奄美では雨や風の影響が長引くおそれがあり、暴風や高波のほか、大雨による浸水や土砂災害などにも厳重な警戒を続けてください。",
-          "pub_date": "2026-08-07T20:44:36+09:00"
+          "description": "大型で非常に強い台風13号は、7日になって再び勢力を強め、沖縄本島地方や奄美地方では大雨となってレベル4の危険警報が発表されている地域があります。沖縄・奄美では雨や風の影響を長時間受けていて、暴風や高波のほか、大雨による浸水や土砂災害などにも厳重な警戒を続けてください。",
+          "pub_date": "2026-08-07T22:37:03+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -50,30 +50,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "地震被害の熊本 夜も気温下がらず 熱中症対策 揺れにも備えを",
-          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198731000.html",
-          "description": "最大震度7の地震で大きな被害のあった熊本県は、7日も各地で猛烈な暑さとなりました。夜も気温は下がらず、熊本市の8日朝の最低気温は30度と予想されていて、熱中症対策は昼夜問わず徹底するようにしてください。また、台風13号の影響で雨が降っているところもあり、土砂災害への注意が必要です。",
-          "pub_date": "2026-08-07T18:41:47+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "台風 沖縄・奄美で暴風雨続く恐れ",
-          "link": "https://news.yahoo.co.jp/pickup/6590883?source=rss",
-          "description": "",
-          "pub_date": "2026-08-07T17:56:36+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0004",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6651人避難",
+          "title": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6630人避難",
           "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198921000.html",
-          "description": "今回の地震で熊本県内では8月7日午後2時の時点で、災害関連死の疑いがある人などを含めて38人が死亡し、避難所には6651人が避難しています。",
-          "pub_date": "2026-08-07T18:47:34+09:00"
+          "description": "熊本県内では今回の地震で、7日午後6時の時点で災害関連死の疑いがある人などを含めて38人が死亡し、避難所には6630人が避難しています。",
+          "pub_date": "2026-08-07T21:31:17+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -85,7 +65,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0004",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,7 +85,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -125,7 +105,7 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -141,6 +121,26 @@
           "link": "https://news.yahoo.co.jp/pickup/6590821?source=rss",
           "description": "",
           "pub_date": "2026-08-07T08:09:41+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "税務職員が高齢女性から約1億5000万円受け取り競艇 懲戒免職に",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199381000.html",
+          "description": "茨城県の税務署の職員が税務調査で知り合った高齢の女性からおよそ1億5000万円を受け取って競艇につぎ込んだうえ、脱税していたとして、関東信越国税局は懲戒免職の処分にしました。",
+          "pub_date": "2026-08-07T21:49:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "国税不祥事 前例ない事態に危機感",
+          "link": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
+          "description": "",
+          "pub_date": "2026-08-07T21:34:50+09:00"
         }
       }
     }
@@ -159,6 +159,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198791000.html",
       "description": "総務省が発表したことし6月の家計調査で2人以上の世帯が消費に使った金額は物価の変動を除いた実質で、前の年の同じ月より3.3％減少しました。減少は7か月連続です。1世帯あたりの消費額は29万886円でした。",
       "pub_date": "2026-08-07T08:50:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "地震被害の熊本 夜も気温下がらず 熱中症対策 揺れにも備えを",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198731000.html",
+      "description": "最大震度7の地震で大きな被害のあった熊本県は、7日も各地で猛烈な暑さとなりました。夜も気温は下がらず、熊本市の8日朝の最低気温は30度と予想されていて、熱中症対策は昼夜問わず徹底するようにしてください。また、台風13号の影響で雨が降っているところもあり、土砂災害への注意が必要です。",
+      "pub_date": "2026-08-07T18:41:47+09:00"
     },
     {
       "source": "NHK",
@@ -250,6 +257,13 @@
       "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199401000.html",
       "description": "国内の主な航空会社によりますと、台風の影響で7日は沖縄県や鹿児島県の空港を発着する便を中心に、およそ470便が欠航となりました。",
       "pub_date": "2026-08-07T17:41:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "悠仁さま ボーイスカウト大会でテントを設営",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199491000.html",
+      "description": "秋篠宮ご夫妻の長男の悠仁さまは、広島県で行われている国内最大級のボーイスカウトのキャンプ大会に参加し、自身が泊まるテントを設営されました。",
+      "pub_date": "2026-08-07T20:11:41+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -435,6 +449,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "台風 沖縄・奄美で暴風雨続く恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6590883?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T17:56:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "鉄塔の保守作業員が死亡 熱中症か",
       "link": "https://news.yahoo.co.jp/pickup/6590877?source=rss",
       "description": "",
@@ -516,6 +537,48 @@
       "link": "https://news.yahoo.co.jp/pickup/6590897?source=rss",
       "description": "",
       "pub_date": "2026-08-07T20:20:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "四国新幹線 調査対象路線に国選定",
+      "link": "https://news.yahoo.co.jp/pickup/6590913?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T22:21:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "脳一部を誤摘出され 自発呼吸不能",
+      "link": "https://news.yahoo.co.jp/pickup/6590906?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T21:31:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「墓じまい」が急増 墓石はどこへ",
+      "link": "https://news.yahoo.co.jp/pickup/6590899?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T21:05:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ナイン鼓舞した バイキング・ロー",
+      "link": "https://news.yahoo.co.jp/pickup/6590914?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T22:30:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "8回に球場騒然 オリが3死球受ける",
+      "link": "https://news.yahoo.co.jp/pickup/6590903?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T21:22:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "レインボー池田結婚 コント内発表",
+      "link": "https://news.yahoo.co.jp/pickup/6590910?source=rss",
+      "description": "",
+      "pub_date": "2026-08-07T22:43:42+09:00"
     }
   ]
 }
