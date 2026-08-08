@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-08",
+  "summarized_at": "2026-08-08T22:30:38.005471+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "summaries": [
+    {
+      "event_id": "evt-0001",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "台風13号 沖縄など影響長引く恐れ",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6590923?source=rss",
+      "body_excerpt": "台風13号 沖縄など影響長引く恐れ8/8(土) 7:34tenki.jp非常に強い台風13号 沖縄・奄美で影響長引く 土砂災害や暴風・高波に厳重な警戒をtenki.jp71解説コメント71件大型で非常に強い台風13号は、午前6時現在久米島付近を南にゆっくりとした速度で進んでいます。速度が遅いため、沖縄では影響が長引く恐れがあります。引き続きうねりを伴った高波、低い土地の浸水、川の増水や氾濫、高潮に厳重な警戒が必要です。記事全文を読む",
+      "headline": "台風13号、沖縄・奄美で影響長引く",
+      "summary": "大型で非常に強い台風13号は久米島付近をゆっくり進んでおり、速度が遅いため沖縄では影響が長引く恐れがある。土砂災害、暴風、高波、浸水、川の増水・氾濫、高潮に厳重な警戒が必要。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0002",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "韓国 竹島周辺の日本EEZで調査か",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6590949?source=rss",
+      "body_excerpt": "韓国 竹島周辺の日本EEZで調査か8/8(土) 10:35共同通信韓国船、竹島周辺で調査か 日本EEZ、外務省抗議共同通信558解説コメント558件外務省は7日、島根県・竹島周辺の日本の排他的経済水域（EEZ）で、韓国の調査船がワイヤのようなものを海中に投入しているのを確認し、強く抗議したと発表した。外務省によると、調査について韓国側から事前の同意の申請はなかった。記事全文を読む",
+      "headline": "韓国船が竹島周辺の日本EEZで調査、外務省が抗議",
+      "summary": "外務省は7日、島根県・竹島周辺の日本EEZで韓国の調査船がワイヤのようなものを海中に投入しているのを確認し、強く抗議した。韓国側から事前の同意申請はなかった。",
+      "category": "国際"
+    },
+    {
+      "event_id": "evt-0003",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "熊本地震の死者39人に 県発表",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6590952?source=rss",
+      "body_excerpt": "熊本地震の死者39人に 県発表8/8(土) 11:21熊本ニュース KAB ONLINE令和8年熊本地震【速報】熊本地震による死者39人に 熊本県熊本ニュース KAB ONLINE76コメント76件熊本県は8日、熊本地震による死者が39人になったと明らかにしました。記事全文を読む",
+      "headline": "熊本地震の死者39人に",
+      "summary": "熊本県は8日、熊本地震による死者が39人になったと発表した。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0004",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "男性2人溺れ1人心肺停止 海水浴場",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
+      "body_excerpt": "男性2人溺れ1人心肺停止 海水浴場8/8(土) 14:43【速報】60代くらいの男性2人が溺れ1人が心肺停止 千葉県南房総市の海水浴場TBS NEWS DIG Powered by JNN119コメント119件きょう午前、千葉県南房総市の海水浴場で60代くらいの男性2人が溺れ、1人が心肺停止となっています。記事全文を読む",
+      "headline": "男性2人溺れ1人心肺停止 千葉の海水浴場",
+      "summary": "千葉県南房総市の海水浴場で8月8日午前、60代くらいの男性2人が溺れ、1人が心肺停止となった。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0005",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "韓国サッカー 海外審判に性接待か",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6590919?source=rss",
+      "body_excerpt": "韓国サッカー 海外審判に性接待か8/8(土) 7:25TBS NEWS DIG Powered by JNN韓国サッカー協会 外国人審判に“性接待” W杯や五輪の予選、2011年から約1年間で10人余に対し JNN報告書入手TBS NEWS DIG Powered by JNN4473解説コメント4473件韓国のサッカー協会が2010年代のワールドカップ予選などの試合の前後に、外国人の審判員らに対し、性的な接待を行っていたとする報告書をJNNが入手しました。記事全文を読む",
+      "headline": "韓国サッカー協会、外国人審判に性接待",
+      "summary": "韓国サッカー協会が2011年から約1年間で、ワールドカップや五輪の予選試合の前後に外国人審判員10人余りに対し性的な接待を行っていたとする報告書をJNNが入手した。",
+      "category": "スポーツ"
+    },
+    {
+      "event_id": "evt-0006",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "ラグビー九電選手急死 熱中症搬送",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6591006?source=rss",
+      "body_excerpt": "ラグビー九電選手急死 熱中症搬送\n【ラグビー】26歳ロックが急死「熱中症で搬送」２部九州で練習中、大東大から昨季まで東京SG\n日刊スポーツ\nラグビー・リーグワン2部の九州電力キューデンヴォルテクスは8日、ロックのサイモニ・ヴニランギさん（26）が前日7日の午前に、福岡市内の病院で亡くなったと発表した。3日のチーム練習後に熱中症の症状が見られ、病院へ搬送されていたという。",
+      "headline": "ラグビー九電選手が熱中症で急死",
+      "summary": "ラグビー・リーグワン2部の九州電力キューデンヴォルテクスのロック、サイモニ・ヴニランギさん（26）が7日に亡くなった。3日のチーム練習後に熱中症の症状が見られ、病院に搬送されていた。",
+      "category": "スポーツ"
+    }
+  ],
+  "failed_event_ids": []
+}

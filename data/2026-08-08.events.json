@@ -1,0 +1,676 @@
+{
+  "date": "2026-08-08",
+  "matched_at": "2026-08-08T22:30:34.787343+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+          "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
+          "description": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
+          "pub_date": "2026-08-08T21:54:30+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風13号 沖縄など影響長引く恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6590923?source=rss",
+          "description": "",
+          "pub_date": "2026-08-08T07:34:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "韓国調査船が竹島周辺EEZ内で海洋調査か 日本政府が抗議",
+          "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199831000.html",
+          "description": "島根県の竹島西方の日本の排他的経済水域内で、韓国の調査船が日本側の同意を得ずに海洋調査とみられる活動を行っていることが確認され、政府は外交ルートを通じて韓国側に強く抗議しました。",
+          "pub_date": "2026-08-08T01:43:08+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "韓国 竹島周辺の日本EEZで調査か",
+          "link": "https://news.yahoo.co.jp/pickup/6590949?source=rss",
+          "description": "",
+          "pub_date": "2026-08-08T10:35:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
+          "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199981000.html",
+          "description": "熊本県は8日午後2時の時点で、今回の地震による死者はあわせて39人と発表しました。この中には災害関連死の疑いがある1人と死亡した経緯などを詳しく調査している2人が含まれています。また、避難所には6355人が避難しています。",
+          "pub_date": "2026-08-08T19:08:46+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "熊本地震の死者39人に 県発表",
+          "link": "https://news.yahoo.co.jp/pickup/6590952?source=rss",
+          "description": "",
+          "pub_date": "2026-08-08T11:21:27+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "千葉 南房総 海水浴場で男性2人が溺れる このうち1人意識なし",
+          "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200141000.html",
+          "description": "8日午前、千葉県南房総市の海水浴場で男性2人が溺れ、このうち60代の1人が意識がない状態で病院に搬送されました。",
+          "pub_date": "2026-08-08T13:56:52+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "男性2人溺れ1人心肺停止 海水浴場",
+          "link": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
+          "description": "",
+          "pub_date": "2026-08-08T14:43:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+          "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html",
+          "description": "韓国のサッカー協会が、代表チームの国際試合を担当した日本を含む外国の審判員などに「性的な接待を行っていた」と複数のメディアが伝え、協会は8日、組織運営に批判が高まっていることなどを含め、一連の騒動を謝罪しました。",
+          "pub_date": "2026-08-08T18:38:23+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "韓国サッカー 海外審判に性接待か",
+          "link": "https://news.yahoo.co.jp/pickup/6590919?source=rss",
+          "description": "",
+          "pub_date": "2026-08-08T07:25:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+          "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
+          "description": "ラグビーリーグワンの2部にあたるディビジョン2の「九州電力キューデンヴォルテクス」は、チームに所属するサイモニ・ヴニランギ選手が熱中症の疑いで病院に搬送され、その後、死亡したと発表しました。",
+          "pub_date": "2026-08-08T20:29:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ラグビー九電選手急死 熱中症搬送",
+          "link": "https://news.yahoo.co.jp/pickup/6591006?source=rss",
+          "description": "",
+          "pub_date": "2026-08-08T18:10:32+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "熊本 各地で厳しい暑さ熱中症対策徹底 揺れにも備えを",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199781000.html",
+      "description": "最大震度7の地震で大きな被害のあった熊本県では8日も午前中から厳しい暑さとなっています。午後も気温が上がる見込みで水分をこまめにとるなどできるかぎりの熱中症対策を続けてください。また、風がやや強い状態が続くとともに、局地的に雷雨となるおそれもあり強風や急な強い雨に注意が必要です。",
+      "pub_date": "2026-08-08T12:17:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台湾軍 中国による侵攻を想定した大規模演習を公開",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199791000.html",
+      "description": "台湾で、中国による侵攻に備えて、年に一度の大規模な軍事演習が行われ、兵士らが実戦を想定して対応を確認しました。",
+      "pub_date": "2026-08-08T01:02:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "お盆休みで下りの混雑ピーク 高速道路や新幹線は",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199951000.html",
+      "description": "お盆休みをふるさとや行楽地で過ごす人たちの混雑は、8日がピークです。新幹線の下りでは多くの列車が満席となったほか、高速道路も各地で渋滞が発生しています。",
+      "pub_date": "2026-08-08T19:49:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199861000.html",
+      "description": "アメリカの有力紙は、ロシアが数年以内にNATO＝北大西洋条約機構の加盟国に限定的な地上侵攻を仕掛ける可能性があると、アメリカの情報機関が分析していると伝えました。",
+      "pub_date": "2026-08-08T10:19:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199941000.html",
+      "description": "秋篠宮ご夫妻の長男の悠仁さまは、広島県で行われているボーイスカウトのキャンプ大会で、朝食の豚汁作りや木製のコースター作りを体験されました。",
+      "pub_date": "2026-08-08T11:21:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 FRBクック理事に“解任検討”を再び通知 報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199921000.html",
+      "description": "アメリカのトランプ大統領は、金融政策を決める会合を開くFRB＝連邦準備制度理事会のクック理事に対し、解任を検討していることを再び通知したと欧米メディアが伝えました。",
+      "pub_date": "2026-08-08T09:14:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高校野球 青森山田が遊学館に競り勝ち2回戦へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199911000.html",
+      "description": "夏の全国高校野球、大会4日目の第1試合は、先に6点をリードした青森山田高校が、石川の遊学館高校の追い上げを振り切って6対5で勝ち、2回戦に進みました。",
+      "pub_date": "2026-08-08T14:13:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "地震被害の熊本 氷川町でボランティアが活動開始",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200101000.html",
+      "description": "今回の地震で大きな被害を受けた熊本県氷川町では、8日からボランティアの活動が始まり、被災した住宅の片づけなどにあたっています。",
+      "pub_date": "2026-08-08T13:15:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高校野球 初出場の東日大昌平が白樺学園に競り勝ち2回戦へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200171000.html",
+      "description": "夏の全国高校野球、大会4日目の第2試合は、初出場、福島の東日本国際大昌平高校が、北北海道の白樺学園に2対1で競り勝って、2回戦に進みました。",
+      "pub_date": "2026-08-08T16:26:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大気不安定 新潟 岩手 青森 富山に記録的短時間大雨 厳重警戒",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
+      "description": "北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、局地的に雨雲が発達しています。富山県では1時間に100ミリ以上の猛烈な雨が降り、「記録的短時間大雨」の気象防災速報が発表されました。土砂災害や川の増水・氾濫などに厳重な警戒が必要です。",
+      "pub_date": "2026-08-08T21:12:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+      "description": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー攻撃を実行するおそれが排除できないとしています。",
+      "pub_date": "2026-08-08T15:10:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高校野球 夏の甲子園 大分商が日本文理に逆転勝ち 2回戦へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200251000.html",
+      "description": "夏の全国高校野球、大会4日目の第3試合は、大分商業が新潟の日本文理高校に6対4で逆転勝ちして、2回戦に進みました。",
+      "pub_date": "2026-08-08T18:53:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
+      "description": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残っているところがあるとして、専門家は「いつかは分からないが、今後、地震を引き起こす可能性もあるため、注意が必要だ」と指摘しています。",
+      "pub_date": "2026-08-08T20:53:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ラグビー日本代表 3点及ばず テストマッチで豪州に競り負ける",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200361000.html",
+      "description": "ラグビー日本代表は8日夜、大阪で行われたテストマッチで来年のワールドカップの開催国のオーストラリア代表と対戦し、32対35で競り負けました。",
+      "pub_date": "2026-08-08T21:59:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
+      "description": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせました。",
+      "pub_date": "2026-08-08T20:55:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イオンの従業員誘導 規定に抵触か",
+      "link": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T07:26:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オープンAI 対話スピーカー発売か",
+      "link": "https://news.yahoo.co.jp/pickup/6590926?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T07:49:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「サ終」続くスマホゲーム 倒産増",
+      "link": "https://news.yahoo.co.jp/pickup/6590925?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T07:47:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長友佑都39歳 現役続行を決断",
+      "link": "https://news.yahoo.co.jp/pickup/6590924?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T07:29:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本郵便で障害 一部で受け取れず",
+      "link": "https://news.yahoo.co.jp/pickup/6590928?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T08:00:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "外国人受け入れ反対増加 東大調査",
+      "link": "https://news.yahoo.co.jp/pickup/6590929?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T08:05:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "53歳男性が死亡 ひき逃げの疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6590934?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T08:39:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "圧巻パフォの16歳 森保監督が絶賛",
+      "link": "https://news.yahoo.co.jp/pickup/6590933?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T08:42:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政権の積極財政「日本売り」危機",
+      "link": "https://news.yahoo.co.jp/pickup/6590927?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T08:12:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "野球部員死亡 別CT画像で診察か",
+      "link": "https://news.yahoo.co.jp/pickup/6590937?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T09:13:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "年収600万円 高速バスWILLER狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6590936?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T08:54:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報ドジャース 佐々木朗希が先発",
+      "link": "https://news.yahoo.co.jp/pickup/6590947?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T10:32:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上宗隆6試合ぶり25号 特大ソロ",
+      "link": "https://news.yahoo.co.jp/pickup/6590953?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T11:07:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岸田タツヤ&高木由梨奈 妊娠発表",
+      "link": "https://news.yahoo.co.jp/pickup/6590940?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T09:24:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "無理に学校行かせ被爆死 母は自責",
+      "link": "https://news.yahoo.co.jp/pickup/6590957?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T11:48:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風15号 11-12日接近・上陸恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6590959?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T12:02:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本のマヨネーズ 世界でなぜ人気",
+      "link": "https://news.yahoo.co.jp/pickup/6590943?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T10:08:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "名前ドラえもん16人 インドネシア",
+      "link": "https://news.yahoo.co.jp/pickup/6590941?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T09:40:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報 Dバックスvs.ドジャース",
+      "link": "https://news.yahoo.co.jp/pickup/6590963?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T12:41:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "及川光博が再婚 お相手は妊娠",
+      "link": "https://news.yahoo.co.jp/pickup/6590956?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T11:50:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "声優の衣川里佳 結婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6590961?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T12:23:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市首相 人事で旧安倍派重用か",
+      "link": "https://news.yahoo.co.jp/pickup/6590962?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T13:03:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高速道で何度も追突され 一部始終",
+      "link": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T10:59:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "令和8年8月8日 婚姻届窓口に行列",
+      "link": "https://news.yahoo.co.jp/pickup/6590958?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T12:18:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国サッカー 性接待疑惑の今後は",
+      "link": "https://news.yahoo.co.jp/pickup/6590968?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T13:26:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スノボHP冨田せな 結婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6590970?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T13:42:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ミッチー再婚 芸能界50代パパ続々",
+      "link": "https://news.yahoo.co.jp/pickup/6590972?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T14:06:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自民党「萩生田幹事長」案が浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6590982?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T15:01:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏「大統領ビジネス」増",
+      "link": "https://news.yahoo.co.jp/pickup/6590964?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T13:13:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "琵琶湖「花火大会」3市が関与否定",
+      "link": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T14:08:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄で子豚の落とし物 一時預かり",
+      "link": "https://news.yahoo.co.jp/pickup/6590974?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T14:29:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風13号 沖縄で転倒など5人けが",
+      "link": "https://news.yahoo.co.jp/pickup/6590977?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T14:39:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新潟県中越 線状降水帯発生の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6590987?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T15:48:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "認知症の林家パー子 支える夫ペー",
+      "link": "https://news.yahoo.co.jp/pickup/6590989?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T16:07:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "音楽P・蔦谷好位置氏 離婚を公表",
+      "link": "https://news.yahoo.co.jp/pickup/6590984?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T15:27:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "被爆81年 語り部再開を目指す99歳",
+      "link": "https://news.yahoo.co.jp/pickup/6590978?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T14:48:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイの学校銃撃疑い14歳 計画的か",
+      "link": "https://news.yahoo.co.jp/pickup/6590992?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T16:25:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "テーマパーク値上げ 30施設超に",
+      "link": "https://news.yahoo.co.jp/pickup/6590991?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T16:27:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不祥事受け 大韓サッカー協会謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6590997?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T17:02:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今村聖奈が入場後に落馬 両足負傷",
+      "link": "https://news.yahoo.co.jp/pickup/6590995?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T16:51:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "吉木りさ いじめ被害を今明かす訳",
+      "link": "https://news.yahoo.co.jp/pickup/6590994?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T16:38:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子を産む不安 「家族留学」で変化",
+      "link": "https://news.yahoo.co.jp/pickup/6591007?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T18:03:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "工事中転落か 建築会社社長が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590998?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T17:04:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "俳優・戸塚純貴が結婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6591004?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T17:47:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "馬場園 コンビ解散で直面した現実",
+      "link": "https://news.yahoo.co.jp/pickup/6591003?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T17:33:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "前回地震の教訓 生きた熊本赤十字",
+      "link": "https://news.yahoo.co.jp/pickup/6590983?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T15:13:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2歳がん診断 希望の薬は5500万円",
+      "link": "https://news.yahoo.co.jp/pickup/6591002?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T18:14:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サーフィン中に溺れ 46歳男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6591010?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T18:53:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報甲子園 関東第一vs.英明",
+      "link": "https://news.yahoo.co.jp/pickup/6591008?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T18:48:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風15号 11-12日に東北上陸恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591011?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T19:16:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "避難で留守の家から窃盗疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6591015?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T19:51:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長友の現役続行 妻・愛梨が後押し",
+      "link": "https://news.yahoo.co.jp/pickup/6591012?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T19:17:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "令和8年8月8日 芸能界で吉報続々",
+      "link": "https://news.yahoo.co.jp/pickup/6591009?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T18:47:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露軍がウ首都や周辺攻撃 4人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6591019?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T20:25:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英明が初戦突破 関東第一に勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6591020?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T20:42:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄で語り部 被爆体験訴える理由",
+      "link": "https://news.yahoo.co.jp/pickup/6591018?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T20:29:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "夏休みに被災 ストレス感じる子も",
+      "link": "https://news.yahoo.co.jp/pickup/6591001?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T17:34:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "19歳不明 単独1泊2日予定で入山",
+      "link": "https://news.yahoo.co.jp/pickup/6591028?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T22:13:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "男性死亡 ひき逃げ疑いで女を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6591021?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T20:56:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ブドウ200房窃盗疑い 販売目的か",
+      "link": "https://news.yahoo.co.jp/pickup/6591025?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T21:46:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "志茂田景樹さん「要介護5」の今",
+      "link": "https://news.yahoo.co.jp/pickup/6591022?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T21:19:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長友 去就発表前の報道に苦笑い",
+      "link": "https://news.yahoo.co.jp/pickup/6591023?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T21:13:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戸塚純貴 年下の一般女性と結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6591013?source=rss",
+      "description": "",
+      "pub_date": "2026-08-08T20:33:33+09:00"
+    }
+  ]
+}
