@@ -1,0 +1,415 @@
+{
+  "date": "2026-08-10",
+  "matched_at": "2026-08-10T23:04:25.921333+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 11日に東北～関東に上陸恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591141?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T06:41:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自衛隊の指揮統制に国産AI 検討",
+      "link": "https://news.yahoo.co.jp/pickup/6591140?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T06:29:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不同意性交の認知件数 増加傾向",
+      "link": "https://news.yahoo.co.jp/pickup/6591146?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T07:38:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI「暴走」自律的攻撃に米危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6591142?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T07:17:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元中日・SB又吉克樹が現役引退へ",
+      "link": "https://news.yahoo.co.jp/pickup/6591139?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T06:14:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐藤佳奈アナ 古巣で結婚生報告",
+      "link": "https://news.yahoo.co.jp/pickup/6591143?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T07:19:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "身寄りのない死 膨らむ公費負担",
+      "link": "https://news.yahoo.co.jp/pickup/6591147?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T07:49:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "家電激戦池袋 ヨドバシが狙う商圏",
+      "link": "https://news.yahoo.co.jp/pickup/6591148?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T08:02:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヌートバー 朗希らに自分対策聞く",
+      "link": "https://news.yahoo.co.jp/pickup/6591152?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T08:32:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "解散した天竺鼠 なぜKOC異例出場",
+      "link": "https://news.yahoo.co.jp/pickup/6591153?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T08:48:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画「踊る」豪華声優陣が集結",
+      "link": "https://news.yahoo.co.jp/pickup/6591150?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T08:13:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "便乗犯罪 熊本の被災者に追い打ち",
+      "link": "https://news.yahoo.co.jp/pickup/6591156?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T09:13:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高速のバイク事故 時間や区間分析",
+      "link": "https://news.yahoo.co.jp/pickup/6591164?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T10:44:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "検事から「反社」 法廷で映像再生",
+      "link": "https://news.yahoo.co.jp/pickup/6591168?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T11:18:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NY自由の女神観光で転覆 2人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6591161?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T09:58:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "祖父の愛車を継承 奇跡のケンメリ",
+      "link": "https://news.yahoo.co.jp/pickup/6591160?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T10:06:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "馬淵監督 もう何年もやる気はない",
+      "link": "https://news.yahoo.co.jp/pickup/6591170?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T11:29:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "河村勇輝 NBAクリッパーズと契約",
+      "link": "https://news.yahoo.co.jp/pickup/6591166?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T11:19:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ミセス きょうから約1カ月の休暇",
+      "link": "https://news.yahoo.co.jp/pickup/6591159?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T09:29:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 あす関東・東北に上陸の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591177?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T12:21:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日銀委員 利上げペース加速の意見",
+      "link": "https://news.yahoo.co.jp/pickup/6591178?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T12:41:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛媛県知事選 宮沢博行氏が出馬へ",
+      "link": "https://news.yahoo.co.jp/pickup/6591179?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T12:53:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海難事故 女性と男児が心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591187?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T13:56:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世帯年収1000万円 理想とは遠い家",
+      "link": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T11:38:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報甲子園 横浜が沖縄尚学に先制",
+      "link": "https://news.yahoo.co.jp/pickup/6591188?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T14:02:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「Nクールおじさん」結婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6591182?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T13:07:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本城13日に再開「復興の力に」",
+      "link": "https://news.yahoo.co.jp/pickup/6591191?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T14:33:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北朝鮮ハッカー AIツール開発か",
+      "link": "https://news.yahoo.co.jp/pickup/6591176?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T12:21:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2年前に89歳女性殺害疑い 娘逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6591184?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T13:36:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海で3人救助 女性と男児心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591192?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T14:57:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北新幹線の車内にハト 臨時停車",
+      "link": "https://news.yahoo.co.jp/pickup/6591194?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T15:35:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマが牧場のヤギを襲撃 捕食確認",
+      "link": "https://news.yahoo.co.jp/pickup/6591190?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T14:24:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 11日午後に関東甲信接近恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591208?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T16:49:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防衛白書の「新しい戦い方」解説",
+      "link": "https://news.yahoo.co.jp/pickup/6591217?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T17:26:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中1姉と小3弟死亡 海水浴場で事故",
+      "link": "https://news.yahoo.co.jp/pickup/6591216?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T17:27:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ニチレイ個人情報 ハッカー公開か",
+      "link": "https://news.yahoo.co.jp/pickup/6591196?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T16:03:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "突如中止の花火大会 資料を入手",
+      "link": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T17:01:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄尚学・末吉と横浜・織田 抱擁",
+      "link": "https://news.yahoo.co.jp/pickup/6591212?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T17:19:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TWICE・ジョンヨン JYP退所報告",
+      "link": "https://news.yahoo.co.jp/pickup/6591219?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T17:44:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "清水伸が結婚 ニトリCMに11年",
+      "link": "https://news.yahoo.co.jp/pickup/6591207?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T16:40:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風上陸恐れ 備えチェックリスト",
+      "link": "https://news.yahoo.co.jp/pickup/6591227?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T18:21:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "母は寝たきり娘は不登校 女性孤立",
+      "link": "https://news.yahoo.co.jp/pickup/6591215?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T17:30:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "男児転び一時意識不明 1年非公表",
+      "link": "https://news.yahoo.co.jp/pickup/6591233?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T19:08:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報甲子園 福山vs.天理",
+      "link": "https://news.yahoo.co.jp/pickup/6591225?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T18:42:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "LuckyFes 11日の開催中止を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6591234?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T19:06:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なにわ男子に中傷 STARTOが対応",
+      "link": "https://news.yahoo.co.jp/pickup/6591223?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T18:05:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長野の土石流 登山者は全員下山",
+      "link": "https://news.yahoo.co.jp/pickup/6591220?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T17:58:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中1と小3死亡 遊具があおられ落水",
+      "link": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T20:44:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生徒送迎中バスが追突し逃走 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6591243?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T20:30:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大腸がん 毒素作る腸内細菌が関与",
+      "link": "https://news.yahoo.co.jp/pickup/6591240?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T20:10:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「第二の軍艦島」撮影動画に批判",
+      "link": "https://news.yahoo.co.jp/pickup/6591238?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T20:10:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "馬淵監督 中学生スカウト巡り苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6591236?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T19:58:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "協調介入 日銀利上げ示唆が決め手",
+      "link": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T22:13:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 東北新幹線で遅れや運休恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T19:48:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中道支持率が野党6番手 産経FNN",
+      "link": "https://news.yahoo.co.jp/pickup/6591259?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T22:41:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "突如中止の花火大会 主催者が回答",
+      "link": "https://news.yahoo.co.jp/pickup/6591256?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T22:04:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "井上康生氏 選手の不祥事注意喚起",
+      "link": "https://news.yahoo.co.jp/pickup/6591257?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T22:20:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ファンキー加藤 中学でイジメ経験",
+      "link": "https://news.yahoo.co.jp/pickup/6591260?source=rss",
+      "description": "",
+      "pub_date": "2026-08-10T22:37:08+09:00"
+    }
+  ]
+}
