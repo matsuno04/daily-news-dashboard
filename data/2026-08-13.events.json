@@ -1,0 +1,401 @@
+{
+  "date": "2026-08-13",
+  "matched_at": "2026-08-13T23:06:35.915843+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北から近畿 急な雨や落雷に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6591511?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T06:34:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "猛暑常態化 工事の「夏季休工」増",
+      "link": "https://news.yahoo.co.jp/pickup/6591517?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T07:26:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領報道官が今月で辞任 発表",
+      "link": "https://news.yahoo.co.jp/pickup/6591519?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T07:50:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "特急列車 車との衝突気付かず走行",
+      "link": "https://news.yahoo.co.jp/pickup/6591508?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T06:12:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阿波おどり「性的」動画 不安の声",
+      "link": "https://news.yahoo.co.jp/pickup/6591513?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T06:54:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "レイカーズ 125億ドル超で売却へ",
+      "link": "https://news.yahoo.co.jp/pickup/6591520?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T07:49:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "出産の山本舞香 ドラマ続編を辞退",
+      "link": "https://news.yahoo.co.jp/pickup/6591514?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T07:03:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Ado23歳 熊本支援で4000万円寄付",
+      "link": "https://news.yahoo.co.jp/pickup/6591507?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T06:07:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国旗損壊 捜査幹部から懸念の声も",
+      "link": "https://news.yahoo.co.jp/pickup/6591524?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T08:27:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高密度の金含む鉱石 相次ぎ発見",
+      "link": "https://news.yahoo.co.jp/pickup/6591523?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T08:15:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "被爆した父 体内のガラス時々出た",
+      "link": "https://news.yahoo.co.jp/pickup/6591548?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:43:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "相互関税還付 米で日本企業を提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6591541?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:36:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バブル・氷河期・Z 各世代の働く",
+      "link": "https://news.yahoo.co.jp/pickup/6591554?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:36:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "9億円相当の覚醒剤密輸疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6591543?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:18:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "流星群の観測ツアー参加者 滑落か",
+      "link": "https://news.yahoo.co.jp/pickup/6591550?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:41:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "レイカーズ売却報道 ド軍監督驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6591555?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:44:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTタイ俳優のフォロワー急増",
+      "link": "https://news.yahoo.co.jp/pickup/6591546?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:22:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露大統領の択捉島訪問 茂木氏抗議",
+      "link": "https://news.yahoo.co.jp/pickup/6591572?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T13:29:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領SNS巡り メディアが提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6591529?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T08:45:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋篠宮さま 皇室典範巡りコメント",
+      "link": "https://news.yahoo.co.jp/pickup/6591564?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T12:55:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "闇バイト応募で渡米 邦人男性保護",
+      "link": "https://news.yahoo.co.jp/pickup/6591577?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T13:58:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国岳の火口で男性発見 心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591574?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T13:46:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "泳いで母助けに 18歳遺体で発見",
+      "link": "https://news.yahoo.co.jp/pickup/6591571?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T13:32:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "芸能プロの佐藤企画 破産開始決定",
+      "link": "https://news.yahoo.co.jp/pickup/6591573?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T13:40:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新スペース・マウンテン 名称決定",
+      "link": "https://news.yahoo.co.jp/pickup/6591568?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T13:11:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市内閣の支持率は横ばい 時事",
+      "link": "https://news.yahoo.co.jp/pickup/6591584?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T15:49:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "泳いで母を助けに 18歳遺体で発見",
+      "link": "https://news.yahoo.co.jp/pickup/6591581?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T14:57:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷が痛恨の走塁死 併殺プレー",
+      "link": "https://news.yahoo.co.jp/pickup/6591580?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T14:47:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TWICE・チェヨン JYPと契約終了",
+      "link": "https://news.yahoo.co.jp/pickup/6591583?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T15:36:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "九州自動車道 14日朝に全線復旧",
+      "link": "https://news.yahoo.co.jp/pickup/6591591?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T16:33:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露大統領の択捉島訪問 高市氏抗議",
+      "link": "https://news.yahoo.co.jp/pickup/6591598?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T17:28:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で激しい雨 現地のSNS投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6591594?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T17:08:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "一太郎転落 振り返る当時の担当者",
+      "link": "https://news.yahoo.co.jp/pickup/6591588?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T16:31:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Google「Pixel11」シリーズ発表",
+      "link": "https://news.yahoo.co.jp/pickup/6591522?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T08:03:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "髭濃いと言われ メイク続ける19歳",
+      "link": "https://news.yahoo.co.jp/pickup/6591601?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T17:41:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "結婚式に見知らぬ300人参加 中国",
+      "link": "https://news.yahoo.co.jp/pickup/6591549?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T11:33:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AKASAKI ワールドツアー公演中止",
+      "link": "https://news.yahoo.co.jp/pickup/6591592?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T16:47:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県北西部・南部に線状降水帯",
+      "link": "https://news.yahoo.co.jp/pickup/6591607?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T18:20:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雨 関東の鉄道の運行情報",
+      "link": "https://news.yahoo.co.jp/pickup/6591612?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T19:11:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "経営・管理の在留資格 厳格化の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6591595?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T17:50:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "遊泳禁止中に流されたか 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6591608?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T18:35:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤川監督怒り 森下に2戦連続死球",
+      "link": "https://news.yahoo.co.jp/pickup/6591611?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T19:14:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "勝利の有明 球審「球持っていて」",
+      "link": "https://news.yahoo.co.jp/pickup/6591609?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T18:32:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "命守る行動を 千葉に大雨特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6591619?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T20:23:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中継・気象庁会見 千葉に特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6591620?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T20:26:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "埼玉・茨城で線状降水帯発生恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591622?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T20:36:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "気象庁「経験のないような大雨」",
+      "link": "https://news.yahoo.co.jp/pickup/6591626?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T21:05:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雨で車内閉じ込め 女性心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591621?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T20:30:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県で大雨 現地のSNS投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6591625?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T21:03:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉市と市原市 土砂災害特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6591632?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T22:04:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県の大雨特別警報 エリア拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6591634?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T22:29:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県に大雨特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6591623?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T21:12:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車内閉じ込めなど多数の通報 千葉",
+      "link": "https://news.yahoo.co.jp/pickup/6591636?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T22:46:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "冠水道路で男性が意識不明 搬送",
+      "link": "https://news.yahoo.co.jp/pickup/6591629?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T22:13:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県で大雨 マップで災害情報",
+      "link": "https://news.yahoo.co.jp/pickup/6591630?source=rss",
+      "description": "",
+      "pub_date": "2026-08-13T22:14:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県などで停電発生 最新の状況",
+      "link": "https://news.yahoo.co.jp/pickup/6591633?source=rss",
+      "description": "「停電情報」どこで停電が起きているか、都道府県ごとに地図に表示している。周辺の状況確認を。",
+      "pub_date": "2026-08-13T22:17:20+09:00"
+    }
+  ]
+}
