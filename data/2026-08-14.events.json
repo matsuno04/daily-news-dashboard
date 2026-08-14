@@ -1,0 +1,387 @@
+{
+  "date": "2026-08-14",
+  "matched_at": "2026-08-14T23:00:48.150421+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県の特別警報 危険警報に切替",
+      "link": "https://news.yahoo.co.jp/pickup/6591650?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T05:42:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "危険な雨 土砂災害など終日警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6591649?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T05:29:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県内のJR各線 始発から運休",
+      "link": "https://news.yahoo.co.jp/pickup/6591646?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T04:46:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県で大雨 3人死亡1人心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591652?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T06:27:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県内 約1万人の帰宅困難者",
+      "link": "https://news.yahoo.co.jp/pickup/6591653?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T06:40:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉にいまして 矢部浩之ANN休演",
+      "link": "https://news.yahoo.co.jp/pickup/6591654?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T07:13:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉大雨の死者4人に 行方不明1人",
+      "link": "https://news.yahoo.co.jp/pickup/6591663?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T08:45:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "一夜明けた千葉 上空からの映像",
+      "link": "https://news.yahoo.co.jp/pickup/6591661?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T08:28:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "患者のX線画像 9病院で流出疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6591658?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T08:13:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異色のふぉ～ゆ～ CDデビューへ",
+      "link": "https://news.yahoo.co.jp/pickup/6591655?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T07:48:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東・東北 夕方から雨強まる予想",
+      "link": "https://news.yahoo.co.jp/pickup/6591665?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T09:25:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉駅 一夜明かした家族連れも",
+      "link": "https://news.yahoo.co.jp/pickup/6591672?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T10:53:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "帰宅困難の約4千人 自衛隊が輸送",
+      "link": "https://news.yahoo.co.jp/pickup/6591664?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T09:18:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広い範囲で浸水 上空からの映像",
+      "link": "https://news.yahoo.co.jp/pickup/6591668?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T10:35:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パワハラの横浜市長 市議追及に涙",
+      "link": "https://news.yahoo.co.jp/pickup/6591670?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T10:21:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マスク氏 スペースX株48.4%保有",
+      "link": "https://news.yahoo.co.jp/pickup/6591667?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T09:52:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森下 清原氏ペースの通算50死球",
+      "link": "https://news.yahoo.co.jp/pickup/6591674?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T11:42:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サマソニ東京 予定通り千葉で開催",
+      "link": "https://news.yahoo.co.jp/pickup/6591662?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T09:03:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉大雨6人死亡 1人が心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591684?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T13:02:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "午後も関東は大雨恐れ 厳重警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6591687?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T13:40:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雨から一夜 関東の鉄道運行情報",
+      "link": "https://news.yahoo.co.jp/pickup/6591678?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T12:38:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "帰りたい 豪雨で帰宅困難者が続出",
+      "link": "https://news.yahoo.co.jp/pickup/6591689?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T14:10:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉大雨でガス異常 1万戸超停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591682?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T12:57:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "BBQ客のゴミ深刻化 クマ誘う恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591686?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T13:32:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "虫歯20本 デンタルネグレクト実態",
+      "link": "https://news.yahoo.co.jp/pickup/6591688?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T13:53:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スキージャンプ銅 丸山希が結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6591685?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T13:19:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨で8人死亡 約7400人避難",
+      "link": "https://news.yahoo.co.jp/pickup/6591698?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T15:46:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県 記録的な豪雨となった理由",
+      "link": "https://news.yahoo.co.jp/pickup/6591692?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T14:44:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "折りたたみスマホの発売続々 狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6591694?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T15:00:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "衝撃 ゴルフ安田祐香が初日で-11",
+      "link": "https://news.yahoo.co.jp/pickup/6591695?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T15:32:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "シュワバー トウモロコシ畑へ2HR",
+      "link": "https://news.yahoo.co.jp/pickup/6591690?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T14:17:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東 局地的に非常に激しい雨恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6591705?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T16:35:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "声届かず沈む車 住民が窓割り救助",
+      "link": "https://news.yahoo.co.jp/pickup/6591716?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T17:34:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北方領土巡る日本の抗議 露が反発",
+      "link": "https://news.yahoo.co.jp/pickup/6591673?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T11:55:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英国籍の中学生 日本旅行中に不明",
+      "link": "https://news.yahoo.co.jp/pickup/6591713?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T17:27:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海で流された子助けに 父心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591712?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T17:07:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アシックス商事 解散・清算の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6591697?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T15:46:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨少なくとも放置車両200台",
+      "link": "https://news.yahoo.co.jp/pickup/6591720?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T18:14:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦犯として裁かれた父 罪感じる娘",
+      "link": "https://news.yahoo.co.jp/pickup/6591726?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T18:53:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "初任給100万円の会社 応募1300人",
+      "link": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T17:44:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宝くじ・ロト7 千葉県で1等12億円",
+      "link": "https://news.yahoo.co.jp/pickup/6591723?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T18:34:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GPT-5.6 Sol「Ultrafast」発表",
+      "link": "https://news.yahoo.co.jp/pickup/6591717?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T18:00:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "堺雅人 小野花梨と再会に満面笑み",
+      "link": "https://news.yahoo.co.jp/pickup/6591727?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T19:07:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東など 15日にかけ激しい雨注意",
+      "link": "https://news.yahoo.co.jp/pickup/6591730?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T19:41:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨 放置車両1200台超見通し",
+      "link": "https://news.yahoo.co.jp/pickup/6591735?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T19:53:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アンダーパス 停電で排水できず",
+      "link": "https://news.yahoo.co.jp/pickup/6591743?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T20:38:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡県議長の辞職勧告決議案 提出",
+      "link": "https://news.yahoo.co.jp/pickup/6591725?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T18:45:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "喫煙し報道対応の県職員 懲戒処分",
+      "link": "https://news.yahoo.co.jp/pickup/6591739?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T20:37:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高さ日本一 観覧車8カ月以上停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T19:37:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜が日南学園に10得点快勝",
+      "link": "https://news.yahoo.co.jp/pickup/6591744?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T20:55:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハマ・オカモト OKAMOTO'S脱退",
+      "link": "https://news.yahoo.co.jp/pickup/6591742?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T20:20:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府 択捉島巡り露に対抗措置検討",
+      "link": "https://news.yahoo.co.jp/pickup/6591704?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T16:33:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バスローブで報道対応 県職員処分",
+      "link": "https://news.yahoo.co.jp/pickup/6591746?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T21:14:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜・織田の初球 甲子園どよめく",
+      "link": "https://news.yahoo.co.jp/pickup/6591751?source=rss",
+      "description": "",
+      "pub_date": "2026-08-14T22:48:53+09:00"
+    }
+  ]
+}
