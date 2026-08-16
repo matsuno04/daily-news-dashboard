@@ -1,0 +1,457 @@
+{
+  "date": "2026-08-16",
+  "matched_at": "2026-08-16T22:17:19.371543+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本地震 なお3205人が避難所に",
+      "link": "https://news.yahoo.co.jp/pickup/6591894?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T07:42:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "花火が地上付近で爆発 3人けが",
+      "link": "https://news.yahoo.co.jp/pickup/6591887?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T00:08:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "行方不明の英国籍12歳少女 保護",
+      "link": "https://news.yahoo.co.jp/pickup/6591888?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T07:14:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鈴木彩艶のPSG移籍は破談か 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6591890?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T07:20:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "J1町田 FW小川航基の獲得に動く",
+      "link": "https://news.yahoo.co.jp/pickup/6591891?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T07:20:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラヴ上等と法務省コラボ なぜ物議",
+      "link": "https://news.yahoo.co.jp/pickup/6591893?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T07:42:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相の靖国参拝見送り 外交考慮か",
+      "link": "https://news.yahoo.co.jp/pickup/6591897?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T08:06:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国船 尖閣周辺EEZで海洋調査か",
+      "link": "https://news.yahoo.co.jp/pickup/6591895?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T07:54:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SAトイレに急病人 対応に反響",
+      "link": "https://news.yahoo.co.jp/pickup/6591896?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T07:52:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "お盆休み最終日 Uターン混雑予想",
+      "link": "https://news.yahoo.co.jp/pickup/6591906?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T09:16:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子の水難 助けに飛び込むのはNG",
+      "link": "https://news.yahoo.co.jp/pickup/6591904?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T09:38:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国「親日派財産」没収 本格化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6591916?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T10:40:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本初確認の虫 SNS動画きっかけ",
+      "link": "https://news.yahoo.co.jp/pickup/6591912?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T10:19:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報甲子園 東日大昌平vs.有明",
+      "link": "https://news.yahoo.co.jp/pickup/6591918?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T10:33:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "健大高崎が8強「北関東対決」制す",
+      "link": "https://news.yahoo.co.jp/pickup/6591919?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T10:46:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "お盆休み最終日 交通混雑がピーク",
+      "link": "https://news.yahoo.co.jp/pickup/6591931?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T12:22:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨で露呈 都市型水害の課題",
+      "link": "https://news.yahoo.co.jp/pickup/6591914?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T10:17:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相異例の遥拝 保守層離反を警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6591925?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T11:39:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "飼い犬殺害 裁判官が証言に苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6591923?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T11:08:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プロテイン 価格の高騰止まらず",
+      "link": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T11:55:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ド軍敗戦 大谷翔平は適時三塁打",
+      "link": "https://news.yahoo.co.jp/pickup/6591922?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T11:10:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "有明が一挙4点の逆転劇 快進撃8強",
+      "link": "https://news.yahoo.co.jp/pickup/6591933?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T12:19:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米金融 新顔「ヨール街」に存在感",
+      "link": "https://news.yahoo.co.jp/pickup/6591924?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T11:14:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生後4カ月でがん 眼球摘出を決断",
+      "link": "https://news.yahoo.co.jp/pickup/6591932?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T12:44:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報甲子園 花巻東vs.英明",
+      "link": "https://news.yahoo.co.jp/pickup/6591934?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T12:47:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "多摩川で中学生が溺れる 意識不明",
+      "link": "https://news.yahoo.co.jp/pickup/6591935?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T13:14:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緊急先発の有明・斉藤 109球完投",
+      "link": "https://news.yahoo.co.jp/pickup/6591936?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T13:36:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "軍人に殴られた痛み 少年の記憶",
+      "link": "https://news.yahoo.co.jp/pickup/6591928?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T12:06:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露がウクライナの子連れ去り 実態",
+      "link": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T10:13:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "釣り竿取りに池泳ぎ溺れたか 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6591945?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T14:41:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元近鉄の左腕・神部年男さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6591944?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T14:33:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "前田敦子 子どもは完全に生きがい",
+      "link": "https://news.yahoo.co.jp/pickup/6591938?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T13:56:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "命の危険に直面 炎天下で働く人々",
+      "link": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T10:38:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高専「ネーミングライツ」広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T15:46:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世界でブームのスクイーズ 事故も",
+      "link": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T15:28:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報甲子園 霞ケ浦vs.横浜",
+      "link": "https://news.yahoo.co.jp/pickup/6591948?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T15:11:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防空壕で生まれた自民森山氏 思い",
+      "link": "https://news.yahoo.co.jp/pickup/6591954?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T16:24:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ベルギーで過去最大規模の山火事",
+      "link": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T14:38:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子ども用ハーネス賛否 識者の見解",
+      "link": "https://news.yahoo.co.jp/pickup/6591953?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T16:23:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報甲子園 横浜が霞ケ浦を逆転",
+      "link": "https://news.yahoo.co.jp/pickup/6591959?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T16:41:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "地震で実家崩れ「助けて」父の声",
+      "link": "https://news.yahoo.co.jp/pickup/6591961?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T16:59:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨の死者10人 1人行方不明",
+      "link": "https://news.yahoo.co.jp/pickup/6591964?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T17:27:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生まれた子に重い障害 8年間自責",
+      "link": "https://news.yahoo.co.jp/pickup/6591962?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T17:30:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜が8強進出 霞ケ浦に逆転勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6591963?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T17:16:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モナキの快進撃 支えた純烈・酒井",
+      "link": "https://news.yahoo.co.jp/pickup/6591965?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T17:22:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉など17日から厳しい暑さ 注意",
+      "link": "https://news.yahoo.co.jp/pickup/6591973?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T18:41:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "衆議院本館の女性トイレ 増設へ",
+      "link": "https://news.yahoo.co.jp/pickup/6591967?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T17:55:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豪で「ワーホリ」受け入れ抑制へ",
+      "link": "https://news.yahoo.co.jp/pickup/6591966?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T17:57:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "地震で停電 教室育ちサーモン全滅",
+      "link": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T18:11:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G小笠原に8秒間の大ブーイング",
+      "link": "https://news.yahoo.co.jp/pickup/6591968?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T18:00:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木村多江 結婚は流れに乗った感じ",
+      "link": "https://news.yahoo.co.jp/pickup/6591971?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T18:35:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "インドネシアの地震 死者50人超に",
+      "link": "https://news.yahoo.co.jp/pickup/6591974?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T18:48:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゆりかご初日に預けられ 今は22歳",
+      "link": "https://news.yahoo.co.jp/pickup/6591975?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T18:50:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "早期退職 第二の人生は甘くない?",
+      "link": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T19:26:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日8回に10失点 ファン続々帰路",
+      "link": "https://news.yahoo.co.jp/pickup/6591979?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T19:33:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "内閣改造と自民役員人事 注目点は",
+      "link": "https://news.yahoo.co.jp/pickup/6591986?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T20:11:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉の車両撤去 JAFに要請が殺到",
+      "link": "https://news.yahoo.co.jp/pickup/6591972?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T18:37:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "知人助けようとして行方不明 千葉",
+      "link": "https://news.yahoo.co.jp/pickup/6591985?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T20:16:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "激震 有明ダブルエースの1人骨折",
+      "link": "https://news.yahoo.co.jp/pickup/6591983?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T20:11:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨 放置車両2700台を確認",
+      "link": "https://news.yahoo.co.jp/pickup/6591991?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T21:36:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉市の川沿いに遺体 豪雨関連か",
+      "link": "https://news.yahoo.co.jp/pickup/6591994?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T22:00:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "辞職勧告受け 福岡県議長続投考え",
+      "link": "https://news.yahoo.co.jp/pickup/6591987?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T21:07:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "京急上大岡駅 液晶の「パタパタ」",
+      "link": "https://news.yahoo.co.jp/pickup/6591992?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T21:38:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜・織田 登板するだけで大歓声",
+      "link": "https://news.yahoo.co.jp/pickup/6591989?source=rss",
+      "description": "",
+      "pub_date": "2026-08-16T21:08:11+09:00"
+    }
+  ]
+}
