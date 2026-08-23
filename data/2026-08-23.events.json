@@ -1,0 +1,422 @@
+{
+  "date": "2026-08-23",
+  "matched_at": "2026-08-23T22:18:11.784060+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "茨城などで最大震度5弱 津波なし",
+      "link": "https://news.yahoo.co.jp/pickup/6592717?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T02:09:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "震度5弱 関東の鉄道運行情報",
+      "link": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:23:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "化学メーカー工場 作業員2人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6592718?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T02:50:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "薬師寺国宝に液体かけた疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6592721?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:26:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "りくりゅう木原さん&三浦さん婚約",
+      "link": "https://news.yahoo.co.jp/pickup/6592724?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:14:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷の左膝懸念 監督「もう過去」",
+      "link": "https://news.yahoo.co.jp/pickup/6592720?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:19:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カナダ首相 対米報復関税を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6592725?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:45:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "震度5弱 江東区では道路に水流出",
+      "link": "https://news.yahoo.co.jp/pickup/6592723?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:45:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイ南部3県 爆発や放火相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6592726?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:44:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "人型ロボ100mボルト超え 直後炎上",
+      "link": "https://news.yahoo.co.jp/pickup/6592727?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T07:57:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラヴ上等コラボ中止 制作側責任は",
+      "link": "https://news.yahoo.co.jp/pickup/6592728?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T08:12:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウ側に協力 特殊作戦担うロシア人",
+      "link": "https://news.yahoo.co.jp/pickup/6592729?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T08:14:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "4人死亡事故 東武建設を家宅捜索",
+      "link": "https://news.yahoo.co.jp/pickup/6592737?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T09:41:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市の食料配布に4万人 動く自治体",
+      "link": "https://news.yahoo.co.jp/pickup/6592739?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T09:46:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で震度5弱 けが人相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6592740?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T09:54:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2000円台の新米 昨年産と価格逆転",
+      "link": "https://news.yahoo.co.jp/pickup/6592734?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T08:54:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "智弁和歌山 寮母インスタ大バズリ",
+      "link": "https://news.yahoo.co.jp/pickup/6592735?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T09:22:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "りくりゅう プロポーズ写真投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6592732?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T08:55:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "天木じゅん 競輪佐々木悠葵と結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6592748?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T10:35:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科省 来年度科研費を倍増要求へ",
+      "link": "https://news.yahoo.co.jp/pickup/6592747?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T10:39:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "月10万円→30万円 都内老人ホーム",
+      "link": "https://news.yahoo.co.jp/pickup/6592755?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T12:16:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で震度5弱 けが人30人超",
+      "link": "https://news.yahoo.co.jp/pickup/6592754?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T12:02:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "りくりゅう婚約 高橋成美氏が祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6592750?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T11:14:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄知事選 県政奪還へ自民総力戦",
+      "link": "https://news.yahoo.co.jp/pickup/6592736?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T09:26:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伊首相 トランプ氏との確執吐露",
+      "link": "https://news.yahoo.co.jp/pickup/6592742?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T10:12:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画ちいかわ 興収100億円を突破",
+      "link": "https://news.yahoo.co.jp/pickup/6592757?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T12:39:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東-九州 あす以降も厳しい暑さ",
+      "link": "https://news.yahoo.co.jp/pickup/6592763?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T13:38:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小5息子殺され加害者と向き合う父",
+      "link": "https://news.yahoo.co.jp/pickup/6592764?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T13:51:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国でロボ運動会 続々と人類超え",
+      "link": "https://news.yahoo.co.jp/pickup/6592760?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T13:18:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小川彩佳さん 育児綱渡りの時期も",
+      "link": "https://news.yahoo.co.jp/pickup/6592765?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T13:41:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性死亡 ひき逃げ疑い22歳男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6592768?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T14:13:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ベルギーの販売員 王室の血筋判明",
+      "link": "https://news.yahoo.co.jp/pickup/6592771?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T14:42:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "16歳で意に沿わぬ結婚 残留2世",
+      "link": "https://news.yahoo.co.jp/pickup/6592752?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T11:40:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で震度5弱 けが人40人超に",
+      "link": "https://news.yahoo.co.jp/pickup/6592773?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T15:11:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スマホ乗っ取られ詐欺SMSのbot化",
+      "link": "https://news.yahoo.co.jp/pickup/6592770?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T14:25:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "りくりゅう 投稿写真は思い出の場",
+      "link": "https://news.yahoo.co.jp/pickup/6592776?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T15:59:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米地裁 移民ビザ発給停止を無効化",
+      "link": "https://news.yahoo.co.jp/pickup/6592780?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T16:38:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "年金だけ苦しい 炎天下働くシニア",
+      "link": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T15:05:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTロケ地の県 観光振興活発",
+      "link": "https://news.yahoo.co.jp/pickup/6592774?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T15:40:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "特急事故 安全管理の書類など押収",
+      "link": "https://news.yahoo.co.jp/pickup/6592782?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T16:53:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三浦璃来氏 婚約の世間の反応驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6592786?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T17:15:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伝説的漫画家と41歳差婚 介護の今",
+      "link": "https://news.yahoo.co.jp/pickup/6592784?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T17:14:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "地震ボラの暑さ対策を支援 広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6592789?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T17:34:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で震度5弱「地震の巣で」識者",
+      "link": "https://news.yahoo.co.jp/pickup/6592781?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T16:36:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜市長巡り市議 発達障害と投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6592792?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T18:34:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「自分は臭い」思い込み 心理解説",
+      "link": "https://news.yahoo.co.jp/pickup/6592775?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T15:55:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "わんこそば755杯 大食い界の新星",
+      "link": "https://news.yahoo.co.jp/pickup/6592790?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T17:57:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「怠けと違う」文字書けない悩み",
+      "link": "https://news.yahoo.co.jp/pickup/6592778?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T18:17:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソニー 中国「TCL」と手を組む訳",
+      "link": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T18:28:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報バレー女子 日本vs.韓国",
+      "link": "https://news.yahoo.co.jp/pickup/6592794?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T19:33:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "瀬戸朝香が休養発表 腰椎を骨折",
+      "link": "https://news.yahoo.co.jp/pickup/6592795?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T19:07:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市内閣の支持率横ばい41% 毎日",
+      "link": "https://news.yahoo.co.jp/pickup/6592802?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T20:05:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で震度5弱 未明の揺れに驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6592801?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T20:02:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "独身と嘘つかれ妊娠 娘のため提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6592803?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T20:09:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "4人死亡 事故までに列車3本が通過",
+      "link": "https://news.yahoo.co.jp/pickup/6592798?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T19:58:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豪雨で愛車失った人たち 悲痛な声",
+      "link": "https://news.yahoo.co.jp/pickup/6592807?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T21:24:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戸建て売り入居する人も 団地人気",
+      "link": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T20:38:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "りくりゅう婚約発表設計 識者見解",
+      "link": "https://news.yahoo.co.jp/pickup/6592809?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T21:44:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "濱田岳 VIVANT考察にショック",
+      "link": "https://news.yahoo.co.jp/pickup/6592810?source=rss",
+      "description": "",
+      "pub_date": "2026-08-23T21:42:54+09:00"
+    }
+  ]
+}
