@@ -1,0 +1,499 @@
+{
+  "date": "2026-08-25",
+  "matched_at": "2026-08-25T22:32:42.489194+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風18号 26日にかけ沖縄など接近",
+      "link": "https://news.yahoo.co.jp/pickup/6592951?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T06:41:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "同志社理事長辞任へ 辺野古事故で",
+      "link": "https://news.yahoo.co.jp/pickup/6592956?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T07:33:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "相模原17歳死亡 ぼう然とする友人",
+      "link": "https://news.yahoo.co.jp/pickup/6592952?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T07:00:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "住宅に身元不明の3人の遺体 岐阜",
+      "link": "https://news.yahoo.co.jp/pickup/6592954?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T07:22:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車正面衝突し2人死亡 幼児重傷か",
+      "link": "https://news.yahoo.co.jp/pickup/6592949?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T06:09:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新庄監督 1軍ベンチ枠拡大を提案",
+      "link": "https://news.yahoo.co.jp/pickup/6592953?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T07:15:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "人気韓ドラ 芦田愛菜主演で日本版",
+      "link": "https://news.yahoo.co.jp/pickup/6592950?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T06:25:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウ侵略4年半 欧州の結束アピール",
+      "link": "https://news.yahoo.co.jp/pickup/6592958?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T07:48:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "警視庁警官3060人欠員 採用不調か",
+      "link": "https://news.yahoo.co.jp/pickup/6592957?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T07:51:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コンビニ各社おにぎり値下げ なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6592961?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T08:06:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電車でのハンディファン使用 賛否",
+      "link": "https://news.yahoo.co.jp/pickup/6592963?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T08:21:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "幾田りら 映画で梓みちよさん役",
+      "link": "https://news.yahoo.co.jp/pickup/6592964?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T08:33:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米 イランに「経済的総攻撃」発表",
+      "link": "https://news.yahoo.co.jp/pickup/6592970?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T09:08:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イオン爆発前に「ガス臭」証言",
+      "link": "https://news.yahoo.co.jp/pickup/6592976?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T10:07:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡県議会の自民会派 1人が離脱",
+      "link": "https://news.yahoo.co.jp/pickup/6592980?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T10:49:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "路上売春 買う側処罰案に賛否の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6592971?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T09:21:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「将門塚」で迷惑配信 刑事責任は",
+      "link": "https://news.yahoo.co.jp/pickup/6592972?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T09:25:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "窓口営業は午前のみ 京都信用金庫",
+      "link": "https://news.yahoo.co.jp/pickup/6592978?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T10:17:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "行方不明のオオトカゲを確保 横浜",
+      "link": "https://news.yahoo.co.jp/pickup/6592979?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T10:26:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風18号が沖縄接近 高波など警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6592995?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T12:12:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "相次ぐ熱中症患者 救急医療ひっ迫",
+      "link": "https://news.yahoo.co.jp/pickup/6592974?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T09:39:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "蔵内氏「限界だろう」辞職表明前",
+      "link": "https://news.yahoo.co.jp/pickup/6592989?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T11:41:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高2死亡 トラブル巻き込まれたか",
+      "link": "https://news.yahoo.co.jp/pickup/6592992?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T12:09:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "買春目的の訪日客増 対応求める声",
+      "link": "https://news.yahoo.co.jp/pickup/6592984?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T11:29:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田久保氏PCに偽造卒業証書データ",
+      "link": "https://news.yahoo.co.jp/pickup/6592982?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T11:32:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "夫不倫で離婚 切り出された家売却",
+      "link": "https://news.yahoo.co.jp/pickup/6592981?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T11:23:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "俳優木元ゆうこ S状結腸がん公表",
+      "link": "https://news.yahoo.co.jp/pickup/6592983?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T11:24:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米軍攻撃ヘリ高頻度で墜落 CNN",
+      "link": "https://news.yahoo.co.jp/pickup/6592990?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T11:46:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "キンタローが特殊メイク 会場爆笑",
+      "link": "https://news.yahoo.co.jp/pickup/6592998?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T12:53:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡県議長 辞職の理由説明せず",
+      "link": "https://news.yahoo.co.jp/pickup/6593001?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T13:19:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中野ブロードウェイで窃盗事件",
+      "link": "https://news.yahoo.co.jp/pickup/6593006?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T13:48:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハビタ 当初の報告巡り遺族に謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6593000?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T13:04:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高2死亡 車に追われ暴行されたか",
+      "link": "https://news.yahoo.co.jp/pickup/6593007?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T13:59:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウクライナ 徴兵巡る暴力なぜ増加",
+      "link": "https://news.yahoo.co.jp/pickup/6592987?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T13:53:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東武事故受け AC広告に差し替え",
+      "link": "https://news.yahoo.co.jp/pickup/6593008?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T14:36:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "違法駐車でバス23分足止め 責任は",
+      "link": "https://news.yahoo.co.jp/pickup/6593003?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T13:44:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "調整さん 20年で日程調整4119万件",
+      "link": "https://news.yahoo.co.jp/pickup/6593005?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T14:05:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウで徴兵をめぐる暴力が増 背景は",
+      "link": "https://news.yahoo.co.jp/pickup/6593012?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T15:03:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日航機墜落 修理ミス巡り国公表へ",
+      "link": "https://news.yahoo.co.jp/pickup/6593013?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T15:28:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中野の時計店で窃盗 2億円相当",
+      "link": "https://news.yahoo.co.jp/pickup/6593018?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T16:10:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "部活や登校 サングラスOK広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6593014?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T15:46:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "出国税の使い道 見直しを検討へ",
+      "link": "https://news.yahoo.co.jp/pickup/6593021?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T16:32:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "競泳・本多灯被告に拘禁刑1年求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6593020?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T16:31:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国サッカー危機 国民の信頼失墜",
+      "link": "https://news.yahoo.co.jp/pickup/6593025?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T16:43:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新「マイナアプリ」提供スタート",
+      "link": "https://news.yahoo.co.jp/pickup/6593017?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T16:13:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "窮地の酒蔵 刀剣乱舞ファンが救う",
+      "link": "https://news.yahoo.co.jp/pickup/6593019?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T16:23:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "26日関東で局地的な雷雨恐れ 警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6593026?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T16:57:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "医療事故 母子感染防げずがん発症",
+      "link": "https://news.yahoo.co.jp/pickup/6593032?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T17:30:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米デスバレー立ち往生 観光客死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T17:53:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モス スーパーなどで冷食販売へ",
+      "link": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T17:33:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "古田敦也氏 いじめ受けて中学転校",
+      "link": "https://news.yahoo.co.jp/pickup/6593034?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T17:20:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ガソリン補助金継続へ 高市氏表明",
+      "link": "https://news.yahoo.co.jp/pickup/6593042?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T18:07:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コメ価格暴落 備蓄米放出が要因か",
+      "link": "https://news.yahoo.co.jp/pickup/6593046?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T18:26:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小泉防衛相 保守層の評価なぜ反転",
+      "link": "https://news.yahoo.co.jp/pickup/6593044?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T18:41:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高校生死亡した祭り 2年前も事故",
+      "link": "https://news.yahoo.co.jp/pickup/6593049?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T18:48:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会の日程変更 選手ら困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6593041?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T18:02:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "犯行10秒 2億円相当の腕時計窃盗",
+      "link": "https://news.yahoo.co.jp/pickup/6593050?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T19:02:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高級化or大衆化 外食市場巡る動き",
+      "link": "https://news.yahoo.co.jp/pickup/6592996?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T14:31:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西武1軍復帰の渡部聖弥 負傷交代",
+      "link": "https://news.yahoo.co.jp/pickup/6593053?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T19:43:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "蔵内氏 金銭授受疑惑は重ねて否定",
+      "link": "https://news.yahoo.co.jp/pickup/6593048?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T18:46:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「がんこ」創業 小嶋淳司さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T20:30:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宅配業者に暴言 カスハラ被害深刻",
+      "link": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T17:18:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国産白菜巡り波紋 韓国に飛び火",
+      "link": "https://news.yahoo.co.jp/pickup/6593056?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T20:19:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "川底に沈む男児発見 中学生ら救助",
+      "link": "https://news.yahoo.co.jp/pickup/6593054?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T20:04:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FC東京 誹謗中傷や替え歌に警鐘",
+      "link": "https://news.yahoo.co.jp/pickup/6593036?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T17:40:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バヌアツで噴火 気象庁が津波調査",
+      "link": "https://news.yahoo.co.jp/pickup/6593068?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T22:09:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI事業者へ知財保護指針 政府決定",
+      "link": "https://news.yahoo.co.jp/pickup/6593055?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T20:13:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3児失う事故から20年 4児と歩む母",
+      "link": "https://news.yahoo.co.jp/pickup/6593071?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T22:26:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パン39kg点々と投棄 環境相が非難",
+      "link": "https://news.yahoo.co.jp/pickup/6593064?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T21:45:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ABC小西アナ&大石アナ 結婚報告",
+      "link": "https://news.yahoo.co.jp/pickup/6593060?source=rss",
+      "description": "",
+      "pub_date": "2026-08-25T20:52:54+09:00"
+    }
+  ]
+}
