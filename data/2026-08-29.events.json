@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-29",
+  "matched_at": "2026-08-29T07:37:41.062156+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FRBによる9月利​上げ観測高まる",
+      "link": "https://news.yahoo.co.jp/pickup/6593460?source=rss",
+      "description": "",
+      "pub_date": "2026-08-29T00:05:19+09:00"
+    }
+  ]
+}
