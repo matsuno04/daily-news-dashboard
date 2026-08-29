@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-30",
+  "matched_at": "2026-08-30T01:51:47.889922+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [],
+  "unmatched": [
+    {
+      "source": "Yahoo!ニュース",
+      "title": "茨城県で最大震度4 津波心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6593574?source=rss",
+      "description": "地震が発生しました。今後の情報にご注意ください。各地域の震度はこちら。※遷移先は最新の地震情報です。新たに発生した地震に更新される可能性があります。",
+      "pub_date": "2026-08-30T00:23:44+09:00"
+    }
+  ]
+}
