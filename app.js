@@ -9,8 +9,11 @@ const CATEGORY_ORDER = ["政治", "経済", "社会", "国際", "災害", "ス�
 // クリックされた時だけWorkerを呼ぶ(=Haikuが呼ばれる)。
 const EXPLAIN_WORKER_URL = "https://daily-news-explain.matsuno04.workers.dev";
 
-async function fetchJSON(path) {
-  const res = await fetch(path);
+async function fetchJSON(path, { noStore = false } = {}) {
+  // 日付別データ(events/summaries)は一度公開されたら中身が変わらないので通常キャッシュ。
+  // index.json だけは「どの日付が公開済みか」を示す小さなポインタで毎日追記されるため、
+  // noStore: true でキャッシュを回避し、新しい日付の追加を即座に反映させる。
+  const res = await fetch(path, noStore ? { cache: "no-store" } : undefined);
   if (!res.ok) {
     throw new Error(`${path} の取得に失敗しました (HTTP ${res.status})`);
   }
@@ -229,7 +232,7 @@ async function main() {
 
   let manifest;
   try {
-    manifest = await fetchJSON("data/index.json");
+    manifest = await fetchJSON("data/index.json", { noStore: true });
   } catch (err) {
     showError([matchedListEl, nhkOnlyListEl, yahooOnlyListEl], err.message);
     return;
