@@ -1,0 +1,728 @@
+{
+  "date": "2026-09-06",
+  "matched_at": "2026-09-07T17:59:33.569773+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "岐阜の洋菓子店で火事 2人死亡3人搬送 事件巻き込まれたか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48383",
+          "description": "5日夜、岐阜県本巣市の店舗兼住宅で火事があり、焼け跡から2人の遺体が見つかったほか、3人がけがをして病院に搬送されました。 当時、店舗兼住宅には住人と知人が集まっていて、このうちの1人が人を刺してガ…",
+          "pub_date": "2026-09-06T04:18:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ケーキ店で放火か 2人死亡3人搬送",
+          "link": "https://news.yahoo.co.jp/pickup/6594367?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T06:08:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京 八丈町に記録的短時間大雨の気象防災速報",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48392",
+          "description": "気象庁によりますと、東京 伊豆諸島の八丈町付近では、レーダーによる解析で午前6時40分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。 災害が発生する危険が迫っていることから、気象庁は…",
+          "pub_date": "2026-09-06T09:15:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東京・八丈町で大雨 1時間110ミリ",
+          "link": "https://news.yahoo.co.jp/pickup/6594374?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T07:39:12+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "村上宗隆 今季30号ホームラン 大リーグ1年目の日本選手で初",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48402",
+          "description": "大リーグ、ホワイトソックスの村上宗隆選手がツインズ戦で30号ホームランを打ちました。大リーグ1年目の日本選手が30号に到達したのは村上選手が初めてです。",
+          "pub_date": "2026-09-06T19:47:26+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "村上30号 日本選手新人で初の偉業",
+          "link": "https://news.yahoo.co.jp/pickup/6594382?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T08:56:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "悠仁さま 20歳の誕生日",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48356",
+          "description": "秋篠宮ご夫妻の長男の悠仁さまは6日、20歳の誕生日を迎えられました。",
+          "pub_date": "2026-09-06T00:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "悠仁さま20歳 成年皇族の歩み進め",
+          "link": "https://news.yahoo.co.jp/pickup/6594366?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T00:30:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プーチン大統領 トランプ大統領特使らとウクライナ情勢で会談",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48381",
+          "description": "ロシアのプーチン大統領とアメリカのトランプ大統領の側近、ウィトコフ特使らとの会談がモスクワで行われ、プーチン大統領はウクライナ情勢をめぐり政治的、外交的な解決策を見いだすため、アメリカとの協力を続ける…",
+          "pub_date": "2026-09-06T10:31:08+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露大統領 和平担当の米特使と会談",
+          "link": "https://news.yahoo.co.jp/pickup/6594371?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T07:42:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "国民民主党 代表選挙 玉木代表が再選",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48450",
+          "description": "任期満了に伴う国民民主党の代表選挙は6日、投開票が行われ、玉木代表が再選されました。 玉木氏は政策実現を主導できる勢力を得たうえで政権を担いたいとして、2028年の参議院選挙で非改選を含めて40議席以…",
+          "pub_date": "2026-09-06T19:35:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "国民民主党の代表選 玉木氏が3選",
+          "link": "https://news.yahoo.co.jp/pickup/6594419?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T14:24:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48221",
+          "description": "JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。 詳しい運転計画は決まり次第、発表する…",
+          "pub_date": "2026-09-06T05:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大雨予想で一部運休を発表 JR東",
+          "link": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T20:49:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48377",
+          "description": "本州の南岸付近にある秋雨前線が北上している影響で、伊豆諸島では激しい雨が降り「レベル４土砂災害危険警報」が発表されている地域があるほか、西日本や東日本の沿岸部でも雨雲が発達しています。 西日本から東北…",
+          "pub_date": "2026-09-06T18:33:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "関東・東海1都6県 線状降水帯恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6594405?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T12:08:35+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48427",
+          "description": "5日夜、岐阜県本巣市の店舗兼住宅で3人が死亡した火事で、現場にいたとみられる11人のうち、死亡した70歳の男性は建物の外で、ほかの10人は室内や屋根で見つかっていたことが警察への取材でわかりました。 …",
+          "pub_date": "2026-09-06T19:32:23+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ケーキ店火災 人が刺されたと通報",
+          "link": "https://news.yahoo.co.jp/pickup/6594380?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T08:31:35+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福岡 漁港で飛び込み大学生1人行方不明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48513",
+          "description": "6日夕方、福岡県岡垣町の漁港で、海に飛び込んで遊んでいた大学生1人が溺れて行方が分からなくなり、海上保安部が捜索しています。",
+          "pub_date": "2026-09-06T20:30:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "福岡の海岸で10代溺れ 行方不明",
+          "link": "https://news.yahoo.co.jp/pickup/6594459?source=rss",
+          "description": "",
+          "pub_date": "2026-09-06T20:13:16+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "東京 伊豆諸島南部に「線状降水帯直前予測」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48395",
+      "description": "気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が連な…",
+      "pub_date": "2026-09-06T07:17:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ネパール土石流 トンネルから新たに1人が救助 さらなる捜索へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48379",
+      "description": "ネパールと中国の国境付近で起きた大規模な土石流で、発生から10日たった5日、ネパール側のトンネルから新たに1人が救助されました。 ネパール政府は各国の救助隊の支援を受けてさらに捜索を進める方針です。",
+      "pub_date": "2026-09-06T06:41:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【伊豆諸島南部 大雨警戒】各地の状況は ライブ配信中",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48399",
+      "description": "大雨となっている各地の状況をライブ配信でお伝えしています。",
+      "pub_date": "2026-09-06T09:08:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260905de48255",
+      "description": "台風24号の影響で沖縄・奄美には発達した雨雲が次々に流れ込み鹿児島県の奄美地方で線状降水帯が発生したほか、沖縄県の沖縄本島北部でも「線状降水帯直前予測」の気象防災速報が発表されました。 命に危険が及…",
+      "pub_date": "2026-09-06T09:13:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「線状降水帯半日前予測」岩手 宮城 福島も 早めの対策を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48408",
+      "description": "気象庁は線状降水帯が発生する可能性があるとして、新たに岩手県、宮城県、それに福島県にも「線状降水帯半日前予測」を発表しました。",
+      "pub_date": "2026-09-06T16:21:58+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】線状降水帯の可能性 今後の見通しは 気象予報士解説",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48419",
+      "description": "今後の大雨の見通しについて、久保井朝美 気象予報士の解説です。",
+      "pub_date": "2026-09-06T12:25:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京 三宅村に「レベル4土砂災害危険警報」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48423",
+      "description": "気象庁は午前10時56分、東京・伊豆諸島の三宅村に「レベル4土砂災害危険警報」を発表しました。",
+      "pub_date": "2026-09-06T11:42:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京 三宅村に避難指示 すべての住民対象",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48443",
+      "description": "東京・伊豆諸島の三宅村で「レベル4土砂災害危険警報」が発表されたことを受けて、三宅村は午後0時30分にすべての住民を対象に避難指示を出しました。",
+      "pub_date": "2026-09-06T13:47:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "悠仁さま 20歳の誕生日 天皇皇后両陛下にあいさつ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48437",
+      "description": "秋篠宮ご夫妻の長男の悠仁さまは6日、天皇皇后両陛下と上皇ご夫妻に、20歳の誕生日を迎えたあいさつをされました。",
+      "pub_date": "2026-09-06T13:40:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "温風で文化財害虫駆除 日光東照宮の重要文化財建物で効果確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48400",
+      "description": "世界遺産に登録されている栃木県の日光東照宮にある国の重要文化財の建物に、温風を送り続け、害虫を駆除するという新たな技術が活用され、効果が確認されました。各地で深刻な被害が広がる文化財の害虫対策として注…",
+      "pub_date": "2026-09-06T15:16:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【随時更新】大雨交通影響 7日は山手線など本数減 運休区間も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48452",
+      "description": "太平洋側を中心に広い範囲で大雨が降るおそれがあることを受けて、一部の交通機関にも運休などの影響が出ます。",
+      "pub_date": "2026-09-06T22:35:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "くら寿司 人気キャラ景品のキャンペーン 従業員が横領で中止に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48460",
+      "description": "大手回転ずしチェーンの「くら寿司」は、人気キャラクターをあしらった湯のみなどの景品を提供するキャンペーンで、従業員が景品を横領したことが確認されたとしてキャンペーンを中止すると発表しました。",
+      "pub_date": "2026-09-06T16:33:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48469",
+      "description": "太平洋側を中心に広い範囲で大雨が降るおそれがあることを受けて、各地の学校で7日の臨時休校が決まっています。",
+      "pub_date": "2026-09-06T19:35:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ネパール土石流 トンネルに取り残された人たちの捜索続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48458",
+      "description": "ネパールと中国の国境付近で起きた大規模な土石流で、ネパール側では6日も、水力発電所のトンネルに取り残されている人たちの捜索が続いています。 土石流で道路や橋が寸断されるなか、軍の部隊が川に仮設の橋を設…",
+      "pub_date": "2026-09-06T20:37:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ＩＣＣ赤根所長が講演「法の支配への違法な脅しに沈黙せず」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48517",
+      "description": "ICC＝国際刑事裁判所のトップで、アメリカのトランプ政権により制裁が科された赤根智子所長が都内で開かれたイベントでオンラインで講演し、「法の支配に対する違法な脅しに沈黙することは、力による支配を是認す…",
+      "pub_date": "2026-09-06T20:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "神奈川 三浦市にレベル4土砂災害危険警報",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48534",
+      "description": "横浜地方気象台は午後10時13分、神奈川県三浦市にレベル4土砂災害危険警報を発表しました。 土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。 気象台は自治体からの避難の情報を確認…",
+      "pub_date": "2026-09-06T22:35:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島監督の長男 プロ志望届提出へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594369?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T07:17:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷3戦連続スタメン外 移籍後初",
+      "link": "https://news.yahoo.co.jp/pickup/6594368?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T07:13:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "乗っていた車の下敷きか 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6594377?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T08:09:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "出版業の倒産急増 利益が悪化傾向",
+      "link": "https://news.yahoo.co.jp/pickup/6594376?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T08:07:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海や関東 滝のような雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594381?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T08:39:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米軍 イランのタンカー3隻攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6594378?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T08:17:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電子図書館 全国自治体3割超導入",
+      "link": "https://news.yahoo.co.jp/pickup/6594388?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T09:31:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "私って臭い? 不安を和らげる方法",
+      "link": "https://news.yahoo.co.jp/pickup/6594390?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T09:39:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子供の「憧れの島」佐渡島が話題",
+      "link": "https://news.yahoo.co.jp/pickup/6594391?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T09:37:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "1都3県 あすにかけ線状降水帯恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594400?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T11:10:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "内閣改造 林芳正氏の去就焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6594375?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T07:56:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店2人死亡火災 知人関与か",
+      "link": "https://news.yahoo.co.jp/pickup/6594397?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T10:44:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「自分は臭い」と思い込み 対処法",
+      "link": "https://news.yahoo.co.jp/pickup/6594398?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T10:35:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コラボ中止のくら寿司 割引を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594399?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T11:01:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ピュアラルグミの販売終了を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594392?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T10:22:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松山千春がTUBE公演に 夢叶った",
+      "link": "https://news.yahoo.co.jp/pickup/6594401?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T11:06:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "衛星監視網100基超に増強 国検討",
+      "link": "https://news.yahoo.co.jp/pickup/6594393?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T10:12:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子どもの肥満 貧困と深い関係",
+      "link": "https://news.yahoo.co.jp/pickup/6594394?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T10:28:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ドパガキ」な娘2人 父語る実態",
+      "link": "https://news.yahoo.co.jp/pickup/6594402?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T11:51:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店火災で3人死亡 放火か",
+      "link": "https://news.yahoo.co.jp/pickup/6594408?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T12:35:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海水浴場で不明の男性 遺体で発見",
+      "link": "https://news.yahoo.co.jp/pickup/6594409?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T12:53:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "萩谷慧悟&渡辺みり愛 結婚を公表",
+      "link": "https://news.yahoo.co.jp/pickup/6594410?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T13:13:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海・関東 災害級大雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594412?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T13:34:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西山茉希 のめり込んだダイエット",
+      "link": "https://news.yahoo.co.jp/pickup/6594413?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T13:38:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くら寿司コラボ中止 客は落胆の声",
+      "link": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T13:51:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "安青錦の優勝パレード中止 悪天候",
+      "link": "https://news.yahoo.co.jp/pickup/6594415?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T14:13:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西山茉希語る 過酷なCanCam時代",
+      "link": "https://news.yahoo.co.jp/pickup/6594418?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T13:59:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店火災 同級生ら会合中か",
+      "link": "https://news.yahoo.co.jp/pickup/6594420?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T14:38:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「直パケレシピ」企業が次々公開",
+      "link": "https://news.yahoo.co.jp/pickup/6594403?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T11:56:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "玉木宏 柔術世界大会で3位",
+      "link": "https://news.yahoo.co.jp/pickup/6594421?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T15:15:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くら寿司巡る騒動 割引で収まる?",
+      "link": "https://news.yahoo.co.jp/pickup/6594424?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T15:34:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3連単5294万円 中山競馬場は騒然",
+      "link": "https://news.yahoo.co.jp/pickup/6594425?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T15:47:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海や関東 土砂災害など厳重警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594433?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T16:37:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国と沖縄の距離感 知事選の争点に",
+      "link": "https://news.yahoo.co.jp/pickup/6594417?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T14:07:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "5人死傷のケーキ店 地域で人気",
+      "link": "https://news.yahoo.co.jp/pickup/6594438?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T17:22:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「殺人ロボ」巡り文書合意 国連",
+      "link": "https://news.yahoo.co.jp/pickup/6594436?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T16:48:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "包丁の保有率 20代女性で9割切る",
+      "link": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T16:25:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G田中将大抹消 2戦連続白星なし",
+      "link": "https://news.yahoo.co.jp/pickup/6594435?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T16:55:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "金採掘か環境か 過疎の町の決断",
+      "link": "https://news.yahoo.co.jp/pickup/6594442?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T17:48:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "酒酔い運転疑いの男容態急変 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T18:15:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鈴木P ジブリ風AI画は面白くない",
+      "link": "https://news.yahoo.co.jp/pickup/6594440?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T17:32:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岡田准一 玉木宏の柔術3位を祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6594443?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T18:13:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北・関東・東海 線状降水帯恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594448?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T18:36:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長期金利上昇 市場が積極財政警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T17:36:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店火事 死亡の男性が関与か",
+      "link": "https://news.yahoo.co.jp/pickup/6594451?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T18:55:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ナイジェリア 拉致の被害が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6594452?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T19:12:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウ和平巡り米露会談 進展見られず",
+      "link": "https://news.yahoo.co.jp/pickup/6594445?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T18:34:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヘンリー王子警護 公費負担に議論",
+      "link": "https://news.yahoo.co.jp/pickup/6594456?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T19:43:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "90歳の車が川に転落 同乗の妻死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6594447?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T18:34:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA牧 死球受け怒りをあらわに",
+      "link": "https://news.yahoo.co.jp/pickup/6594457?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T20:03:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "野呂佳代 幼少期に織田裕二に恋",
+      "link": "https://news.yahoo.co.jp/pickup/6594455?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T19:42:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "島田麻央が圧巻V ジャンプで大技",
+      "link": "https://news.yahoo.co.jp/pickup/6594462?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T21:16:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海-東北の太平洋側で大雨 警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594468?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T22:34:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中道分裂 問われる野党の存在意義",
+      "link": "https://news.yahoo.co.jp/pickup/6594461?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T20:57:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店火災 男性の遺体に刺し傷",
+      "link": "https://news.yahoo.co.jp/pickup/6594471?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T22:39:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "IT各社 サイバー防御支援に商機",
+      "link": "https://news.yahoo.co.jp/pickup/6594458?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T20:06:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "息子を亡くし 病気の子支える女性",
+      "link": "https://news.yahoo.co.jp/pickup/6594467?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T22:13:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "坂口健太郎 一般女性との結婚発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594470?source=rss",
+      "description": "",
+      "pub_date": "2026-09-06T22:15:34+09:00"
+    }
+  ]
+}
