@@ -1,0 +1,720 @@
+{
+  "date": "2026-09-07",
+  "matched_at": "2026-09-07T21:45:38.772698+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大島町 利島村 新島村に土砂災害特別警報 千葉県でも大雨に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48631",
+          "description": "東京の伊豆諸島では記録的な大雨になっていて、大島町と利島村、新島村には「レベル5土砂災害特別警報」が発表されています。 引き続き安全な場所で過ごすようにしてください。 また8月に記録的な豪雨となった千…",
+          "pub_date": "2026-09-07T21:11:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "命守る行動を 大島町に特別警報",
+          "link": "https://news.yahoo.co.jp/pickup/6594529?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T13:00:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大雨交通影響 7日は山手線など本数減 運休区間も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48452",
+          "description": "大雨の影響で7日は、新幹線と首都圏の在来線など一部の交通機関で運休が決まっています。",
+          "pub_date": "2026-09-07T06:50:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "全国の鉄道・フライト 大雨影響",
+          "link": "https://news.yahoo.co.jp/pickup/6594503?source=rss",
+          "description": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
+          "pub_date": "2026-09-07T12:51:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "3人死亡火事は同級生の集まりで発生か 会社役員関与の可能性も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48555",
+          "description": "5日、岐阜県本巣市の店舗兼住宅で3人が死亡した火事で、現場には住人とその同級生合わせて10人が集まっていたとみられることが、警察への取材で分かりました。1人が人を刺してガソリンをまいたという通報があっ…",
+          "pub_date": "2026-09-07T04:07:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ケーキ店火災 死亡男性招かれずか",
+          "link": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T12:15:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東北新幹線 人身事故で運転見合わせ 東京と仙台の間 上下線",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48684",
+          "description": "JR東日本のホームページによりますと、東北新幹線は、宇都宮駅と那須塩原駅の間でおきた人身事故の影響で、東京駅と仙台駅の間の上下線で運転を見合わせています。 運転再開の見込みは立っていないということで…",
+          "pub_date": "2026-09-07T07:32:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東北新幹線一部見合わせ 人身事故",
+          "link": "https://news.yahoo.co.jp/pickup/6594492?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T07:46:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「ドイツのための選択肢」州議選で第1党確実 単独過半数焦点",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48669",
+          "description": "ドイツ東部のザクセン・アンハルト州で6日、州議会選挙が行われ、極右団体に認定された政党「ドイツのための選択肢」が第1党になるのは確実な情勢で、単独で過半数に達するかどうかが焦点です。",
+          "pub_date": "2026-09-07T07:38:04+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ドイツの極右政党 州議会選で圧勝",
+          "link": "https://news.yahoo.co.jp/pickup/6594522?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T12:29:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【被害】福島 いわき アンダーパスで水没した車の女性死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48714",
+          "description": "7日朝、福島県いわき市で、大雨の影響で冠水したアンダーパスで車2台が水没し、このうちの1台から60代の女性が救助されましたが、搬送先の病院で死亡が確認されました。",
+          "pub_date": "2026-09-07T19:30:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アンダーパスで車水没 1人死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6594525?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T12:44:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドジャース大谷 シーズン中の投手復帰困難 打者で7日復帰期待",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48723",
+          "description": "大リーグ、ドジャースで右腕や首の違和感で欠場が続く大谷翔平選手について、ロバーツ監督は6日、今シーズン中のピッチャーとしての復帰は難しいという考えを示しました。一方で、バッターとしてはこの日で4試合連…",
+          "pub_date": "2026-09-07T11:51:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大谷が今季の投手復帰断念か 背景",
+          "link": "https://news.yahoo.co.jp/pickup/6594517?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T15:21:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "伊豆諸島 大島町にレベル5土砂災害特別警報",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48755",
+          "description": "気象庁は午後0時半、伊豆諸島の大島町に「レベル5土砂災害特別警報」を発表しました。 5段階の警戒レベルのうち最も高いレベルにあたる情報で、最大級の警戒が必要です。 伊豆諸島では新島村にも「レベル5…",
+          "pub_date": "2026-09-07T12:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大島町と新島村 特別警報最新情報",
+          "link": "https://news.yahoo.co.jp/pickup/6594526?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T12:44:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "岐阜 洋菓子店放火疑い事件 警察が現場から複数の刃物押収",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48752",
+          "description": "5日、岐阜県本巣市の店舗兼住宅が放火された疑いがある事件で、現場から複数の刃物が押収されていたことが警察への取材でわかりました。 警察は、死亡した3人のうち会社役員の自宅を捜索するなど、役員が事件に…",
+          "pub_date": "2026-09-07T19:42:26+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ケーキ店火災 現場で携行缶発見",
+          "link": "https://news.yahoo.co.jp/pickup/6594573?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T20:09:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ゼレンスキー大統領 米特使らと会談「交渉再開させてくれた」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48654",
+          "description": "ウクライナのゼレンスキー大統領は6日、首都キーウを訪れたアメリカのウィトコフ特使らと会談し、停滞するロシアとの和平交渉について「特使らが交渉のプロセスを再開してくれた」と述べ、事態打開への期待を示しま…",
+          "pub_date": "2026-09-07T14:25:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米特使 ウ訪問し新和平案を提示",
+          "link": "https://news.yahoo.co.jp/pickup/6594493?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T08:39:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "伊豆諸島 利島村にレベル5土砂災害特別警報",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48791",
+          "description": "気象庁は午後3時、伊豆諸島の利島村に「レベル5土砂災害特別警報」を発表しました。 5段階の警戒レベルのうち最も高いレベルにあたる情報で、最大級の警戒が必要です。 伊豆諸島では大島町と新島村にも「レ…",
+          "pub_date": "2026-09-07T15:02:42+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "命守る行動を 利島村に特別警報",
+          "link": "https://news.yahoo.co.jp/pickup/6594542?source=rss",
+          "description": "",
+          "pub_date": "2026-09-07T15:25:37+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48377",
+      "description": "秋雨前線が北上している影響で、伊豆諸島や関東南部で大雨となり、土砂災害の危険度が非常に高まっています。 関東と東海、それに東北では線状降水帯が発生するおそれがあり、安全な場所で過ごすようにしてください…",
+      "pub_date": "2026-09-07T04:14:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ネパール土石流 中国がチベット側被災地を外国メディアに公開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48626",
+      "description": "中国外務省は、ネパールとの国境付近で起きた大規模な土石流で大きな被害を受けた、チベット自治区の現場を外国メディアに公開しました。 ロイター通信などが6日配信した映像では、国境検問所があった場所は一帯…",
+      "pub_date": "2026-09-07T06:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "全東信問題「決済代行は大手含め利用」 経産省調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48514",
+      "description": "決済代行サービスを行う「全東信」が経営破綻し、一部でクレジットカードが使えないなどの影響が広がったことを受けて、経済産業省は決済代行サービスの実態調査を進めていますが、これまでの調査で、大手カード会社…",
+      "pub_date": "2026-09-07T06:40:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イランが米に報復主張 ホルムズ海峡周辺で緊張続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48600",
+      "description": "イランの革命防衛隊は石油タンカーがアメリカ軍に攻撃されたことへの報復として6日、アメリカ軍の艦艇に向けて弾道ミサイルを発射したと主張し、ホルムズ海峡周辺で緊張した状態が続いています。",
+      "pub_date": "2026-09-07T07:16:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東北新幹線で人身事故 女性死亡 運転見合わせ約2時間半で再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48699",
+      "description": "7日朝、宇都宮市の東北新幹線の線路内で人と新幹線が接触する人身事故があり、接触した女性はその後、死亡が確認されました。 東北新幹線は運転を再開していて、警察で身元の確認などを進めています。",
+      "pub_date": "2026-09-07T11:41:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "メッツ 千賀 9回にリリーフ登板し無失点で6セーブ目",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48692",
+      "description": "大リーグ、メッツの千賀滉大投手は、ジャイアンツ戦で2点リードの9回にリリーフ登板し、無失点で締めくくって今シーズン6セーブ目をあげました。",
+      "pub_date": "2026-09-07T08:59:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日経平均株価 1500円超値上がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48732",
+      "description": "週明けの7日の東京株式市場、日経平均株価は一時、1500円以上値上がりしています。 先週末のニューヨーク株式市場でハイテク関連の銘柄が値上がりした流れを受けて、半導体関連の銘柄を中心に買い注文が広が…",
+      "pub_date": "2026-09-07T11:14:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】赤羽駅が混雑 大雨影響で一時本数減らし運行",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48710",
+      "description": "JR東日本によりますと、JR埼京線は大雨の影響で一時、運転本数を減らしていたということで、午前8時半すぎ、赤羽駅のホームは電車を待つ利用者であふれていました。",
+      "pub_date": "2026-09-07T12:08:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【解説】車が浸水してしまったら…どうすれば?",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48698",
+      "description": "各地で大雨が続いています。こうした中、千葉豪雨では1万台以上の車が浸水被害を受けたという情報もあり、ひとごとではありません。車が浸水したとき、どう対応すればいいのか、まとめました。",
+      "pub_date": "2026-09-07T11:40:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "伊豆諸島 大島町内全域に緊急安全確保",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48778",
+      "description": "伊豆諸島の大島町は、7日午後0時半、町内全域に「緊急安全確保」を発表しました。 対象は、3947世帯、7884人です。 また、新島村も、7日午前4時半、村内全域に「緊急安全確保」を発表しています。…",
+      "pub_date": "2026-09-07T13:49:58+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本製紙八代工場の火災 ドローンなどで現場状況詳しく調べる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48754",
+      "description": "ことし7月の熊本地震で9人が死亡した、日本製紙八代工場の解体作業中の煙突で起きた火事で、警察と消防は7日、ドローンを使うなどして現場の状況を詳しく調べています。",
+      "pub_date": "2026-09-07T13:57:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "土地の仕入れ装い脱税か 不動産管理会社を告発 東京国税局",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48756",
+      "description": "東京 港区の不動産管理会社が土地を仕入れたとして架空の経費を計上するなどし、法人税およそ4700万円を脱税したとして、東京国税局から告発されました。",
+      "pub_date": "2026-09-07T12:58:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京 伊豆諸島北部 線状降水帯発生のおそれ 直前予測を発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260906de48525",
+      "description": "気象庁は、東京の伊豆諸島北部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午後2時18分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が…",
+      "pub_date": "2026-09-07T14:34:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相 自民 小林氏 萩生田氏と人事などで意見交換",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48785",
+      "description": "高市総理大臣は、自民党の小林政務調査会長や萩生田幹事長代行と会談し、今月中にも行う方針の党の役員人事や内閣改造などをめぐって意見を交わしました。また党の組織改革についても話題に上ったということです。",
+      "pub_date": "2026-09-07T15:06:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】土砂災害特別警報の大島町 大粒の雨 激しく打ちつける",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48786",
+      "description": "「レベル5土砂災害特別警報」が発表された伊豆諸島の大島町で7日午後1時ごろに撮影された映像です。",
+      "pub_date": "2026-09-07T15:40:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "インドネシア噴火で国際空港など閉鎖 日本便も欠航相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48802",
+      "description": "インドネシアの火山で起きた大規模な噴火による火山灰の影響で、首都ジャカルタ近郊の国際空港などでは閉鎖が続いていて、日本を結ぶ便でも欠航が相次いでいます。",
+      "pub_date": "2026-09-07T15:58:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "横浜市 山中市長の辞職 市議会が同意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48811",
+      "description": "職員に対する重大なパワハラ行為が認められた横浜市の山中市長の辞職が、7日、市議会の本会議で同意されました。議会後、山中市長は任期途中での辞職を謝罪した一方、辞職に伴う選挙への対応については態度を明らか…",
+      "pub_date": "2026-09-07T19:22:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "景気拡大 戦後最長の見方も 7月景気動向指数「改善」維持",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48739",
+      "description": "ことし7月の景気動向指数は景気の現状を示す「一致指数」が前の月を1.7ポイント上回り、内閣府は「改善を示している」という景気の基調判断を維持しました。 専門家からは景気拡大が続いていた場合その期間が…",
+      "pub_date": "2026-09-07T19:41:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福島 いわき アンダーパス冠水の現場「音を立て 大量の水が」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48823",
+      "description": "福島県いわき市で車2台が水没し1人が死亡したアンダーパスで、7日午前7時50分すぎに撮影された画像です。",
+      "pub_date": "2026-09-07T19:08:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京・新島村に特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6594482?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T05:35:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東 朝の通勤・通学を大雨直撃か",
+      "link": "https://news.yahoo.co.jp/pickup/6594483?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T05:44:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アンダーパスで予防的規制 全国初",
+      "link": "https://news.yahoo.co.jp/pickup/6594484?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T05:48:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雨の関東 小中学校で休校相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6594487?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T07:26:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄知事選は古謝氏が先行 読売",
+      "link": "https://news.yahoo.co.jp/pickup/6594486?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T07:12:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "旧姓トルソワ 愛息を抱き取材対応",
+      "link": "https://news.yahoo.co.jp/pickup/6594485?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T06:26:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中田翔氏 数億円を自腹で野球施設",
+      "link": "https://news.yahoo.co.jp/pickup/6594491?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T07:49:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "坂口ら主演級俳優の結婚相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6594489?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T07:50:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "活発な雨雲 関東や東北で大雨警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594495?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T08:44:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G阿部前監督 騒動を振り返り心境",
+      "link": "https://news.yahoo.co.jp/pickup/6594496?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T09:00:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新宿区の民泊 住宅地の営業禁止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594497?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T09:13:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "監督辞任 阿部慎之助氏が騒動語る",
+      "link": "https://news.yahoo.co.jp/pickup/6594498?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T09:10:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車2台水没し1人意識不明 いわき市",
+      "link": "https://news.yahoo.co.jp/pickup/6594505?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T10:23:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "貨物機オーバーランし5人死亡 米",
+      "link": "https://news.yahoo.co.jp/pickup/6594502?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T10:13:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高知でガソリン看板価格調整 証言",
+      "link": "https://news.yahoo.co.jp/pickup/6594501?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T10:06:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東南部・東北など 土砂災害警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594509?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T11:05:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雨で道路影響 無理な移動避けて",
+      "link": "https://news.yahoo.co.jp/pickup/6594508?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T10:50:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SNSで急増 巧妙な「劇場型」詐欺",
+      "link": "https://news.yahoo.co.jp/pickup/6594504?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T10:28:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首撃たれ障害残る夫 時効に妻訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6594510?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T11:18:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "デニス・植野行雄が一時休養 発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594520?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T12:18:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジャニJr.に性加害した 男性証言",
+      "link": "https://news.yahoo.co.jp/pickup/6594512?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T11:52:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "俳優・品川徹さん死去 90歳",
+      "link": "https://news.yahoo.co.jp/pickup/6594532?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T13:24:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT放送 2週休止はピンチか",
+      "link": "https://news.yahoo.co.jp/pickup/6594527?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T13:02:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "みずほ楽天カード P還元率2%に",
+      "link": "https://news.yahoo.co.jp/pickup/6594530?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T13:25:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3党合流見送り 中道・野田氏謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6594528?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T13:01:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "OpenAI 独でのAI「暴走」認める",
+      "link": "https://news.yahoo.co.jp/pickup/6594531?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T13:38:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロシア軍機 北方領土を領空侵犯",
+      "link": "https://news.yahoo.co.jp/pickup/6594539?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T14:42:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "相手が独身偽装 悲しみ上回る衝撃",
+      "link": "https://news.yahoo.co.jp/pickup/6594523?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T12:49:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くら寿司がコラボ急きょ中止 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6594537?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T14:30:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "利島村などに特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6594541?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T15:29:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米海軍フリゲート候補 韓国優位か",
+      "link": "https://news.yahoo.co.jp/pickup/6594518?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T14:48:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "休養の瀬戸朝香 仕事再開を報告",
+      "link": "https://news.yahoo.co.jp/pickup/6594545?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T16:02:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "目黒蓮 カナダ生活9カ月に充実感",
+      "link": "https://news.yahoo.co.jp/pickup/6594543?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T15:51:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北 夕方〜今夜に線状降水帯恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594549?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T16:51:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "与良正男さん死去 元毎日新聞",
+      "link": "https://news.yahoo.co.jp/pickup/6594548?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T16:46:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高知の川でアユ大量死 7万匹か",
+      "link": "https://news.yahoo.co.jp/pickup/6594547?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T16:23:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "植野行雄の一時休養 妻がコメント",
+      "link": "https://news.yahoo.co.jp/pickup/6594533?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T13:39:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "円高進行 一時1ドル154円台前半",
+      "link": "https://news.yahoo.co.jp/pickup/6594561?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T18:17:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "品川徹さん死去 白い巨塔で教授役",
+      "link": "https://news.yahoo.co.jp/pickup/6594553?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T17:23:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伊豆諸島に特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6594570?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T19:27:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "110番通報対応のAI開発へ 警察庁",
+      "link": "https://news.yahoo.co.jp/pickup/6594560?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T18:10:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "6歳男児が行方不明 山形・酒田市",
+      "link": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T19:18:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「1000円」ジーンズ イオンが販売",
+      "link": "https://news.yahoo.co.jp/pickup/6594563?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T18:45:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国仲涼子 朝ドラで母親役「幸せ」",
+      "link": "https://news.yahoo.co.jp/pickup/6594567?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T19:13:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "一律休園の対応一転 千葉市で混乱",
+      "link": "https://news.yahoo.co.jp/pickup/6594569?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T19:29:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "続く苦難 また浸水のラーメン店",
+      "link": "https://news.yahoo.co.jp/pickup/6594571?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T19:49:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モンスーンジャイア観測 FNN同行",
+      "link": "https://news.yahoo.co.jp/pickup/6594574?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T20:07:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国仲涼子 25年ぶり朝ドラ「幸せ」",
+      "link": "https://news.yahoo.co.jp/pickup/6594572?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T19:38:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10日頃まで前線停滞か 厳重警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594575?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T20:35:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "坂口健太郎 結婚発表後初の公の場",
+      "link": "https://news.yahoo.co.jp/pickup/6594578?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T21:08:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Aimer 出産&事務所退所を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594577?source=rss",
+      "description": "",
+      "pub_date": "2026-09-07T20:50:55+09:00"
+    }
+  ]
+}
