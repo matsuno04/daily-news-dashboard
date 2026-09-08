@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "matched_at": "2026-09-08T21:45:43.302918+09:00",
+  "matched_at": "2026-09-09T01:50:16.625437+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -110,10 +110,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "高市首相 自民党役員人事 小林政調会長 留任の方向で調整",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48998",
-          "description": "高市総理大臣は、自民党の役員人事で、新たに小林政務調査会長を留任させる方向で調整に入りました。幅広い分野の政策に精通する小林氏を留任させ、重要政策を推し進める狙いがあるものとみられます。",
-          "pub_date": "2026-09-08T14:31:00+09:00"
+          "title": "自民役員会 党役員人事 高市首相に一任 来週にも人事行う方針",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48957",
+          "description": "自民党は役員会で、党の役員人事について総裁である高市総理大臣に一任することを決めました。 高市総理大臣は、早ければ来週にも人事を行う方針で、人選などの検討を進めることにしています。",
+          "pub_date": "2026-09-08T11:45:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -126,6 +126,26 @@
     },
     {
       "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【動画】三重 四日市駅前 マンホールから水噴き出す",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49015",
+          "description": "三重県四日市市にあるJR四日市駅前では、8日午後2時半ごろ、マンホールから強い勢いで水が噴き出している様子が見られました。 四日市市では午後になって雨が強まり、午後3時までの1時間には77ミリの非常…",
+          "pub_date": "2026-09-08T15:27:23+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "車水没 市は通報3分前に水位把握",
+          "link": "https://news.yahoo.co.jp/pickup/6594631?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T12:30:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -145,7 +165,27 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "三重 四日市 2万9110世帯に避難指示",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49024",
+          "description": "三重県四日市市は、市内を流れる鹿化川と天白川が氾濫するおそれがあるとして、午後2時45分、一部の地区の2万9110世帯、5万5126人に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情…",
+          "pub_date": "2026-09-08T15:48:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "名古屋市 60万世帯に緊急安全確保",
+          "link": "https://news.yahoo.co.jp/pickup/6594674?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T18:56:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -231,13 +271,6 @@
     },
     {
       "source": "NHK",
-      "title": "自民役員会 党役員人事 高市首相に一任 来週にも人事行う方針",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48957",
-      "description": "自民党は役員会で、党の役員人事について総裁である高市総理大臣に一任することを決めました。 高市総理大臣は、早ければ来週にも人事を行う方針で、人選などの検討を進めることにしています。",
-      "pub_date": "2026-09-08T11:45:00+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "7月の実質賃金 前年同月比2.4％増 7か月連続プラス",
       "link": "https://news.web.nhk/newsweb/na/nd-20260908de48898",
       "description": "ことし7月の働く人1人あたりの現金給与の総額は、基本給やボーナスなどが大きく伸びたため、前の年の同じ月と比べて4.7％増加し、4年7か月連続のプラスとなりました。また、物価を反映した実質賃金も2.4％…",
@@ -294,17 +327,17 @@
     },
     {
       "source": "NHK",
+      "title": "高市首相 自民党役員人事 小林政調会長 留任の方向で調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48998",
+      "description": "高市総理大臣は、自民党の役員人事で、新たに小林政務調査会長を留任させる方向で調整に入りました。幅広い分野の政策に精通する小林氏を留任させ、重要政策を推し進める狙いがあるものとみられます。",
+      "pub_date": "2026-09-08T14:31:00+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "自衛隊の医療体制強化に向けて 防衛・厚労両省が連携検討へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20260908de49004",
       "description": "自衛隊の医療体制の強化に向けて、小泉防衛大臣は、上野厚生労働大臣と会談し、一般の医療機関で、負傷した隊員の治療を行ったり、自衛隊の医官の研修を実施したりできるよう協力を求め、今後、具体的な連携のあり方…",
       "pub_date": "2026-09-08T14:43:14+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "【動画】三重 四日市駅前 マンホールから水噴き出す",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49015",
-      "description": "三重県四日市市にあるJR四日市駅前では、8日午後2時半ごろ、マンホールから強い勢いで水が噴き出している様子が見られました。 四日市市では午後になって雨が強まり、午後3時までの1時間には77ミリの非常…",
-      "pub_date": "2026-09-08T15:27:23+09:00"
     },
     {
       "source": "NHK",
@@ -319,13 +352,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260907de48796",
       "description": "気象庁は愛知県西部と、岐阜県美濃地方では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午後3時48分、「線状降水帯直前予測」の気象防災速報を発表しました。",
       "pub_date": "2026-09-08T16:01:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "三重 四日市 2万9110世帯に避難指示",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49024",
-      "description": "三重県四日市市は、市内を流れる鹿化川と天白川が氾濫するおそれがあるとして、午後2時45分、一部の地区の2万9110世帯、5万5126人に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情…",
-      "pub_date": "2026-09-08T15:48:05+09:00"
     },
     {
       "source": "NHK",
@@ -567,13 +593,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "車水没 市は通報3分前に水位把握",
-      "link": "https://news.yahoo.co.jp/pickup/6594631?source=rss",
-      "description": "",
-      "pub_date": "2026-09-08T12:30:44+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "英国王 ヘンリー王子らは「私人」",
       "link": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
       "description": "",
@@ -718,13 +737,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6593591?source=rss",
       "description": "",
       "pub_date": "2026-09-08T18:32:24+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "名古屋市 60万世帯に緊急安全確保",
-      "link": "https://news.yahoo.co.jp/pickup/6594674?source=rss",
-      "description": "",
-      "pub_date": "2026-09-08T18:56:19+09:00"
     },
     {
       "source": "Yahoo!ニュース",
