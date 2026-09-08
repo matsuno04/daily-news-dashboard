@@ -1,0 +1,786 @@
+{
+  "date": "2026-09-08",
+  "matched_at": "2026-09-08T21:45:43.302918+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大島町 利島村 新島村に土砂災害特別警報 千葉県でも大雨に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48631",
+          "description": "東京の伊豆諸島では、記録的な大雨になっていて、大島町と利島村、新島村には「レベル5土砂災害特別警報」が発表されています。 引き続き、安全な場所で過ごすようにしてください。 また、先月、記録的な豪雨とな…",
+          "pub_date": "2026-09-08T00:08:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "関東甲信・東海・四国 大雨の恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6594682?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T20:34:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "庄内川 レベル5氾濫特別警報 ほかの地域も線状降水帯おそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48909",
+          "description": "秋雨前線や熱帯低気圧の影響で、東海では線状降水帯が発生し猛烈な雨が降って、愛知県と岐阜県を流れる庄内川では「レベル5氾濫特別警報」が発表されています。 氾濫が発生している可能性があり気象庁などは少し…",
+          "pub_date": "2026-09-08T21:16:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "愛知・岐阜の庄内川 氾濫特別警報",
+          "link": "https://news.yahoo.co.jp/pickup/6594671?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T18:30:49+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "岐阜 洋菓子店3人死亡の放火疑い事件 “死亡役員が関与”証言",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48888",
+          "description": "岐阜県本巣市の洋菓子店兼住宅が焼けて3人が死亡し、放火の疑いがある事件で、現場から救助されて無事だった住人の同級生が、警察に対し「死亡した会社役員が事件に関与した」という趣旨の話をしていることが捜査関…",
+          "pub_date": "2026-09-08T04:35:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "グレート義太夫さん死去 67歳",
+          "link": "https://news.yahoo.co.jp/pickup/6594630?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T11:42:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "円相場 一時1ドル＝152円台まで値上がり 7か月ぶり",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48928",
+          "description": "8日の東京外国為替市場、日米が協調して円安是正への対応を取るのではないかという思惑などからドルを売って円を買う動きが加速し、円相場は、7か月ぶりに一時、1ドル＝152円台まで値上がりしました。",
+          "pub_date": "2026-09-08T12:48:43+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "一時1ドル152円台 約半年ぶり水準",
+          "link": "https://news.yahoo.co.jp/pickup/6594633?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T12:08:53+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "静岡 川根本町 工事現場で土砂崩れ 作業員1人巻き込まれる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48964",
+          "description": "8日午前、静岡県川根本町の工事現場で土砂崩れが発生し、警察や消防によりますと作業員1人が巻き込まれたということです。",
+          "pub_date": "2026-09-08T12:26:01+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "土砂崩れ作業員1人生き埋め 静岡",
+          "link": "https://news.yahoo.co.jp/pickup/6594622?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T10:59:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 自民党役員人事 小林政調会長 留任の方向で調整",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48998",
+          "description": "高市総理大臣は、自民党の役員人事で、新たに小林政務調査会長を留任させる方向で調整に入りました。幅広い分野の政策に精通する小林氏を留任させ、重要政策を推し進める狙いがあるものとみられます。",
+          "pub_date": "2026-09-08T14:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "小林鷹之政調会長留任へ 首相意向",
+          "link": "https://news.yahoo.co.jp/pickup/6594595?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T06:10:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東海道・山陽新幹線 運転見合わせ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49022",
+          "description": "JRによりますと、雨量が規制値を超えたため、東海道新幹線は名古屋駅と岐阜羽島駅の間の上下線で、8日午後3時24分から運転を見合わせていましたが、その後、運転見合わせの区間が拡大し、東海道・山陽新幹線は…",
+          "pub_date": "2026-09-08T16:29:09+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東海道・山陽新幹線 一部見合わせ",
+          "link": "https://news.yahoo.co.jp/pickup/6594658?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T16:52:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "愛知 岐阜 庄内川にレベル5氾濫特別警報 気象庁と国交省会見",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49099",
+          "description": "気象庁と国土交通省は庄内川にレベル5氾濫特別警報を発表したことについて、午後7時20分から会見を開きました。",
+          "pub_date": "2026-09-08T21:15:09+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中継 特別警報受け気象庁など会見",
+          "link": "https://news.yahoo.co.jp/pickup/6594675?source=rss",
+          "description": "",
+          "pub_date": "2026-09-08T19:20:24+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "中国 日本製半導体関連物質をダンピング認定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48891",
+      "description": "中国政府は、半導体の製造工程で使われる化学物質「ジクロロシラン」のうち日本からの輸入品の価格が不当に安く抑えられているとして事実上の関税措置をとると発表しました。",
+      "pub_date": "2026-09-08T06:09:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "無人機対策　ウクライナで漁業用網の再利用進む",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48908",
+      "description": "ロシアの無人機による攻撃が相次ぐウクライナで、使われなくなった漁業用の網を再利用して、被害を防ぐための対策が進められています。",
+      "pub_date": "2026-09-08T05:01:08+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "金融庁 超長期の住宅ローン審査を重点的にモニタリング",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48880",
+      "description": "金利の上昇や住宅価格の高騰を背景に、返済期間の長い住宅ローンの取り扱いが増えているとして、金融庁は利用者の収入などに照らして適切なローンが組まれているかなど、金融機関を重点的にモニタリングしていく方針…",
+      "pub_date": "2026-09-08T06:30:01+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドイツ州議選 メルツ首相 州政府成立に協力しない姿勢強調",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48914",
+      "description": "ドイツ東部ザクセン・アンハルト州の州議会選挙で、極右団体に認定された政党「ドイツのための選択肢」が第1党に躍進したことについて、メルツ首相は結果を受け入れる考えを示す一方、州政府の成立に向けては協力し…",
+      "pub_date": "2026-09-08T05:11:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民党役員人事と内閣改造 来週にも実施で調整 国会審議備え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48893",
+      "description": "高市総理大臣は、自民党の役員人事と内閣改造に向けて、日程や人選などの検討を本格化させています。早ければ来週にも実施する方向で調整していて、政権の骨格は維持し、臨時国会での法案審議などに備えるものとみら…",
+      "pub_date": "2026-09-08T05:44:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシア ウクライナ和平でアメリカ交えた協議再開排除せず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48912",
+      "description": "アメリカのウィトコフ特使らがロシアとウクライナの両首脳と相次いで会談したことに関連し、ロシア大統領府の報道官は、アメリカも交えたウクライナとの和平をめぐる3か国の高官協議の再開を排除しない考えを示しま…",
+      "pub_date": "2026-09-08T09:12:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "4-6月GDP改定値 上方修正 「個人消費」小幅プラスに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48932",
+      "description": "ことし4月から6月までのGDP＝国内総生産の改定値は、実質の伸び率が年率換算でプラス1.4％と、先月発表された速報値のプラス1.1％から上方修正されました。 最新の統計を反映した結果、「個人消費」が…",
+      "pub_date": "2026-09-08T11:30:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "7月の経常収支 2兆9000億円余の黒字 2か月ぶり黒字",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48944",
+      "description": "財務省が発表したことし7月の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は2兆9889億円の黒字でした。",
+      "pub_date": "2026-09-08T10:22:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "仏モンサンミシェルと厳島神社がある廿日市市が観光で交流",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48933",
+      "description": "世界遺産に登録されているフランスの観光地モンサンミシェルと厳島神社がある広島県廿日市市が食などの分野で交流を進めることをアピールする催しが7日、パリで開かれました。",
+      "pub_date": "2026-09-08T10:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民役員会 党役員人事 高市首相に一任 来週にも人事行う方針",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48957",
+      "description": "自民党は役員会で、党の役員人事について総裁である高市総理大臣に一任することを決めました。 高市総理大臣は、早ければ来週にも人事を行う方針で、人選などの検討を進めることにしています。",
+      "pub_date": "2026-09-08T11:45:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "7月の実質賃金 前年同月比2.4％増 7か月連続プラス",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48898",
+      "description": "ことし7月の働く人1人あたりの現金給与の総額は、基本給やボーナスなどが大きく伸びたため、前の年の同じ月と比べて4.7％増加し、4年7か月連続のプラスとなりました。また、物価を反映した実質賃金も2.4％…",
+      "pub_date": "2026-09-08T14:04:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領「ボンバルディア機販売禁止」カナダをけん制",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48956",
+      "description": "アメリカがカナダに追加関税を発動し、カナダも対抗措置を打ち出すなか、トランプ大統領は、カナダの航空機大手ボンバルディアの航空機のアメリカでの販売を禁止するとSNSに投稿し、けん制しました。",
+      "pub_date": "2026-09-08T11:50:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "岐阜 洋菓子店3人死亡事件 現場にガソリン携行缶 放火に使用か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48967",
+      "description": "岐阜県本巣市の洋菓子店兼住宅が焼け3人が死亡した事件で、現場からガソリンの携行缶が見つかっていたことが捜査関係者への取材でわかりました。警察は放火に使われたとみて、周辺のガソリンスタンドでガソリンを購…",
+      "pub_date": "2026-09-08T12:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "木原官房長官 中国の事実上の関税措置 影響生じないよう対応",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48958",
+      "description": "中国政府が半導体の製造工程で使われる化学物質のうち、日本からの輸入品の価格が安く抑えられているとして事実上の関税措置をとると発表したことについて、木原官房長官は、日本企業の事業活動に不当な影響が生じな…",
+      "pub_date": "2026-09-08T12:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台東区 民泊新規営業を住宅地などで認めない方針 来年1月から",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48960",
+      "description": "浅草や上野といった人気の観光地がある東京・台東区は、民泊の利用者によるマナー違反が深刻化しているとして、来年1月から、住宅地などでは新たな民泊の営業を認めない方針を固めました。",
+      "pub_date": "2026-09-08T12:34:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関東と山梨県・東海・四国 線状降水帯半日前予測",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48994",
+      "description": "気象庁は、8日午後4時9分、東京23区と多摩地方、茨城県、埼玉県、神奈川県、千葉県、山梨県、静岡県、愛知県、岐阜県、三重県、徳島県、高知県では今後、線状降水帯が発生する可能性があるとして、「線状降水帯…",
+      "pub_date": "2026-09-08T17:06:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "たけし軍団メンバー お笑い芸人のグレート義太夫さん死去",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de48990",
+      "description": "「たけし軍団」のメンバーとして民放のバラエティー番組などで活躍した、お笑い芸人のグレート義太夫さんが7日、亡くなりました。67歳でした。",
+      "pub_date": "2026-09-08T13:39:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相 概算要求過去最大“補正予算依存から脱却”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49005",
+      "description": "来年度予算案の概算要求の総額が過去最大となったことについて高市総理大臣は自民党の役員会で、補正予算への依存から脱却し、恒常的な施策を計上したものだとした上で、年末の予算編成での絞り込みに向けて党で活発…",
+      "pub_date": "2026-09-08T14:35:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自衛隊の医療体制強化に向けて 防衛・厚労両省が連携検討へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49004",
+      "description": "自衛隊の医療体制の強化に向けて、小泉防衛大臣は、上野厚生労働大臣と会談し、一般の医療機関で、負傷した隊員の治療を行ったり、自衛隊の医官の研修を実施したりできるよう協力を求め、今後、具体的な連携のあり方…",
+      "pub_date": "2026-09-08T14:43:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】三重 四日市駅前 マンホールから水噴き出す",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49015",
+      "description": "三重県四日市市にあるJR四日市駅前では、8日午後2時半ごろ、マンホールから強い勢いで水が噴き出している様子が見られました。 四日市市では午後になって雨が強まり、午後3時までの1時間には77ミリの非常…",
+      "pub_date": "2026-09-08T15:27:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】大雨で道路冠水や地下鉄駅の浸水 被害状況は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49034",
+      "description": "今回の大雨の影響で各地で被害が出ています。 各地の状況をまとめています。",
+      "pub_date": "2026-09-08T21:15:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知県西部 岐阜県美濃地方 「線状降水帯直前予測」発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48796",
+      "description": "気象庁は愛知県西部と、岐阜県美濃地方では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午後3時48分、「線状降水帯直前予測」の気象防災速報を発表しました。",
+      "pub_date": "2026-09-08T16:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "三重 四日市 2万9110世帯に避難指示",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49024",
+      "description": "三重県四日市市は、市内を流れる鹿化川と天白川が氾濫するおそれがあるとして、午後2時45分、一部の地区の2万9110世帯、5万5126人に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情…",
+      "pub_date": "2026-09-08T15:48:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】名古屋市営地下鉄の栄駅 改札付近まで水",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49043",
+      "description": "名古屋市営地下鉄の栄駅で午後4時すぎに撮影した映像では、階段をつたって改札付近まで水が流れ込んできている様子が確認できます。流れ込んできた水は、駅員が端のほうへはけていました。",
+      "pub_date": "2026-09-08T17:00:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "長野県南部に「線状降水帯直前予測」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49060",
+      "description": "気象庁は、長野県南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午後4時58分、「線状降水帯直前予測」の気象防災速報を発表しました。",
+      "pub_date": "2026-09-08T17:22:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知 長久手付近で「記録的短時間大雨」災害の危険迫る",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49059",
+      "description": "気象庁によりますと、愛知県長久手市付近ではレーダーによる解析で午後5時までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。 災害の危険が迫っていることから、気象庁は「記録的短時間大雨」の気…",
+      "pub_date": "2026-09-08T17:19:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知と岐阜を流れる庄内川に「レベル5 氾濫特別警報」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49093",
+      "description": "気象庁と国土交通省は午後6時20分、愛知県と岐阜県を流れる庄内川にレベル5氾濫特別警報を発表しました。 5段階の警戒レベルのうち最も高いレベルにあたる情報で、最大級の警戒が必要です。",
+      "pub_date": "2026-09-08T18:24:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】名古屋 地下鉄の平安通駅 ホームでは天井から大量の水",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49073",
+      "description": "名古屋市にある地下鉄の平安通駅で、8日午後4時半ごろに撮影された映像です。 地下にある駅構内の床に水がたまり、改札付近には「閉鎖」と記載された看板が立てられています。 さらに下の階にある電車のホー…",
+      "pub_date": "2026-09-08T18:28:58+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "名古屋市 「緊急安全確保」の地域拡大 14の区117万人余に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49074",
+      "description": "名古屋市は、午後5時55分、市内を流れる河川の氾濫の可能性が非常に高まっているとして、「緊急安全確保」の地域を拡大しました。",
+      "pub_date": "2026-09-08T20:17:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】名古屋「アンダーパスなど冠水 車が動けず」通報も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49072",
+      "description": "名古屋市港区を管轄する警察署によりますと、管内ではアンダーパスなどが冠水し、車が動けなくなっているという通報が相次いでいるということです。 車に乗っていた人は全員自力で脱出し、閉じ込められている人は…",
+      "pub_date": "2026-09-08T17:36:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】名古屋 市営バス車内も浸水",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49094",
+      "description": "名古屋市西区を走る市営バスの車内で9月8日午後4時半ごろ撮影された映像です。 バスの外では乗降口の高さくらいまで茶色い水がたまっていて、これらの水が乗降口の下側の隙間から車内に入り込んでいます。 …",
+      "pub_date": "2026-09-08T18:58:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知 瀬戸 一部に緊急安全確保 河川氾濫の可能性 非常に高まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49112",
+      "description": "愛知県瀬戸市は午後6時40分、市内を流れる河川の氾濫の可能性が非常に高まっているとして「緊急安全確保」を出しました。",
+      "pub_date": "2026-09-08T19:05:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民党役員人事 内閣改造 早ければ来週16日 17日にも実施へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49092",
+      "description": "自民党は役員会で、党の役員人事を総裁である高市総理大臣に一任することを決めました。政府・与党内では、早ければ来週16日に党役員人事、17日に内閣改造を行う日程が検討されていて、高市総理大臣は人選などの…",
+      "pub_date": "2026-09-08T21:21:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知 瀬戸 床下浸水の通報はおよそ10件 消防が確認進める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49121",
+      "description": "愛知県瀬戸市の消防によりますと、午後5時すぎの時点で住宅などが「床下浸水になっている」という通報がおよそ10件入っているということで、消防が確認を進めています。",
+      "pub_date": "2026-09-08T19:31:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イオンモール熊本の爆発受け経産省で制度対応の検討始まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49095",
+      "description": "熊本県嘉島町の「イオンモール熊本」で起きた大規模な爆発を受けて、経済産業省の審議会で、法令やガイドラインの見直しなど再発防止に向けた制度面での対応についての議論が始まりました。",
+      "pub_date": "2026-09-08T18:54:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京 野川と仙川に「レベル4氾濫危険警報」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49154",
+      "description": "気象庁と東京都は8日午後9時10分、都内を流れる野川と仙川に「レベル4氾濫危険警報」を発表しました。 水位が上昇していて、今後氾濫するおそれがあります。 野川と仙川で警戒が呼びかけられているのは東…",
+      "pub_date": "2026-09-08T21:17:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ホルムズ海峡の代替ルート 紅海周辺でも情勢悪化の懸念",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49084",
+      "description": "中東のホルムズ海峡の代替ルートになっている紅海の周辺でイランが支援するイエメンの反政府勢力が隣国サウジアラビアのエネルギー施設などを攻撃し、情勢のさらなる悪化が懸念されています。",
+      "pub_date": "2026-09-08T20:51:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "四国-東北南部で大雨恐れ 警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6594599?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T07:18:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "金利上昇 住宅ローン返済者ら悩み",
+      "link": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T06:48:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンガの言葉 データベース整備へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594596?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T06:29:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷5戦ぶりにスタメン 監督発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594598?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T07:23:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "維新 閣僚ポスト「1枠」を要求",
+      "link": "https://news.yahoo.co.jp/pickup/6594604?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T08:24:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "親睦行事の駅伝で夫熱中症死 提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6594601?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T07:52:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G石塚裕惺20歳 4番プラン浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6594600?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T07:55:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "唐田えりか 韓国人役で映画主演",
+      "link": "https://news.yahoo.co.jp/pickup/6594603?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T08:00:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "一時1ドル153円台 約半年ぶり水準",
+      "link": "https://news.yahoo.co.jp/pickup/6594610?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T09:01:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英JLR 従業員4000人を削減へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594613?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T09:15:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "早朝に窓叩く音 女性保護した母娘",
+      "link": "https://news.yahoo.co.jp/pickup/6594607?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T09:17:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡の海岸に遺体 不明の大学生か",
+      "link": "https://news.yahoo.co.jp/pickup/6594611?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T09:23:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世界分断した9.11 今も米社会に影",
+      "link": "https://news.yahoo.co.jp/pickup/6594618?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T10:08:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豪雨で車被災 負担重なり生活圧迫",
+      "link": "https://news.yahoo.co.jp/pickup/6594605?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T08:17:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ぼる塾久々に4人そろう 酒寄緊張",
+      "link": "https://news.yahoo.co.jp/pickup/6594617?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T09:57:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10日まで大雨恐れ 道路への影響大",
+      "link": "https://news.yahoo.co.jp/pickup/6594620?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T10:36:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡の海岸に遺体 不明19歳と確認",
+      "link": "https://news.yahoo.co.jp/pickup/6594627?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T11:26:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小田急駅員の胸元にカメラ 効果は",
+      "link": "https://news.yahoo.co.jp/pickup/6594623?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T11:08:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エッフェル塔 ストライキで閉鎖",
+      "link": "https://news.yahoo.co.jp/pickup/6594629?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T11:45:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くみっきー 第3子出産を報告",
+      "link": "https://news.yahoo.co.jp/pickup/6594637?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T12:22:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車水没 市は通報3分前に水位把握",
+      "link": "https://news.yahoo.co.jp/pickup/6594631?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T12:30:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英国王 ヘンリー王子らは「私人」",
+      "link": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T09:41:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岩佐真悠子氏 介護士としてCMに",
+      "link": "https://news.yahoo.co.jp/pickup/6594632?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T12:07:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海 9日朝にかけ線状降水帯恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594642?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T13:37:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "銀行の「個人マネー争奪戦」激化",
+      "link": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T09:38:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷 今季の投手復帰断念を明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6594641?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T13:29:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "義太夫さん 死去当日もブログ更新",
+      "link": "https://news.yahoo.co.jp/pickup/6594639?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T13:09:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本人が望まぬ心肺蘇生の運用 調査",
+      "link": "https://news.yahoo.co.jp/pickup/6594645?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T14:31:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "デヴィ夫人に罰金20万円を求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6594649?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T15:00:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ビートたけし 義太夫さんを追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6594646?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T14:44:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東甲信9日にかけ線状降水帯恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594651?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T15:18:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡女性遺体 殺人容疑で3人逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6594653?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T15:41:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Suicaペンギンの後継 3候補発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594654?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T16:12:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岡本和真が豪快弾 6試合ぶり29号",
+      "link": "https://news.yahoo.co.jp/pickup/6594640?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T13:21:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛知・岐阜に「線状降水帯」発生",
+      "link": "https://news.yahoo.co.jp/pickup/6594660?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T16:56:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "園児から「しね」手紙 いじめ相当",
+      "link": "https://news.yahoo.co.jp/pickup/6594659?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T16:55:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海道・山陽新幹線 運転を再開",
+      "link": "https://news.yahoo.co.jp/pickup/6594663?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T17:39:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中道 立憲系と公明系議員が離党へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594661?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T17:20:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露最後の独総領事館が閉鎖へ 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6594647?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T15:32:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロッテ一筋19年 唐川が引退会見",
+      "link": "https://news.yahoo.co.jp/pickup/6594667?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T18:06:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東国原英夫氏 義太夫さんを追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6594643?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T16:38:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "安全確保を 大雨のときのNG行動",
+      "link": "https://news.yahoo.co.jp/pickup/6593591?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T18:32:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "名古屋市 60万世帯に緊急安全確保",
+      "link": "https://news.yahoo.co.jp/pickup/6594674?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T18:56:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海地方で大雨 現地のSNS投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6594666?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T18:17:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛知岐阜で氾濫特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6594681?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T20:25:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "名古屋の1時間雨量 観測史上最大",
+      "link": "https://news.yahoo.co.jp/pickup/6594677?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T19:52:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雨で大きく波打つ川 名古屋市",
+      "link": "https://news.yahoo.co.jp/pickup/6594678?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T20:13:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日銀 今月の会合で利上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6594679?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T20:16:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ突然の円高に 背景と見通し",
+      "link": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T19:53:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福島大やゆする動画 復興相が苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6594668?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T18:12:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "気象庁「直ちに身の安全確保を」",
+      "link": "https://news.yahoo.co.jp/pickup/6594683?source=rss",
+      "description": "",
+      "pub_date": "2026-09-08T21:24:38+09:00"
+    }
+  ]
+}
