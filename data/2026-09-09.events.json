@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "matched_at": "2026-09-09T21:45:43.155729+09:00",
+  "matched_at": "2026-09-10T01:53:16.194832+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -72,8 +72,8 @@
           "source": "NHK",
           "title": "【動画】名古屋 大雨 23人けが 路上で動けない車両200台以上",
           "link": "https://news.web.nhk/newsweb/na/nd-20260909de49220",
-          "description": "8日に浸水や冠水の被害が相次いだ名古屋市内、一夜明けた様子を取材しました。 愛知県は9日正午時点での県内の被害状況について発表し、あわせて23人が軽いけがをしたということです。 また、名古屋市によ…",
-          "pub_date": "2026-09-09T18:01:43+09:00"
+          "description": "8日に浸水や冠水の被害が相次いだ名古屋市内、一夜明けた様子を取材しました。 愛知県は9日正午時点での県内の被害状況について発表し、あわせて23人が軽いけがをしたということです。また、名古屋市によりま…",
+          "pub_date": "2026-09-09T22:12:05+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -110,6 +110,46 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "ネパール土石流 発生から2週間 国際社会に支援呼びかけへ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49138",
+          "description": "ネパールと中国の国境付近で大規模な土石流が発生してから9日で2週間となり、両国ではこれまでに1400人以上が死亡し、5000人以上の行方がわからなくなっています。現地では、被災者の生活再建やインフラの…",
+          "pub_date": "2026-09-09T20:31:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ネパール土石流がれき220万t 試算",
+          "link": "https://news.yahoo.co.jp/pickup/6594779?source=rss",
+          "description": "",
+          "pub_date": "2026-09-09T20:06:38+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "香川 三豊 市内全域に避難指示 河川氾濫と土砂災害のおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49243",
+          "description": "香川県三豊市は河川の氾濫と土砂災害が発生するおそれが高まっているとして、9日午前8時40分に市内全域の2万6468世帯、5万9254人に避難指示を出しました。 危険な場所から全員避難するよう呼びかけ…",
+          "pub_date": "2026-09-09T10:49:27+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東北〜近畿で大雨 災害に厳重警戒",
+          "link": "https://news.yahoo.co.jp/pickup/6594749?source=rss",
+          "description": "",
+          "pub_date": "2026-09-09T15:18:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "米軍がイランのタンカー攻撃 イランは米軍基地にミサイル攻撃",
           "link": "https://news.web.nhk/newsweb/na/nd-20260909de49247",
           "description": "中東地域を管轄するアメリカ中央軍は、イラン側から艦艇を狙ったミサイル攻撃を受けたとしてイランの原油タンカー5隻を攻撃し、一方、イランの革命防衛隊は報復として、ヨルダンにあるアメリカ軍基地を弾道ミサイル…",
@@ -125,7 +165,7 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0009",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -145,7 +185,7 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0010",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -165,7 +205,7 @@
       }
     },
     {
-      "event_id": "evt-0009",
+      "event_id": "evt-0011",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -185,7 +225,7 @@
       }
     },
     {
-      "event_id": "evt-0010",
+      "event_id": "evt-0012",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -205,7 +245,7 @@
       }
     },
     {
-      "event_id": "evt-0011",
+      "event_id": "evt-0013",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -225,7 +265,7 @@
       }
     },
     {
-      "event_id": "evt-0012",
+      "event_id": "evt-0014",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -241,6 +281,26 @@
           "link": "https://news.yahoo.co.jp/pickup/6594709?source=rss",
           "description": "",
           "pub_date": "2026-09-09T09:00:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0015",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "将棋「王位戦」藤井聡太六冠が防衛 7連覇を果たす",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49392",
+          "description": "将棋の八大タイトルの1つ、「王位戦」七番勝負の第6局が神奈川県で行われ、藤井聡太六冠（24）が、挑戦者の伊藤匠二冠（23）に勝って、「王位」のタイトル7連覇を果たしました。",
+          "pub_date": "2026-09-09T22:42:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "藤井聡太王位が7連覇 激闘を制す",
+          "link": "https://news.yahoo.co.jp/pickup/6594781?source=rss",
+          "description": "",
+          "pub_date": "2026-09-09T20:21:10+09:00"
         }
       }
     }
@@ -304,13 +364,6 @@
     },
     {
       "source": "NHK",
-      "title": "ネパール土石流 発生から2週間 国際社会に支援呼びかけへ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260908de49138",
-      "description": "ネパールと中国の国境付近で大規模な土石流が発生してから9日で2週間となり、両国ではこれまでに1400人以上が死亡し、5000人以上の行方がわからなくなっています。現地では、被災者の生活再建やインフラの…",
-      "pub_date": "2026-09-09T20:31:53+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "フランスの美術館で印象派ルノアールの絵画盗まれる",
       "link": "https://news.web.nhk/newsweb/na/nd-20260909de49215",
       "description": "フランス南部にある印象派の画家ルノアールの自宅兼アトリエを公開した美術館から、ルノアールの絵画2点が盗まれました。地元メディアなどは被害額があわせて900万ユーロ、日本円でおよそ16億円にのぼると伝え…",
@@ -322,13 +375,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260909de49228",
       "description": "9日未明、茨城県常陸大宮市で住宅の擁壁が崩れ、近くの住民が一時、避難しました。",
       "pub_date": "2026-09-09T10:26:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "香川 三豊 市内全域に避難指示 河川氾濫と土砂災害のおそれ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260909de49243",
-      "description": "香川県三豊市は河川の氾濫と土砂災害が発生するおそれが高まっているとして、9日午前8時40分に市内全域の2万6468世帯、5万9254人に避難指示を出しました。 危険な場所から全員避難するよう呼びかけ…",
-      "pub_date": "2026-09-09T10:49:27+09:00"
     },
     {
       "source": "NHK",
@@ -364,6 +410,13 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260909de49274",
       "description": "「トランプ大統領は支持基盤を活性化させるため、今回の党大会に賭けている」 11月の中間選挙を前に党大会を開くトランプ大統領のねらいについて、こう話すのはアメリカの政治や選挙に詳しい専門家です。 長…",
       "pub_date": "2026-09-09T18:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "行方不明高齢者の介護保険料 家族負担を免除可能に 厚労省通知",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260909de49396",
+      "description": "認知症の高齢者などが行方不明となったあとも家族が介護保険料を負担していることについて、厚生労働省は全額免除できるとする方針を初めて示し、各都道府県に通知しました。",
+      "pub_date": "2026-09-09T22:32:20+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -563,13 +616,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "東北〜近畿で大雨 災害に厳重警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6594749?source=rss",
-      "description": "",
-      "pub_date": "2026-09-09T15:18:51+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "子宮全摘でぼうこう裂け 壮絶闘病",
       "link": "https://news.yahoo.co.jp/pickup/6594746?source=rss",
       "description": "",
@@ -689,17 +735,52 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "藤井聡太王位が7連覇 激闘を制す",
-      "link": "https://news.yahoo.co.jp/pickup/6594781?source=rss",
-      "description": "",
-      "pub_date": "2026-09-09T20:21:10+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "鉄塔から転落 点検の従業員が死亡",
       "link": "https://news.yahoo.co.jp/pickup/6594782?source=rss",
       "description": "",
       "pub_date": "2026-09-09T20:49:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "応用進む医療AI 学習偏るとリスク",
+      "link": "https://news.yahoo.co.jp/pickup/6594755?source=rss",
+      "description": "",
+      "pub_date": "2026-09-09T16:23:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "人工内耳つけた子 育児奔走した母",
+      "link": "https://news.yahoo.co.jp/pickup/6594793?source=rss",
+      "description": "",
+      "pub_date": "2026-09-09T22:24:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "毒物浴び院生死亡 北大に市が指導",
+      "link": "https://news.yahoo.co.jp/pickup/6594767?source=rss",
+      "description": "",
+      "pub_date": "2026-09-09T17:42:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日 今季リーグ優勝の可能性消滅",
+      "link": "https://news.yahoo.co.jp/pickup/6594790?source=rss",
+      "description": "",
+      "pub_date": "2026-09-09T21:47:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "櫻坂46・松田里奈 年内卒業を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594794?source=rss",
+      "description": "",
+      "pub_date": "2026-09-09T22:38:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ミセス約1カ月の夏季休暇終了報告",
+      "link": "https://news.yahoo.co.jp/pickup/6594792?source=rss",
+      "description": "",
+      "pub_date": "2026-09-09T22:21:08+09:00"
     }
   ]
 }
