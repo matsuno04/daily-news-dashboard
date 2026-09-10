@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "summarized_at": "2026-09-10T21:45:38.162983+09:00",
+  "summarized_at": "2026-09-11T01:40:44.914809+09:00",
   "model": "claude-haiku-4-5-20251001",
   "summaries": [
     {
@@ -20,11 +20,21 @@
       "representative_link": "https://news.yahoo.co.jp/pickup/6594818?source=rss",
       "body_excerpt": "野球解説者の張本勲さん死去 86歳\n【訃報】野球解説者の張本勲さん（86）が死去 日本プロ野球史上初の通算3000本安打など数多くの大記録\nTBS NEWS DIG Powered by JNN\n元プロ野球選手で野球解説者の張本勲さんが亡くなりました。86歳でした。",
       "headline": "野球解説者の張本勲さん死去 86歳",
-      "summary": "元プロ野球選手で野球解説者の張本勲さんが亡くなった。86歳。日本プロ野球史上初の通算3000本安打など数多くの大記録を残した。",
+      "summary": "元プロ野球選手で野球解説者の張本勲さんが亡くなった。日本プロ野球史上初の通算3000本安打など数多くの大記録を残した。",
       "category": "スポーツ"
     },
     {
       "event_id": "evt-0003",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "張本勲さん死去 プロ野球3000安打",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6594820?source=rss",
+      "body_excerpt": "張本勲さん死去 プロ野球3000安打\n【訃報】野球解説者の張本勲さん（86）が死去 日本プロ野球史上初の通算3000安打など数多くの大記録\nTBS NEWS DIG Powered by JNN\n元プロ野球選手で野球解説者の張本勲さんが亡くなりました。86歳でした。",
+      "headline": "張本勲さん死去 86歳",
+      "summary": "元プロ野球選手で野球解説者の張本勲さんが亡くなった。日本プロ野球史上初の通算3000安打など数多くの大記録を残した。",
+      "category": "スポーツ"
+    },
+    {
+      "event_id": "evt-0004",
       "representative_source": "Yahoo!ニュース",
       "representative_title": "高野山の宿坊 集団申告漏れ指摘",
       "representative_link": "https://news.yahoo.co.jp/pickup/6594798?source=rss",
@@ -34,7 +44,17 @@
       "category": "経済"
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "感染性ある口蹄疫 空港検疫で確認",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6594879?source=rss",
+      "body_excerpt": "感染性ある口蹄疫 空港検疫で確認9/10(木) 18:13共同通信感染性ある口蹄疫ウイルス初確認 新千歳空港検疫でヤギの生肉から共同通信679解説コメント679件農林水産省は10日、新千歳空港で1月に中国からの乗客が持ち込もうとしたヤギの生肉から、感染性のある口蹄疫ウイルスを確認したと明らかにした。動物検疫で摘発した肉などから口蹄疫ウイルスが見つかったのは初めて。水際で摘発しており、国内への侵入は阻止したという。記事全文を読む",
+      "headline": "感染性ある口蹄疫ウイルス 新千歳空港で初確認",
+      "summary": "農林水産省は、新千歳空港で1月に中国からの乗客が持ち込もうとしたヤギの生肉から、感染性のある口蹄疫ウイルスを確認した。動物検疫で摘発した肉などから口蹄疫ウイルスが見つかったのは初めてで、水際で摘発され国内への侵入は阻止された。",
+      "category": "社会"
+    },
+    {
+      "event_id": "evt-0006",
       "representative_source": "Yahoo!ニュース",
       "representative_title": "大谷がIL入り ロバーツ監督明言",
       "representative_link": "https://news.yahoo.co.jp/pickup/6594857?source=rss",
@@ -44,7 +64,7 @@
       "category": "スポーツ"
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0007",
       "representative_source": "Yahoo!ニュース",
       "representative_title": "新名神6人死亡 被告に拘禁7年求刑",
       "representative_link": "https://news.yahoo.co.jp/pickup/6594845?source=rss",
@@ -54,7 +74,7 @@
       "category": "社会"
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0008",
       "representative_source": "Yahoo!ニュース",
       "representative_title": "千葉豪雨解析 気象庁の担当も驚き",
       "representative_link": "https://news.yahoo.co.jp/pickup/6594890?source=rss",

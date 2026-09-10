@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "matched_at": "2026-09-10T21:45:34.867903+09:00",
+  "matched_at": "2026-09-11T01:40:41.397189+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -30,10 +30,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "張本勲さん死去 86歳 プロ野球最多安打 解説者では「喝！」",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260910de49426",
-          "description": "プロ野球最多の3085本のヒットを打ち、「安打製造機」と呼ばれた張本勲さんが9日、亡くなりました。 86歳でした。 これはプロ野球で功績を残した選手をたたえるべく発足した「名球会」が発表しました。",
-          "pub_date": "2026-09-10T19:25:20+09:00"
+          "title": "ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260910de49414",
+          "description": "アメリカでもっとも権威のある医学賞とされる「ラスカー賞」のことしの受賞者が発表され、筑波大学の柳沢正史教授と中外製薬の研究者3人が選ばれました。",
+          "pub_date": "2026-09-10T06:35:32+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -46,6 +46,26 @@
     },
     {
       "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "張本勲さん死去 86歳 プロ野球最多安打 解説者では「喝！」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260910de49426",
+          "description": "プロ野球最多の3085本のヒットを打ち、「安打製造機」と呼ばれた張本勲さんが9日、亡くなりました。 86歳でした。 これはプロ野球で功績を残した選手をたたえるべく発足した「名球会」が発表しました。",
+          "pub_date": "2026-09-10T19:25:20+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "張本勲さん死去 プロ野球3000安打",
+          "link": "https://news.yahoo.co.jp/pickup/6594820?source=rss",
+          "description": "",
+          "pub_date": "2026-09-10T09:56:00+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -65,7 +85,27 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "家畜の感染症「口てい疫」感染性のあるウイルスが検疫で初検出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260910de49458",
+          "description": "ことし1月、国内の空港で海外からの入国者が持ち込もうとした生肉から家畜の感染症「口てい疫」の感染性のあるウイルスが検出されたことが、農林水産省動物検疫所などの調べでわかりました。動物検疫で見つかった肉…",
+          "pub_date": "2026-09-10T12:20:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "感染性ある口蹄疫 空港検疫で確認",
+          "link": "https://news.yahoo.co.jp/pickup/6594879?source=rss",
+          "description": "",
+          "pub_date": "2026-09-10T18:13:10+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -85,7 +125,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,7 +145,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -149,13 +189,6 @@
     },
     {
       "source": "NHK",
-      "title": "ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260910de49414",
-      "description": "アメリカでもっとも権威のある医学賞とされる「ラスカー賞」のことしの受賞者が発表され、筑波大学の柳沢正史教授と中外製薬の研究者3人が選ばれました。",
-      "pub_date": "2026-09-10T06:35:32+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "東京 狛江 強盗致死事件 実行役の被告 無期懲役確定へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20260910de49410",
       "description": "「ルフィ」などと名乗る指示役による広域強盗事件のうち、東京 狛江市の住宅で高齢の女性が死亡した事件で、強盗致死などの罪に問われた実行役の55歳の被告について、最高裁判所は上告を退ける決定をし、無期懲役…",
@@ -181,13 +214,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260910de49443",
       "description": "企業などのデータを暗号化して金銭などを要求するサイバー攻撃、「ランサムウエア」の被害がことし上半期で123件にのぼり、半年間の件数としては最も多くなったことが警察庁のまとめでわかりました。復旧にかかる…",
       "pub_date": "2026-09-10T10:59:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "家畜の感染症「口てい疫」感染性のあるウイルスが検疫で初検出",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260910de49458",
-      "description": "ことし1月、国内の空港で海外からの入国者が持ち込もうとした生肉から家畜の感染症「口てい疫」の感染性のあるウイルスが検出されたことが、農林水産省動物検疫所などの調べでわかりました。動物検疫で見つかった肉…",
-      "pub_date": "2026-09-10T12:20:00+09:00"
     },
     {
       "source": "NHK",
@@ -321,13 +347,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6594815?source=rss",
       "description": "",
       "pub_date": "2026-09-10T09:08:40+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "張本勲さん死去 プロ野球3000安打",
-      "link": "https://news.yahoo.co.jp/pickup/6594820?source=rss",
-      "description": "",
-      "pub_date": "2026-09-10T09:56:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -664,6 +683,48 @@
       "link": "https://news.yahoo.co.jp/pickup/6594896?source=rss",
       "description": "",
       "pub_date": "2026-09-10T20:32:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東など 通勤時間帯に雷雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594906?source=rss",
+      "description": "",
+      "pub_date": "2026-09-10T23:28:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "欧州中銀 0.25%の利上げ決定",
+      "link": "https://news.yahoo.co.jp/pickup/6594903?source=rss",
+      "description": "",
+      "pub_date": "2026-09-10T22:47:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "半導体巡る日中摩擦 企業に影響は",
+      "link": "https://news.yahoo.co.jp/pickup/6594883?source=rss",
+      "description": "",
+      "pub_date": "2026-09-10T22:14:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "正恩氏後継は兄いても娘 韓国見解",
+      "link": "https://news.yahoo.co.jp/pickup/6594905?source=rss",
+      "description": "",
+      "pub_date": "2026-09-10T23:00:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "上田綺世 移籍で見えた「再現性」",
+      "link": "https://news.yahoo.co.jp/pickup/6594882?source=rss",
+      "description": "",
+      "pub_date": "2026-09-10T20:48:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "朝倉未来 青木真也に159秒で勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6594901?source=rss",
+      "description": "",
+      "pub_date": "2026-09-10T21:50:09+09:00"
     }
   ]
 }
