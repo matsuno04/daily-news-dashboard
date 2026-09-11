@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "matched_at": "2026-09-11T21:46:07.211815+09:00",
+  "matched_at": "2026-09-12T01:45:13.908080+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -201,6 +201,26 @@
           "link": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
           "description": "",
           "pub_date": "2026-09-11T16:25:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "俳優 森本レオさん死去 83歳 俳優・ナレーターとして活躍",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260911de49814",
+          "description": "多くの映画やドラマに出演したほか、独特の穏やかで優しい語り口を生かし、ナレーターとしても活躍した俳優の森本レオさんが今月4日、亡くなりました。 83歳でした。",
+          "pub_date": "2026-09-11T21:40:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "俳優の森本レオさんが死去",
+          "link": "https://news.yahoo.co.jp/pickup/6594989?source=rss",
+          "description": "",
+          "pub_date": "2026-09-11T21:19:16+09:00"
         }
       }
     }
@@ -422,6 +442,20 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260911de49756",
       "description": "秋田県内にある公務員宿舎の共益費を横領したなどとして有罪が確定した新潟簡易裁判所の裁判官について、国会の裁判官訴追委員会は罷免すべきかどうか審理する弾劾裁判所に訴追しました。",
       "pub_date": "2026-09-11T20:28:08+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ 8月の消費者物価指数 去年同月比3.4％の上昇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49799",
+      "description": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が11日発表され、8月は、去年の同じ月と比べて3.4％の上昇となりました。 伸び率は、7月と同じでしたが、依然として高い水準となっています。",
+      "pub_date": "2026-09-11T21:50:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ラグビー日本代表 12日の米戦前に調整 来年のW杯の対戦相手",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49776",
+      "description": "ラグビー日本代表は、12日行われる国際大会「パシフィックネーションズカップ」のアメリカ戦を前に試合会場で調整し、フッカーの原田衛選手は来年のワールドカップでも対戦する相手との一戦を前に「フィジカルの強…",
+      "pub_date": "2026-09-11T21:42:53+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -768,13 +802,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "俳優の森本レオさんが死去",
-      "link": "https://news.yahoo.co.jp/pickup/6594989?source=rss",
-      "description": "",
-      "pub_date": "2026-09-11T21:19:16+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "中国 日本人ビザ約7.5倍に値上げ",
       "link": "https://news.yahoo.co.jp/pickup/6594984?source=rss",
       "description": "",
@@ -786,6 +813,48 @@
       "link": "https://news.yahoo.co.jp/pickup/6594982?source=rss",
       "description": "",
       "pub_date": "2026-09-11T20:31:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フーシ派が海峡周辺掌握 原油急騰",
+      "link": "https://news.yahoo.co.jp/pickup/6594994?source=rss",
+      "description": "",
+      "pub_date": "2026-09-11T22:46:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "同時テロ25年 ドローンでビル再現",
+      "link": "https://news.yahoo.co.jp/pickup/6594986?source=rss",
+      "description": "",
+      "pub_date": "2026-09-11T21:37:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木原氏 岸田氏アンケ巡る発言謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6594991?source=rss",
+      "description": "",
+      "pub_date": "2026-09-11T22:28:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海岸に遺体 不明生徒との関連捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6594996?source=rss",
+      "description": "",
+      "pub_date": "2026-09-11T23:16:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "割烹こめを代表 衛生実態巡り説明",
+      "link": "https://news.yahoo.co.jp/pickup/6594987?source=rss",
+      "description": "",
+      "pub_date": "2026-09-11T21:43:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Tシャツが乾くまで最終回 X反応",
+      "link": "https://news.yahoo.co.jp/pickup/6594992?source=rss",
+      "description": "",
+      "pub_date": "2026-09-11T22:06:30+09:00"
     }
   ]
 }
