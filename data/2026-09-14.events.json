@@ -1,0 +1,789 @@
+{
+  "date": "2026-09-14",
+  "matched_at": "2026-09-14T21:45:26.620065+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48826",
+          "description": "13日、投票が行われた沖縄県知事選挙は、自民・維新両党や国民民主党など6党から推薦を受けた新人の古謝玄太氏が、現職の玉城デニー氏らを抑えて初めての当選を果たしました。",
+          "pub_date": "2026-09-14T08:06:55+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "古謝氏当選 辺野古容認へ県政転換",
+          "link": "https://news.yahoo.co.jp/pickup/6595199?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T00:10:35+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "政府・与党 沖縄県知事選 古謝氏当選で辺野古移設推進",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50006",
+          "description": "13日、投票が行われた沖縄県知事選挙で新人の古謝玄太氏が当選したことを受けて、政府・与党は、アメリカ軍普天間基地の名護市辺野古への移設計画を着実に進めるとともに、沖縄経済の振興に向けて県政を後押しして…",
+          "pub_date": "2026-09-14T05:30:41+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "高市首相 沖縄新知事と「連携」",
+          "link": "https://news.yahoo.co.jp/pickup/6595234?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T11:39:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "維新 中司幹事長の入閣調整 今週にも自民党役員人事 内閣改造",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50001",
+          "description": "高市総理大臣は、今週にも、自民党の役員人事と内閣改造を行う方針で、新たに連立を組む日本維新の会から中司幹事長を入閣させる方向で調整に入りました。",
+          "pub_date": "2026-09-14T05:12:35+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "維新・中司幹事長の入閣調整",
+          "link": "https://news.yahoo.co.jp/pickup/6595207?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T07:16:13+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【詳細】中部電力 調査委報告書“原因に経営層の理解の欠如”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50027",
+          "description": "中部電力は、浜岡原子力発電所の審査で地震の想定に関するデータを改ざんしていた問題について14日、調査委員会の報告書を公表しました。 この中では、不正なデータ操作などが行われた原因の1つとして、自分た…",
+          "pub_date": "2026-09-14T15:23:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中部電力 データ不正で調査報告書",
+          "link": "https://news.yahoo.co.jp/pickup/6595243?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T12:07:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "沖縄県知事選 初当選の古謝氏が一夜明け抱負",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50046",
+          "description": "13日投票が行われた沖縄県知事選挙で初当選した古謝玄太氏が、選挙から一夜明けた14日朝、報道陣の取材に応じ、「県民の声を聞きながら、暮らしや経済、子育て支援を前に進めたい」と抱負を語りました。",
+          "pub_date": "2026-09-14T13:39:02+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "沖縄知事選 得票差に古謝氏驚き",
+          "link": "https://news.yahoo.co.jp/pickup/6595254?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T13:44:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ブルージェイズ 岡本和真 日本選手トップの32号ホームラン",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50018",
+          "description": "大リーグ、ブルージェイズの岡本和真選手はオリオールズ戦で日本選手トップに立つ32号ホームランを打ち、チームは2連勝としました。",
+          "pub_date": "2026-09-14T11:15:20+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "岡本和真が豪快32号 3者連続弾",
+          "link": "https://news.yahoo.co.jp/pickup/6595203?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T06:21:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京女子医大背任事件 元職員と建築士に猶予付き有罪判決",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50056",
+          "description": "東京女子医科大学の元理事長と共謀して、大学に2億8000万円あまりの損害を与えたとして、背任の罪に問われた大学の元職員と建築士に対し、東京地方裁判所は執行猶予の付いた有罪判決を言い渡しました。",
+          "pub_date": "2026-09-14T13:06:34+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ネイリスト殺害 起訴内容を認める",
+          "link": "https://news.yahoo.co.jp/pickup/6595230?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T11:15:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "中部電力“浜岡原発 3・4号機 審査申請取り下げ”【会見詳細】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50053",
+          "description": "中部電力は、浜岡原子力発電所3号機と4号機の再稼働に必要となる国の審査で地震の想定に関するデータを改ざんしていた問題で、林欣吾社長と勝野哲会長が責任を取って辞任するとともに、審査の申請を取り下げること…",
+          "pub_date": "2026-09-14T19:42:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "浜岡原発 再稼働の申請取り下げ",
+          "link": "https://news.yahoo.co.jp/pickup/6595258?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T14:27:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "演歌歌手 松原のぶえさん死去「おんなの出船」などのヒット曲",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50079",
+          "description": "「おんなの出船」などのヒット曲で知られる演歌歌手の松原のぶえさんが13日亡くなりました。 65歳でした。",
+          "pub_date": "2026-09-14T13:30:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "演歌歌手・松原のぶえさん死去",
+          "link": "https://news.yahoo.co.jp/pickup/6595229?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T10:23:12+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "熊本地震 爆発のイオンモール 一般向け献花台 きょうまで",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50136",
+          "description": "ことし7月、地震のあとに起きた爆発で7人が亡くなった熊本県嘉島町の「イオンモール熊本」では、14日で一般向けの献花台の設置を終えることにしていて、午前中から亡くなった人を悼む人たちの姿が見られました。",
+          "pub_date": "2026-09-14T16:16:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "イオン爆発 事故調査委が現地調査",
+          "link": "https://news.yahoo.co.jp/pickup/6595275?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T17:19:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福岡空港 全日空旅客機に地上の車両が接触 けが人なし",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50118",
+          "description": "14日午前、福岡空港のターミナルの前で待機していた全日空の旅客機に、地上の車両が接触しました。全日空によりますと、けが人はいないということです。",
+          "pub_date": "2026-09-14T15:49:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ANA機とタラップ車接触 福岡空港",
+          "link": "https://news.yahoo.co.jp/pickup/6595248?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T12:46:47+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "社会保険料抑える違法行為 厚労省指導で１万人余が資格喪失",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50173",
+          "description": "勤務実態がないにもかかわらず、社会保険が適用される法人の役員に就任して保険料を低く抑える違法行為をめぐり、厚生労働省は、38の事業者が指導に応じ、あわせて1万1000人あまりが被保険者の資格を失ったと…",
+          "pub_date": "2026-09-14T21:01:04+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "38社で1万1610人「国保逃れ」確認",
+          "link": "https://news.yahoo.co.jp/pickup/6595292?source=rss",
+          "description": "",
+          "pub_date": "2026-09-14T20:30:02+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "秋雨前線停滞で大気不安定 兵庫で記録的短時間大雨 安全確保を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50014",
+      "description": "秋雨前線の影響で、14日は東北の日本海側で局地的に大雨となったほか、東海や近畿でも雨雲は発達し、兵庫県では猛烈な雨が降ったとみられます。 前線は15日にかけて南下するため、北日本から西日本の広い範囲…",
+      "pub_date": "2026-09-14T20:43:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナとポーランド結ぶ旅客列車にロシアが無人機攻撃",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50007",
+      "description": "ウクライナ国営の鉄道会社は13日、隣国のポーランドを結ぶ旅客列車がロシアの無人機による攻撃を受けたと発表しました。けが人はいませんでしたが、現場近くには攻撃の直前まで、イギリスのジョンソン元首相など外…",
+      "pub_date": "2026-09-14T07:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中部電力きょう会見へ 林社長 勝野会長が辞意固める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260913de49991",
+      "description": "中部電力は浜岡原子力発電所3号機と4号機の審査で地震の想定に関するデータを改ざんしていた問題で14日、記者会見を開きます。関係者によりますと林欣吾社長と勝野哲会長の経営トップ2人は辞任する意向を固めて…",
+      "pub_date": "2026-09-14T04:36:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉豪雨“屋外での移動危険”避難所開設しない判断の自治体も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260913de50000",
+      "description": "8月の千葉豪雨では、避難の目安となるレベル4危険警報が発表される中、一部の自治体は屋外での移動が危険だとして避難指示を出さなかったり、避難所を開設しなかったりした対応をとったことがNHKの取材で分かり…",
+      "pub_date": "2026-09-14T05:45:01+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山梨 富士山での遭難防止へ対策案まとまる 防災ヘリ有料化も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50016",
+      "description": "富士山で相次ぐ遭難事故の対策を強化するため、山梨県は登山の自粛を求めている閉山期間中に山に登る場合は事前の届け出を義務化することや防災ヘリコプターによる救助費用の有料化などの制度案をまとめたことが県関…",
+      "pub_date": "2026-09-14T07:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR埼京線 大崎～大宮間 湘南新宿ライン全線 運転見合わせ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50023",
+      "description": "JR東日本によりますと、埼京線は人身事故の影響で大崎駅と大宮駅の間の上下線で午前8時10分ごろから運転を見合わせています。",
+      "pub_date": "2026-09-14T08:54:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国の首都 北京でドローン保有禁止へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50012",
+      "description": "中国の首都北京でことし11月からドローンの保有が禁止されることになりました。北京では6月に中心部の高層ビルに小型機が衝突する事件が起きていて、当局が空域の安全管理に神経をとがらせているものとみられます…",
+      "pub_date": "2026-09-14T07:28:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ミュンヘン国際音楽コンクール 日本の弦楽四重奏グループ３位",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50002",
+      "description": "若手音楽家の登竜門として知られるドイツの国際音楽コンクールの弦楽四重奏部門で、日本人4人でつくる「カルテット風雅」が3位に選ばれました。",
+      "pub_date": "2026-09-14T07:16:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 アイルランド産ウイスキー関税撤廃の方針表明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50035",
+      "description": "アメリカのトランプ大統領は13日、訪問先のアイルランドで、アイルランドから輸入されるウイスキーの関税を撤廃する考えを表明しました。",
+      "pub_date": "2026-09-14T11:30:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋篠宮さま 悠仁さま 気仙沼でかつおの水揚げ視察",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50057",
+      "description": "13日から宮城県気仙沼市を訪れている秋篠宮さまと長男の悠仁さまは14日朝、生鮮かつおの水揚げが盛んな市内の魚市場を視察されました。",
+      "pub_date": "2026-09-14T13:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "カナダ EUと経済協力で新構想検討か 米有力紙報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50072",
+      "description": "アメリカの有力紙は、カナダのカーニー首相が、EU＝ヨーロッパ連合への加盟に準ずる形でEUとの経済協力などを深める新たな構想を検討していると伝えました。",
+      "pub_date": "2026-09-14T13:03:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋田市の住宅地で道路冠水 水につかって動かなくなる車も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50077",
+      "description": "秋田市では14日、大雨の影響で市内の住宅地で道路が冠水し、通行しようとした車が引き返す様子や、マンホールのふたが水に浮いている様子が見られました。また、家の前の駐車場にとめていた車がタイヤの半分ほどま…",
+      "pub_date": "2026-09-14T13:34:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "万博のミャクミャクがヘリで空を大移動 新たな展示場所へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50146",
+      "description": "大阪・関西万博で来場者を出迎えた公式キャラクター「ミャクミャク」のモニュメントが、大阪と奈良との境にある山の広場に新たに展示されることになり、14日、ヘリコプターでの大移動が行われました。",
+      "pub_date": "2026-09-14T19:41:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "普通免許で運転できるトラック 運送会社が導入 人手不足背景に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50130",
+      "description": "人手不足を背景に外国人やほかの業界からの採用を進めようと、大手運送会社が普通免許でも運転できるトラックを新たに導入しました。",
+      "pub_date": "2026-09-14T16:34:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大河ドラマ「豊臣兄弟！」 特別展を前に内覧会",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50144",
+      "description": "大河ドラマ「豊臣兄弟！」の放送に合わせて、主人公・豊臣秀長のゆかりの品などを集めた特別展が都内で始まるのを前に、14日、関係者向けの内覧会が開かれました。",
+      "pub_date": "2026-09-14T16:50:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ネイリスト殺害事件初公判 被害者 事件前AIにストーカー相談か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50150",
+      "description": "去年12月に水戸市でネイリストの女性が殺害された事件で、殺人とストーカー規制法違反の罪に問われている元交際相手の被告の裁判が14日から水戸地方裁判所で始まり、被告は起訴された内容を認めました。",
+      "pub_date": "2026-09-14T18:11:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋篠宮さま 悠仁さま 陸前高田市の診療所を訪問",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50147",
+      "description": "秋篠宮さまと長男の悠仁さまは14日、岩手県陸前高田市を訪れ、東日本大震災後の地域医療を担ってきた診療所を視察されました。",
+      "pub_date": "2026-09-14T17:56:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市内閣支持率53％ 不支持31％ NHK世論調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50073",
+      "description": "NHKの世論調査によりますと、高市内閣を「支持する」と答えた人は、8月の調査と変わらず53％だったのに対し、「支持しない」と答えた人は2ポイント下がって31％でした。",
+      "pub_date": "2026-09-14T19:00:19+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "バレー男子日本代表ロス五輪へ 石川祐希「メダルが最終目標」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50152",
+      "description": "バレーボール男子の日本代表がロサンゼルスオリンピックの出場権獲得から一夜明けて会見し、キャプテンの石川祐希選手は「ここがゴールではなく、メダルを取ることが最終目標だ」と56年ぶりのメダル獲得へ決意を示…",
+      "pub_date": "2026-09-14T19:05:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東海道・山陽新幹線 運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50174",
+      "description": "JR東海とJR西日本によりますと、東海道・山陽新幹線は、大雨の影響で一部の区間で運転を見合わせていましたが、午後7時55分に運転を再開しました。",
+      "pub_date": "2026-09-14T20:12:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震速報】熊本 八代市で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260910de49608",
+      "description": "14日午後7時36分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は熊本県熊本地方で震源の深さはごく浅く、地震の規模を示すマグニチュードは4.0と推定されます。 各市町村…",
+      "pub_date": "2026-09-14T19:44:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "兵庫県たつの市付近 「記録的短時間大雨」の気象防災速報",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50182",
+      "description": "気象庁によりますと、兵庫県たつの市付近では、レーダーによる解析で午後7時50分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。 災害の危険が迫っていることから、気象庁は「記録的短時間大…",
+      "pub_date": "2026-09-14T20:09:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "民事裁判の“証拠”どう扱う？民事訴訟法改正の検討始まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50045",
+      "description": "「検察なめんなよ」「検察庁を敵視するということは反社」 これらは刑事事件の取り調べでの検事の発言で、民事裁判の証拠として国が映像を開示したものです。 弁護士が一般に公開するなどして、検察の取り…",
+      "pub_date": "2026-09-14T20:06:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "江崎グリコ アーモンド飲料 約10万本自主回収 細菌混入で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260914de50180",
+      "description": "大手菓子メーカーの「江崎グリコ」は、製造過程で細菌が混入して風味が劣化し品質基準に満たないとして、アーモンドを使用した飲料の一部、10万本余りを自主回収すると発表しました。 飲んだ場合でも健康への影…",
+      "pub_date": "2026-09-14T20:32:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店主の死因 熱傷性ショック",
+      "link": "https://news.yahoo.co.jp/pickup/6595208?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T07:16:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事故で車降りた男性 はねられ死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6595202?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T06:12:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "死去の張本勲さん 坂本勇人への愛",
+      "link": "https://news.yahoo.co.jp/pickup/6595206?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T06:57:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT最終回は11月8日 残り6話",
+      "link": "https://news.yahoo.co.jp/pickup/6595205?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T06:48:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄知事選 古謝氏が過去最多得票",
+      "link": "https://news.yahoo.co.jp/pickup/6595213?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T07:52:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 軽油高騰巡りウに要求",
+      "link": "https://news.yahoo.co.jp/pickup/6595214?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T07:58:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MF佐野航大 圧巻スーパーミドル",
+      "link": "https://news.yahoo.co.jp/pickup/6595216?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T08:16:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アメフト試合中止 契約違反を巡り",
+      "link": "https://news.yahoo.co.jp/pickup/6595210?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T07:39:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NY原油が上昇 供給停滞に懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6595222?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T09:09:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨 車両1万5000台が被害か",
+      "link": "https://news.yahoo.co.jp/pickup/6595220?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T08:46:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "テニスVの瞬間に選手が気づかず",
+      "link": "https://news.yahoo.co.jp/pickup/6595221?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T09:07:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "野口五郎 娘との紅白出演が濃厚",
+      "link": "https://news.yahoo.co.jp/pickup/6595219?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T08:40:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本海側 激しい雨や落雷に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6595217?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T08:17:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "工場でガス爆発か 従業員3人けが",
+      "link": "https://news.yahoo.co.jp/pickup/6595228?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T10:20:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "浦和レッズ 複数の体調不良者発生",
+      "link": "https://news.yahoo.co.jp/pickup/6595225?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T09:42:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT人気声優6人起用 告知なし",
+      "link": "https://news.yahoo.co.jp/pickup/6595227?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T09:51:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄知事選で古謝氏当選 各党反応",
+      "link": "https://news.yahoo.co.jp/pickup/6595224?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T09:42:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "抗議の退社 AI開発に懸念相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6595226?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T10:19:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "少年院に入る子ども増加傾向 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6595237?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T11:54:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "とうもろこし「もろ活」SNS話題",
+      "link": "https://news.yahoo.co.jp/pickup/6595240?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T11:55:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松本人志 回復順調で手術前倒しへ",
+      "link": "https://news.yahoo.co.jp/pickup/6595246?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T12:23:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI巡る懸念 トランプ氏は重視せず",
+      "link": "https://news.yahoo.co.jp/pickup/6595235?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T11:47:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国で「はま寿司」急拡大 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6595241?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T12:22:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダウン症の子6年の生涯 CMに反響",
+      "link": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T12:36:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "りくりゅう 婚約発表後初の公の場",
+      "link": "https://news.yahoo.co.jp/pickup/6595244?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T12:29:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松原のぶえさん死去 今月番組参加",
+      "link": "https://news.yahoo.co.jp/pickup/6595249?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T12:58:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中継 データ不正巡り中部電が会見",
+      "link": "https://news.yahoo.co.jp/pickup/6595253?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T13:58:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "交通事故「魔の7歳」巡り識者警鐘",
+      "link": "https://news.yahoo.co.jp/pickup/6595242?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T12:08:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロマンスカーとコンバインが衝突",
+      "link": "https://news.yahoo.co.jp/pickup/6595256?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T13:53:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "渡辺元智さんお別れ会 筒香ら弔問",
+      "link": "https://news.yahoo.co.jp/pickup/6595255?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T13:57:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐野岳&沢口けいこ 第1子が誕生",
+      "link": "https://news.yahoo.co.jp/pickup/6595247?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T12:30:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ガソスタ廃業加速 自治体どう支援",
+      "link": "https://news.yahoo.co.jp/pickup/6595231?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T13:03:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "24hマラソンに乱入者 日テレ言及",
+      "link": "https://news.yahoo.co.jp/pickup/6595259?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T15:08:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北や北陸 土砂災害や浸水に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6595250?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T13:24:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "閉山中の富士山 ヘリ救助有料化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595261?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T15:23:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐川急便かたる不審電話 見分け方",
+      "link": "https://news.yahoo.co.jp/pickup/6595257?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T15:00:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中学生だけでの入店を拒否 違法?",
+      "link": "https://news.yahoo.co.jp/pickup/6595260?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T15:23:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "31年間皆勤の力士 30歳年下に勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6595265?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T15:47:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森衆院議長キーウ訪問 連帯表明へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595271?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T17:05:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新たな台風発生へ 連休に影響恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6595273?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T16:43:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「パスタ市場」競争さらに活発に",
+      "link": "https://news.yahoo.co.jp/pickup/6595263?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T15:32:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIで面接応募者になりすまし 対策",
+      "link": "https://news.yahoo.co.jp/pickup/6595272?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T16:40:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "玉城氏陣営 SNS中傷巡り告訴準備",
+      "link": "https://news.yahoo.co.jp/pickup/6595280?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T18:21:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天モバ「ID未連携で解約」撤回",
+      "link": "https://news.yahoo.co.jp/pickup/6595279?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T17:41:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヤクルト イベント当日中止を謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6595283?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T18:51:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "霊長類最強 吉田沙保里さん歌手に",
+      "link": "https://news.yahoo.co.jp/pickup/6595289?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T19:44:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中部電の不正 経産相が厳しく批判",
+      "link": "https://news.yahoo.co.jp/pickup/6595291?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T20:19:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "25年の災害で学習中断の子1.7億人",
+      "link": "https://news.yahoo.co.jp/pickup/6595274?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T16:57:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "やまゆり園職員が入所者虐待 認定",
+      "link": "https://news.yahoo.co.jp/pickup/6595288?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T19:50:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世界最高峰 ラグビー戦術の現在地",
+      "link": "https://news.yahoo.co.jp/pickup/6595278?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T20:12:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTに全力便乗 鳥取PRに反響",
+      "link": "https://news.yahoo.co.jp/pickup/6595286?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T19:43:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイ 邦人のビザなし滞在期間短縮",
+      "link": "https://news.yahoo.co.jp/pickup/6595293?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T21:03:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "俳優・中村ゆりさん死去 44歳",
+      "link": "https://news.yahoo.co.jp/pickup/6595295?source=rss",
+      "description": "",
+      "pub_date": "2026-09-14T21:18:14+09:00"
+    }
+  ]
+}
