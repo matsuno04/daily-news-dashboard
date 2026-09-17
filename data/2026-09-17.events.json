@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "matched_at": "2026-09-17T21:45:44.454044+09:00",
+  "matched_at": "2026-09-18T02:15:23.651760+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -170,17 +170,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "中学校でクマよけスプレー噴射か 生徒逮捕 11人搬送 岩手 北上",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50887",
-          "description": "17日午後、岩手県北上市の中学校の校庭でクマよけとみられるスプレーがまかれ、11人が病院に搬送されました。 警察はスプレーを噴射してけがをさせた疑いで男子中学生をその場で逮捕し、詳しい状況を調べていま…",
-          "pub_date": "2026-09-17T19:44:31+09:00"
+          "title": "個人金融資産2519兆円で過去最高 株高など背景に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50744",
+          "description": "個人が保有する預金や株式などの金融資産は、ことし6月末の時点で2519兆円と過去最高になりました。 日米の株価の上昇傾向を背景に株式や投資信託などの残高が全体を押し上げました。",
+          "pub_date": "2026-09-17T11:06:09+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "スーパーで従業員刺される 男逮捕",
-          "link": "https://news.yahoo.co.jp/pickup/6595603?source=rss",
+          "title": "個人金融資産 過去最高の2519兆円",
+          "link": "https://news.yahoo.co.jp/pickup/6595589?source=rss",
           "description": "",
-          "pub_date": "2026-09-17T17:14:05+09:00"
+          "pub_date": "2026-09-17T15:23:21+09:00"
         }
       }
     },
@@ -201,26 +201,6 @@
           "link": "https://news.yahoo.co.jp/pickup/6595630?source=rss",
           "description": "",
           "pub_date": "2026-09-17T21:20:26+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0011",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "個人金融資産2519兆円で過去最高 株高など背景に",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50744",
-          "description": "個人が保有する預金や株式などの金融資産は、ことし6月末の時点で2519兆円と過去最高になりました。 日米の株価の上昇傾向を背景に株式や投資信託などの残高が全体を押し上げました。",
-          "pub_date": "2026-09-17T11:06:09+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "個人金融資産 過去最高の2519兆円",
-          "link": "https://news.yahoo.co.jp/pickup/6595589?source=rss",
-          "description": "",
-          "pub_date": "2026-09-17T15:23:21+09:00"
         }
       }
     }
@@ -372,6 +352,13 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260917de50869",
       "description": "黄色い車体が特徴で新幹線の線路などを検測する「ドクターイエロー」について、JR西日本は、来年1月の引退後、一部の車両を広島県江田島市で保存し、一般向けに展示すると発表しました。",
       "pub_date": "2026-09-17T18:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中学校でクマよけスプレー噴射か 生徒逮捕 11人搬送 岩手 北上",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260917de50887",
+      "description": "17日午後、岩手県北上市の中学校の校庭でクマよけとみられるスプレーがまかれ、11人が病院に搬送されました。 警察はスプレーを噴射してけがをさせた疑いで男子中学生をその場で逮捕し、詳しい状況を調べていま…",
+      "pub_date": "2026-09-17T19:44:31+09:00"
     },
     {
       "source": "NHK",
@@ -638,6 +625,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6595598?source=rss",
       "description": "",
       "pub_date": "2026-09-17T16:56:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スーパーで従業員刺される 男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6595603?source=rss",
+      "description": "",
+      "pub_date": "2026-09-17T17:14:05+09:00"
     },
     {
       "source": "Yahoo!ニュース",
