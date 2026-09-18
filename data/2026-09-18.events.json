@@ -1,0 +1,852 @@
+{
+  "date": "2026-09-18",
+  "matched_at": "2026-09-18T21:46:53.540272+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風25号は小笠原に接近 連休は伊豆諸島 関東甲信大雨のおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de50946",
+          "description": "大型の台風25号は、暴風域を伴いながら小笠原諸島に接近していて、小笠原諸島では19日にかけて暴風や高波、土砂災害に警戒が必要です。その後、19日からの連休中には伊豆諸島や関東など東日本の太平洋側に近づ…",
+          "pub_date": "2026-09-18T21:09:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風25号 接近前から大雨の恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6595654?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T08:08:38+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "第2次高市改造内閣発足 食料品の消費税減税など政策推進が課題",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de50937",
+          "description": "高市総理大臣は、17日に内閣改造を行い、重要政策の担当閣僚を留任させる一方、専門性を重視して7人を初入閣で起用するなど新たな内閣を発足させました。 年末に向けて食料品の消費税減税に必要な法案の審議や…",
+          "pub_date": "2026-09-18T05:37:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "改造内閣 非主流派結集のリスクも",
+          "link": "https://news.yahoo.co.jp/pickup/6595651?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T08:00:45+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "九州新幹線 52日ぶりに全線で運行再開で乗客からは安どの声",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50932",
+          "description": "ことし7月の熊本地震の影響で、熊本駅と新水俣駅の間で運行を取りやめていた九州新幹線は復旧工事が終わり、きょう午前6時に全線で運行を再開しました。 九州新幹線が全線で運行できるようになったのは52日ぶ…",
+          "pub_date": "2026-09-18T06:29:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "九州新幹線 52日ぶり全線運転",
+          "link": "https://news.yahoo.co.jp/pickup/6595645?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T06:48:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日銀 金融政策決定会合 政策金利1.25％程度へ引き上げの見通し",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de50935",
+          "description": "日銀はきょう2日目の金融政策決定会合を開き、政策金利の1.25％程度への引き上げを決める見通しです。 物価が大幅に上昇するリスクへの警戒が必要だとして、利上げのペースを速めて対応する形になります。",
+          "pub_date": "2026-09-18T05:44:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日銀 政策金利を1.25%に引き上げ",
+          "link": "https://news.yahoo.co.jp/pickup/6595682?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T12:03:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドジャースが5年連続の地区優勝",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de50949",
+          "description": "大リーグのドジャースは17日、地区優勝へのマジックナンバーを「1」として臨んだレッズ戦に勝って、ナショナルリーグ西部地区で5年連続の優勝を果たしました。",
+          "pub_date": "2026-09-18T08:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ドジャース 地区5連覇を達成",
+          "link": "https://news.yahoo.co.jp/pickup/6595642?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T06:21:42+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日銀 利上げ決定 政策金利1.25％程度へと引き上げ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de50968",
+          "description": "日銀は18日まで開いた金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決めました。利上げはことし6月以来、3か月ぶりで利上げのペースを速めた形です。 日銀の植田総裁は18日の記者会見…",
+          "pub_date": "2026-09-18T19:34:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中継・日銀総裁会見 利上げ決定",
+          "link": "https://news.yahoo.co.jp/pickup/6595700?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T15:28:43+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 来週トランプ大統領と会談を調整 中国で意見交換か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de50983",
+          "description": "高市総理大臣は来週、国連総会にあわせてアメリカでトランプ大統領と首脳会談を行う方向で調整に入りました。日米同盟の重要性を改めて確認するとともに、米中首脳会談を前に中国をめぐる認識をすりあわせたい考えで…",
+          "pub_date": "2026-09-18T11:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首相 米大統領と来週会談で調整",
+          "link": "https://news.yahoo.co.jp/pickup/6595694?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T14:08:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ホワイトソックス 村上宗隆 決勝の32号スリーラン",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51008",
+          "description": "大リーグ、ホワイトソックスの村上宗隆選手がタイガース戦に先発出場して決勝の32号ホームランを含む長打2本の活躍で勝利に貢献し、チームは再び首位に並びました。",
+          "pub_date": "2026-09-18T13:15:19+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "村上宗隆が32号3ラン 本拠地熱狂",
+          "link": "https://news.yahoo.co.jp/pickup/6595663?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T09:30:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "新潟 十日町市 無人の車が園児の列に突っ込み5人けが",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51046",
+          "description": "警察によりますと18日午前10時ごろ、新潟県十日町市で80代の男性が車庫に車を止めてその場を離れたところ、誰も乗っていない状態で前に進み、通りかかった幼稚園児の列に突っ込みました。 この事故で園児5…",
+          "pub_date": "2026-09-18T14:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "無人の車が園児に衝突 5人搬送",
+          "link": "https://news.yahoo.co.jp/pickup/6595698?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T14:42:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北朝鮮サイバー攻撃組織の活動明らかに 日本でなりすましも",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51012",
+          "description": "警察庁は、アメリカのFBIなどとの共同捜査によって北朝鮮の指揮下にあるサイバー攻撃グループの活動を明らかにしたと公表しました。 このグループは各国のITエンジニアに攻撃を仕掛けて機密情報や暗号資産を盗…",
+          "pub_date": "2026-09-18T15:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北サイバー攻撃 世界で17億円被害",
+          "link": "https://news.yahoo.co.jp/pickup/6595710?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T16:36:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "四国電力送配電社員転落死 会社が両親と面会 今後の対応を説明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51032",
+          "description": "四国電力の子会社の男性社員が、職場で叱責されたなどとする文書を残して徳島県内の鉄塔から転落し、死亡したことについて、会社側は18日、社員の両親と面会し、外部の有識者による第三者委員会を設置するなど今後…",
+          "pub_date": "2026-09-18T14:41:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "転落死 会社の回答書に遺族落胆",
+          "link": "https://news.yahoo.co.jp/pickup/6595688?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T12:37:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "5人死傷鉄骨落下事故で大林組の社員2人を書類送検　警視庁",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51052",
+          "description": "3年前、JR東京駅近くのビルの建設現場で鉄骨が落下し作業員5人が死傷した事故で、警視庁は大手ゼネコン、大林組の担当社員2人が、鉄骨を下から支える土台部分の強度が不足していた可能性を認識していたにもかか…",
+          "pub_date": "2026-09-18T15:47:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "23年の八重洲鉄骨落下 計算ミスか",
+          "link": "https://news.yahoo.co.jp/pickup/6595696?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T14:33:27+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "セブン＆アイ・HD名誉顧問 鈴木敏文氏の「お別れの会」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51039",
+          "description": "日本でコンビニエンスストアを本格的に導入し、世界最大のコンビニチェーンに育て上げた、流通大手「セブン＆アイ・ホールディングス」の名誉顧問、鈴木敏文氏のお別れの会が都内で行われました。",
+          "pub_date": "2026-09-18T14:45:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ウルフ氏死去 西武が「哀悼の意」",
+          "link": "https://news.yahoo.co.jp/pickup/6595650?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T07:37:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【台風】八丈島発着の6便で欠航 21日は羽田にも影響のおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51068",
+          "description": "航空各社によりますと、19日からの5連休中、台風の影響で一部の空の便ですでに欠航が決まっているほか、遅れが出る可能性があるとしています。航空や鉄道各社は、台風の進路によっては欠航や遅れが見込まれるとし…",
+          "pub_date": "2026-09-18T18:18:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風が関東接近へ 道路冠水の恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6595683?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T12:21:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0015",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "第2次高市改造内閣 副大臣27人決まる 維新からは2人起用",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51063",
+          "description": "第2次高市改造内閣の発足に伴い、政府は18日、閣議で副大臣の人事を決定しました。 連立を組む日本維新の会からは2人が起用されました。",
+          "pub_date": "2026-09-18T18:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "副大臣に今井絵理子氏ら 名簿発表",
+          "link": "https://news.yahoo.co.jp/pickup/6595712?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T16:53:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0016",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「まんじゅうや」票訴訟 茨城 神栖市長 木内氏が上告",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51093",
+          "description": "茨城県神栖市の市長選挙で、「まんじゅうや」などと書かれた票が有効と認められず、当選を無効とする裁決を受けた木内敏之市長が、裁決の取り消しを求める訴えを退けた東京高等裁判所の判決を不服として、18日、最…",
+          "pub_date": "2026-09-18T18:50:15+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "茨城・神栖市長 当選無効巡り上告",
+          "link": "https://news.yahoo.co.jp/pickup/6595726?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T18:58:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0017",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アジア大会ホッケー男子 韓国国歌でなく北朝鮮国歌流れるミス",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51129",
+          "description": "18日、岐阜県で行われた愛知・名古屋アジア大会、ホッケー男子の韓国とバングラデシュの試合前に、韓国の国歌を流す場面で北朝鮮の国歌が流れるミスがあったことがわかりました。大会組織委員会が詳しい経緯を調べ…",
+          "pub_date": "2026-09-18T20:41:48+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "韓国の試合前 北朝鮮の国歌流れる",
+          "link": "https://news.yahoo.co.jp/pickup/6595731?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T19:35:30+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0018",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "家族葬 実際の費用ＣＭの約３倍 消費者庁が運営会社に措置命令",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51106",
+          "description": "家族葬の式場「小さな森の家」を運営する東京・渋谷区の会社が、テレビコマーシャルで葬儀費用を10万円余りからと表示して宣伝していましたが、実際にはその3倍の費用が必要だったとして、消費者庁は景品表示法に…",
+          "pub_date": "2026-09-18T20:43:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「小さな森の家」CMで不当表示",
+          "link": "https://news.yahoo.co.jp/pickup/6595736?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T21:09:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0019",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "国立美術館6施設で観覧料金値上げへ 来月以降2倍から3倍に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51116",
+          "description": "独立行政法人「国立美術館」は、運営する東京国立近代美術館や国立西洋美術館など6つの施設で、来月から、常設展などの観覧料金を今のおよそ2倍から3倍に順次、値上げすると発表しました。",
+          "pub_date": "2026-09-18T20:52:29+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "国立美術館6施設 入館料2～3倍に",
+          "link": "https://news.yahoo.co.jp/pickup/6595717?source=rss",
+          "description": "",
+          "pub_date": "2026-09-18T17:52:36+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "ラスカー賞 筑波大柳沢教授 中外製薬研究者らにトロフィー",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50948",
+      "description": "アメリカでもっとも権威のある医学賞とされる「ラスカー賞」の授賞式がニューヨークで行われ、筑波大学の柳沢正史教授と中外製薬の研究者ら3人に記念のトロフィーが贈られました。",
+      "pub_date": "2026-09-18T07:25:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ジャガイモ輸入解禁めぐり アメリカが手続き加速を要求",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260917de50925",
+      "description": "アメリカが全面的な輸入解禁を求めている生のジャガイモについて今月、農林水産省の幹部がアメリカの関係当局側から解禁に向けた手続きを加速するよう改めて要求されたことが分かりました。 政府はあくまで科学的な…",
+      "pub_date": "2026-09-18T05:51:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【気象予報士解説】台風25号今後の進路は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50945",
+      "description": "台風25号の今後の進路について檜山気象予報士の解説です。 （おはよう日本 9月18日午前7時台） ※データ放送ではご覧いただけません。",
+      "pub_date": "2026-09-18T08:11:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "8月消費者物価指数は前年同月比+1.7％",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50959",
+      "description": "家庭で消費するモノやサービスの値動きをみる先月・8月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が2025年の同じ月より1.7％上昇しました。 上昇率は、7月の1.8％から0.1ポ…",
+      "pub_date": "2026-09-18T09:05:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国王毅外相と米ルビオ国務長官が電話会談 首脳会談へ調整か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50938",
+      "description": "中国の王毅外相はアメリカのルビオ国務長官と17日、電話会談を行いました。 来週アメリカで予定されている習近平国家主席とトランプ大統領との首脳会談に向けた調整を進めたものとみられます。",
+      "pub_date": "2026-09-18T07:03:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ政権 サウジアラビアにF35の売却承認 48機",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50954",
+      "description": "アメリカのトランプ政権は、サウジアラビアに対して最新鋭のステルス戦闘機F35の機体やエンジンなど日本円にして総額3兆7000億円あまりの武器の売却を正式に承認しました。",
+      "pub_date": "2026-09-18T08:18:19+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "第2次高市改造内閣 本格始動",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50970",
+      "description": "高市総理大臣は17日、内閣改造を行いました。 一夜明け、新たな内閣の閣僚が次々に登庁して、業務の引き継ぎなどを行いました。",
+      "pub_date": "2026-09-18T13:12:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR東日本 盗撮被害の女性社員が会社提訴“望まない異動”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50975",
+      "description": "同僚から盗撮の被害を受け、異動を希望したJR東日本の女性社員が、望まない異動先を提示されて精神疾患が悪化したとして、会社に対し、800万円あまりの賠償を求める訴えを起こしました。",
+      "pub_date": "2026-09-18T11:43:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「司法取引」 トクリュウ関与疑われる事件に初適用",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50976",
+      "description": "容疑者や被告が捜査に協力する見返りに刑事処分を軽くする「司法取引」を、検察が匿名・流動型犯罪グループの関与が疑われる組織的な詐欺事件で初めて適用していたことが、関係者への取材でわかりました。指示役の特…",
+      "pub_date": "2026-09-18T11:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "政府 臨時国会来月5日召集方針 消費税減税法案など審議見通し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50986",
+      "description": "政府は来月5日に臨時国会を召集する方針を自民党に伝えました。 食料品の消費税減税に関する法案などの審議が行われる見通しで、政府・与党は準備を加速することにしています。",
+      "pub_date": "2026-09-18T14:15:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮キム・ヨジョン氏 多国間訓練を非難し対抗措置示唆",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51021",
+      "description": "アメリカ軍が主催して、9月にかけて行われた多国間の共同訓練について、北朝鮮のキム・ジョンウン（金正恩）総書記の妹、キム・ヨジョン（金与正）氏が談話を発表し対抗措置も辞さない姿勢を示しました。",
+      "pub_date": "2026-09-18T13:24:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国交省　内水氾濫防ぐため排水目標の引き上げを検討",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51044",
+      "description": "千葉豪雨など都市部で内水氾濫の被害が相次いでいることを受けて、国土交通省は、自治体が下水道を整備する際、1時間に50ミリ程度の雨を排水するなどとしていたこれまでの目標について、都市の中心部の特にリスク…",
+      "pub_date": "2026-09-18T15:02:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ジャガイモ輸入解禁手続きで説明会 生産者「やっていけない」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51050",
+      "description": "アメリカが全面的な輸入解禁を求めている生のジャガイモについて、農林水産省は生産者などを対象に解禁の手続きの説明会を開きました。出席者から懸念の声が相次いだのに対し、農林水産省の担当者は国際ルールでは要…",
+      "pub_date": "2026-09-18T16:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "性別変更した男性 子どもとの親子関係求める訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51056",
+      "description": "戸籍上の性別を女性から男性に変更した人が、自分の卵子を交際相手に提供して生まれた子どもとの親子関係を認めてほしいと、18日、家族で訴えを起こしました。",
+      "pub_date": "2026-09-18T16:29:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "コメ平均価格5キロ2971円 約2年ぶりに2000円台に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51070",
+      "description": "全国のスーパーで今月13日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで前の週より32円下がって2971円でした。 5キロあたりの価格が2000円台となるのは、おととし9月以来およそ2…",
+      "pub_date": "2026-09-18T20:39:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福島 猪苗代湖ボート3人死傷事故 最高裁で弁論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51066",
+      "description": "6年前、福島県の猪苗代湖で親子など3人にボートで衝突して死傷させたとして業務上過失致死傷の罪に問われ、2審で無罪判決を受けた元会社役員の裁判で、被告側と検察側の双方の主張を聞く弁論が最高裁判所で開かれ…",
+      "pub_date": "2026-09-18T18:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "3か月予報 10月は西日本などで晴れるも11月以降 降水量多いか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51076",
+      "description": "気象庁が18日発表した3か月予報によりますと、10月は高気圧に覆われ西日本と沖縄・奄美で晴れの日が多くなる一方、11月以降は湿った空気が流れ込みやすくなり北日本と東日本の太平洋側や西日本で、降水量が平…",
+      "pub_date": "2026-09-18T18:09:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ツタンカーメン王墓の奥に“未発見の部屋？”ネイチャーが報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51097",
+      "description": "黄金のマスクで知られる古代エジプトのツタンカーメン王の墓の奥に、まだ発見されていない通路や複数の部屋が存在する可能性を示す新たな調査結果をエジプトの考古学者などでつくる研究チームがまとめました。 こ…",
+      "pub_date": "2026-09-18T19:08:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ネパール土石流 温暖化や高温 過去の地震など複合要因か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51075",
+      "description": "8月にネパールと中国の国境付近で発生した大規模な土石流の原因について、国際的な研究者のグループは、温暖化やことしの高温、それに過去の大地震など複合的な要因によって斜面が不安定になっていた可能性があると…",
+      "pub_date": "2026-09-18T18:26:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "宮崎で猛烈な雨 「線状降水帯直前予測」発表 厳重警戒を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51124",
+      "description": "秋雨前線や湿った空気の影響で宮崎県では局地的に雨雲が発達し猛烈な雨が降っていて、午後8時前には「線状降水帯直前予測」の気象防災速報が発表されました。 今後3時間以内に線状降水帯が発生し、災害の危険度…",
+      "pub_date": "2026-09-18T20:13:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "介護保険制度見直しへ議論 自己負担2割拡大など 専門家部会",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51077",
+      "description": "高齢化で介護サービスを利用する人が増えるなか、利用者の自己負担のあり方など介護保険制度の見直しに向けた議論が国の専門家部会で始まりました。 介護サービスを利用した際の自己負担額が2割となる人の対象拡…",
+      "pub_date": "2026-09-18T20:15:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "政府備蓄米 8事業者から21万トン買い戻しへ 農水省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51118",
+      "description": "去年放出した政府備蓄米について、農林水産省は18日、集荷業者など8つの事業者から21万トンを買い戻すと発表しました。",
+      "pub_date": "2026-09-18T19:58:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京都 ポイ捨て禁止条例を検討",
+      "link": "https://news.yahoo.co.jp/pickup/6595644?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T06:37:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日産 新型スカイライン12月発表へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595646?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T06:59:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カビが一斉に繁殖 雨続く秋に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6595648?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T07:25:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店死傷 店主らと口論か",
+      "link": "https://news.yahoo.co.jp/pickup/6595657?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T08:20:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "目を疑った 練馬区にキツネの姿",
+      "link": "https://news.yahoo.co.jp/pickup/6595652?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T07:47:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "上戸彩 ソフトバンク3連覇を祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6595655?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T08:01:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 習氏訪米で異例の厚遇へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595658?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T08:36:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "iPhone18Pro発売 21万9800円から",
+      "link": "https://news.yahoo.co.jp/pickup/6595660?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T08:49:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ポプラ社 インドに現地法人設立へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595664?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T09:27:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英国王 AI企業幹部らに懸念示す",
+      "link": "https://news.yahoo.co.jp/pickup/6595656?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T08:22:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生活道路で死亡ひき逃げ疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6595669?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T10:08:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京ばな奈 35周年で工場取材解禁",
+      "link": "https://news.yahoo.co.jp/pickup/6595668?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T09:51:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島の路面電車 一部最高50km/hに",
+      "link": "https://news.yahoo.co.jp/pickup/6595661?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T08:48:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中接近を懸念 試される高市外交",
+      "link": "https://news.yahoo.co.jp/pickup/6595672?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T10:37:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3億円宝くじが未換金 11月3日時効",
+      "link": "https://news.yahoo.co.jp/pickup/6595673?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T11:00:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪駅前の突起物 フェンス設置へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595676?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T11:42:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヤングなでしこ涙 北朝鮮に完敗",
+      "link": "https://news.yahoo.co.jp/pickup/6595679?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T11:52:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SB柳田悠岐 来季も現役続行へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595678?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T11:47:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "しんちゃんほぼ登場なし回 放送へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595681?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T11:55:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヘンリー王子 帰国後初の公の場",
+      "link": "https://news.yahoo.co.jp/pickup/6595667?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T09:54:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京ゲームショウ大混雑 背景は",
+      "link": "https://news.yahoo.co.jp/pickup/6595684?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T12:51:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "老舗菓子店にも倒産の波 背景は",
+      "link": "https://news.yahoo.co.jp/pickup/6595686?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T13:26:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Suica新キャラ投票に盛り上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6595692?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T14:07:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "麟太郎 ビザ巡りチーム合流できず",
+      "link": "https://news.yahoo.co.jp/pickup/6595689?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T13:32:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ガソリン補助金が拡大 代償は",
+      "link": "https://news.yahoo.co.jp/pickup/6595695?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T14:12:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三浦翔平 9月末でバーニング退所",
+      "link": "https://news.yahoo.co.jp/pickup/6595703?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T15:26:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "B&ZAI本高 国際論文誌の賞を受賞",
+      "link": "https://news.yahoo.co.jp/pickup/6595706?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T16:13:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 関東は20-21日大雨など恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6595699?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T15:09:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日銀総裁 会見で利上げペース言及",
+      "link": "https://news.yahoo.co.jp/pickup/6595713?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T17:22:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "利上げ決定後 一時1ドル157円台",
+      "link": "https://news.yahoo.co.jp/pickup/6595705?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T16:48:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "核ごみ調査 常陸大宮市が判断保留",
+      "link": "https://news.yahoo.co.jp/pickup/6595707?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T16:20:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "おかきの播磨屋本店 廃業の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6595709?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T16:47:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "成宮寛貴 俳優から距離置いた8年",
+      "link": "https://news.yahoo.co.jp/pickup/6595708?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T16:54:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会の行事に豊臣秀吉 抗議",
+      "link": "https://news.yahoo.co.jp/pickup/6595714?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T17:37:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "INI・佐野雄大 活動休止を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6595725?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T18:22:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画踊る 山本高広と織田裕二共演",
+      "link": "https://news.yahoo.co.jp/pickup/6595722?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T18:08:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヘルメットさせず子死亡 親の後悔",
+      "link": "https://news.yahoo.co.jp/pickup/6595723?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T18:13:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "南三陸の遺骨 震災前に火葬と判明",
+      "link": "https://news.yahoo.co.jp/pickup/6595724?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T18:40:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "iPhone18Pro 修理代に最大15万円",
+      "link": "https://news.yahoo.co.jp/pickup/6595730?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T19:19:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ネコの新種 100年以上ぶりに発見",
+      "link": "https://news.yahoo.co.jp/pickup/6595728?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T18:56:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スタバ ラテなどの定番商品値上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6595729?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T19:13:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "連休前にインフル流行拡大 注意",
+      "link": "https://news.yahoo.co.jp/pickup/6595733?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T19:47:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日銀利上げ 金利との付き合い方は",
+      "link": "https://news.yahoo.co.jp/pickup/6595732?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T19:41:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G坂本 長嶋氏超えの通算2472安打",
+      "link": "https://news.yahoo.co.jp/pickup/6595734?source=rss",
+      "description": "",
+      "pub_date": "2026-09-18T20:37:51+09:00"
+    }
+  ]
+}
