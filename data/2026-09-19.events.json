@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "matched_at": "2026-09-19T21:46:16.886844+09:00",
+  "matched_at": "2026-09-20T01:03:03.334465+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -183,6 +183,26 @@
           "pub_date": "2026-09-19T16:02:46+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "愛知・名古屋アジア大会開幕 天皇陛下が開会を宣言",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51267",
+          "description": "アジアのスポーツの祭典で、国内では32年ぶりの開催となる愛知・名古屋アジア大会が開幕しました。開会式には天皇皇后両陛下も出席されて、天皇陛下が開会を宣言されました。",
+          "pub_date": "2026-09-19T22:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アジア大会の開会式 空席目立つ",
+          "link": "https://news.yahoo.co.jp/pickup/6595842?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T20:56:57+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
@@ -342,10 +362,17 @@
     },
     {
       "source": "NHK",
-      "title": "【地震速報】熊本 天草市と鹿児島 長島町で震度3 津波心配なし",
+      "title": "【地震情報】熊本 天草市と鹿児島 長島町で震度3 津波心配なし",
       "link": "https://news.web.nhk/newsweb/na/nd-20260916de50578",
-      "description": "19日午後9時7分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は天草灘で震源の深さは10キロ、地震の規模を示すマグニチュードは4.4と推定されます。 各市町村の震度は以下…",
-      "pub_date": "2026-09-19T21:11:00+09:00"
+      "description": "19日午後9時7分ごろ、熊本県と鹿児島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。",
+      "pub_date": "2026-09-19T21:47:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【プロ野球結果】首位 阪神敗れ 2位 巨人勝ちゲーム差無くなる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51277",
+      "description": "プロ野球は19日、6試合が行われ、セ・リーグは、首位の阪神が敗れて2位の巨人が勝ち、ゲーム差が無くなりました。",
+      "pub_date": "2026-09-19T22:14:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -734,10 +761,31 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "アジア大会の開会式 空席目立つ",
-      "link": "https://news.yahoo.co.jp/pickup/6595842?source=rss",
+      "title": "「人工視細胞」を開発 遺伝研など",
+      "link": "https://news.yahoo.co.jp/pickup/6595841?source=rss",
       "description": "",
-      "pub_date": "2026-09-19T20:56:57+09:00"
+      "pub_date": "2026-09-19T20:52:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10代巡査が拳銃自殺図ったか 重体",
+      "link": "https://news.yahoo.co.jp/pickup/6595846?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T21:52:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA牧 7回に逆転満塁ホームラン",
+      "link": "https://news.yahoo.co.jp/pickup/6595847?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T22:13:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "timelesz猪俣周杜容疑者 活動休止",
+      "link": "https://news.yahoo.co.jp/pickup/6595848?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T22:13:44+09:00"
     }
   ]
 }
