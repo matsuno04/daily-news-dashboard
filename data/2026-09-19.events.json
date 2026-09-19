@@ -1,0 +1,743 @@
+{
+  "date": "2026-09-19",
+  "matched_at": "2026-09-19T21:46:16.886844+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風25号 21～22日ごろ関東などに接近予想 勢力強まる見込み",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51158",
+          "description": "大型の台風25号、関東など東日本の太平洋側に接近する時間帯は、18日の段階と比べて遅くなり、21日から22日ごろにかけてと予想されています。 勢力も強まる見込みで、伊豆諸島のほか、東海から東北の太平洋…",
+          "pub_date": "2026-09-19T19:20:31+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風25号 21日に関東に最接近か",
+          "link": "https://news.yahoo.co.jp/pickup/6595783?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T09:58:49+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51190",
+          "description": "アメリカのトランプ大統領は18日、SNSへの投稿で、デンマークの自治領グリーンランドの安全保障をめぐり、デンマークとグリーンランドとの間でアメリカに恒久的な管理権を与える合意に達したと投稿しました。 …",
+          "pub_date": "2026-09-19T09:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "グリーンランド防衛 協定署名へ",
+          "link": "https://news.yahoo.co.jp/pickup/6595777?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T09:05:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 日米首脳会談を調整 対中認識のすりあわせ図る",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51163",
+          "description": "高市総理大臣は来週、ニューヨークでの国連総会にあわせて、アメリカのトランプ大統領と会談する方向で最終調整を進めています。直後に米中首脳会談を控える中、中国をめぐる認識のすりあわせを図るとともに、日米同…",
+          "pub_date": "2026-09-19T05:07:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日米首脳会談 22日に米NYで開催",
+          "link": "https://news.yahoo.co.jp/pickup/6595772?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T08:39:04+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“投資の神様”バフェット氏会長退任「時の流れに逆らえない」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51202",
+          "description": "アメリカの著名な投資家、ウォーレン・バフェット氏が長く率いてきた投資会社、「バークシャー・ハサウェイ」の会長から退くことになりました。バフェット氏を中心におよそ60年にわたり続いてきた経営体制に幕が下…",
+          "pub_date": "2026-09-19T08:23:09+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "バフェット氏 投資会社の会長退任",
+          "link": "https://news.yahoo.co.jp/pickup/6595763?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T07:57:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "宮崎 大雨の日南市で90代女性が土砂に巻き込まれ死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51211",
+          "description": "19日、宮崎県日南市で住宅近くの斜面が崩れて敷地内に土砂が流れ込み、90代の女性が土砂に巻き込まれて死亡しているのが見つかりました。警察が詳しい状況を調べています。",
+          "pub_date": "2026-09-19T14:07:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大雨の宮崎県で土砂崩れ 女性死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6595792?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T12:28:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "埼玉 羽生 空き巣で住宅から散弾銃3丁と実弾125発盗まれる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51222",
+          "description": "18日、埼玉県羽生市の住宅で窓ガラスが割られて散弾銃3丁と実弾125発などが盗まれる空き巣被害があり、警察が窃盗事件として捜査しています。",
+          "pub_date": "2026-09-19T11:57:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "散弾銃3丁など盗まれる 警察捜査",
+          "link": "https://news.yahoo.co.jp/pickup/6595784?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T10:12:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
+          "description": "アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。",
+          "pub_date": "2026-09-19T12:55:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "Geminiが他社システムに侵入",
+          "link": "https://news.yahoo.co.jp/pickup/6595827?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T18:18:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "timeleszの猪俣周杜容疑者を傷害疑いで逮捕 知人女性に暴行か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51225",
+          "description": "人気アイドルグループ「timelesz」のメンバー、猪俣周杜容疑者（25）が18日夜、都内で知人の女性を殴るなどしてけがをさせたとして、傷害の疑いで逮捕されたことが捜査関係者への取材で分かりました。調…",
+          "pub_date": "2026-09-19T19:01:15+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "timelesz猪俣周杜容疑者を逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T12:22:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "パラメダリスト 車いす練習中 車に追突され意識不明 沖縄",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51262",
+          "description": "19日朝早く、沖縄県うるま市の県道で、車いす競技の練習をしていた男性が車に追突され、意識のない状態で病院に搬送されました。捜査関係者によりますと、男性はパラリンピックの陸上、車いすの競技のメダリスト、…",
+          "pub_date": "2026-09-19T20:41:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "競技用車いすに車追突 選手が重体",
+          "link": "https://news.yahoo.co.jp/pickup/6595813?source=rss",
+          "description": "",
+          "pub_date": "2026-09-19T16:02:46+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "宮崎県南部平野部に「線状降水帯直前予測」（0:49）",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51166",
+      "description": "気象庁は宮崎県の南部平野部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前0時49分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が連…",
+      "pub_date": "2026-09-19T00:59:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "空自の大型無人偵察機墜落 機体の一部の写真 自衛隊が公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51071",
+      "description": "航空自衛隊の大型無人偵察機「グローバルホーク」が鳥取県沖で墜落した事故について、自衛隊制服組トップの内倉浩昭統合幕僚長は、「国民の皆様にご心配をおかけしていることを重く受け止めている。まずは、事実関係…",
+      "pub_date": "2026-09-19T00:08:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
+      "description": "日銀は18日、物価が大幅に上昇するリスクへの対応が必要だとして、これまでよりペースを速める形で利上げを決めました。今後も利上げを進める方針ですが、インフレへの懸念が世界的に高まる中、景気にも目配りしな…",
+      "pub_date": "2026-09-19T05:45:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日銀が「レートチェック」を実施 円安けん制か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51169",
+      "description": "18日のニューヨーク外国為替市場では、短時間に円買いが進む場面があり、関係者によりますと日銀は銀行のディーラーに取り引き水準などを尋ねる「レートチェック」を実施したということです。",
+      "pub_date": "2026-09-19T03:43:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "パキスタン“警察施設で自爆テロか 21人死亡”地元メディア",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51175",
+      "description": "パキスタン北西部にある警察施設で爆発物を積んだ車が突入して爆発が起き、警察官や市民合わせて少なくとも21人が死亡し100人以上がけがをしました。地元メディアによりますと、この地域で活動するイスラム過激…",
+      "pub_date": "2026-09-19T05:25:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "都市部の内水氾濫 国交省の検討会 年内めどに対策とりまとめ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51153",
+      "description": "千葉豪雨など都市部で内水氾濫の被害が相次いでいることを受けて、国土交通省は有識者による検討会を開き、必要な対策について年内をめどにとりまとめることになりました。",
+      "pub_date": "2026-09-19T05:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 一部メディアに“ホワイトハウスで取材禁止”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51209",
+      "description": "アメリカのトランプ大統領は、CNNなどアメリカメディア3社について「フェイクニュースを報じている」と主張し、ホワイトハウスでの取材を禁止するとSNSに投稿しました。CNNは「憲法によって守られている基…",
+      "pub_date": "2026-09-19T10:25:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【気象予報士解説】台風25号 今後の進路は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51215",
+      "description": "今後の見通しについて向笠康二郎 気象予報士の解説です。 【動画は2分03秒】 9月19日の「ニュース7」で放送した内容です。 ※データ放送ではご覧いただけません。",
+      "pub_date": "2026-09-19T19:31:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙の期日前投票 一部の州で始まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51216",
+      "description": "アメリカでは11月の中間選挙の投票日を前に、南部バージニア州など一部の州で期日前投票や不在者投票が始まりました。",
+      "pub_date": "2026-09-19T11:23:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "仏大統領が警戒感「ロシアの攻撃性と脅威は性質が変化」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51210",
+      "description": "ヨーロッパの複数の国でロシアによるとみられる領空侵犯などが相次いでいることを受け、フランスのマクロン大統領は「ロシアの攻撃性とヨーロッパへの脅威は、性質が変わってきている」と警戒感を示しました。そのう…",
+      "pub_date": "2026-09-19T10:57:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋の連休初日 台風の影響心配も交通機関は混雑",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51221",
+      "description": "11年ぶりの5連休となる秋の連休が始まり、台風の影響を心配しながらも旅行に向かう人たちで交通機関は混雑しています。",
+      "pub_date": "2026-09-19T11:53:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米政府高官“日米首脳会談は22日 米中首脳会談はAIなど議論”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51218",
+      "description": "アメリカ政府高官は、来週行われるニューヨークでの国連総会にあわせて、トランプ大統領と高市総理大臣が22日に会談すると明らかにしました。直後に米中首脳会談を控える中での日米首脳会談となります。",
+      "pub_date": "2026-09-19T12:09:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "キトラ古墳の極彩色壁画 初めて3つ同時公開 奈良 明日香村",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51228",
+      "description": "奈良県明日香村のキトラ古墳で見つかった「極彩色」の壁画のうち、朱雀、玄武、青龍の3つの壁画が初めて同時に公開されました。",
+      "pub_date": "2026-09-19T12:49:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ホワイトソックス 村上宗隆 得点に絡むも逆転負けで2位に後退",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51230",
+      "description": "大リーグ、ホワイトソックスの村上宗隆はタイガース戦に先発出場し、フォアボールで塁に出て得点に絡んだもののチームは逆転負けし、2位に後退しました。",
+      "pub_date": "2026-09-19T13:22:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米カリフォルニア州 AIに「キルスイッチ」導入義務化検討へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51235",
+      "description": "アメリカ西部カリフォルニア州のニューサム知事は、最先端のAI開発企業への監視を強化するための行政命令を出したと発表しました。AIが暴走をした際に機能を緊急停止させることができる安全装置「キルスイッチ」…",
+      "pub_date": "2026-09-19T14:43:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮 キム総書記が軍需工場を視察 兵器にAI導入拡大を指示",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51237",
+      "description": "北朝鮮のキム・ジョンウン（金正恩）総書記は軍需工場を視察し、生産能力が計画どおりに拡大していると評価したうえで、兵器システムへのAI導入をいっそう推進するよう指示しました。韓国の専門家からは、北朝鮮が…",
+      "pub_date": "2026-09-19T15:03:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドジャース大谷翔平 復帰を前に実戦形式で調整の方針",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51240",
+      "description": "大リーグ、ドジャースで右の上腕二頭筋の炎症でけが人リストに入っている大谷翔平選手について、ロバーツ監督は復帰を前に実戦形式の練習を行う方針を示し、「10打席から12打席できれば理想的だ」と見通しを話し…",
+      "pub_date": "2026-09-19T15:11:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "名古屋上空をブルーインパルスが飛行 アジア大会開幕にあわせ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51242",
+      "description": "愛知・名古屋アジア大会の開幕にあわせて、名古屋市の上空で航空自衛隊の「ブルーインパルス」による展示飛行が行われました。",
+      "pub_date": "2026-09-19T15:52:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "マレーシアで日本人6人拘束 特殊詐欺に関与か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51244",
+      "description": "マレーシア西部の住宅を拠点に日本人を狙った特殊詐欺を行っていた疑いがあるとして、地元の警察は日本人6人を拘束しました。",
+      "pub_date": "2026-09-19T16:19:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51243",
+      "description": "日銀は18日、政策金利を1.25％程度に引き上げることを決めました。 専門家は「日銀は最終的には2％程度まで引き上げるのではないか」として、家計や企業には金利上昇を見越した対応が必要になると指摘しまし…",
+      "pub_date": "2026-09-19T19:32:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“貴婦人”C57が6年ぶり復活へ JR山口線で報道向けSL試乗会",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51247",
+      "description": "“貴婦人”の愛称で親しまれる蒸気機関車「C57」が、JR山口線でおよそ6年ぶりに来月から営業運転を再開するのを前に、報道関係者向けの試乗会が行われました。",
+      "pub_date": "2026-09-19T16:45:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "300年以上続く伝統の「岸和田だんじり祭」始まる 大阪",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51256",
+      "description": "重さ4トンのだんじりが豪快に街を駆け抜ける大阪の「岸和田だんじり祭」が19日から始まり、大勢の見物客でにぎわいました。",
+      "pub_date": "2026-09-19T17:46:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震速報】熊本 天草市と鹿児島 長島町で震度3 津波心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260916de50578",
+      "description": "19日午後9時7分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は天草灘で震源の深さは10キロ、地震の規模を示すマグニチュードは4.4と推定されます。 各市町村の震度は以下…",
+      "pub_date": "2026-09-19T21:11:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 21日夕方〜夜に関東最接近か",
+      "link": "https://news.yahoo.co.jp/pickup/6595755?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T07:13:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "円急騰 政府日銀が円買い介入準備",
+      "link": "https://news.yahoo.co.jp/pickup/6595754?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T07:15:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "こども園で複数園児に虐待 新潟市",
+      "link": "https://news.yahoo.co.jp/pickup/6595756?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T07:19:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷の苦悩 ド軍同僚の2人が語る",
+      "link": "https://news.yahoo.co.jp/pickup/6595757?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T07:20:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露下院選 帰還兵180人超が立候補",
+      "link": "https://news.yahoo.co.jp/pickup/6595760?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T07:37:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国でタケノコ違法加工 当局押収",
+      "link": "https://news.yahoo.co.jp/pickup/6595764?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T07:58:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダイアナ元妃の復讐ドレス 出品へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595758?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T07:24:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヤンキースのジャッジ 再びIL入り",
+      "link": "https://news.yahoo.co.jp/pickup/6595767?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T08:07:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例 副課長級の元職員が副市長に",
+      "link": "https://news.yahoo.co.jp/pickup/6595771?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T08:33:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ZIP!の小泉氏巡る報道 日テレ謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6595769?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T08:32:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "橋幸夫さん一周忌 妻が明かす最期",
+      "link": "https://news.yahoo.co.jp/pickup/6595768?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T08:18:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "患者に劇薬の鎮静剤無断投与 解雇",
+      "link": "https://news.yahoo.co.jp/pickup/6595779?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T09:41:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車道真ん中に2歳児 保護した男性",
+      "link": "https://news.yahoo.co.jp/pickup/6595781?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T09:53:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露 金獅子賞監督を「スパイ」指定",
+      "link": "https://news.yahoo.co.jp/pickup/6595778?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T09:22:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フォーエバーヤング 米G1で勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6595780?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T09:48:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "習氏訪米 異例の経済代表団同行へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595766?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T08:10:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "八重洲口前再開発 残ったビル2棟",
+      "link": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T10:29:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風25号 強い勢力で21日に接近か",
+      "link": "https://news.yahoo.co.jp/pickup/6595789?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T12:05:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "弁当店の倒産急増 過去最多見通し",
+      "link": "https://news.yahoo.co.jp/pickup/6595773?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T09:05:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パンサー向井 熱愛報道を認める",
+      "link": "https://news.yahoo.co.jp/pickup/6595791?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T12:09:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "呼吸器材外れる ダイビング客死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6595794?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T13:07:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "酷暑の中で体育 娘死亡し父が提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6595788?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T11:54:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エホバ 他人の血の輸血一部解禁へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595795?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T13:29:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "障害者雇用ビジネス巡り労災認定",
+      "link": "https://news.yahoo.co.jp/pickup/6595787?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T10:41:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "父と同じ大腸がんに 闘病語る男性",
+      "link": "https://news.yahoo.co.jp/pickup/6595799?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T14:02:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTチョッキー役来日 大歓声",
+      "link": "https://news.yahoo.co.jp/pickup/6595797?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T13:44:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "対露制裁法が成立 トランプ氏署名",
+      "link": "https://news.yahoo.co.jp/pickup/6595796?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T13:42:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "OpenAI 安保理でAI安全策説明へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595800?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T14:01:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "恐竜の化石がなぜ北極に 気候解明",
+      "link": "https://news.yahoo.co.jp/pickup/6595804?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T14:24:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "酒井法子 熊本の被災地で炊き出し",
+      "link": "https://news.yahoo.co.jp/pickup/6595798?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T13:44:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "YOSHIKI過労で倒れる 今は回復中",
+      "link": "https://news.yahoo.co.jp/pickup/6595806?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T14:54:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 太平洋側で道路への影響予想",
+      "link": "https://news.yahoo.co.jp/pickup/6595810?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T15:28:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIで誤情報 米軍に一時緊張走る",
+      "link": "https://news.yahoo.co.jp/pickup/6595808?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T15:20:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "力士の体重差100kg超 圧巻の一番",
+      "link": "https://news.yahoo.co.jp/pickup/6595811?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T15:31:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "向井慧「めちゃくちゃ熱愛です」",
+      "link": "https://news.yahoo.co.jp/pickup/6595812?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T15:47:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "衰弱死の16歳少女 訴え続けた無実",
+      "link": "https://news.yahoo.co.jp/pickup/6595817?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T17:11:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "県委託撮影ドローン 市役所に衝突",
+      "link": "https://news.yahoo.co.jp/pickup/6595820?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T16:59:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "timelesz猪俣容疑者 傷害疑い否認",
+      "link": "https://news.yahoo.co.jp/pickup/6595819?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T16:46:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日ハム柴田獅子 衝撃のプロ初HR",
+      "link": "https://news.yahoo.co.jp/pickup/6595822?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T17:12:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉豪雨 半壊の9割支援金対象外",
+      "link": "https://news.yahoo.co.jp/pickup/6595823?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T17:35:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風25号 暴風や大雨の警戒期間は",
+      "link": "https://news.yahoo.co.jp/pickup/6595825?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T17:42:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "連休のイベント中止続出 台風影響",
+      "link": "https://news.yahoo.co.jp/pickup/6595824?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T17:45:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プリキュア映画 初日で興収1億円",
+      "link": "https://news.yahoo.co.jp/pickup/6595826?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T17:46:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "猪俣容疑者逮捕 各社対応追われる",
+      "link": "https://news.yahoo.co.jp/pickup/6595829?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T18:26:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "外務省テロ訓練 衣装への批判続く",
+      "link": "https://news.yahoo.co.jp/pickup/6595821?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T17:29:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Anthropic アクセンチュアと提携",
+      "link": "https://news.yahoo.co.jp/pickup/6595818?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T16:40:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA松尾 脳しんとう特例で抹消",
+      "link": "https://news.yahoo.co.jp/pickup/6595831?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T19:05:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "井原良太郎がKO負け BD会場騒然",
+      "link": "https://news.yahoo.co.jp/pickup/6595830?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T18:34:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中田ボタンさん死去 肺がんで闘病",
+      "link": "https://news.yahoo.co.jp/pickup/6595838?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T20:11:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 21日～22日に関東など接近",
+      "link": "https://news.yahoo.co.jp/pickup/6595834?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T19:43:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日大敗 14年連続でCS進出逃す",
+      "link": "https://news.yahoo.co.jp/pickup/6595836?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T20:14:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コメ価格が急落 生産者に危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6595828?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T18:31:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "作業員4人死亡 複数のミス連鎖か",
+      "link": "https://news.yahoo.co.jp/pickup/6595837?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T20:32:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元参議院議員 星川保松さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6595832?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T19:33:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "初甲子園 福山高への寄付6000万円",
+      "link": "https://news.yahoo.co.jp/pickup/6595840?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T20:37:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会の開会式 空席目立つ",
+      "link": "https://news.yahoo.co.jp/pickup/6595842?source=rss",
+      "description": "",
+      "pub_date": "2026-09-19T20:56:57+09:00"
+    }
+  ]
+}
