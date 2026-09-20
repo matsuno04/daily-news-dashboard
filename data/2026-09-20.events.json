@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "matched_at": "2026-09-20T21:46:15.292758+09:00",
+  "matched_at": "2026-09-21T01:28:19.057993+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -13,7 +13,7 @@
           "title": "台風25号 あす関東甲信などにかなり接近へ 連休中の交通に影響",
           "link": "https://news.web.nhk/newsweb/na/nd-20260919de51282",
           "description": "大型で強い台風25号は21日、伊豆諸島や関東甲信にかなり接近する見込みです。 伊豆諸島では猛烈な風が予想されているほか、伊豆諸島や関東甲信では、平年の9月1か月分の雨量を超えるような記録的な大雨となる…",
-          "pub_date": "2026-09-20T21:05:51+09:00"
+          "pub_date": "2026-09-20T21:05:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -117,10 +117,10 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "大谷 帽子飛ばしベースランニング",
-          "link": "https://news.yahoo.co.jp/pickup/6595875?source=rss",
+          "title": "鈴木彩艶 好セーブ連発&得点演出",
+          "link": "https://news.yahoo.co.jp/pickup/6595861?source=rss",
           "description": "",
-          "pub_date": "2026-09-20T09:20:59+09:00"
+          "pub_date": "2026-09-20T07:42:16+09:00"
         }
       }
     },
@@ -137,10 +137,10 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "大谷 異例のベースランニング実施",
-          "link": "https://news.yahoo.co.jp/pickup/6595878?source=rss",
+          "title": "大谷 帽子飛ばしベースランニング",
+          "link": "https://news.yahoo.co.jp/pickup/6595875?source=rss",
           "description": "",
-          "pub_date": "2026-09-20T09:33:20+09:00"
+          "pub_date": "2026-09-20T09:20:59+09:00"
         }
       }
     },
@@ -193,7 +193,7 @@
           "title": "JR長野駅 エスカレーターで少なくとも7人転倒 2人けが",
           "link": "https://news.web.nhk/newsweb/na/nd-20260920de51349",
           "description": "20日正午前、JR長野駅のエスカレーターで少なくとも7人が折り重なるように転倒して、子どもを含む2人がけがをしました。秋の連休2日目の駅は当時、観光客などで混雑していたということで、警察は詳しい状況を…",
-          "pub_date": "2026-09-20T18:30:10+09:00"
+          "pub_date": "2026-09-20T18:30:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -210,10 +210,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "福岡 車とバイク3台が絡む事故 3歳ぐらいの男児巻き込まれ重体",
+          "title": "福岡 男児が事故で意識不明 危険運転傷害の疑いで容疑者逮捕",
           "link": "https://news.web.nhk/newsweb/na/nd-20260920de51330",
-          "description": "20日午前11時すぎ、福岡市西区の県道で軽自動車とバイク3台が絡む事故があり、近くにいた3歳ぐらいの男児にバイクが衝突し、意識不明の重体です。警察が事故の状況を詳しく調べています。",
-          "pub_date": "2026-09-20T18:41:55+09:00"
+          "description": "20日午前11時すぎ、福岡市西区の県道で軽自動車とバイク3台が絡む事故があり、そのはずみで、1台のバイクが近くにいた3歳くらいの男児と衝突し、意識不明の重体です。警察は、軽自動車を運転していた68歳の…",
+          "pub_date": "2026-09-20T22:40:12+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -272,7 +272,7 @@
       "title": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
       "link": "https://news.web.nhk/newsweb/na/nd-20260920de51297",
       "description": "台風25号による交通機関への影響です。",
-      "pub_date": "2026-09-20T18:35:32+09:00"
+      "pub_date": "2026-09-20T22:23:45+09:00"
     },
     {
       "source": "NHK",
@@ -324,6 +324,13 @@
       "pub_date": "2026-09-20T20:21:12+09:00"
     },
     {
+      "source": "NHK",
+      "title": "東京 善福寺川に「レベル4氾濫危険警報」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51404",
+      "description": "気象庁と東京都は、20日午後9時50分、都内を流れる善福寺川に「レベル4氾濫危険警報」を発表しました。 善福寺川では、水位が上昇していて、今後、氾濫するおそれがあります。 善福寺川で警戒が呼びかけ…",
+      "pub_date": "2026-09-20T22:03:22+09:00"
+    },
+    {
       "source": "Yahoo!ニュース",
       "title": "最高裁調査官の報告書 見つかる",
       "link": "https://news.yahoo.co.jp/pickup/6595860?source=rss",
@@ -336,13 +343,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6595870?source=rss",
       "description": "",
       "pub_date": "2026-09-20T08:27:02+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "鈴木彩艶 好セーブ連発&得点演出",
-      "link": "https://news.yahoo.co.jp/pickup/6595861?source=rss",
-      "description": "",
-      "pub_date": "2026-09-20T07:42:16+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -406,6 +406,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6595874?source=rss",
       "description": "",
       "pub_date": "2026-09-20T09:18:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷 異例のベースランニング実施",
+      "link": "https://news.yahoo.co.jp/pickup/6595878?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T09:33:20+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -693,6 +700,62 @@
       "link": "https://news.yahoo.co.jp/pickup/6595953?source=rss",
       "description": "",
       "pub_date": "2026-09-20T20:53:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 地域ごとの雨風強まる時間は",
+      "link": "https://news.yahoo.co.jp/pickup/6595966?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T22:44:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北の体育相に日本側接触 返答なし",
+      "link": "https://news.yahoo.co.jp/pickup/6595963?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T22:32:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "インドネシアの島 奴隷制の実態",
+      "link": "https://news.yahoo.co.jp/pickup/6595960?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T22:09:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "男児重体の事故 酒の影響と容疑者",
+      "link": "https://news.yahoo.co.jp/pickup/6595959?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T22:14:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "眼鏡を拾おうと川に入る 16歳死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6595969?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T23:02:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "妊娠中にがん発覚 母になり旅立つ",
+      "link": "https://news.yahoo.co.jp/pickup/6595961?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T22:05:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "timeleszが謝罪「言葉失った」",
+      "link": "https://news.yahoo.co.jp/pickup/6595968?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T22:56:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ニアジョイ藤沢 バセドウ病を公表",
+      "link": "https://news.yahoo.co.jp/pickup/6595964?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T22:36:32+09:00"
     }
   ]
 }
