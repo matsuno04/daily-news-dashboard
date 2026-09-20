@@ -1,0 +1,698 @@
+{
+  "date": "2026-09-20",
+  "matched_at": "2026-09-20T21:46:15.292758+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風25号 あす関東甲信などにかなり接近へ 連休中の交通に影響",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51282",
+          "description": "大型で強い台風25号は21日、伊豆諸島や関東甲信にかなり接近する見込みです。 伊豆諸島では猛烈な風が予想されているほか、伊豆諸島や関東甲信では、平年の9月1か月分の雨量を超えるような記録的な大雨となる…",
+          "pub_date": "2026-09-20T21:05:51+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大型で強い台風 21日に関東最接近",
+          "link": "https://news.yahoo.co.jp/pickup/6595856?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T07:17:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領「AIフォース」創設と発表 安全性懸念の中",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51300",
+          "description": "AI＝人工知能の開発と安全性をめぐる議論が活発になるなか、アメリカのトランプ大統領は「AIの悪を探すため」として「AIフォース」を創設すると明らかにしました。",
+          "pub_date": "2026-09-20T06:28:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "トランプ氏「AIフォース創設」",
+          "link": "https://news.yahoo.co.jp/pickup/6595864?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T08:07:43+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51286",
+          "description": "AFP通信などは中東・サウジアラビアの首都リヤドで国際空港の近くにある燃料タンクが炎上していると伝えました。 これについてサウジアラビアと対立するイエメンの反政府勢力フーシ派は声明で、リヤドなどへの…",
+          "pub_date": "2026-09-20T06:42:11+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "フーシ派 サウジ首都攻撃と主張",
+          "link": "https://news.yahoo.co.jp/pickup/6595859?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T07:36:45+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51285",
+          "description": "上方漫才を代表する漫才コンビ「中田カウス・ボタン」の中田ボタンさんが今月14日に亡くなりました。 78歳でした。",
+          "pub_date": "2026-09-20T00:26:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中田ボタンさん死去 ツッコミ名手",
+          "link": "https://news.yahoo.co.jp/pickup/6595944?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T19:29:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高校生暴行死 殺人容疑で少年4人再逮捕 “鈍器”で殴ったか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51325",
+          "description": "先月、相模原市で高校生が暴行を受けて死亡した事件で、16歳と17歳の少年4人が殺人の疑いで再逮捕されました。オートバイに乗っていた高校生を車で1キロ余りにわたって追いかけ、鈍器のようなもので殴ったとみ…",
+          "pub_date": "2026-09-20T17:45:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "高2死亡 殺人疑いで少年4人再逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6595886?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T11:17:00+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ホワイトソックス 村上宗隆 先制タイムリーで勝利に貢献",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51306",
+          "description": "大リーグ、ホワイトソックスの村上宗隆選手は、19日、タイガース戦に先発出場し、先制のタイムリーヒットを打って、チームの勝利に貢献しました。",
+          "pub_date": "2026-09-20T09:51:33+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大谷 帽子飛ばしベースランニング",
+          "link": "https://news.yahoo.co.jp/pickup/6595875?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T09:20:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドジャース 大谷翔平 復帰に向け球場でベースランニング行う",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51329",
+          "description": "大リーグ、ドジャースで、けが人リストに入っている大谷翔平選手が、19日、試合前の球場でベースランニングを行い、復帰に向けて順調な回復ぶりをうかがわせました。",
+          "pub_date": "2026-09-20T12:21:29+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大谷 異例のベースランニング実施",
+          "link": "https://news.yahoo.co.jp/pickup/6595878?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T09:33:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "墜落した空自の大型無人偵察機 機体の一部を回収",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51332",
+          "description": "鳥取県沖を飛行していた航空自衛隊の大型無人偵察機「グローバルホーク」が海上に墜落した事故で、自衛隊は付近の海岸に漂着した機体の一部を回収したと明らかにしました。ただ、機体の主要部分はいまだ見つかってお…",
+          "pub_date": "2026-09-20T12:19:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "墜落の空自無人偵察機 一部回収",
+          "link": "https://news.yahoo.co.jp/pickup/6595925?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T17:42:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北朝鮮 弾道ミサイル可能性あるもの続けて発射 EEZ外に落下か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51353",
+          "description": "防衛省は20日午後、2度にわたって北朝鮮から弾道ミサイルの可能性のあるものが発射されたと発表しました。防衛省関係者によりますと、いずれも日本のEEZ＝排他的経済水域の外側に落下したとみられるということ…",
+          "pub_date": "2026-09-20T19:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北朝鮮のミサイルEEZ外に落下か",
+          "link": "https://news.yahoo.co.jp/pickup/6595915?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T15:46:30+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JR長野駅 エスカレーターで少なくとも7人転倒 2人けが",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51349",
+          "description": "20日正午前、JR長野駅のエスカレーターで少なくとも7人が折り重なるように転倒して、子どもを含む2人がけがをしました。秋の連休2日目の駅は当時、観光客などで混雑していたということで、警察は詳しい状況を…",
+          "pub_date": "2026-09-20T18:30:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "駅エスカレーター複数転倒2人けが",
+          "link": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T17:37:26+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福岡 車とバイク3台が絡む事故 3歳ぐらいの男児巻き込まれ重体",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51330",
+          "description": "20日午前11時すぎ、福岡市西区の県道で軽自動車とバイク3台が絡む事故があり、近くにいた3歳ぐらいの男児にバイクが衝突し、意識不明の重体です。警察が事故の状況を詳しく調べています。",
+          "pub_date": "2026-09-20T18:41:55+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "車とバイクが事故 歩道の3歳重体",
+          "link": "https://news.yahoo.co.jp/pickup/6595894?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T13:06:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北九州 川で遊んでいた男性が溺れ死亡 めがね拾おうとしたか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260920de51366",
+          "description": "20日午後、北九州市小倉北区を流れる川で、友人と遊んでいた男性が溺れ、死亡しました。",
+          "pub_date": "2026-09-20T17:33:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "眼鏡を拾おうと川に入る 男性死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6595942?source=rss",
+          "description": "",
+          "pub_date": "2026-09-20T19:31:10+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "電動車いす 転落などで死亡事故10年間で34件 NITE注意呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51291",
+      "description": "電動車いすが用水路や側溝に転落するなどして乗っていた高齢者が死亡する事故が過去10年間で34件起きているとして、NITE＝製品評価技術基盤機構が注意を呼びかけています。",
+      "pub_date": "2026-09-20T06:49:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドイツ 首都と北東部の州で議会選挙へ「極右」が支持伸ばすか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51287",
+      "description": "ドイツの首都ベルリンと北東部の州で20日、議会選挙が行われます。 一部の州で極右団体に認定されている政党「ドイツのための選択肢」がどこまで支持を伸ばすのか注目されます。",
+      "pub_date": "2026-09-20T04:56:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【気象予報士解説】台風25号 今後の見通しは？（7時台）",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51299",
+      "description": "台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。",
+      "pub_date": "2026-09-20T09:45:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51297",
+      "description": "台風25号による交通機関への影響です。",
+      "pub_date": "2026-09-20T18:35:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イラン高官「協議再開の7つの条件をアメリカ政府に伝達」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51305",
+      "description": "イランの高官は19日、アメリカ政府に対して戦闘終結に向けた協議を再開するための7つの条件を伝達したとSNSに投稿しました。具体的な内容は明らかにしていませんが、これに先立つ中東メディアとのインタビュー…",
+      "pub_date": "2026-09-20T09:20:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドイツ 世界最大のビールの祭典「オクトーバーフェスト」開幕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51288",
+      "description": "世界最大のビールの祭り、「オクトーバーフェスト」がドイツ南部の都市、ミュンヘンで始まりました。",
+      "pub_date": "2026-09-20T05:15:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サウジとフーシ派の対立激化　米“急激悪化”懸念で警戒を通知",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51327",
+      "description": "中東最大の産油国サウジアラビアの首都などを、イランの支援を受けるイエメンの反政府勢力が攻撃し、双方の対立が激化するなか、アメリカ政府は、紛争が急激に悪化する危険があるとして、中東の滞在者に警戒を呼びか…",
+      "pub_date": "2026-09-20T12:18:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山形で「日本一の芋煮会」里芋3.2トン用意 ショベルカーも登場",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51339",
+      "description": "山形県の郷土料理「芋煮」を巨大な鍋でつくる催し「日本一の芋煮会」が山形市の河川敷で開かれ、多くの人でにぎわっています。",
+      "pub_date": "2026-09-20T15:29:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高齢者の割合 総人口の29.6％で過去最高 総務省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51359",
+      "description": "21日は敬老の日です。総人口に占める65歳以上の高齢者の割合は29.6％と過去最高となったほか、働く高齢者の数も943万人とこれまでで最も多くなりました。",
+      "pub_date": "2026-09-20T17:09:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“江戸の謎の漂着船”「うつろ舟」新資料 国立公文書館で確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51311",
+      "description": "江戸時代、現在の茨城県沿岸に漂着したとされる謎の船「うつろ舟」に関する新たな資料が確認され、東京の国立公文書館で特別展示が行われています。",
+      "pub_date": "2026-09-20T19:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京 大島町に避難指示",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51387",
+      "description": "東京 伊豆諸島の大島町は、土砂災害のおそれが高まっているとして、午後7時に、町内全域に避難指示を出しました。 5段階の警戒レベルのうちレベル4の情報で、危険な場所から避難するよう呼びかけています。",
+      "pub_date": "2026-09-20T20:21:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "最高裁調査官の報告書 見つかる",
+      "link": "https://news.yahoo.co.jp/pickup/6595860?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T07:43:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "6歳行方不明 現場の警察官の執念",
+      "link": "https://news.yahoo.co.jp/pickup/6595870?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T08:27:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鈴木彩艶 好セーブ連発&得点演出",
+      "link": "https://news.yahoo.co.jp/pickup/6595861?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T07:42:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日・福敬登が今季限りで退団へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595857?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T07:17:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "timelesz 7人での活動は継続",
+      "link": "https://news.yahoo.co.jp/pickup/6595858?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T07:24:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "漁船に一時クマ乗り込む 船員無事",
+      "link": "https://news.yahoo.co.jp/pickup/6595868?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T08:34:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "亀梨ソロツアー 開演遅れに神対応",
+      "link": "https://news.yahoo.co.jp/pickup/6595869?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T08:47:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京のゲンジボタル7割「よそ者」",
+      "link": "https://news.yahoo.co.jp/pickup/6595867?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T08:17:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東と東海 今夜道路冠水の恐れも",
+      "link": "https://news.yahoo.co.jp/pickup/6595884?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T10:29:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "犬猫の保護依頼増 飼い主が高齢化",
+      "link": "https://news.yahoo.co.jp/pickup/6595865?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T08:17:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今年11カ所で花火大会中止 物価高",
+      "link": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T08:54:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "4年でケアマネ300人以上減 新潟県",
+      "link": "https://news.yahoo.co.jp/pickup/6595874?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T09:18:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ニッポンの社長辻 唐突に結婚発表",
+      "link": "https://news.yahoo.co.jp/pickup/6595873?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T09:00:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ホワイトハウス CNN記者証を没収",
+      "link": "https://news.yahoo.co.jp/pickup/6595876?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T09:22:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "遊園地にカメラ50台 自動撮影好評",
+      "link": "https://news.yahoo.co.jp/pickup/6595882?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T10:34:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロッキン21日の中止発表 台風影響",
+      "link": "https://news.yahoo.co.jp/pickup/6595887?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T11:23:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TBSバース・デイ 20年超歴史に幕",
+      "link": "https://news.yahoo.co.jp/pickup/6595879?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T10:02:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横断歩道で77歳はねられ死亡 茨城",
+      "link": "https://news.yahoo.co.jp/pickup/6595888?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T11:27:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "iPhone Duo経費にできる?注意点",
+      "link": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T10:50:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤咲凪 第3子出産&マレーシア移住",
+      "link": "https://news.yahoo.co.jp/pickup/6595889?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T11:53:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄知事選受け 自衛隊南西シフト",
+      "link": "https://news.yahoo.co.jp/pickup/6595893?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T13:02:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JR 21日一部で始発から見合わせ",
+      "link": "https://news.yahoo.co.jp/pickup/6595898?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T13:18:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「娘の死で商売」豪雨後の中傷",
+      "link": "https://news.yahoo.co.jp/pickup/6595891?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T13:07:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "移動距離5m 短い避難訓練の狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6595890?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T12:45:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイパ無視 ひたすら石を磨く90分",
+      "link": "https://news.yahoo.co.jp/pickup/6595897?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T13:35:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "乱調のスクバル ベンチで怒り爆発",
+      "link": "https://news.yahoo.co.jp/pickup/6595899?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T13:23:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北朝鮮のミサイルはすでに落下か",
+      "link": "https://news.yahoo.co.jp/pickup/6595912?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T15:16:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風が21日関東接近 氾濫など警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6595904?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T14:37:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岡田克也氏 新党への参加を明言",
+      "link": "https://news.yahoo.co.jp/pickup/6595906?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T14:37:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自転車がひき逃げ 80代女性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6595909?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T14:59:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "損保ジャパン 望まない転勤廃止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T15:02:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "香取慎吾ブランド コラボ巡り声明",
+      "link": "https://news.yahoo.co.jp/pickup/6595905?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T14:34:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "希良梨が活動再開 昨年に引退発表",
+      "link": "https://news.yahoo.co.jp/pickup/6595901?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T14:13:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 21日昼-夜遅くに関東最接近",
+      "link": "https://news.yahoo.co.jp/pickup/6595918?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T16:28:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風影響 21日のイベ中止相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6595913?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T15:30:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会 国歌演奏を一時中止か",
+      "link": "https://news.yahoo.co.jp/pickup/6595914?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T15:58:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウクライナ 日本に首脳会談要請",
+      "link": "https://news.yahoo.co.jp/pickup/6595910?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T15:17:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東国原氏を書類送検 名誉毀損疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6595922?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T17:02:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タクシーがバイクと衝突 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6595919?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T16:48:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソフトテニス女子団体 日本が金",
+      "link": "https://news.yahoo.co.jp/pickup/6595921?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T17:02:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "若林正恭 スクール革命!卒業発表",
+      "link": "https://news.yahoo.co.jp/pickup/6595917?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T16:38:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北朝鮮再びミサイル発射し落下か",
+      "link": "https://news.yahoo.co.jp/pickup/6595934?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T18:14:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「美味しんぼ」新作アニメ なぜ今",
+      "link": "https://news.yahoo.co.jp/pickup/6595930?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T18:21:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北再びミサイル発射 EEZ外落下か",
+      "link": "https://news.yahoo.co.jp/pickup/6595937?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T18:44:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カバディ漫画 日本代表ほぼ既読",
+      "link": "https://news.yahoo.co.jp/pickup/6595929?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T18:22:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 21日午後が雨風のピーク",
+      "link": "https://news.yahoo.co.jp/pickup/6595939?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T19:13:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "道徳的問い AI反論で3割判断覆す",
+      "link": "https://news.yahoo.co.jp/pickup/6595935?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T18:28:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バスケ韓国 決勝当日に練習できず",
+      "link": "https://news.yahoo.co.jp/pickup/6595945?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T20:07:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報バレー女子 日本vs台湾",
+      "link": "https://news.yahoo.co.jp/pickup/6595941?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T19:21:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "全身やけどで90代死亡 近くに仏壇",
+      "link": "https://news.yahoo.co.jp/pickup/6595948?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T20:31:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大会中に単独事故 公道ラリー中止",
+      "link": "https://news.yahoo.co.jp/pickup/6595954?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T21:07:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "E・シーラン ガザ巡る立場を明言",
+      "link": "https://news.yahoo.co.jp/pickup/6595947?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T20:30:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バレー女子日本4強入り 台湾撃破",
+      "link": "https://news.yahoo.co.jp/pickup/6595953?source=rss",
+      "description": "",
+      "pub_date": "2026-09-20T20:53:55+09:00"
+    }
+  ]
+}
