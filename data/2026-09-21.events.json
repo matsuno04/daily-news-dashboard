@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "matched_at": "2026-09-21T21:46:17.012981+09:00",
+  "matched_at": "2026-09-22T03:18:43.219806+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -210,6 +210,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "伊豆諸島 御蔵島村付近で猛烈な雨か「記録的短時間大雨」発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51654",
+          "description": "気象庁によりますと、伊豆諸島の御蔵島村付近では、レーダーによる解析で午後3時までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨」の…",
+          "pub_date": "2026-09-21T15:34:38+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東京・大島町に特別警報 最新情報",
+          "link": "https://news.yahoo.co.jp/pickup/6596007?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T13:07:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "サッカーJ1 FC東京 40歳の長友佑都 右ひざ前十字じん帯損傷",
           "link": "https://news.web.nhk/newsweb/na/nd-20260921de51641",
           "description": "サッカーJ1・FC東京の40歳、長友佑都選手が右ひざの前十字じん帯を損傷したことがわかりました。",
@@ -225,7 +245,7 @@
       }
     },
     {
-      "event_id": "evt-0012",
+      "event_id": "evt-0013",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -245,7 +265,7 @@
       }
     },
     {
-      "event_id": "evt-0013",
+      "event_id": "evt-0014",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -265,7 +285,7 @@
       }
     },
     {
-      "event_id": "evt-0014",
+      "event_id": "evt-0015",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -327,13 +347,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260921de51631",
       "description": "おととしの石川県の能登地方の豪雨で、被害が相次いだ輪島市の中心部では、同じ年の能登半島地震で地盤が隆起した影響で、浸水が拡大した可能性があるという分析結果を輪島市がまとめました。 排水管の向きが変わ…",
       "pub_date": "2026-09-21T15:11:43+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "伊豆諸島 御蔵島村付近で猛烈な雨か「記録的短時間大雨」発表",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51654",
-      "description": "気象庁によりますと、伊豆諸島の御蔵島村付近では、レーダーによる解析で午後3時までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨」の…",
-      "pub_date": "2026-09-21T15:34:38+09:00"
     },
     {
       "source": "NHK",
@@ -565,13 +578,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6596001?source=rss",
       "description": "",
       "pub_date": "2026-09-21T12:18:22+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "東京・大島町に特別警報 最新情報",
-      "link": "https://news.yahoo.co.jp/pickup/6596007?source=rss",
-      "description": "",
-      "pub_date": "2026-09-21T13:07:36+09:00"
     },
     {
       "source": "Yahoo!ニュース",
