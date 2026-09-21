@@ -1,0 +1,766 @@
+{
+  "date": "2026-09-21",
+  "matched_at": "2026-09-21T21:46:17.012981+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風25号 関東に最接近 伊豆諸島の大島町にレベル5特別警報",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51478",
+          "description": "大型で強い台風25号はこの時間、関東に最も接近しています。 「レベル5土砂災害特別警報」が発表された伊豆諸島の大島町では48時間に降った雨の量が800ミリを超える記録的な大雨となっていて、引き続き安全…",
+          "pub_date": "2026-09-21T21:03:16+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "命守って 東京・大島町に特別警報",
+          "link": "https://news.yahoo.co.jp/pickup/6596008?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T13:19:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【台風25号】交通影響まとめ 関東の鉄道 22日の運転見合わせも",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51512",
+          "description": "台風25号による交通機関への影響です。 最新の交通情報に注意してください。",
+          "pub_date": "2026-09-21T20:50:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "全国の鉄道・フライト 最新情報",
+          "link": "https://news.yahoo.co.jp/pickup/6594476?source=rss",
+          "description": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
+          "pub_date": "2026-09-21T13:26:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【気象予報士解説】台風25号 大雨や暴風 今後の見通しは？",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51523",
+          "description": "台風25号の影響で気象庁は、伊豆諸島の大島町に「レベル5土砂災害特別警報」を発表しました。台風の今後の見通しや注意点について、向笠康二郎 気象予報士の解説です。 9月21日の午後1時台のニュースで放…",
+          "pub_date": "2026-09-21T14:19:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風25号 今後の見通しや最新情報",
+          "link": "https://news.yahoo.co.jp/pickup/6596016?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T14:08:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "千葉市中央区でマンホールから水が噴き出す",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51497",
+          "description": "21日午前2時ごろ、千葉市中央区で撮影された映像です。 交差点の脇にあるマンホールから水が激しい勢いで噴き出しています。 撮影した男性によりますと、周辺のほかのマンホールからも水が噴き出していたと…",
+          "pub_date": "2026-09-21T04:59:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "千葉市で道路冠水 車水没の被害",
+          "link": "https://news.yahoo.co.jp/pickup/6595984?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T08:50:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシア首都などにウクライナの大規模攻撃 下院選挙狙ったか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51479",
+          "description": "ロシアでは議会下院選挙の投票の最終日の20日、首都モスクワにある製油所などにウクライナによる大規模な攻撃があり、モスクワの市長はSNSで「この前例のない攻撃は明らかに選挙を妨害する目的で計画されたもの…",
+          "pub_date": "2026-09-21T04:22:03+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風が関東・東海に接近 SNS投稿",
+          "link": "https://news.yahoo.co.jp/pickup/6596009?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T13:27:38+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドイツ北東部州議選「極右」第1党 首相の政党は議席失う",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51516",
+          "description": "ドイツ北東部の州で20日、議会選挙の投票が行われ、一部の州で極右団体に認定されている政党「ドイツのための選択肢」が第1党に躍進しました。一方、メルツ首相率いる中道右派の「キリスト教民主同盟」は党として…",
+          "pub_date": "2026-09-21T09:29:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "独州議会選 極右政党が再び勝利",
+          "link": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T09:05:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ政権 ICCへの広範な制裁検討か 米メディア報道",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51541",
+          "description": "アメリカの有力紙は、トランプ政権が、ICC＝国際刑事裁判所に対して広範な制裁措置を検討していると報じました。 措置が実施されれば、ICCが世界の金融システムの大部分から締め出される可能性があるとしてい…",
+          "pub_date": "2026-09-21T08:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米 ICCへの「広範な制裁」準備か",
+          "link": "https://news.yahoo.co.jp/pickup/6595994?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T11:12:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "伊豆諸島の大島町にレベル5土砂災害特別警報",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51611",
+          "description": "気象庁は午後0時40分、伊豆諸島の大島町にレベル5土砂災害特別警報を発表しました。 5段階の警戒レベルのうち最も高いレベルの情報で、最大級の警戒が必要です。 大島町では、これまで経験したことのない…",
+          "pub_date": "2026-09-21T12:42:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東京・大島町に土砂災害特別警報",
+          "link": "https://news.yahoo.co.jp/pickup/6596012?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T13:44:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "神奈川県東部に「線状降水帯直前予測」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51624",
+          "description": "気象庁は神奈川県東部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午後0時58分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が連なって…",
+          "pub_date": "2026-09-21T13:12:36+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "神奈川県東部 線状降水帯発生恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6596011?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T13:44:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福岡 3歳男児死亡事故 危険運転逮捕の容疑者2倍近いアルコール",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51637",
+          "description": "20日、福岡市西区で軽自動車がバイク3台に追突した事故で、意識不明となっていた3歳の男の子が21日朝に亡くなりました。 危険運転傷害の疑いで逮捕された68歳のドライバーからは危険運転の基準の2倍近い…",
+          "pub_date": "2026-09-21T15:14:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "事故で意識不明の男児が死亡 福岡",
+          "link": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T12:28:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカーJ1 FC東京 40歳の長友佑都 右ひざ前十字じん帯損傷",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51641",
+          "description": "サッカーJ1・FC東京の40歳、長友佑都選手が右ひざの前十字じん帯を損傷したことがわかりました。",
+          "pub_date": "2026-09-21T15:49:56+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "長友佑都 関節前十字じん帯を損傷",
+          "link": "https://news.yahoo.co.jp/pickup/6596021?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T15:13:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "神奈川 横須賀 住宅に土砂が流れ込む 60代女性と連絡取れず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51670",
+          "description": "21日午後、神奈川県横須賀市の住宅に土砂が流れ込み、60代の女性と連絡が取れなくなっているということです。 警察と消防が救助活動を進めています。",
+          "pub_date": "2026-09-21T20:51:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "横須賀で土砂崩れ 1人生き埋めか",
+          "link": "https://news.yahoo.co.jp/pickup/6596029?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T16:13:42+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【動画】鎌倉駅付近 冠水し茶色く濁った水 各地の被害状況は",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51562",
+          "description": "各地の被害を動画でまとめています。",
+          "pub_date": "2026-09-21T17:56:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "鎌倉で道路が川のように 車水没も",
+          "link": "https://news.yahoo.co.jp/pickup/6596043?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T17:58:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "神奈川 三浦市 アパートに土砂が流れ込む 住民1人と連絡取れず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51711",
+          "description": "警察によりますと21日午後2時半ごろ神奈川県三浦市南下浦町上宮田で「土砂でアパートが崩れている」と通報がありました。 2階建てのアパートに土砂が流れ込み、住民の女性と連絡がとれていないということです…",
+          "pub_date": "2026-09-21T19:25:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "神奈川で土砂崩れ相次ぐ 2人不明",
+          "link": "https://news.yahoo.co.jp/pickup/6596052?source=rss",
+          "description": "",
+          "pub_date": "2026-09-21T19:47:52+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "【台風25号】関東各地の被害",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51522",
+      "description": "大雨の影響で関東の各地で被害が出ています。",
+      "pub_date": "2026-09-21T20:54:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 習志野市にレベル4土砂災害危険警報",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51550",
+      "description": "銚子地方気象台は午前7時26分、習志野市にレベル4土砂災害危険警報を発表しました。 土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。 気象台は自治体からの避難の情報を確認し、崖の…",
+      "pub_date": "2026-09-21T08:22:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR中央線 快速電車がオーバーラン 雨で車輪滑ったか 豊田駅",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51580",
+      "description": "21日朝、JR中央線快速電車の上り列車が、停車する予定の駅を通り過ぎるオーバーランがありました。 当時、雨が降っていて、JR東日本によりますと車輪が滑った可能性があるということです。",
+      "pub_date": "2026-09-21T10:11:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【気象庁会見 詳細】 伊豆諸島大島町に特別警報 警戒点は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51617",
+      "description": "東京 伊豆諸島の大島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は21日午後1時40分から記者会見を開き、警戒点などについて説明しました。",
+      "pub_date": "2026-09-21T15:11:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米財務長官と中国副首相 首脳会談前にAIなど協議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51614",
+      "description": "今週予定されている米中首脳会談を前に、アメリカのベッセント財務長官と中国の何立峰副首相が、ニューヨークで会談し、ベッセント長官は、AIをめぐる通報メカニズムの構築を提案したと明らかにしました。",
+      "pub_date": "2026-09-21T13:38:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "能登の豪雨災害 能登半島地震の隆起が浸水拡大に影響か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51631",
+      "description": "おととしの石川県の能登地方の豪雨で、被害が相次いだ輪島市の中心部では、同じ年の能登半島地震で地盤が隆起した影響で、浸水が拡大した可能性があるという分析結果を輪島市がまとめました。 排水管の向きが変わ…",
+      "pub_date": "2026-09-21T15:11:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "伊豆諸島 御蔵島村付近で猛烈な雨か「記録的短時間大雨」発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51654",
+      "description": "気象庁によりますと、伊豆諸島の御蔵島村付近では、レーダーによる解析で午後3時までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨」の…",
+      "pub_date": "2026-09-21T15:34:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉県内 各地の川で氾濫の危険性 「緊急安全確保」を発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51669",
+      "description": "台風25号の影響で大雨となっている千葉県では21日、各地の川で氾濫や氾濫する危険性が高まっているとして、複数の自治体に「緊急安全確保」が出されています。 警戒レベルで最も高いレベル5で、周囲の状況を確…",
+      "pub_date": "2026-09-21T20:44:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 袖ケ浦市 1万8000世帯4万363人に「緊急安全確保」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51695",
+      "description": "千葉県袖ケ浦市は台風の接近に伴う大雨で市内で土砂災害が発生しているとして午後5時半、市内全域の土砂災害特別警戒区域および土砂災害警戒区域に住む1万8000世帯、4万363人を対象に「緊急安全確保」を出…",
+      "pub_date": "2026-09-21T18:05:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 市原市 養老川浸水区域など2万9669世帯「緊急安全確保」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51698",
+      "description": "千葉県市原市は市内を流れる養老川で氾濫の危険性が高まっているとして午後6時に「緊急安全確保」を出しました。 対象となっているのは、養老川の洪水浸水想定区域に住む2万9669世帯、5万5562人です。…",
+      "pub_date": "2026-09-21T18:21:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 袖ケ浦市が「緊急安全確保」地域追加 小櫃川流域7674世帯",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51708",
+      "description": "千葉県袖ケ浦市は市内を流れる小櫃川流域の河川氾濫浸水想定区域に住む7674世帯1万7628人を対象に午後6時46分、「緊急安全確保」を出しました。 袖ケ浦市では土砂災害が発生しているとして午後5時半…",
+      "pub_date": "2026-09-21T19:19:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "能登の豪雨災害2年 仮設住宅の転居求められる人も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51692",
+      "description": "おととし、能登半島地震の被災地を襲った豪雨災害で自宅を失うなどして仮設住宅で生活する被災者の中には、自治体の公共事業の影響で別の仮設住宅への転居を求められるなど、2年たった今も住まいが安定しない人がい…",
+      "pub_date": "2026-09-21T18:45:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国連総会 22日から各国首脳による一般討論演説",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51573",
+      "description": "国連総会で22日から各国の首脳による一般討論演説が始まります。 国連が10年ぶりの事務総長の交代を控えるなか、アメリカのトランプ大統領をはじめとする各国の首脳が国連を中心とした多国間協力にどのような…",
+      "pub_date": "2026-09-21T13:43:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 山武市が市内全域に「緊急安全確保」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51721",
+      "description": "千葉県山武市は、土砂災害の危険性が高まっているなどとして午後7時35分に市内全域の2万2554世帯、4万6004人を対象に「緊急安全確保」を出しました。 警戒レベルで最も高いレベル5で、周囲の状況を…",
+      "pub_date": "2026-09-21T19:59:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「トランプ大統領 イエメン空爆で方針転換」米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51710",
+      "description": "イランの支援を受けるイエメンの反政府勢力フーシ派が対立するサウジアラビアへの攻撃を強めるなか、トランプ大統領はサウジアラビアの要請でいったんはフーシ派への空爆を準備するよう指示したものの、直前になって…",
+      "pub_date": "2026-09-21T20:09:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシア下院選挙で与党圧勝 8割近い議席獲得へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51726",
+      "description": "4年前にウクライナ侵攻が始まって以降、初めてとなるロシアの議会下院選挙の暫定結果が発表され、プーチン政権を支える与党が現有議席を上回って圧勝し、8割近い議席を獲得する見通しとなりました。",
+      "pub_date": "2026-09-21T21:06:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風21日午後に関東最接近 警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6595971?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T07:07:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリ山田修義 今季限りで引退へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595972?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T07:20:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相が国連初演説へ ICC言及焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6595975?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T07:35:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子どもを追い込む指導 悩む教員",
+      "link": "https://news.yahoo.co.jp/pickup/6595977?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T08:01:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "渋谷で若者離れ? 人流データ分析",
+      "link": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T08:05:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "救命病棟24時 院長役に沢村一樹",
+      "link": "https://news.yahoo.co.jp/pickup/6595973?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T07:36:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "猪俣周杜容疑者 映画でも各所対応",
+      "link": "https://news.yahoo.co.jp/pickup/6595974?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T07:34:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中東エネ巡る支援 首相が表明へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595981?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T08:29:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イラン 戦闘終結へ米に7条件伝達",
+      "link": "https://news.yahoo.co.jp/pickup/6595980?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T08:15:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会で問題続発 今後に懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6595983?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T08:49:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 太平洋側は大雨や暴風に警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6595987?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T09:24:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画踊る 示したシリーズ原点回帰",
+      "link": "https://news.yahoo.co.jp/pickup/6595986?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T09:24:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風25号 空の便にも大きな影響",
+      "link": "https://news.yahoo.co.jp/pickup/6595992?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T10:27:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "富士山頂の混雑で転倒懸念 検証へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595990?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T09:53:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "改造内閣「革命的人事」の舞台裏",
+      "link": "https://news.yahoo.co.jp/pickup/6595988?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T09:32:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中高年男性の耳毛 なぜ太く伸びる",
+      "link": "https://news.yahoo.co.jp/pickup/6595989?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T09:57:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "代表合流直前 DF冨安健洋が負傷",
+      "link": "https://news.yahoo.co.jp/pickup/6595996?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T11:18:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "朗希POはリリーフに 監督が明言",
+      "link": "https://news.yahoo.co.jp/pickup/6595982?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T08:54:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "音楽フェス 台風で30組超出演辞退",
+      "link": "https://news.yahoo.co.jp/pickup/6595993?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T10:46:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風が関東接近 雨量増加に警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6595997?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T11:35:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東名で車がスリップか 運転手死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6595998?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T11:37:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豪雨で同級生失い 自衛官志す17歳",
+      "link": "https://news.yahoo.co.jp/pickup/6595979?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T08:10:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "学年上がり自転車事故増 識者指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6595995?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T11:21:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GTO 生徒役オーディションの価値",
+      "link": "https://news.yahoo.co.jp/pickup/6596001?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T12:18:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京・大島町に特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6596007?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T13:07:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風が関東に接近 現地のSNS投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6596015?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T14:00:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "猪俣周杜容疑者 広告の削除相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6595999?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T12:14:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事故に巻き込まれ 3歳男児が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596020?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T14:40:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ブリ抱えて全力疾走 天草市の祭",
+      "link": "https://news.yahoo.co.jp/pickup/6596000?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T12:17:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画ちいかわ 興収158億円を突破",
+      "link": "https://news.yahoo.co.jp/pickup/6596018?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T14:32:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "気象庁「22日明け方まで警戒を」",
+      "link": "https://news.yahoo.co.jp/pickup/6596025?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T15:43:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "琵琶湖で男性3人が行方不明",
+      "link": "https://news.yahoo.co.jp/pickup/6596033?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T16:26:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "食事も「キャンセル」若者の実態",
+      "link": "https://news.yahoo.co.jp/pickup/6596013?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T14:19:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体操個人総合 岡が銀、橋本は銅",
+      "link": "https://news.yahoo.co.jp/pickup/6596039?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T17:09:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA監督に度会のファウルが直撃",
+      "link": "https://news.yahoo.co.jp/pickup/6596032?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T16:36:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風が関東最接近 夜にかけピーク",
+      "link": "https://news.yahoo.co.jp/pickup/6596044?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T18:04:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉・君津市の小糸川 氾濫か",
+      "link": "https://news.yahoo.co.jp/pickup/6596041?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T17:29:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ベーグル店「VIVANT」別パン人気",
+      "link": "https://news.yahoo.co.jp/pickup/6596040?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T17:17:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 最新情報や避難のポイント",
+      "link": "https://news.yahoo.co.jp/pickup/6596048?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T19:02:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "復旧作業中土砂崩れ 川に男性転落",
+      "link": "https://news.yahoo.co.jp/pickup/6596049?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T19:03:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大橋信17歳 100m平泳ぎで金メダル",
+      "link": "https://news.yahoo.co.jp/pickup/6596045?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T18:19:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "YOSHIKI 26年ぶり月9出演",
+      "link": "https://news.yahoo.co.jp/pickup/6596034?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T16:47:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "最後のコヤソニ 小籔千豊の覚悟",
+      "link": "https://news.yahoo.co.jp/pickup/6596035?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T16:51:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "琵琶湖で2人発見し救助 容体不明",
+      "link": "https://news.yahoo.co.jp/pickup/6596050?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T19:14:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "40歳・長友佑都 大怪我に「衝撃」",
+      "link": "https://news.yahoo.co.jp/pickup/6596054?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T19:36:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 大山の劇的サヨナラ弾でM10",
+      "link": "https://news.yahoo.co.jp/pickup/6596051?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T19:25:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コヤソニを「終える」小籔の覚悟",
+      "link": "https://news.yahoo.co.jp/pickup/6596053?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T19:30:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報バレー女子 日本vs.韓国",
+      "link": "https://news.yahoo.co.jp/pickup/6596055?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T20:01:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "復旧作業中に土砂崩れ 男性重体",
+      "link": "https://news.yahoo.co.jp/pickup/6596060?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T20:46:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "8月に続き「またか」千葉で嘆き",
+      "link": "https://news.yahoo.co.jp/pickup/6596061?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T21:14:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県を中心に停電発生 最新状況",
+      "link": "https://news.yahoo.co.jp/pickup/6596059?source=rss",
+      "description": "どこで停電が起きているか、都道府県ごとに地図上で表示する。",
+      "pub_date": "2026-09-21T20:35:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国兵が負傷 非武装地帯に地雷か",
+      "link": "https://news.yahoo.co.jp/pickup/6596037?source=rss",
+      "description": "",
+      "pub_date": "2026-09-21T17:00:46+09:00"
+    }
+  ]
+}

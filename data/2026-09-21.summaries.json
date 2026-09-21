@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-21",
+  "summarized_at": "2026-09-21T21:46:20.301429+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "summaries": [
+    {
+      "event_id": "evt-0001",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "命守って 東京・大島町に特別警報",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596008?source=rss",
+      "body_excerpt": "命守って 東京・大島町に特別警報9/21(月) 13:19Yahoo!ニュース【レベル5土砂災害特別警報】東京都大島町に発表（12時40分時点）FNNプライムオンライン（フジテレビ系）212コメント212件気象庁は21日12時40分、東京都大島町にレベル5土砂災害特別警報を発表しました。記事全文を読む",
+      "headline": "東京・大島町に土砂災害特別警報",
+      "summary": "気象庁は9月21日12時40分、東京都大島町にレベル5土砂災害特別警報を発表した。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0002",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "全国の鉄道・フライト 最新情報",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6594476?source=rss",
+      "body_excerpt": "全国の鉄道・フライト 最新情報9/21(月) 13:26Yahoo!ニュース全国の運行情報 JR、私鉄、地下鉄、新幹線、フライト（Yahoo!路線情報）Yahoo!路線情報最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。詳しく確認する",
+      "headline": "全国の鉄道・フライト 最新情報",
+      "summary": "Yahoo!路線情報が全国のJR、私鉄、地下鉄、新幹線、フライトの最新運行情報を提供している。災害による交通機関への影響を確認できる。",
+      "category": "その他"
+    },
+    {
+      "event_id": "evt-0003",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "台風25号 今後の見通しや最新情報",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596016?source=rss",
+      "body_excerpt": "関連ニュース\n- 【最新予報】台風25号関東に接近 線状降水帯が発生するおそれも…伊豆大島に特別警報 日テレNEWS NNN9/21(月) 17:21\n- 千葉・市原市の高滝ダムで21日午後9時半から緊急放流を実施へ テレビ朝日系（ANN）9/21(月) 21:19\n- 【停電情報・午後9過ぎ時点】東京電力管内で約5万6000軒停電 TBS NEWS DIG Powered by JNN9/21(月) 21:27\n- 【台風25号】JR東日本が21日の運転計画を発表 首都圏などの運転状況（午後8時現在） 日テレNEWS NNN9/21(月) 20:09\n気象情報\n雨雲レーダー\n台風情報\n- 河川の警戒情報、河川ライブカメラなど\n- 土砂災害、洪水の危険を確認\n- 各河川の氾濫発生の警戒情報\n- 中小の河川の洪水災害発生の危険度を地図で確認\nハザードマップで周辺の危険度を確認\n- 洪水の浸水想定区域、土砂災害の警戒区域、津波の浸水想定など\n避難情報\n交通への影響\n道路の状況\n- 高速道路と一般道路の規制や渋滞の情報\nフライト情報\n09/21(月) 21:44\n  - 国内線\n  - 国際",
+      "headline": "台風25号 関東接近で警報・停電・交通混乱",
+      "summary": "台風25号が関東に接近し、伊豆大島に特別警報が発令された。線状降水帯の発生、高滝ダムの緊急放流、東京電力管内で約5万6000軒の停電、JR東日本の運転計画変更など、広範囲で影響が生じている。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0004",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "千葉市で道路冠水 車水没の被害",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6595984?source=rss",
+      "body_excerpt": "千葉市で道路冠水 車水没の被害9/21(月) 8:50日テレNEWS NNN2026年 台風25号【台風25号】千葉市で道路冠水…車水没の被害日テレNEWS NNN866解説コメント866件台風25号の接近に伴う大雨で、千葉市では道路が冠水し、車が水没する被害が起きているということです。記事全文を読む",
+      "headline": "千葉市で台風25号による道路冠水、車水没の被害",
+      "summary": "台風25号の接近に伴う大雨により、千葉市で道路が冠水し、車が水没する被害が発生している。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0005",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "台風が関東・東海に接近 SNS投稿",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596009?source=rss",
+      "body_excerpt": "台風が関東・東海に接近 SNS投稿9/21(月) 13:27アフロ「台風が関東・東海に接近」に関するSNS上の投稿 Yahoo!リアルタイム検索「リアルタイム検索」では、「台風が関東・東海に接近」を巡るXの投稿をまとめて表示しています。投稿を確認する",
+      "headline": "台風が関東・東海に接近",
+      "summary": "台風が関東・東海に接近している。Yahoo!リアルタイム検索では、このトピックに関するX上の投稿をまとめて表示している。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0006",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "独州議会選 極右政党が再び勝利",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
+      "body_excerpt": "独州議会選 極右政党が再び勝利9/21(月) 9:05ＡＦＰ＝時事独州議会選で極右AfDが再び勝利、メルツ首相は政権運営の「方針を維持」表明ＡＦＰ＝時事359解説コメント359件【AFP＝時事】ドイツ北東部メクレンブルク・フォアポンメルン州で20日、州議会選挙が行われ、極右政党「ドイツのための選択肢（AfD）」が、フリードリヒ・メルツ首相率いる中道右派の「キリスト教民主同盟（CDU）」を大きく上回った。記事全文を読む",
+      "headline": "独州議会選で極右AfDが勝利",
+      "summary": "ドイツ北東部メクレンブルク・フォアポンメルン州の州議会選挙で、極右政党「ドイツのための選択肢（AfD）」がメルツ首相率いるCDUを大きく上回った。",
+      "category": "国際"
+    },
+    {
+      "event_id": "evt-0007",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "米 ICCへの「広範な制裁」準備か",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6595994?source=rss",
+      "body_excerpt": "米 ICCへの「広範な制裁」準備か\n米、ICCへの「広範な制裁」準備 ドル建て取引禁止、運営に支障も 報道\n時事通信\n【ワシントン時事】米紙ウォール・ストリート・ジャーナル（WSJ）は20日、トランプ政権が国際刑事裁判所（ICC）に対する「広範な制裁」の準備に入ったと伝えた。",
+      "headline": "米、ICC制裁を準備 ドル建て取引禁止など",
+      "summary": "トランプ政権が国際刑事裁判所（ICC）に対する「広範な制裁」の準備に入った。制裁にはドル建て取引禁止が含まれ、ICCの運営に支障をもたらす可能性がある。",
+      "category": "国際"
+    },
+    {
+      "event_id": "evt-0008",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "東京・大島町に土砂災害特別警報",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596012?source=rss",
+      "body_excerpt": "東京・大島町に土砂災害特別警報\nYahoo!ニュース\n2026年 台風25号\n台風25号 伊豆大島で24時間650ミリ超 2013年の豪雨災害以来の記録的大雨\ntenki.jp\n台風25号の影響で、伊豆大島では2013年の豪雨災害以来の記録的な大雨となっています。今日21日16時までの24時間降水量は657.0ミリに達しました。大島の9月の平年の降水量の2倍近い雨が、わずか1日程度で降ってしまったことになります。大島町にはレベル5土砂災害特別警報が発表中です。夜遅くにかけて土砂災害に最大級の警戒をしてください。",
+      "headline": "台風25号で伊豆大島に土砂災害特別警報",
+      "summary": "台風25号の影響で伊豆大島は24時間で657ミリの記録的大雨となり、2013年の豪雨災害以来の降水量を記録した。大島町にはレベル5の土砂災害特別警報が発表されており、夜遅くにかけて最大級の警戒が必要。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0009",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "神奈川県東部 線状降水帯発生恐れ",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596011?source=rss",
+      "body_excerpt": "神奈川県東部 線状降水帯発生恐れ9/21(月) 13:44日テレNEWS NNN神奈川県東部に線状降水帯直前予測 3時間以内に災害もたらす大雨のおそれ日テレNEWS NNN267コメント267件午後0時58分、横浜地方気象台は神奈川県に線状降水帯直前予測を発表しました。記事全文を読む",
+      "headline": "神奈川県東部に線状降水帯直前予測",
+      "summary": "9月21日午後0時58分、横浜地方気象台は神奈川県東部に線状降水帯直前予測を発表した。3時間以内に災害をもたらす大雨のおそれがある。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0010",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "事故で意識不明の男児が死亡 福岡",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
+      "body_excerpt": "事故で意識不明の男児が死亡 福岡9/21(月) 12:28RKB毎日放送意識不明の重体だった\"3歳\"男児が死亡 軽乗用車運転の68歳男｢お酒の影響でアクセルとブレーキを踏み間違えた｣ 容疑を危険運転致死傷へ切り替える方針RKB毎日放送20日午前、福岡市西区で軽乗用車が大型バイク3台に次々と追突し、転倒したバイクが歩行者の3歳とみられる男の子に衝突した事故です。記事全文を読む",
+      "headline": "飲酒運転で3歳男児死亡 福岡",
+      "summary": "福岡市西区で軽乗用車が大型バイク3台に追突し、転倒したバイクが歩行者の3歳男児に衝突した事故で、意識不明の重体だった男児が死亡した。運転していた68歳男性は飲酒の影響でアクセルとブレーキを踏み間違えたと供述しており、容疑が危険運転致死傷に切り替えられる方針。",
+      "category": "社会"
+    },
+    {
+      "event_id": "evt-0011",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "長友佑都 関節前十字じん帯を損傷",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596021?source=rss",
+      "body_excerpt": "長友佑都 関節前十字じん帯を損傷9/21(月) 15:13サッカーキングFC東京が長友佑都の負傷を発表…G大阪戦で右ひざ関節前十字じん帯損傷サッカーキング311解説コメント311件FC東京は21日、日本代表DF長友佑都の負傷について発表した。 長友は40歳の誕生日である12日に行われた2026/27明治安田J1リーグ第7節ガンバ大阪戦にて負傷。チームドクターの診察を受けた結果、右ひざ関節前十字じん帯損傷と診断された。全治は不明。記事全文を読む",
+      "headline": "長友佑都が右ひざ前十字靱帯損傷",
+      "summary": "FC東京のDF長友佑都が、9月12日のガンバ大阪戦で右ひざ関節前十字靱帯を損傷した。全治は不明。",
+      "category": "スポーツ"
+    },
+    {
+      "event_id": "evt-0012",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "横須賀で土砂崩れ 1人生き埋めか",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596029?source=rss",
+      "body_excerpt": "横須賀で土砂崩れ 1人生き埋めか\n神奈川・横須賀市で土砂崩れ「自宅が押しつぶされた」1人生き埋めか\nテレビ朝日系（ANN）\n神奈川県横須賀市で住宅に土砂が流れ込みました。1人が生き埋めになっているとの情報があり現在、消防が救助活動を行っています。",
+      "headline": "横須賀で土砂崩れ、1人生き埋めか",
+      "summary": "神奈川県横須賀市で土砂崩れが発生し、住宅に土砂が流れ込んだ。1人が生き埋めになっているとの情報があり、消防が救助活動を行っている。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0013",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "鎌倉で道路が川のように 車水没も",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596043?source=rss",
+      "body_excerpt": "鎌倉で道路が川のように 車水没も\nFNNプライムオンライン\n“今年一番危険” 強い雨で鶴岡八幡宮見えず 雨水が川のように流れ道路冠水 水没した車も 渋滞や路線バスも迂回 神奈川・鎌倉\nFNNプライムオンライン（フジテレビ系）\n台風25号の影響で、関東などを中心に災害級の大雨への警戒が続いています。",
+      "headline": "鎌倉で道路冠水、車水没 台風25号の大雨影響",
+      "summary": "台風25号の影響で関東などに災害級の大雨が降り、鎌倉では道路が川のように冠水して車が水没。鶴岡八幡宮が見えなくなるほどの強い雨で、渋滞や路線バスの迂回が発生している。",
+      "category": "災害"
+    },
+    {
+      "event_id": "evt-0014",
+      "representative_source": "Yahoo!ニュース",
+      "representative_title": "神奈川で土砂崩れ相次ぐ 2人不明",
+      "representative_link": "https://news.yahoo.co.jp/pickup/6596052?source=rss",
+      "body_excerpt": "神奈川で土砂崩れ相次ぐ 2人不明\n2026年 台風25号\n神奈川県で2人と連絡取れず 台風25号の雨による土砂崩れの影響\nTBS NEWS DIG Powered by JNN\n台風25号による大雨の影響で神奈川県内では土砂崩れが相次ぎ、あわせて2人と連絡が取れなくなっています。",
+      "headline": "神奈川で土砂崩れ相次ぐ、2人不明",
+      "summary": "台風25号による大雨の影響で神奈川県内で土砂崩れが相次ぎ、2人と連絡が取れなくなっている。",
+      "category": "災害"
+    }
+  ],
+  "failed_event_ids": []
+}
