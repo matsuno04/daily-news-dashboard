@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "matched_at": "2026-09-22T21:46:16.344034+09:00",
+  "matched_at": "2026-09-23T02:16:06.641934+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -50,6 +50,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "日米首脳会談へ トランプ大統領と中国への対応など意見交換か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51786",
+          "description": "アメリカのトランプ大統領は22日、ニューヨークで開かれている国連総会に出席し、高市総理大臣と会談します。翌日には中国の習近平国家主席を首都・ワシントンに迎える予定で、高市総理大臣との間では中国への対応…",
+          "pub_date": "2026-09-22T05:43:46+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日米 中国を念頭に連携強化確認へ",
+          "link": "https://news.yahoo.co.jp/pickup/6596148?source=rss",
+          "description": "",
+          "pub_date": "2026-09-22T16:11:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "福岡 3歳児死亡事故 容疑者「前夜に飲酒し 朝また飲んで車に」",
           "link": "https://news.web.nhk/newsweb/na/nd-20260922de51846",
           "description": "20日、福岡市で飲酒運転とみられる車がバイクに追突して近くにいた男の子が死亡した事故で、車を運転し逮捕された68歳の容疑者が調べに対して「事故前日の夜に自宅で酒を飲み、朝起きてからまた飲んで車に乗った…",
@@ -65,7 +85,7 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -106,13 +126,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260922de51800",
       "description": "台風25号による交通機関への影響です。 最新の交通情報に注意してください。",
       "pub_date": "2026-09-22T06:46:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "日米首脳会談へ トランプ大統領と中国への対応など意見交換か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51786",
-      "description": "アメリカのトランプ大統領は22日、ニューヨークで開かれている国連総会に出席し、高市総理大臣と会談します。翌日には中国の習近平国家主席を首都・ワシントンに迎える予定で、高市総理大臣との間では中国への対応…",
-      "pub_date": "2026-09-22T05:43:46+09:00"
     },
     {
       "source": "NHK",
@@ -610,13 +623,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6596171?source=rss",
       "description": "",
       "pub_date": "2026-09-22T19:21:50+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "日米 中国を念頭に連携強化確認へ",
-      "link": "https://news.yahoo.co.jp/pickup/6596148?source=rss",
-      "description": "",
-      "pub_date": "2026-09-22T16:11:25+09:00"
     },
     {
       "source": "Yahoo!ニュース",
