@@ -1,0 +1,692 @@
+{
+  "date": "2026-09-22",
+  "matched_at": "2026-09-22T21:46:16.344034+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "神奈川 横須賀 住宅に土砂が流れ込む 60代女性発見も死亡確認",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51670",
+          "description": "21日午後、台風25号の接近に伴い神奈川県横須賀市の住宅に土砂が流れ込み、連絡が取れなくなっていた60代の女性について、21日夜に住宅から発見されましたが、その場で死亡が確認されました。",
+          "pub_date": "2026-09-22T01:58:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "三浦半島 土砂崩れ相次ぎ1人死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6596085?source=rss",
+          "description": "",
+          "pub_date": "2026-09-22T00:19:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【台風被害】千葉と神奈川で6人死亡6人行方不明 道路崩落も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51778",
+          "description": "台風25号に伴う大雨の影響で21日、千葉県と神奈川県で土砂崩れが相次ぎ、これまでに6人が死亡、6人の行方がわからなくなっています。 また大雨による浸水や土砂崩れなどで、これまでに千葉県と神奈川県、茨…",
+          "pub_date": "2026-09-22T21:09:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風で土砂崩れ4人死亡 6人が不明",
+          "link": "https://news.yahoo.co.jp/pickup/6596125?source=rss",
+          "description": "",
+          "pub_date": "2026-09-22T12:15:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福岡 3歳児死亡事故 容疑者「前夜に飲酒し 朝また飲んで車に」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51846",
+          "description": "20日、福岡市で飲酒運転とみられる車がバイクに追突して近くにいた男の子が死亡した事故で、車を運転し逮捕された68歳の容疑者が調べに対して「事故前日の夜に自宅で酒を飲み、朝起きてからまた飲んで車に乗った…",
+          "pub_date": "2026-09-22T13:38:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "3歳死亡事故「前日夜と当日飲酒」",
+          "link": "https://news.yahoo.co.jp/pickup/6596142?source=rss",
+          "description": "",
+          "pub_date": "2026-09-22T15:13:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロ野球 広島 新井監督続投の方針 来季は就任5年目へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51867",
+          "description": "プロ野球 広島は、来シーズンも新井貴浩監督に指揮を任せる方針であることが分かりました。",
+          "pub_date": "2026-09-22T16:49:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "広島・新井監督続投へ 来季5年目",
+          "link": "https://news.yahoo.co.jp/pickup/6596124?source=rss",
+          "description": "",
+          "pub_date": "2026-09-22T12:11:20+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "台風25号 関東や伊豆諸島で記録的大雨 土砂災害に引き続き注意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51748",
+      "description": "台風25号の影響で、関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫による浸水被害が相次ぎました。22日は広く晴れて真夏日になったところがあるなど気温が上がりましたが、関東ではこれまでの雨で地…",
+      "pub_date": "2026-09-22T19:46:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】熊本県宇土市・宇城市で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51784",
+      "description": "22日午前1時39分ごろ、熊本県で震度3を観測する地震がありました。この地震による津波の心配はありません。 震度3を観測したのは、熊本県の宇土市と宇城市です。 このほか震度2と1を熊本県の広い範囲…",
+      "pub_date": "2026-09-22T02:02:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51800",
+      "description": "台風25号による交通機関への影響です。 最新の交通情報に注意してください。",
+      "pub_date": "2026-09-22T06:46:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米首脳会談へ トランプ大統領と中国への対応など意見交換か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51786",
+      "description": "アメリカのトランプ大統領は22日、ニューヨークで開かれている国連総会に出席し、高市総理大臣と会談します。翌日には中国の習近平国家主席を首都・ワシントンに迎える予定で、高市総理大臣との間では中国への対応…",
+      "pub_date": "2026-09-22T05:43:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大英図書館の再開発事業で着工式 日本の不動産会社が参画",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51804",
+      "description": "日本の不動産会社が参画してイギリスの大英図書館の敷地内で進められる大規模な再開発で、図書館の拡張スペースのほか、研究環境などを備えた複合ビルの建設が始まり、着工式が行われました。",
+      "pub_date": "2026-09-22T07:18:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国軍制服組トップなど務めた2人が巨額賄賂などで党籍はく奪",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51785",
+      "description": "中国共産党は、中国軍の制服組のトップなどを務めた2人について、他人の昇進に便宜を図り、巨額の金銭を受け取るなど、重大な規律違反があったとして党籍をはく奪することを決めました。",
+      "pub_date": "2026-09-22T05:56:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "description": "強い台風25号の影響で関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫が相次ぎました。22日の各地の被害の映像を動画でお伝えします。",
+      "pub_date": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ホワイトハウスでの取材禁止 CNNなど3社が差し止め求め提訴",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51788",
+      "description": "アメリカのトランプ大統領がCNNなどのメディア3社についてホワイトハウスでの取材を禁止したことを受けて、3社は、報道の自由を定める憲法に違反するとして禁止措置の差し止めを求める訴えを起こしました。",
+      "pub_date": "2026-09-22T09:23:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51819",
+      "description": "21日のニューヨーク株式市場は、イラン情勢への懸念が後退しAI関連の銘柄などを中心に買い注文が広がり、ハイテク株の比率が高いナスダックの株価指数の終値がおよそ3か月半ぶりに最高値を更新しました。",
+      "pub_date": "2026-09-22T09:25:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米韓外相 北朝鮮の完全な非核化へ協力の方針 改めて確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51790",
+      "description": "日米韓3か国の外相がアメリカ・ニューヨークで会談し、北朝鮮の完全な非核化に協力して取り組んでいく方針を改めて確認しました。また、中国を念頭に、一方的な現状変更の試みが続く地域情勢への対応を協議し、3か…",
+      "pub_date": "2026-09-22T10:15:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米首脳会談 日本時間23日開催を発表 日本政府",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51835",
+      "description": "政府は、高市総理大臣とアメリカのトランプ大統領との日米首脳会談を日本時間の23日午前、国連総会が開かれているアメリカ・ニューヨークで行うと正式に発表しました。 高市総理大臣がトランプ大統領と対面で意…",
+      "pub_date": "2026-09-22T20:04:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカと中国 AI重大事案で意思疎通の手段を構築へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51793",
+      "description": "アメリカのベッセント財務長官は、中国との間で主導権争いが続くAIをめぐり、重大な事案が発生した場合に中国側と意思疎通を図る手段を構築したい考えを示すとともに、およそ2か月後に中国で、両国の高官による協…",
+      "pub_date": "2026-09-22T05:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】茨城県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51863",
+      "description": "22日午後3時34分ごろ、茨城県で震度3を観測する地震がありました。 この地震による津波の心配はありません。 震度3を観測したのは、茨城県の水戸市と石岡市、笠間市です。 このほか震度2や1の揺れを茨城…",
+      "pub_date": "2026-09-22T15:54:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "G7外相 ウクライナ対応などで緊密連携 フーシ派非難の共同声明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51851",
+      "description": "G7＝主要7か国の外相会合がニューヨークで開かれ、ウクライナやインド太平洋などの地域情勢をめぐる対応で連携していくことで一致しました。また、中東情勢をめぐりサウジアラビアへの攻撃を強めるイエメンの反政…",
+      "pub_date": "2026-09-22T16:05:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アジア大会 国歌取り違えで組織委が韓国選手団に謝罪",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51872",
+      "description": "愛知・名古屋アジア大会のホッケー男子の試合前に、会場で韓国の国歌を流す際に北朝鮮の国歌が流れたミスについて、大会の組織委員会は韓国選手団に文書で謝罪したことを明らかにしました。",
+      "pub_date": "2026-09-22T17:32:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北海道 矢臼別演習場で陸自と米陸軍が共同射撃訓練",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51887",
+      "description": "北海道の東部にある陸上自衛隊の矢臼別演習場で、アメリカ陸軍との実弾を使った共同訓練が行われました。",
+      "pub_date": "2026-09-22T19:12:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "バスケBプレミア開幕戦 アルバルク東京が勝利",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51883",
+      "description": "バスケットボール男子のBリーグはリーグの構造を大きく変えた新しいシーズンが始まり、トップのカテゴリーとなるBプレミアの開幕戦はアルバルク東京が琉球ゴールデンキングスに84対73で勝ちました。",
+      "pub_date": "2026-09-22T18:58:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋の大型連休 各地でUターンラッシュピーク",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51870",
+      "description": "11年ぶりの5連休となった秋の連休。各地の駅はふるさとや行楽地で過ごした人たちのUターンラッシュで混雑しています。",
+      "pub_date": "2026-09-22T17:25:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大相撲秋場所10日目 関脇 熱海富士は大関 琴櫻破り勝ち越し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51889",
+      "description": "大相撲秋場所は10日目です。 初優勝と大関昇進を目指す関脇 熱海富士は大関 琴櫻を破って勝ち越しを決め、単独トップの横綱 大の里を星の差ひとつで追いかけます。",
+      "pub_date": "2026-09-22T20:04:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "韓国のサッカー協会前会長らを書類送検 監督選考で不正疑い",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51897",
+      "description": "韓国の警察は、サッカー韓国代表のホン・ミョンボ前監督の選考過程をめぐって、関連資料に虚偽の内容を記載し正当な手続きを経たように見せかけていたとして、サッカー協会の前の会長らを偽計業務妨害の疑いで22日…",
+      "pub_date": "2026-09-22T21:21:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メンバー逮捕 timelesz個々に謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6596086?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T07:21:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松岡修造 西川貴教主催フェス登場",
+      "link": "https://news.yahoo.co.jp/pickup/6596087?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T07:20:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風の爪痕残る 川や崖など注意を",
+      "link": "https://news.yahoo.co.jp/pickup/6596089?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T07:36:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風被害 土砂崩れ相次ぎ2人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596092?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T07:46:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コロナ自宅待機1年半で自死 労災",
+      "link": "https://news.yahoo.co.jp/pickup/6596090?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T07:42:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "12時間ほど琵琶湖漂流 男性を救助",
+      "link": "https://news.yahoo.co.jp/pickup/6596095?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T08:09:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会 現地入り記者の違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6596096?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T08:11:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原田夏希 第4子を出産していた",
+      "link": "https://news.yahoo.co.jp/pickup/6596088?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T07:25:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露与党 下院で過去最多議席獲得へ",
+      "link": "https://news.yahoo.co.jp/pickup/6596101?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T08:41:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "副首都 6道府県6政令市「意欲」",
+      "link": "https://news.yahoo.co.jp/pickup/6596091?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T07:43:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ふぉ～ゆ～ 堂本光一がデビュー曲",
+      "link": "https://news.yahoo.co.jp/pickup/6596103?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T09:02:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "重要資源代替の研究力強化へ 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6596100?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T08:39:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "婚活サイトに599人分情報 県謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6596094?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T08:10:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スリーアミーゴス 3人で246歳の今",
+      "link": "https://news.yahoo.co.jp/pickup/6596105?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T09:33:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風一過 関東など急な暑さに注意",
+      "link": "https://news.yahoo.co.jp/pickup/6596109?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T10:01:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉県 22日朝も5万軒近く停電",
+      "link": "https://news.yahoo.co.jp/pickup/6596110?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T10:13:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風被害 新たに1人の死亡確認",
+      "link": "https://news.yahoo.co.jp/pickup/6596112?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T10:20:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "うるう秒10月に廃止 自転速まり",
+      "link": "https://news.yahoo.co.jp/pickup/6596102?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T09:17:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "競輪・諸橋愛さん死去 レース落車",
+      "link": "https://news.yahoo.co.jp/pickup/6596113?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T10:24:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風による大雨 千葉県の被害状況",
+      "link": "https://news.yahoo.co.jp/pickup/6596116?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T11:06:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "家借りられない高齢者も 背景は",
+      "link": "https://news.yahoo.co.jp/pickup/6596107?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T09:48:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日 最下位争いも観客は過去最多",
+      "link": "https://news.yahoo.co.jp/pickup/6596114?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T11:02:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "成田空港で一夜 最大4000人足止め",
+      "link": "https://news.yahoo.co.jp/pickup/6596123?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T12:09:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性が腹部刺され死亡 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6596117?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T11:30:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露攻撃 ウ首都でマック品切れ続出",
+      "link": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T10:13:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カプセルトイなぜ大人が熱狂 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6596108?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T10:25:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "俳優の加村真美 西大伍さんと結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6596122?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T11:47:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豪雨2年 土砂から亡き母の携帯",
+      "link": "https://news.yahoo.co.jp/pickup/6596099?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T08:35:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "90歳のマッチョに聞く 健康の秘訣",
+      "link": "https://news.yahoo.co.jp/pickup/6596127?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T12:41:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サッカー代表に痛手 冨安が不参加",
+      "link": "https://news.yahoo.co.jp/pickup/6596128?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T12:57:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "諸橋さん死去 競輪で死亡事故続く",
+      "link": "https://news.yahoo.co.jp/pickup/6596121?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T11:46:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "冠水の佐倉市 帰宅できず住民落胆",
+      "link": "https://news.yahoo.co.jp/pickup/6596136?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T14:25:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "OpenAI 米主導の安全構築を提言",
+      "link": "https://news.yahoo.co.jp/pickup/6596129?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T13:11:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "リトアニア 露が攻撃なら反撃する",
+      "link": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T14:02:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "赤潮で魚153万匹死ぬ 被害37億円",
+      "link": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T11:07:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横断歩道 赤、青、緑で事故対策",
+      "link": "https://news.yahoo.co.jp/pickup/6596126?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T12:39:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中山忍 美穂さんの遺品整理で涙",
+      "link": "https://news.yahoo.co.jp/pickup/6596134?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T14:15:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "とろサ久保田の原画 最高6660万円",
+      "link": "https://news.yahoo.co.jp/pickup/6596130?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T13:25:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「解党」の中道に交付金満額 批判",
+      "link": "https://news.yahoo.co.jp/pickup/6596140?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T14:55:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏支持率32% 過去最低",
+      "link": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T14:44:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会巡る不手際 運営側反論",
+      "link": "https://news.yahoo.co.jp/pickup/6596139?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T14:49:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "舘ひろし76歳 初のFC立ち上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6596132?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T13:48:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "土砂崩れ 高齢者施設の180人孤立",
+      "link": "https://news.yahoo.co.jp/pickup/6596149?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T16:10:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "古書店に大量注文 AI学習目的か",
+      "link": "https://news.yahoo.co.jp/pickup/6596144?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T15:26:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「キューアグ」注目 なぜ衝動発生",
+      "link": "https://news.yahoo.co.jp/pickup/6596141?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T15:12:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "諸橋愛さん死去 JKA会長コメント",
+      "link": "https://news.yahoo.co.jp/pickup/6596147?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T15:45:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "水害後 片付け・復旧作業の注意点",
+      "link": "https://news.yahoo.co.jp/pickup/6596156?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T17:21:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "琵琶湖に遺体 3人を捜索の知人か",
+      "link": "https://news.yahoo.co.jp/pickup/6596151?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T16:56:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自転車にはねられ女性死亡 男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6596152?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T16:41:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "作れば赤字 米価下落で農家窮地",
+      "link": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T09:28:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "配偶者と性行為つらい 向き合い方",
+      "link": "https://news.yahoo.co.jp/pickup/6596150?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T16:28:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風で停電 ろうそくで民家全焼",
+      "link": "https://news.yahoo.co.jp/pickup/6596160?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T17:38:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "博士号授与されず 学生が大学提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6596164?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T18:01:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "柄本時生&さとうほなみ 第1子誕生",
+      "link": "https://news.yahoo.co.jp/pickup/6596167?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T18:18:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 千葉・神奈川で死者計6人に",
+      "link": "https://news.yahoo.co.jp/pickup/6596171?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T19:21:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日米 中国を念頭に連携強化確認へ",
+      "link": "https://news.yahoo.co.jp/pickup/6596148?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T16:11:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報バレー女子決勝 日本vs中国",
+      "link": "https://news.yahoo.co.jp/pickup/6596170?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T19:17:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田口淳之介 結婚&第1子誕生を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6596169?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T19:20:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事故巻き添えで3歳死亡 両親心境",
+      "link": "https://news.yahoo.co.jp/pickup/6596173?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T19:54:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人痛恨 延長11回にサヨナラ負け",
+      "link": "https://news.yahoo.co.jp/pickup/6596175?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T20:23:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 千葉・神奈川で死者計7人に",
+      "link": "https://news.yahoo.co.jp/pickup/6596179?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T21:06:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G7外相 フーシ派の攻撃強く非難",
+      "link": "https://news.yahoo.co.jp/pickup/6596159?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T17:29:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SUPに2人乗りし落ちたか 1人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T21:18:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIで鉄道運行支援 日立が本格展開",
+      "link": "https://news.yahoo.co.jp/pickup/6596176?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T21:01:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DF板倉 川口春奈との結婚に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6596178?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T20:58:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バレー女子 48年ぶりの金ならず",
+      "link": "https://news.yahoo.co.jp/pickup/6596182?source=rss",
+      "description": "",
+      "pub_date": "2026-09-22T20:59:06+09:00"
+    }
+  ]
+}
