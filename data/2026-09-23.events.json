@@ -1,31 +1,11 @@
 {
   "date": "2026-09-23",
-  "matched_at": "2026-09-23T21:46:18.576161+09:00",
+  "matched_at": "2026-09-24T02:27:05.990141+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
     {
       "event_id": "evt-0001",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51902",
-          "description": "高市総理大臣は、国連総会のため訪れているニューヨークで、アメリカのトランプ大統領と日米首脳会談を行い、24日に控えた米中首脳会談を念頭に、中国をめぐる諸課題について意見を交わし、緊密に連携していくこと…",
-          "pub_date": "2026-09-23T12:25:00+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "日米首脳会談の目的は達成? 解説",
-          "link": "https://news.yahoo.co.jp/pickup/6596299?source=rss",
-          "description": "",
-          "pub_date": "2026-09-23T21:25:13+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0002",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -45,7 +25,7 @@
       }
     },
     {
-      "event_id": "evt-0003",
+      "event_id": "evt-0002",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -61,6 +41,26 @@
           "link": "https://news.yahoo.co.jp/pickup/6596286?source=rss",
           "description": "",
           "pub_date": "2026-09-23T19:19:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51902",
+          "description": "高市総理大臣は、国連総会のため訪れているニューヨークで、アメリカのトランプ大統領と日米首脳会談を行い、24日に控えた米中首脳会談を念頭に、中国をめぐる諸課題について意見を交わし、緊密に連携していくこと…",
+          "pub_date": "2026-09-23T12:25:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日米首脳会談の目的は達成? 解説",
+          "link": "https://news.yahoo.co.jp/pickup/6596299?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T21:25:13+09:00"
         }
       }
     },
@@ -197,10 +197,30 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "不明の6歳か 遺体は離島で発見",
-          "link": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
+          "title": "行方不明の6歳か 身元不明の遺体",
+          "link": "https://news.yahoo.co.jp/pickup/6596272?source=rss",
           "description": "",
-          "pub_date": "2026-09-23T20:55:12+09:00"
+          "pub_date": "2026-09-23T17:43:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "中国の習近平国家主席がアメリカへ出発　米中首脳会談へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51963",
+          "description": "中国の国営メディアは、習近平国家主席がアメリカを国賓として訪問するため23日午後、専用機で北京を出発したと伝えました。習主席はアメリカでトランプ大統領とことし2回目となる首脳会談を行う予定です。",
+          "pub_date": "2026-09-23T18:55:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "マスク氏 習主席は偉大な指導者",
+          "link": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T16:10:09+09:00"
         }
       }
     }
@@ -275,13 +295,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260923de52006",
       "description": "東京証券取引所は、東証株価指数＝TOPIXについて、構成銘柄を選ぶルールを見直し、来月から銘柄が大幅に入れ替わります。時価総額が大きい企業が選ばれやすくなり、市場全体で企業価値を高める動きが広がるか注…",
       "pub_date": "2026-09-23T17:27:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "中国の習近平国家主席がアメリカへ出発　米中首脳会談へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51963",
-      "description": "中国の国営メディアは、習近平国家主席がアメリカを国賓として訪問するため23日午後、専用機で北京を出発したと伝えました。習主席はアメリカでトランプ大統領とことし2回目となる首脳会談を行う予定です。",
-      "pub_date": "2026-09-23T18:55:00+09:00"
     },
     {
       "source": "NHK",
@@ -537,13 +550,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "マスク氏 習主席は偉大な指導者",
-      "link": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
-      "description": "",
-      "pub_date": "2026-09-23T16:10:09+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "インフル拡大「長引く雨」一因か",
       "link": "https://news.yahoo.co.jp/pickup/6596256?source=rss",
       "description": "",
@@ -583,13 +589,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6596265?source=rss",
       "description": "",
       "pub_date": "2026-09-23T17:17:40+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "行方不明の6歳か 身元不明の遺体",
-      "link": "https://news.yahoo.co.jp/pickup/6596272?source=rss",
-      "description": "",
-      "pub_date": "2026-09-23T17:43:15+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -681,6 +680,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6596293?source=rss",
       "description": "",
       "pub_date": "2026-09-23T20:30:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不明の6歳か 遺体は離島で発見",
+      "link": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T20:55:12+09:00"
     },
     {
       "source": "Yahoo!ニュース",
