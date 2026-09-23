@@ -1,0 +1,693 @@
+{
+  "date": "2026-09-23",
+  "matched_at": "2026-09-23T21:46:18.576161+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51902",
+          "description": "高市総理大臣は、国連総会のため訪れているニューヨークで、アメリカのトランプ大統領と日米首脳会談を行い、24日に控えた米中首脳会談を念頭に、中国をめぐる諸課題について意見を交わし、緊密に連携していくこと…",
+          "pub_date": "2026-09-23T12:25:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日米首脳会談の目的は達成? 解説",
+          "link": "https://news.yahoo.co.jp/pickup/6596299?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T21:25:13+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51930",
+          "description": "アメリカのトランプ大統領は、国連総会に出席して演説し、このところ制裁などで圧力を強めているICC＝国際刑事裁判所について「反米的で邪悪な者たちからなる裁判所だ」と主張し、加盟国に脱退を呼びかけました。",
+          "pub_date": "2026-09-23T06:40:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米大統領 国連でICC脱退呼びかけ",
+          "link": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T07:11:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+          "description": "台風25号に伴う記録的な大雨で、千葉県と神奈川県では土砂災害や川の氾濫による浸水被害が相次ぎ、これまでに10人が死亡、4人の行方がわからなくなっています。住宅の被害も相次ぎ、これまでに千葉県と神奈川県…",
+          "pub_date": "2026-09-23T19:25:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風 千葉・神奈川で計10人死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6596286?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T19:19:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日ウクライナ首脳会談 “各国結束して支援が重要”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51944",
+          "description": "高市総理大臣は、訪問先のニューヨークでウクライナのゼレンスキー大統領と会談し、ウクライナの公正かつ永続的な平和を1日も早く実現するため、各国が結束して支援することが重要だという認識を示しました。",
+          "pub_date": "2026-09-23T09:46:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首相 ゼレンスキー大統領と初会談",
+          "link": "https://news.yahoo.co.jp/pickup/6596241?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T12:59:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 記者会見“日米同盟関係さらに揺るぎのないものに”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51965",
+          "description": "高市総理大臣は訪問先のニューヨークで記者会見し、トランプ大統領との首脳会談について日米同盟の強さを世界に示すものになったとしたうえで、地域の平和と安定のため同盟関係をさらに揺るぎのないものにしていく考…",
+          "pub_date": "2026-09-23T14:59:35+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首相 米大統領との会談成果を強調",
+          "link": "https://news.yahoo.co.jp/pickup/6596276?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T18:10:38+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 “法の支配に基づく国際秩序に貢献”国連総会演説",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51969",
+          "description": "高市総理大臣は、国連総会で一般討論演説を行い、法の支配に基づく自由で開かれた国際秩序の維持や発展に貢献していく考えを示しました。",
+          "pub_date": "2026-09-23T11:48:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "高市首相が国連演説 ICCに言及",
+          "link": "https://news.yahoo.co.jp/pickup/6596219?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T09:27:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大谷翔平 日本時間24日復帰へ 監督「ラインナップに入る予定」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51966",
+          "description": "大リーグ、ドジャースで右の上腕二頭筋の炎症でけが人リストに入っている大谷翔平選手について、ロバーツ監督は「あすラインナップに入る予定だ」と話し、23日、日本時間24日のパドレス戦で復帰する見通しを明か…",
+          "pub_date": "2026-09-23T11:54:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "村上宗隆が33号 岡本和真に並ぶ",
+          "link": "https://news.yahoo.co.jp/pickup/6596229?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T10:46:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "秋の連休最終日 交通機関は混雑",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51975",
+          "description": "11年ぶりの5連休となる秋の連休は23日が最終日で、交通機関は行楽地などで過ごした人たちで混雑しています。",
+          "pub_date": "2026-09-23T12:32:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "5連休最終日 Uターンで交通混雑",
+          "link": "https://news.yahoo.co.jp/pickup/6596238?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T12:32:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JCOMでネット接続サービスに障害",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de52004",
+          "description": "ケーブルテレビ大手の「JCOM」によりますと、23日午前9時ごろからインターネット接続サービスに障害が発生し、利用できない状況になっているということです。",
+          "pub_date": "2026-09-23T16:17:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "JCOMのシステム障害 ほぼ復旧",
+          "link": "https://news.yahoo.co.jp/pickup/6596295?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T20:47:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "山形 海岸で子どもとみられる遺体 不明6歳男児の可能性 警察",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de52028",
+          "description": "23日午前、山形県酒田市の海岸で子どもとみられる遺体が見つかりました。警察は、服装の特徴などから、今月5日から行方がわからなくなっている酒田市の6歳の男の子の可能性があるとみて調べています。",
+          "pub_date": "2026-09-23T19:20:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "不明の6歳か 遺体は離島で発見",
+          "link": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
+          "description": "",
+          "pub_date": "2026-09-23T20:55:12+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "福岡 3歳児死亡事故 容疑者“当日の朝は焼酎を飲んだ”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51927",
+      "description": "今月20日、福岡市で飲酒運転とみられる車がバイク3台に追突し、近くにいた3歳の男の子が死亡した事故で、逮捕された68歳のドライバーが警察の調べに対し、事故当日の朝は焼酎を飲んだという趣旨の話をしている…",
+      "pub_date": "2026-09-23T05:03:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米とイラン代表が協議 事態の打開につながるかが焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51933",
+      "description": "国連総会にあわせてイランの代表団がアメリカを訪れるなか、トランプ大統領はアメリカとイランの代表が協議を行ったと記者団に述べました。これについて、トランプ政権のウィトコフ特使は協議は仲介者を通じた間接協…",
+      "pub_date": "2026-09-23T12:28:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "損壊したサウジアラビアのパイプライン操業再開と報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51932",
+      "description": "サウジアラビアでは、ホルムズ海峡を避けて紅海側から原油を輸出するためのパイプラインが攻撃を受けて操業を一時停止していましたが、ロイター通信は22日、操業が再開されたと伝えました。完全な復旧には数週間か…",
+      "pub_date": "2026-09-23T05:59:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナがロシアの製油所に攻撃 ウクライナで死者も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51936",
+      "description": "ウクライナのゼレンスキー大統領は、ロシア中部にある2つの製油所を攻撃したと発表し、長距離攻撃の成果だと強調しました。 一方、ウクライナ東部ではロシアの攻撃で3人が死亡し、攻撃の応酬が続いています。",
+      "pub_date": "2026-09-23T07:14:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 グリーンランドに米軍基地設置の協定に署名",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51941",
+      "description": "アメリカのトランプ大統領はデンマークの自治領、グリーンランドにアメリカ軍基地を設置することなどを盛り込んだ協定に署名しました。 グリーンランドをめぐってはトランプ大統領が過去に領有への意欲を示し、強…",
+      "pub_date": "2026-09-23T08:09:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "故ダイアナ元妃の弟が回顧録でチャールズ国王を批判し物議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51931",
+      "description": "イギリスのチャールズ国王の元妻で、交通事故で亡くなったダイアナ元皇太子妃の弟による回顧録が発売されました。 事故のあとチャールズ国王が「私たちは彼女のことをすぐに忘れるだろう」などと述べたと主張し、こ…",
+      "pub_date": "2026-09-23T08:35:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "茂木外相“CTBT早期発効へ力の限り取り組む”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51968",
+      "description": "茂木外務大臣は訪問先のニューヨークで、核実験を全面的に禁じるCTBT＝包括的核実験禁止条約の発効を目指す外相会合に出席し、北朝鮮による核・ミサイル開発の進展などを踏まえ、早期の発効に向けて力の限り取り…",
+      "pub_date": "2026-09-23T12:01:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ホワイトソックス村上宗隆 4試合ぶり33号本塁打 チームは3連勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51986",
+      "description": "大リーグ、ホワイトソックスの村上宗隆選手がロイヤルズ戦で4試合ぶりとなる33号ホームランを打ち、チームの3連勝に貢献しました。",
+      "pub_date": "2026-09-23T13:53:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アジア大会 空席指摘に組織委「来場促進に取り組む」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52001",
+      "description": "愛知・名古屋アジア大会の大会組織委員会は23日、記者会見を開き、開会式や一部の競技会場で空席が目立つとする指摘について「チケット購入者や招待客が実際に会場へ足を運んでもらえるようなサポートをしていきた…",
+      "pub_date": "2026-09-23T16:24:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "TOPIX銘柄選定ルール見直し 企業価値高める動き広がるか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52006",
+      "description": "東京証券取引所は、東証株価指数＝TOPIXについて、構成銘柄を選ぶルールを見直し、来月から銘柄が大幅に入れ替わります。時価総額が大きい企業が選ばれやすくなり、市場全体で企業価値を高める動きが広がるか注…",
+      "pub_date": "2026-09-23T17:27:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国の習近平国家主席がアメリカへ出発　米中首脳会談へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de51963",
+      "description": "中国の国営メディアは、習近平国家主席がアメリカを国賓として訪問するため23日午後、専用機で北京を出発したと伝えました。習主席はアメリカでトランプ大統領とことし2回目となる首脳会談を行う予定です。",
+      "pub_date": "2026-09-23T18:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新宿駅前のビルで火災か 数人が体調不良訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52054",
+      "description": "23日夜、JR新宿駅前のビルの7階から煙が出て、現在も消火活動が続いています。 東京消防庁によりますと、7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。",
+      "pub_date": "2026-09-23T21:20:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日米 経済安保で連携の方針一致",
+      "link": "https://news.yahoo.co.jp/pickup/6596200?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:15:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日 ド軍のウォードを電撃獲得",
+      "link": "https://news.yahoo.co.jp/pickup/6596197?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:11:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カウコン Netflixが世界同時配信",
+      "link": "https://news.yahoo.co.jp/pickup/6596199?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:23:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新たな台風発生へ 27日沖縄の南に",
+      "link": "https://news.yahoo.co.jp/pickup/6596202?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:30:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIは「SI」に改称 米大統領宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6596201?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:30:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "退職代行サービス 1年で2割停止か",
+      "link": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T08:06:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "キツネが玄関先にモグラ置く なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6596204?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:47:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリひと筋12年 西野真弘が引退へ",
+      "link": "https://news.yahoo.co.jp/pickup/6596206?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:58:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風25号による死者8人に 不明5人",
+      "link": "https://news.yahoo.co.jp/pickup/6596218?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T09:18:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "とび職に逆風 倒産過去最多ペース",
+      "link": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T08:20:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クジラが千葉漂着 爆発の危険性も",
+      "link": "https://news.yahoo.co.jp/pickup/6596217?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T09:05:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ダチョウが徘徊」と通報 滋賀",
+      "link": "https://news.yahoo.co.jp/pickup/6596215?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T08:47:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "波乱 卓球世界8位が275位に敗れる",
+      "link": "https://news.yahoo.co.jp/pickup/6596211?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T08:28:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風25号の死者9人に 4人行方不明",
+      "link": "https://news.yahoo.co.jp/pickup/6596221?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T09:43:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "徘徊「ダチョウ」エミューだった",
+      "link": "https://news.yahoo.co.jp/pickup/6596223?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T09:58:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "赤井英和の長男 プロボクサー引退",
+      "link": "https://news.yahoo.co.jp/pickup/6596225?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T10:22:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 質問したCNN記者を威圧",
+      "link": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T07:47:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "進化系おにぎり専門店 売れる訳",
+      "link": "https://news.yahoo.co.jp/pickup/6596228?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T10:43:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会競歩 違反連発の波乱",
+      "link": "https://news.yahoo.co.jp/pickup/6596224?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T10:25:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東は24日朝まで雨 土砂災害注意",
+      "link": "https://news.yahoo.co.jp/pickup/6596227?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T10:38:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "光学迷彩を開発 SF漫画きっかけ",
+      "link": "https://news.yahoo.co.jp/pickup/6596231?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T11:34:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "波紋 大食い動画の収益停止相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6596210?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T08:23:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "池江「ゴーグルに水」も決勝進出",
+      "link": "https://news.yahoo.co.jp/pickup/6596230?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T11:33:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "7年ぶり「深夜食堂」出演者発表",
+      "link": "https://news.yahoo.co.jp/pickup/6596237?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T12:14:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エルニーニョで雨 チリ砂漠に花畑",
+      "link": "https://news.yahoo.co.jp/pickup/6596235?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T12:08:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小林悠が引退決意 1週間泣いた妻",
+      "link": "https://news.yahoo.co.jp/pickup/6596240?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T12:54:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "朗希が今季初リリーフ登板 大歓声",
+      "link": "https://news.yahoo.co.jp/pickup/6596239?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T12:35:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「疲れた」1カ月余りで店3度被災",
+      "link": "https://news.yahoo.co.jp/pickup/6596243?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T13:19:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JCOMで障害 ネット利用できず",
+      "link": "https://news.yahoo.co.jp/pickup/6596246?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T13:53:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バンドcinema staff 来年9月解散",
+      "link": "https://news.yahoo.co.jp/pickup/6596245?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T13:43:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "無人の軽トラ動き男性下敷き 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596244?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T13:39:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バド女子決勝へ 韓国との死闘制す",
+      "link": "https://news.yahoo.co.jp/pickup/6596250?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T14:38:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "泳ぎ離島へ?漁船居座ったクマか",
+      "link": "https://news.yahoo.co.jp/pickup/6596252?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T15:03:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "週末は広く雨予報 土砂災害に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6596258?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T16:04:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イスラエル 動画で国連各国やゆ",
+      "link": "https://news.yahoo.co.jp/pickup/6596236?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T12:13:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マスク氏 習主席は偉大な指導者",
+      "link": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T16:10:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "インフル拡大「長引く雨」一因か",
+      "link": "https://news.yahoo.co.jp/pickup/6596256?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T15:30:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "6歳行方不明 手がかり見つからず",
+      "link": "https://news.yahoo.co.jp/pickup/6596254?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T15:23:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国選手を日本語読みで実況 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6596253?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T15:46:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "印旛沼で堤防決壊 復旧時期は未定",
+      "link": "https://news.yahoo.co.jp/pickup/6596264?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T16:55:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "虎森下に2日連続死球 ブーイング",
+      "link": "https://news.yahoo.co.jp/pickup/6596262?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T16:37:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "綾瀬はるか 舞台あいさつで関西弁",
+      "link": "https://news.yahoo.co.jp/pickup/6596265?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T17:17:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "行方不明の6歳か 身元不明の遺体",
+      "link": "https://news.yahoo.co.jp/pickup/6596272?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T17:43:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JCOMで障害 復旧の見通し立たず",
+      "link": "https://news.yahoo.co.jp/pickup/6596275?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T17:52:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "非正規拡大は国の責任?識者見解",
+      "link": "https://news.yahoo.co.jp/pickup/6596257?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T16:06:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英検替え玉の男 別に答案改ざんも",
+      "link": "https://news.yahoo.co.jp/pickup/6596267?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T17:23:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体操男子団体 12年ぶりの金ならず",
+      "link": "https://news.yahoo.co.jp/pickup/6596273?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T18:02:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "波田陽区 芸人はやめてと子に思う",
+      "link": "https://news.yahoo.co.jp/pickup/6596270?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T17:36:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "収賄の疑い JR貨物社員を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6596282?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T19:03:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "iPhone18Pro 先代と外観の違いは",
+      "link": "https://news.yahoo.co.jp/pickup/6596278?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T18:32:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人衝撃 助っ人ハワードが帰国",
+      "link": "https://news.yahoo.co.jp/pickup/6596284?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T19:24:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会の国歌誤り 組織委説明",
+      "link": "https://news.yahoo.co.jp/pickup/6596279?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T18:31:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "社員寮や社宅が増加 企業の期待は",
+      "link": "https://news.yahoo.co.jp/pickup/6596288?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T20:08:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "脱・大手代理店 アジア大会が問う",
+      "link": "https://news.yahoo.co.jp/pickup/6596263?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T16:56:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "堤防決壊 老舗養魚場が壊滅的被害",
+      "link": "https://news.yahoo.co.jp/pickup/6596297?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T20:50:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "競泳リレー銀 足引っ張ったと池江",
+      "link": "https://news.yahoo.co.jp/pickup/6596293?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T20:30:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神戸市 会議の委員発言を無断修正",
+      "link": "https://news.yahoo.co.jp/pickup/6596294?source=rss",
+      "description": "",
+      "pub_date": "2026-09-23T20:37:31+09:00"
+    }
+  ]
+}
