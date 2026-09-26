@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "matched_at": "2026-09-26T21:45:29.689700+09:00",
+  "matched_at": "2026-09-27T01:44:46.357570+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -50,6 +50,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "米中首脳会談の内容説明を 日米首脳電話会談も 日本政府",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260926de52519",
+          "description": "今回の米中首脳会談について、日本政府は、アメリカ側から今後、内容の説明を受け、中国に対する認識の共有を改めて図る方針で、日程の調整がつけば、高市総理大臣とトランプ大統領の電話会談も行いたい考えです。",
+          "pub_date": "2026-09-26T05:33:22+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米中首脳会談 日本政府は分析急ぐ",
+          "link": "https://news.yahoo.co.jp/pickup/6596589?source=rss",
+          "description": "",
+          "pub_date": "2026-09-26T11:33:47+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "ネパール土石流発生から1か月 生活再建踏み出せず",
           "link": "https://news.web.nhk/newsweb/na/nd-20260926de52515",
           "description": "ネパールと中国の国境付近で大規模な土石流が発生してから26日で1か月です。被災地では捜索活動が続く一方、家を失った多くの人が避難生活を強いられ、生活再建への歩みを踏み出せない状況が続いています。",
@@ -65,7 +85,47 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ローマ教皇 AIが日常を侵食と警告 フランス訪問で",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260926de52537",
+          "description": "ローマ教皇レオ14世はフランスで演説し、AIの開発をめぐって「機械の楽園」が日常生活を侵食していると警告しました。",
+          "pub_date": "2026-09-26T08:52:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "AIを「SI」と呼称 米中が合意",
+          "link": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
+          "description": "",
+          "pub_date": "2026-09-26T16:20:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【地震速報】熊本県で震度3 津波の心配なし（11:21）",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260926de52550",
+          "description": "26日午前11時21分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は熊本県熊本地方で震源の深さは10キロ、地震の規模を示すマグニチュードは3.6と推定されます。 各市町村…",
+          "pub_date": "2026-09-26T11:29:02+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "熊本県で震度4 津波の心配なし",
+          "link": "https://news.yahoo.co.jp/pickup/6596586?source=rss",
+          "description": "",
+          "pub_date": "2026-09-26T10:39:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -85,7 +145,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,7 +165,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0009",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -125,7 +185,7 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0010",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -145,7 +205,7 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0011",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -165,7 +225,7 @@
       }
     },
     {
-      "event_id": "evt-0009",
+      "event_id": "evt-0012",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -185,7 +245,7 @@
       }
     },
     {
-      "event_id": "evt-0010",
+      "event_id": "evt-0013",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -205,27 +265,7 @@
       }
     },
     {
-      "event_id": "evt-0011",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "米中首脳会談 合意点は？AIはSIに変更 台湾言及なし",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260926de52588",
-          "description": "アメリカのホワイトハウスはトランプ大統領と中国の習近平国家主席の首脳会談など、一連の訪問での合意内容をまとめた成果文書を発表し、安全性が議論となっているAIをめぐってリスクや利益について意見を交わすた…",
-          "pub_date": "2026-09-26T19:42:00+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "AIを「SI」と呼称 米中が合意",
-          "link": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
-          "description": "",
-          "pub_date": "2026-09-26T16:20:28+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0012",
+      "event_id": "evt-0014",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -241,26 +281,6 @@
           "link": "https://news.yahoo.co.jp/pickup/6596599?source=rss",
           "description": "",
           "pub_date": "2026-09-26T12:56:22+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0013",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "高市首相とトランプ大統領の電話会談終わる",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260926de52606",
-          "description": "高市総理大臣とアメリカのトランプ大統領の電話会談は今夜9時ごろに始まり、先ほど終了しました。 今回の米中首脳会談の内容について、高市総理大臣が、トランプ大統領から直接、説明を受けたものとみられます。",
-          "pub_date": "2026-09-26T21:13:00+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "米中首脳会談 日本政府は分析急ぐ",
-          "link": "https://news.yahoo.co.jp/pickup/6596589?source=rss",
-          "description": "",
-          "pub_date": "2026-09-26T11:33:47+09:00"
         }
       }
     }
@@ -296,13 +316,6 @@
     },
     {
       "source": "NHK",
-      "title": "米中首脳会談の内容説明を 日米首脳電話会談も 日本政府",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260926de52519",
-      "description": "今回の米中首脳会談について、日本政府は、アメリカ側から今後、内容の説明を受け、中国に対する認識の共有を改めて図る方針で、日程の調整がつけば、高市総理大臣とトランプ大統領の電話会談も行いたい考えです。",
-      "pub_date": "2026-09-26T05:33:22+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "ゼレンスキー大統領 米が3か国協議を提案と明らかに",
       "link": "https://news.web.nhk/newsweb/na/nd-20260926de52520",
       "description": "ウクライナのゼレンスキー大統領は、停滞しているロシアとの和平交渉をめぐって、アメリカが3か国の実務者レベルの協議をUAE=アラブ首長国連邦で開催することを提案していると明らかにしました。",
@@ -310,24 +323,10 @@
     },
     {
       "source": "NHK",
-      "title": "ローマ教皇 AIが日常を侵食と警告 フランス訪問で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260926de52537",
-      "description": "ローマ教皇レオ14世はフランスで演説し、AIの開発をめぐって「機械の楽園」が日常生活を侵食していると警告しました。",
-      "pub_date": "2026-09-26T08:52:13+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "米制裁でイラン航空会社の発着便停止が近隣諸国で拡大",
       "link": "https://news.web.nhk/newsweb/na/nd-20260926de52522",
       "description": "アメリカがイランの孤立化を図るため経済制裁による圧力を強める中、UAE＝アラブ首長国連邦など近隣諸国では、イランの航空会社の発着便を停止する動きが広がっています。",
       "pub_date": "2026-09-26T08:32:40+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "【地震速報】熊本県で震度3 津波の心配なし（11:21）",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260926de52550",
-      "description": "26日午前11時21分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は熊本県熊本地方で震源の深さは10キロ、地震の規模を示すマグニチュードは3.6と推定されます。 各市町村…",
-      "pub_date": "2026-09-26T11:29:02+09:00"
     },
     {
       "source": "NHK",
@@ -422,6 +421,13 @@
     },
     {
       "source": "NHK",
+      "title": "米中首脳会談 合意点は？AIはSIに変更 台湾言及なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260926de52588",
+      "description": "アメリカのホワイトハウスはトランプ大統領と中国の習近平国家主席の首脳会談など、一連の訪問での合意内容をまとめた成果文書を発表し、安全性が議論となっているAIをめぐってリスクや利益について意見を交わすた…",
+      "pub_date": "2026-09-26T19:42:00+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "群馬女性殺害 元夫「母親 長男殺し自分も死ぬ」長女が警察相談",
       "link": "https://news.web.nhk/newsweb/na/nd-20260926de52601",
       "description": "25日、群馬県太田市の住宅で、52歳の女性が刃物で殺害され長男がけがをした事件で、公開手配された長女の元夫から「女性と長男を殺して自分も死ぬ」と言われたという趣旨の相談が、長女から警察に寄せられていた…",
@@ -433,6 +439,13 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260926de52604",
       "description": "プロ野球の広島は、指定薬物の「エトミデート」を巡って関係先が警察の捜索を受けた矢野雅哉選手と前川誠太選手が書類送検されたと明らかにし、松田元オーナーは「非常に重く受け止めている」とコメントしています。…",
       "pub_date": "2026-09-26T20:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相とトランプ大統領の電話会談終わる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260926de52606",
+      "description": "高市総理大臣とアメリカのトランプ大統領の電話会談は今夜9時ごろに始まり、先ほど終了しました。 今回の米中首脳会談の内容について、高市総理大臣が、トランプ大統領から直接、説明を受けたものとみられます。",
+      "pub_date": "2026-09-26T21:13:00+09:00"
     },
     {
       "source": "NHK",
@@ -538,13 +551,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6596582?source=rss",
       "description": "",
       "pub_date": "2026-09-26T10:13:56+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "熊本県で震度4 津波の心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6596586?source=rss",
-      "description": "",
-      "pub_date": "2026-09-26T10:39:15+09:00"
     },
     {
       "source": "Yahoo!ニュース",
