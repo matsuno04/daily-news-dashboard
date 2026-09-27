@@ -115,8 +115,25 @@ async function fetchArticleExcerpt(url) {
   return text.slice(0, MAX_BODY_CHARS);
 }
 
-function buildPrompt(title, summary, excerpt) {
+// モデルは今日が何年か知らないため、記事中の年のない日付(「7月」等)を自分の知識の時期に
+// 引きずられて誤った年で補うことがある(実例: 2026年7月の事件を「2025年7月」と書いた)。
+// 今日の日付と記事の配信日時を渡して、そこを基準に解釈させる。
+function formatJstDate(date) {
+  const p = new Intl.DateTimeFormat("ja-JP", {
+    timeZone: "Asia/Tokyo",
+    year: "numeric",
+    month: "numeric",
+    day: "numeric",
+  }).formatToParts(date);
+  const get = (type) => p.find((x) => x.type === type).value;
+  return `${get("year")}年${get("month")}月${get("day")}日`;
+}
+
+function buildPrompt(title, summary, excerpt, pubDate) {
+  const published = pubDate && !Number.isNaN(Date.parse(pubDate)) ? formatJstDate(new Date(pubDate)) : "不明";
   return `あなたは日本の一般読者向けに、ニュースの背景を解説する担当です。
+今日の日付: ${formatJstDate(new Date())}
+記事の配信日: ${published}
 読者はすでに下の「要約」を読んでいます。記事の内容を繰り返す必要はありません。
 このニュースを理解するうえで必要なのに記事には書かれていない、基礎知識と背景を補ってください。
 
@@ -135,12 +152,13 @@ ${excerpt}
 # ルール
 - 記事本文に書かれている事実の言い換えは書かない
 - 事実と見方を区別し、確かでないことは断定しない
+- 記事中の年のない日付(「7月」「先週」など)は、記事の配信日を基準にして解釈する
 - あなたの知識には期限があり、最近の出来事は知らない可能性がある。最近の経緯で確かでないことは書かない
 - 各見出しの下は「・」で始まる箇条書き2〜4項目。全体で600字程度まで
 - 前置きや締めの言葉は書かず、上の見出し付きの解説だけを出力する`;
 }
 
-async function explainWithClaude(apiKey, title, summary, excerpt) {
+async function explainWithClaude(apiKey, title, summary, excerpt, pubDate) {
   const resp = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
@@ -154,7 +172,7 @@ async function explainWithClaude(apiKey, title, summary, excerpt) {
       model: MODEL,
       max_tokens: 4000,
       output_config: { effort: "low" },
-      messages: [{ role: "user", content: buildPrompt(title, summary, excerpt) }],
+      messages: [{ role: "user", content: buildPrompt(title, summary, excerpt, pubDate) }],
     }),
   });
 
@@ -203,14 +221,14 @@ export default {
       return jsonResponse({ error: "リクエストボディがJSONとして不正です" }, 400);
     }
 
-    const { url, title, summary } = body;
+    const { url, title, summary, pubDate } = body;
     if (!url || typeof url !== "string") {
       return jsonResponse({ error: "url が指定されていません" }, 400);
     }
 
     try {
       const excerpt = await fetchArticleExcerpt(url);
-      const explanation = await explainWithClaude(env.ANTHROPIC_API_KEY, title || "", summary || "", excerpt);
+      const explanation = await explainWithClaude(env.ANTHROPIC_API_KEY, title || "", summary || "", excerpt, pubDate || "");
       return jsonResponse({ explanation });
     } catch (err) {
       return jsonResponse({ error: err.message || "解説の生成に失敗しました" }, 502);
