@@ -71,6 +71,7 @@ function appendExplainButton(article, actionsRow, url, title) {
 
 // 2/2記事: Haiku要約(headline/summary/category) + 両ソースへのリンク + 詳しく見るボタン
 // (詳しく見るボタンは代表記事のリンクを使う。要約生成時と同じ記事)
+// summaryが空 = 速報ページ等で本文が見出し程度しか無かった記事。見出しのみ表示する。
 function renderMatchedCard(summary, event) {
   const nhk = event.sources["NHK"];
   const yahoo = event.sources["Yahoo!ニュース"];
@@ -82,7 +83,7 @@ function renderMatchedCard(summary, event) {
       <span class="category-badge ${categoryClass(summary.category)}">${escapeHtml(summary.category)}</span>
     </div>
     <h3 class="headline">${escapeHtml(summary.headline)}</h3>
-    <p class="summary">${escapeHtml(summary.summary)}</p>
+    ${summary.summary ? `<p class="summary">${escapeHtml(summary.summary)}</p>` : ""}
     <div class="source-links">
       ${nhk ? `<a class="source-link source-nhk" href="${nhk.link}" target="_blank" rel="noopener">NHKで読む</a>` : ""}
       ${yahoo ? `<a class="source-link source-yahoo" href="${yahoo.link}" target="_blank" rel="noopener">Yahoo!で読む</a>` : ""}
