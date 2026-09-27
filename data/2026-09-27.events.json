@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "matched_at": "2026-09-27T21:45:22.066888+09:00",
+  "matched_at": "2026-09-28T02:16:17.633360+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -183,6 +183,26 @@
           "pub_date": "2026-09-27T15:30:58+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大相撲秋場所 横綱大の里 6回目の優勝 安青錦との直接対決制す",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260927de52703",
+          "description": "大相撲秋場所は千秋楽の27日、横綱・大の里が大関・安青錦との3敗どうしの直接対決を制し、6回目の優勝を果たしました。 大の里の優勝は去年の秋場所以来、1年ぶりです。",
+          "pub_date": "2026-09-27T18:43:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "刀・森岡代表巡る評価 識者見解",
+          "link": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
+          "description": "",
+          "pub_date": "2026-09-27T14:19:23+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
@@ -290,13 +310,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260927de52698",
       "description": "JR山手線は新宿駅で発生した人身事故の影響で、午後3時8分ごろから、内回りと外回りの全線で運転を見合わせています。 運転の再開は午後4時10分ごろを見込んでいるということです。",
       "pub_date": "2026-09-27T15:35:13+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "大相撲秋場所 横綱大の里 6回目の優勝 安青錦との直接対決制す",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52703",
-      "description": "大相撲秋場所は千秋楽の27日、横綱・大の里が大関・安青錦との3敗どうしの直接対決を制し、6回目の優勝を果たしました。 大の里の優勝は去年の秋場所以来、1年ぶりです。",
-      "pub_date": "2026-09-27T18:43:00+09:00"
     },
     {
       "source": "NHK",
@@ -496,13 +509,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "刀・森岡代表巡る評価 識者見解",
-      "link": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
-      "description": "",
-      "pub_date": "2026-09-27T14:19:23+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "中国のパンダ2頭 アメリカへ出発",
       "link": "https://news.yahoo.co.jp/pickup/6596711?source=rss",
       "description": "",
@@ -675,6 +681,27 @@
       "link": "https://news.yahoo.co.jp/pickup/6596747?source=rss",
       "description": "",
       "pub_date": "2026-09-27T21:10:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "刺されたか 横浜で流血の男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T21:16:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "内閣支持率45%に上昇 毎日調査",
+      "link": "https://news.yahoo.co.jp/pickup/6596760?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T19:43:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原発事故時の拠点病院BCP策定4割",
+      "link": "https://news.yahoo.co.jp/pickup/6596768?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T21:21:59+09:00"
     }
   ]
 }
