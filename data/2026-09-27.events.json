@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "matched_at": "2026-09-27T17:33:53.345817+09:00",
+  "matched_at": "2026-09-27T21:45:22.066888+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -30,10 +30,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "前線停滞で九州北部大雨に 土砂災害など厳重警戒を 台風26号も",
+          "title": "前線停滞で九州北部大雨に あす激しい雨のおそれ 台風も急発達",
           "link": "https://news.web.nhk/newsweb/na/nd-20260927de52641",
-          "description": "秋雨前線の影響で西日本では大気の状態が非常に不安定になっていて、大雨になっている九州北部ではこの時間も激しい雨が降り、1日で平年の9月1か月分の雨量を上回っているところがあります。 九州北部ではレベル…",
-          "pub_date": "2026-09-27T15:05:12+09:00"
+          "description": "秋雨前線の影響で西日本を中心に大気の状態が非常に不安定になり、27日は九州北部で記録的な大雨になったところもありました。 28日は北日本から西日本にかけて大気の状態が非常に不安定になる見込みで、土砂災…",
+          "pub_date": "2026-09-27T20:21:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -70,46 +70,6 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "熊本・佐賀・長崎に「線状降水帯直前予測」",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260927de52644",
-          "description": "気象庁は、熊本県熊本地方、佐賀県南部、長崎県南部では3時間以内に線状降水帯が発生する可能性が高まっているとして、午前5時59分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は…",
-          "pub_date": "2026-09-27T06:10:00+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "福岡・熊本 線状降水帯発生の恐れ",
-          "link": "https://news.yahoo.co.jp/pickup/6596688?source=rss",
-          "description": "",
-          "pub_date": "2026-09-27T10:09:30+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0005",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "ローマ教皇がパリ中心部で大規模ミサ 80万人集まる",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260927de52648",
-          "description": "ローマ・カトリック教会の教皇レオ14世が訪問先のフランス・パリで26日、大規模な野外ミサを行い、およそ80万人が集まりました。",
-          "pub_date": "2026-09-27T07:09:25+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "御嶽山噴火 遺族ら備え必要性訴え",
-          "link": "https://news.yahoo.co.jp/pickup/6596702?source=rss",
-          "description": "",
-          "pub_date": "2026-09-27T13:11:39+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0006",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
           "title": "岩屋前外相らが北京へ出発 経済交流通じて日中関係改善を",
           "link": "https://news.web.nhk/newsweb/na/nd-20260927de52664",
           "description": "日中関係が冷え込む中、自民党の岩屋前外務大臣は日本企業の関係者とともに中国 北京に出発しました。中国政府関係者などとの会談を調整していて、経済交流を通じて関係改善の糸口を探りたい考えです。",
@@ -125,35 +85,55 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "群馬女性殺害事件 現場近くで長女の元夫の車発見 行方捜査続く",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260927de52675",
-          "description": "群馬県太田市の住宅で52歳の母親が刃物で刺されて殺害された事件で、公開手配された長女の元夫の車が現場付近で見つかっていたことが警察への取材で分かりました。 警察は元夫は現場近くまで車で乗り付け、事件を…",
-          "pub_date": "2026-09-27T12:02:00+09:00"
+          "title": "台風25号浸水被害 生活再建へ ボランティアや土砂運搬の動き",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260927de52639",
+          "description": "台風25号に伴う記録的な大雨で、千葉県と神奈川県では12人が死亡し、4人の行方がわからなくなっています。堤防が決壊し、大きな被害が出た千葉県佐倉市では、27日からボランティアが住宅から家財を運び出すな…",
+          "pub_date": "2026-09-27T14:18:50+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "群馬殺害 手配の男名義の車を押収",
-          "link": "https://news.yahoo.co.jp/pickup/6596699?source=rss",
+          "title": "台風25号被害 千葉の観光地に爪痕",
+          "link": "https://news.yahoo.co.jp/pickup/6596719?source=rss",
           "description": "",
-          "pub_date": "2026-09-27T12:14:13+09:00"
+          "pub_date": "2026-09-27T15:00:56+09:00"
         }
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "御嶽山噴火から12年 遺族や気象庁長官が追悼 教訓の継承課題に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260927de52674",
+          "description": "死者・行方不明者が63人にのぼった御嶽山の噴火から27日で12年です。ふもとの長野県王滝村では気象庁の長官も出席して追悼式が行われました。",
+          "pub_date": "2026-09-27T12:45:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "御嶽山噴火 遺族ら備え必要性訴え",
+          "link": "https://news.yahoo.co.jp/pickup/6596702?source=rss",
+          "description": "",
+          "pub_date": "2026-09-27T13:11:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
           "title": "群馬女性殺害事件 長女の元夫逮捕 高崎市内のパチンコ店で確保",
           "link": "https://news.web.nhk/newsweb/na/nd-20260927de52686",
-          "description": "9月25日に群馬県太田市の住宅で52歳の母親が刃物で刺されて殺害され長男も切りつけられてけがをした事件で、警察は長男への殺人未遂の疑いで逮捕状をとり、公開手配して行方を捜査していた長女の30歳の元夫を…",
-          "pub_date": "2026-09-27T16:44:00+09:00"
+          "description": "25日、群馬県太田市の住宅で52歳の母親が刃物で刺されて殺害され長男も切りつけられてけがをした事件で、警察は長男への殺人未遂の疑いで逮捕状をとり公開手配して行方を捜査していた長女の30歳の元夫を、高崎…",
+          "pub_date": "2026-09-27T19:01:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -165,7 +145,7 @@
       }
     },
     {
-      "event_id": "evt-0009",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -173,7 +153,7 @@
           "title": "東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か",
           "link": "https://news.web.nhk/newsweb/na/nd-20260927de52694",
           "description": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。",
-          "pub_date": "2026-09-27T15:48:53+09:00"
+          "pub_date": "2026-09-27T15:48:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -185,7 +165,7 @@
       }
     },
     {
-      "event_id": "evt-0010",
+      "event_id": "evt-0009",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -222,6 +202,13 @@
     },
     {
       "source": "NHK",
+      "title": "熊本・佐賀・長崎に「線状降水帯直前予測」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52644",
+      "description": "気象庁は、熊本県熊本地方、佐賀県南部、長崎県南部では3時間以内に線状降水帯が発生する可能性が高まっているとして、午前5時59分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は…",
+      "pub_date": "2026-09-27T06:10:00+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "福岡県筑後地方に「線状降水帯直前予測」",
       "link": "https://news.web.nhk/newsweb/na/nd-20260927de52642",
       "description": "気象庁は福岡県筑後地方では3時間以内に線状降水帯が発生する可能性が高まっているとして、午前5時29分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が連なって大…",
@@ -233,6 +220,13 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260927de52638",
       "description": "アメリカのトランプ大統領はホルムズ海峡の開放などに向けてイラン側がアメリカに対して行った提案について「受け入れられない」と述べ、拒否したことを明らかにしました。",
       "pub_date": "2026-09-27T06:19:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ローマ教皇がパリ中心部で大規模ミサ 80万人集まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52648",
+      "description": "ローマ・カトリック教会の教皇レオ14世が訪問先のフランス・パリで26日、大規模な野外ミサを行い、およそ80万人が集まりました。",
+      "pub_date": "2026-09-27T07:09:25+09:00"
     },
     {
       "source": "NHK",
@@ -271,6 +265,13 @@
     },
     {
       "source": "NHK",
+      "title": "群馬女性殺害事件 現場近くで長女の元夫の車発見 行方捜査続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52675",
+      "description": "群馬県太田市の住宅で52歳の母親が刃物で刺されて殺害された事件で、公開手配された長女の元夫の車が現場付近で見つかっていたことが警察への取材で分かりました。 警察は元夫は現場近くまで車で乗り付け、事件を…",
+      "pub_date": "2026-09-27T12:02:00+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "イラン外相 トランプ大統領の反応認識も仲介国待ち対応判断",
       "link": "https://news.web.nhk/newsweb/na/nd-20260927de52673",
       "description": "アメリカのトランプ大統領がホルムズ海峡の開放などに向けたイラン側の提案を拒否したことについて、イランのアラグチ外相は、トランプ大統領の反応は認識しているとしたうえで、仲介国からの伝達を待って次の対応を…",
@@ -285,20 +286,6 @@
     },
     {
       "source": "NHK",
-      "title": "台風25号浸水被害 生活再建へ ボランティアや土砂運搬の動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52639",
-      "description": "台風25号に伴う記録的な大雨で、千葉県と神奈川県では12人が死亡し、4人の行方がわからなくなっています。堤防が決壊し、大きな被害が出た千葉県佐倉市では、27日からボランティアが住宅から家財を運び出すな…",
-      "pub_date": "2026-09-27T14:18:50+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "御嶽山噴火から12年 遺族や気象庁長官が追悼 教訓の継承課題に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52674",
-      "description": "死者・行方不明者が63人にのぼった御嶽山の噴火から27日で12年です。 ふもとの長野県王滝村では気象庁の長官も出席して追悼式が行われ、噴火が起きた時刻に合わせて遺族などが犠牲者に祈りをささげました。",
-      "pub_date": "2026-09-27T12:45:56+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "JR山手線 全線で運転見合わせ 新宿駅の人身事故の影響で",
       "link": "https://news.web.nhk/newsweb/na/nd-20260927de52698",
       "description": "JR山手線は新宿駅で発生した人身事故の影響で、午後3時8分ごろから、内回りと外回りの全線で運転を見合わせています。 運転の再開は午後4時10分ごろを見込んでいるということです。",
@@ -308,8 +295,36 @@
       "source": "NHK",
       "title": "大相撲秋場所 横綱大の里 6回目の優勝 安青錦との直接対決制す",
       "link": "https://news.web.nhk/newsweb/na/nd-20260927de52703",
-      "description": "大相撲秋場所は千秋楽の27日、横綱 大の里が大関 安青錦との3敗どうしの直接対決を制し、6回目の優勝を果たしました。 大の里の優勝は2025年の秋場所以来、1年ぶりです。",
-      "pub_date": "2026-09-27T17:27:40+09:00"
+      "description": "大相撲秋場所は千秋楽の27日、横綱・大の里が大関・安青錦との3敗どうしの直接対決を制し、6回目の優勝を果たしました。 大の里の優勝は去年の秋場所以来、1年ぶりです。",
+      "pub_date": "2026-09-27T18:43:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アジア大会 コンテナハウス公開 不満の声受け改善点説明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52693",
+      "description": "愛知・名古屋アジア大会の大会組織委員会は27日、選手団が宿泊している移動式のコンテナハウスを公開しました。 コンテナハウスをめぐっては一部の海外選手から広さなどについて不満の声が上がっていて、大会組織…",
+      "pub_date": "2026-09-27T19:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゼレンスキー大統領“ジェット無人機の迎撃率55％”と危機感",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52709",
+      "description": "ウクライナのゼレンスキー大統領は、ロシア軍が活用を増やしているジェットエンジンを搭載した無人機の迎撃率が55％にとどまっていることを明らかにし、防空体制の強化を急ぐ考えを示しました。",
+      "pub_date": "2026-09-27T18:26:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ペア碁」の国際大会 井山裕太九段は囲碁AIとペアに 名古屋",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52724",
+      "description": "男女がペアを組んで囲碁を打つ「ペア碁」の国際的なイベントが名古屋市で開かれ、プロ棋士のペアによるトーナメントや、AIとプロ棋士のペアとの対局が行われました。",
+      "pub_date": "2026-09-27T21:26:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アジア大会陸上女子100mハードル 福部真子が金 中島ひとみが銀",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52722",
+      "description": "愛知・名古屋アジア大会、陸上女子100メートルハードルの決勝で、元日本記録保持者の福部真子選手が12秒74で金メダルを獲得しました。 日本勢がこの種目で金メダルを獲得するのは44年ぶりの快挙です。 …",
+      "pub_date": "2026-09-27T20:54:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -355,6 +370,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "福岡・熊本 線状降水帯発生の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6596688?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T10:09:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "露外相 日本の常任理入りに反対",
       "link": "https://news.yahoo.co.jp/pickup/6596678?source=rss",
       "description": "",
@@ -387,6 +409,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6596681?source=rss",
       "description": "",
       "pub_date": "2026-09-27T08:57:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "群馬殺害 手配の男名義の車を押収",
+      "link": "https://news.yahoo.co.jp/pickup/6596699?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T12:14:13+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -467,13 +496,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "台風25号被害 千葉の観光地に爪痕",
-      "link": "https://news.yahoo.co.jp/pickup/6596719?source=rss",
-      "description": "",
-      "pub_date": "2026-09-27T15:00:56+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "刀・森岡代表巡る評価 識者見解",
       "link": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
       "description": "",
@@ -548,6 +570,111 @@
       "link": "https://news.yahoo.co.jp/pickup/6596735?source=rss",
       "description": "",
       "pub_date": "2026-09-27T16:47:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自民福岡県連 新会長に古賀篤氏",
+      "link": "https://news.yahoo.co.jp/pickup/6596741?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T17:31:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "公開手配の男逮捕 靴下で逃走か",
+      "link": "https://news.yahoo.co.jp/pickup/6596745?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T17:53:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "住宅街の不発弾撤去 住民避難も",
+      "link": "https://news.yahoo.co.jp/pickup/6596734?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T16:50:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "張本美和「完敗」銅メダルに涙",
+      "link": "https://news.yahoo.co.jp/pickup/6596749?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T18:14:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 非常に強い勢力で沖縄接近へ",
+      "link": "https://news.yahoo.co.jp/pickup/6596755?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T18:56:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アトピー症状の差 免疫細胞影響か",
+      "link": "https://news.yahoo.co.jp/pickup/6596751?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T18:33:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "石橋貴明が惜別 SB中村晃の引退",
+      "link": "https://news.yahoo.co.jp/pickup/6596758?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T19:17:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "倉木麻衣 コナンは「家族のよう」",
+      "link": "https://news.yahoo.co.jp/pickup/6596750?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T18:27:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドクターヘリ 運用見直しに懸念も",
+      "link": "https://news.yahoo.co.jp/pickup/6596744?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T17:50:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "水門ごみ回収中に転落か 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596757?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T19:11:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スラップ訴訟 身銭切り戦った男性",
+      "link": "https://news.yahoo.co.jp/pickup/6596762?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T20:16:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会関係者 漂流の男性救助",
+      "link": "https://news.yahoo.co.jp/pickup/6596753?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T18:40:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "塩貝健人 堂安との確執報道を否定",
+      "link": "https://news.yahoo.co.jp/pickup/6596763?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T20:09:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "役所の固定電話廃止 香川・坂出市",
+      "link": "https://news.yahoo.co.jp/pickup/6596766?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T20:50:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報 井上拓真vs.那須川天心",
+      "link": "https://news.yahoo.co.jp/pickup/6596747?source=rss",
+      "description": "",
+      "pub_date": "2026-09-27T21:10:03+09:00"
     }
   ]
 }
