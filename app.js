@@ -54,13 +54,15 @@ function formatDateLabel(dateStr) {
 // NHK/Yahooリンクと同じ行に並べる(枠内に収まる想定 -> 収まらない端末はflex-wrapで折り返す)。
 // data属性はテンプレート文字列に埋め込まず、要素のプロパティとして直接設定する
 // (見出しに引用符が含まれる場合のHTML属性エスケープ漏れを避けるため)。
-function appendExplainButton(article, actionsRow, url, title) {
+function appendExplainButton(article, actionsRow, url, title, summaryText) {
   const btn = document.createElement("button");
   btn.type = "button";
   btn.className = "explain-btn";
   btn.textContent = "詳しく見る";
   btn.dataset.url = url;
   btn.dataset.title = title;
+  // 解説側で要約の繰り返しを避けるため、読者が既に読んだ要約も渡す
+  btn.dataset.summary = summaryText || "";
   actionsRow.appendChild(btn);
 
   const explanationEl = document.createElement("div");
@@ -90,7 +92,7 @@ function renderMatchedCard(summary, event) {
     </div>
   `;
   const actionsRow = article.querySelector(".source-links");
-  appendExplainButton(article, actionsRow, summary.representative_link, summary.representative_title);
+  appendExplainButton(article, actionsRow, summary.representative_link, summary.representative_title, summary.summary);
   return article;
 }
 
@@ -190,7 +192,7 @@ function setupDatePicker(dates) {
 // renderList()がcontainerEl.innerHTMLを日付切替のたびに差し替えるため、
 // リスナーはコンテナに1回だけ登録すれば、再描画後のボタンにも効く。
 async function handleExplainClick(btn) {
-  const { url, title } = btn.dataset;
+  const { url, title, summary } = btn.dataset;
   const explanationEl = btn.closest(".news-card").querySelector(".explanation");
 
   btn.disabled = true;
@@ -202,7 +204,7 @@ async function handleExplainClick(btn) {
     const res = await fetch(EXPLAIN_WORKER_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ url, title }),
+      body: JSON.stringify({ url, title, summary }),
     });
     const data = await res.json().catch(() => ({}));
     if (!res.ok || data.error) {
