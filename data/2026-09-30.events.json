@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "matched_at": "2026-09-30T21:46:26.555127+09:00",
+  "matched_at": "2026-10-01T03:07:15.430007+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -50,6 +50,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "岩屋前外相が中国副首相と会談 中国高官との会談は2日連続",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260929de53225",
+          "description": "日中関係の悪化した状態が続くなか、岩屋前外務大臣が訪問先の中国で経済政策を統括する何立峰副首相と会談しました。 中国の高官が岩屋前外務大臣と会談するのは2日連続です。",
+          "pub_date": "2026-09-30T01:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "習近平政権 岩屋前外相を厚遇",
+          "link": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
+          "description": "",
+          "pub_date": "2026-09-30T09:41:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "台風26号 今夜遅く伊豆諸島に接近 千葉であす雨強まるおそれも",
           "link": "https://news.web.nhk/newsweb/na/nd-20260930de53237",
           "description": "台風26号はこの時間、伊豆諸島に近づいていて、30日夜遅くから1日明け方にかけて、かなり接近する見込みです。 伊豆諸島では次第に風が強まり、1日にかけて非常に激しい雨が降るおそれがあり、土砂災害や高波…",
@@ -57,15 +77,15 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "台風 あす八丈島など直撃見込み",
-          "link": "https://news.yahoo.co.jp/pickup/6597015?source=rss",
+          "title": "台風 30日夜から伊豆諸島に接近へ",
+          "link": "https://news.yahoo.co.jp/pickup/6597104?source=rss",
           "description": "",
-          "pub_date": "2026-09-30T08:10:32+09:00"
+          "pub_date": "2026-09-30T19:49:32+09:00"
         }
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -85,7 +105,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,7 +125,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -125,7 +145,7 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -145,7 +165,7 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0009",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -165,7 +185,7 @@
       }
     },
     {
-      "event_id": "evt-0009",
+      "event_id": "evt-0010",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -185,7 +205,7 @@
       }
     },
     {
-      "event_id": "evt-0010",
+      "event_id": "evt-0011",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -205,7 +225,7 @@
       }
     },
     {
-      "event_id": "evt-0011",
+      "event_id": "evt-0012",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -225,7 +245,7 @@
       }
     },
     {
-      "event_id": "evt-0012",
+      "event_id": "evt-0013",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -245,15 +265,15 @@
       }
     },
     {
-      "event_id": "evt-0013",
+      "event_id": "evt-0014",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
           "title": "兵庫 尼崎 妻の遺体損壊し川に遺棄か 医師の夫を逮捕",
           "link": "https://news.web.nhk/newsweb/na/nd-20260930de53465",
-          "description": "去年、兵庫県尼崎市で当時41歳の妻の遺体を刃物で損壊し川に遺棄したとして、医師で46歳の夫が逮捕されました。 警察は、妻の死亡のいきさつについても詳しく調べることにしています。",
-          "pub_date": "2026-09-30T21:15:24+09:00"
+          "description": "去年、兵庫県尼崎市で当時41歳の妻の遺体を刃物で損壊し川に遺棄したとして、医師で46歳の夫が逮捕されました。警察は、妻の死亡のいきさつについても詳しく調べることにしています。",
+          "pub_date": "2026-09-30T21:15:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -279,13 +299,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20260930de53231",
       "description": "10月5日に召集される臨時国会で、政府・与党は食料品の消費税減税に関する法案などの成立に向けて野党との協力を模索していく方針です。 一方、野党の中には法案に反対や慎重な意見が根強くあり、国会論戦でた…",
       "pub_date": "2026-09-30T04:07:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "岩屋前外相が中国副首相と会談 中国高官との会談は2日連続",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53225",
-      "description": "日中関係の悪化した状態が続くなか、岩屋前外務大臣が訪問先の中国で経済政策を統括する何立峰副首相と会談しました。 中国の高官が岩屋前外務大臣と会談するのは2日連続です。",
-      "pub_date": "2026-09-30T01:59:00+09:00"
     },
     {
       "source": "NHK",
@@ -404,7 +417,14 @@
       "title": "富山市国勢調査人口水増し疑い 地方交付税が約2億円多く交付か",
       "link": "https://news.web.nhk/newsweb/na/nd-20260930de53460",
       "description": "去年の国勢調査で人口を水増しした疑いがあるとして富山市の職員が刑事告発された問題で、国勢調査の人口などをもとに算定される今年度の国からの地方交付税が、本来より2億円ほど多く交付された可能性があることが…",
-      "pub_date": "2026-09-30T20:27:23+09:00"
+      "pub_date": "2026-09-30T20:27:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中司大臣 旧優生保護法で謝罪“被害者補償に取り組む”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53436",
+      "description": "旧優生保護法をめぐる政府と被害者側の定期協議が開かれ、新たに担当することになった中司大臣は「政府の責任は極めて重大だ」と謝罪した上で、すべての被害者が補償を受けられるよう取り組む考えを示しました。",
+      "pub_date": "2026-09-30T21:29:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -485,6 +505,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "台風 あす八丈島など直撃見込み",
+      "link": "https://news.yahoo.co.jp/pickup/6597015?source=rss",
+      "description": "",
+      "pub_date": "2026-09-30T08:10:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "トランプ氏 AI監督委設置を検討",
       "link": "https://news.yahoo.co.jp/pickup/6597010?source=rss",
       "description": "",
@@ -545,13 +572,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6597017?source=rss",
       "description": "",
       "pub_date": "2026-09-30T08:25:22+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "習近平政権 岩屋前外相を厚遇",
-      "link": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
-      "description": "",
-      "pub_date": "2026-09-30T09:41:55+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -800,13 +820,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "台風 30日夜から伊豆諸島に接近へ",
-      "link": "https://news.yahoo.co.jp/pickup/6597104?source=rss",
-      "description": "",
-      "pub_date": "2026-09-30T19:49:32+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "麻生氏 土地3カ所の資産報告せず",
       "link": "https://news.yahoo.co.jp/pickup/6597105?source=rss",
       "description": "",
@@ -846,6 +859,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6597109?source=rss",
       "description": "",
       "pub_date": "2026-09-30T21:21:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "明治大 アラスカ先住民の遺骨返還",
+      "link": "https://news.yahoo.co.jp/pickup/6597095?source=rss",
+      "description": "",
+      "pub_date": "2026-09-30T18:17:24+09:00"
     }
   ]
 }
