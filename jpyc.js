@@ -485,6 +485,13 @@ async function loadJpycData() {
   }
 }
 
+// JPYCのタブのヘッダーに出す今日の日付(例: "10.2 金")。主要のタブと見た目をそろえるための表示だけ
+function renderTodayDate() {
+  const p = new Intl.DateTimeFormat("ja-JP", { timeZone: "Asia/Tokyo", month: "numeric", day: "numeric", weekday: "short" }).formatToParts(new Date());
+  const get = (t) => p.find((x) => x.type === t).value;
+  document.getElementById("date-today").textContent = `${get("month")}.${get("day")} ${get("weekday")}`;
+}
+
 function switchTab(tab) {
   jpycState.activeTab = tab;
   document.body.classList.toggle("tab-jpyc", tab === "jpyc");
@@ -496,6 +503,7 @@ function switchTab(tab) {
     btn.setAttribute("aria-selected", String(active));
   }
   if (tab === "jpyc") {
+    renderTodayDate();
     renderJpycView(); // タブを開いただけでは既読にしない
     renderJpycStatus();
   } else {

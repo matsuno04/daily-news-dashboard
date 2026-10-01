@@ -223,7 +223,7 @@ body {
 .summary {
   margin: 0 0 10px;
   color: var(--text-secondary);
-  font-size: 0.88rem;
+  font-size: 0.95rem;
 }
 
 .source-links {
@@ -362,9 +362,28 @@ body {
   background: var(--accent);
 }
 
-/* 日付と版は主要のタブ専用。JPYCのタブではヘッダーごと隠し、タブを画面の上に寄せる */
-body.tab-jpyc .app-header {
+/* 日付の選択は主要のタブ専用 */
+body.tab-jpyc .date-picker {
   display: none;
+}
+
+/* JPYCのタブでは、同じ位置・同じ大きさで今日の日付だけを出す(タップしても何も起きない) */
+.date-static {
+  display: none;
+  margin-top: 2px;
+}
+
+body.tab-jpyc .date-static {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+/* 主要のタブの「▾」と同じ幅・高さを見えない形で確保し、タブを切り替えてもタブの位置がずれないようにする */
+.date-static::after {
+  content: "▾";
+  font-size: 0.9rem;
+  visibility: hidden;
 }
 
 /* ------------------------------------------------------------------
