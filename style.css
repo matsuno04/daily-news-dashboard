@@ -68,7 +68,6 @@
 }
 
 /* 日本語の見出しはプロポーショナルにして字間を詰める */
-.app-name,
 .date-big,
 .section-title,
 .headline,
@@ -87,29 +86,9 @@ body {
 }
 
 .app-header {
-  padding: 14px 16px 10px;
+  padding: 18px 16px 10px;
   max-width: 640px;
   margin: 0 auto;
-}
-
-.app-topline {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.app-name {
-  margin: 0;
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  color: var(--text-muted);
-}
-
-.edition-label {
-  font-size: 0.72rem;
-  font-weight: 600;
-  color: var(--text-muted);
 }
 
 /* 大きな日付の上に透明の select を重ね、タップで日付の選択が開くようにする */
@@ -243,7 +222,7 @@ body {
 
 .summary {
   margin: 0 0 10px;
-  color: var(--text-tertiary);
+  color: var(--text-secondary);
   font-size: 0.88rem;
 }
 
@@ -320,7 +299,7 @@ body {
 }
 
 /* ------------------------------------------------------------------
-   タブ(デイリー / JPYC)
+   タブ(主要 / JPYC)
    ------------------------------------------------------------------ */
 .tab-bar {
   position: sticky;
@@ -357,8 +336,8 @@ body {
   padding: 6px 4px;
   font: inherit;
   font-size: 0.86rem;
-  font-weight: 600;
-  color: var(--text-primary);
+  font-weight: 500;
+  color: var(--text-muted); /* 選んでいないタブは薄く */
   background: transparent;
   border: none;
   border-radius: 7px;
@@ -366,6 +345,8 @@ body {
 }
 
 .tab-btn.is-active {
+  font-weight: 700;
+  color: var(--text-primary);
   background: var(--segment-active);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 0 0.5px rgba(0, 0, 0, 0.04);
 }
@@ -381,9 +362,8 @@ body {
   background: var(--accent);
 }
 
-/* 日付と版はデイリー専用 */
-body.tab-jpyc .edition-label,
-body.tab-jpyc .date-picker {
+/* 日付と版は主要のタブ専用。JPYCのタブではヘッダーごと隠し、タブを画面の上に寄せる */
+body.tab-jpyc .app-header {
   display: none;
 }
 
@@ -424,7 +404,7 @@ body.tab-jpyc .date-picker {
   gap: 6px;
 }
 
-/* JPYCのタグは色なしのラベル(デイリーのカテゴリ色と意味が混ざらないように) */
+/* JPYCのタグは色なしのラベル(主要のタブのカテゴリ色と意味が混ざらないように) */
 .jpyc-tag {
   display: inline-block;
   font-size: 0.72rem;

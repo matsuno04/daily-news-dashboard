@@ -19,10 +19,6 @@
 </head>
 <body>
 <header class="app-header">
-  <div class="app-topline">
-    <h1 class="app-name">Overlap</h1>
-    <span id="edition-label" class="edition-label"></span>
-  </div>
   <!-- 大きな日付をタップすると日付の選択が開く(透明の select を日付の上に重ねている) -->
   <label class="date-picker" for="date-select">
     <span id="date-big" class="date-big" aria-hidden="true">&nbsp;</span>
@@ -31,14 +27,13 @@
 </header>
 
 <nav class="tab-bar" role="tablist" aria-label="表示の切り替え">
-  <button type="button" class="tab-btn is-active" role="tab" aria-selected="true" data-tab="daily">デイリー</button>
+  <button type="button" class="tab-btn is-active" role="tab" aria-selected="true" data-tab="daily">主要</button>
   <button type="button" class="tab-btn" role="tab" aria-selected="false" data-tab="jpyc">JPYC<span id="jpyc-badge" class="tab-badge" hidden></span></button>
 </nav>
 
 <main id="app">
 <div id="daily-view">
   <section id="matched-section" class="section">
-    <h2 class="section-title">両ソースが報じたニュース</h2>
     <div id="matched-list" class="card-list">
       <p class="loading">読み込み中…</p>
     </div>
