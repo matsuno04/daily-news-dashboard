@@ -27,7 +27,13 @@
   </div>
 </header>
 
+<nav class="tab-bar" role="tablist" aria-label="表示の切り替え">
+  <button type="button" class="tab-btn is-active" role="tab" aria-selected="true" data-tab="daily">デイリー</button>
+  <button type="button" class="tab-btn" role="tab" aria-selected="false" data-tab="jpyc">JPYC<span id="jpyc-badge" class="tab-badge" hidden></span></button>
+</nav>
+
 <main id="app">
+<div id="daily-view">
   <section id="matched-section" class="section">
     <h2 class="section-title">両ソースが報じたニュース</h2>
     <div id="matched-list" class="card-list">
@@ -48,8 +54,17 @@
       <p class="loading">読み込み中…</p>
     </div>
   </section>
+</div>
+
+<!-- JPYCタブ: jpyc-news-v2(卒業論文の研究データ)の recent_events.json を読み込むだけ。jpyc.js 参照 -->
+<div id="jpyc-view" hidden>
+  <p id="jpyc-status" class="jpyc-status"><span>JPYCの更新状況を確認中…</span></p>
+  <div id="jpyc-content"><p class="loading">読み込み中…</p></div>
+  <p class="jpyc-footer"><a id="jpyc-research-link" href="#" target="_blank" rel="noopener">研究用の集計ダッシュボードを開く →</a></p>
+</div>
 </main>
 
 <script src="app.js"></script>
+<script src="jpyc.js"></script>
 </body>
 </html>

@@ -21,6 +21,10 @@
   /* ソースタグ: NHK=青系 / Yahoo=赤系(ユーザー指定)。カテゴリパレットのslot1・8を流用 */
   --source-nhk: #2a78d6;
   --source-yahoo: #e34948;
+
+  /* JPYCタブの未読バッジ・新着の印(アプリのテーマカラー) */
+  --accent: #0d47a1;
+  --accent-text: #ffffff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -45,6 +49,9 @@
 
     --source-nhk: #3987e5;
     --source-yahoo: #e66767;
+
+    --accent: #6f9cf0;
+    --accent-text: #0d0d0d;
   }
 }
 
@@ -261,4 +268,169 @@ body {
 
 .error {
   color: var(--source-yahoo);
+}
+
+/* ------------------------------------------------------------------
+   タブ(デイリー / JPYC)
+   ------------------------------------------------------------------ */
+.tab-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 16px;
+  background: var(--page-bg);
+  border-bottom: 1px solid var(--gridline);
+}
+
+.tab-btn {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: transparent;
+  border: none;
+  border-bottom: 2.5px solid transparent;
+  padding: 11px 4px 9px;
+  cursor: pointer;
+}
+
+.tab-btn.is-active {
+  color: var(--text-primary);
+  border-bottom-color: var(--accent);
+}
+
+.tab-badge {
+  min-width: 20px;
+  padding: 1px 6px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: var(--accent-text);
+  background: var(--accent);
+}
+
+/* 日付の選択はデイリー専用 */
+body.tab-jpyc .date-picker {
+  display: none;
+}
+
+/* ------------------------------------------------------------------
+   JPYCタブ
+   ------------------------------------------------------------------ */
+.jpyc-status {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  margin: 14px 0 0;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.jpyc-status-warn {
+  color: var(--source-yahoo);
+  font-weight: 600;
+}
+
+.jpyc-section-count {
+  margin-left: 8px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.jpyc-card-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+
+/* JPYCのタグは色なしのラベル(デイリーのカテゴリ色と意味が混ざらないように) */
+.jpyc-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 1px 8px;
+  border-radius: 999px;
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+}
+
+.jpyc-unread-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex: none;
+}
+
+.jpyc-headline-link {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.jpyc-headline-link:active {
+  color: var(--text-secondary);
+}
+
+.jpyc-meta {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+/* 続報: 1行にまとめ、タップで追加された記事の一覧を開く */
+.jpyc-followup > summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.jpyc-followup > summary::-webkit-details-marker {
+  display: none;
+}
+
+.jpyc-followup > summary::before {
+  content: "▸ ";
+  color: var(--text-muted);
+}
+
+.jpyc-followup[open] > summary::before {
+  content: "▾ ";
+}
+
+.jpyc-followup-count {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.jpyc-followup-list {
+  margin: 0 0 6px 14px;
+  border-left: 2px solid var(--gridline);
+  padding-left: 10px;
+}
+
+.jpyc-outlet {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.jpyc-footer {
+  margin: 28px 0 0;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.jpyc-footer a {
+  color: var(--text-secondary);
 }

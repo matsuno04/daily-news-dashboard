@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JPYCタブのテスト</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 16px; line-height: 1.5; }
+  .pass { color: #1a7f37; } .fail { color: #cf222e; font-weight: 700; }
+  #summary { font-size: 1.1rem; font-weight: 700; margin-bottom: 12px; }
+  li { margin: 2px 0; }
+</style>
+</head>
+<body>
+<!-- JPYCタブの判定ロジック(jpyc.js の JpycLogic と描画関数)のテスト。
+     ローカルで python -m http.server を起動し、/tests.html を開くと実行される。本番の表示には使わない -->
+<div id="summary">実行中…</div>
+<ol id="results"></ol>
+<div id="jpyc-content" hidden></div>
+<script src="jpyc.js"></script>
+<script>
+const NOW = Date.parse("2026-10-02T22:00:00+09:00");
+const H = 3600 * 1000, D = 24 * H;
+const results = [];
+
+function check(name, cond, detail = "") {
+  results.push({ name, ok: !!cond, detail });
+}
+function eq(name, actual, expected) {
+  check(name, JSON.stringify(actual) === JSON.stringify(expected), `期待 ${JSON.stringify(expected)} / 実際 ${JSON.stringify(actual)}`);
+}
+
+// 日本時間の "YYYY-MM-DD HH:MM:SS"(recent_events.json と同じ形)
+function jst(ms) {
+  const d = new Date(ms + 9 * H);
+  const p = (n) => String(n).padStart(2, "0");
+  return `${d.getUTCFullYear()}-${p(d.getUTCMonth() + 1)}-${p(d.getUTCDate())} ${p(d.getUTCHours())}:${p(d.getUTCMinutes())}:${p(d.getUTCSeconds())}`;
+}
+function ev(id, firstMs, articleMs = [firstMs], opts = {}) {
+  const articles = articleMs.map((t, i) => ({
+    title: `${id} 記事${i + 1}`, domain: (opts.domains || [])[i] || `site${i}.example`,
+    url: `https://site${i}.example/${id}`, published_at: jst(t), collected_at: jst(t),
+  }));
+  return {
+    event_id: id, first_collected_at: jst(firstMs), last_collected_at: jst(Math.max(...articleMs)),
+    article_count: articles.length, tags: opts.tags || ["活用事例"], tags_mode: (opts.tags || ["活用事例"])[0],
+    representative: { title: opts.title || `${id} の見出し`, domain: articles[0].domain, url: articles[0].url,
+                      published_at: jst(firstMs), summary: `${id} の要約` },
+    articles,
+  };
+}
+function memStorage(init = {}) {
+  const m = new Map(Object.entries(init));
+  return { getItem: (k) => (m.has(k) ? m.get(k) : null), setItem: (k, v) => m.set(k, String(v)) };
+}
+const throwingStorage = { getItem() { throw new Error("SecurityError"); }, setItem() { throw new Error("QuotaExceeded"); } };
+const L = JpycLogic;
+
+// --- 日時の解釈 ---
+eq("日本時間の文字列を正しく解釈する", L.parseJst("2026-10-02 09:00:00"), Date.UTC(2026, 9, 2, 0, 0, 0));
+eq("空・不正な日時は null", [L.parseJst(""), L.parseJst(null), L.parseJst("abc")], [null, null, null]);
+
+// --- 初回(保存された日時なし) ---
+{
+  const events = [ev("A", NOW - 1 * D), ev("B", NOW - 2 * D), ev("C", NOW - 4 * D), ev("D", NOW - 10 * D)];
+  const st = memStorage();
+  const base = L.baseline(L.readLastOpened(st), NOW);
+  eq("初回: 直近3日分が未読(2件)", L.unreadCount(events, base), 2);
+  eq("初回: バッジは「2」", L.badgeLabel(L.unreadCount(events, base)), "2");
+  const shown = L.openTab(st, NOW);
+  eq("初回: 表示の基準は3日前", shown, NOW - 3 * D);
+  eq("初回: 開いたら既読の日時が今になる", L.readLastOpened(st), NOW);
+  eq("初回: 開いた後のバッジは消える", L.badgeLabel(L.unreadCount(events, L.baseline(L.readLastOpened(st), NOW))), "");
+  eq("初回: カードは直近7日分(3日より長い)", L.cardEvents(events, shown, NOW).map((e) => e.event_id), ["A", "B", "C"]);
+}
+
+// --- 未読あり ---
+{
+  const st = memStorage({ "jpyc.lastOpenedAt": String(NOW - 1 * D) });
+  const events = [ev("NEW", NOW - 12 * H), ev("OLD", NOW - 2 * D)];
+  const shown = L.openTab(st, NOW);
+  eq("未読あり: 前回より後の初出だけが新着", events.filter((e) => L.isNewEvent(e, shown)).map((e) => e.event_id), ["NEW"]);
+  eq("未読あり: カードは新しい順で、既読の出来事も7日以内なら並ぶ", L.cardEvents(events, shown, NOW).map((e) => e.event_id), ["NEW", "OLD"]);
+  eq("未読あり: 続報はなし", L.followUps(events, shown).length, 0);
+}
+
+// --- 続報のみ ---
+{
+  const lastOpened = NOW - 1 * D;
+  const events = [ev("CONT", NOW - 3 * D, [NOW - 3 * D, NOW - 2 * H, NOW - 1 * H]), ev("QUIET", NOW - 5 * D)];
+  eq("続報のみ: バッジには数えない(0件)", L.badgeLabel(L.unreadCount(events, lastOpened)), "");
+  const f = L.followUps(events, lastOpened);
+  eq("続報のみ: 続報は1件、追加された記事は2件", [f.length, f[0] && f[0].added.length], [1, 2]);
+  eq("続報のみ: 続報の出来事はカードにしない", L.cardEvents(events, lastOpened, NOW).map((e) => e.event_id), ["QUIET"]);
+}
+
+// --- 10件以上 ---
+{
+  const mk = (n) => Array.from({ length: n }, (_, i) => ev(`E${i}`, NOW - (i + 1) * H));
+  const base = NOW - 1 * D;
+  eq("9件はそのまま「9」", L.badgeLabel(L.unreadCount(mk(9), base)), "9");
+  eq("10件は「9+」", L.badgeLabel(L.unreadCount(mk(10), base)), "9+");
+  eq("12件も「9+」", L.badgeLabel(L.unreadCount(mk(12), base)), "9+");
+  eq("0件はバッジなし", L.badgeLabel(0), "");
+}
+
+// --- localStorage が使えない ---
+{
+  let threw = false, shown;
+  try { shown = L.openTab(throwingStorage, NOW); } catch { threw = true; }
+  check("使えない: 開いても例外を外に出さない", !threw);
+  eq("使えない: 読み込みは null(初回と同じ扱い)", L.readLastOpened(throwingStorage), null);
+  eq("使えない: 書き込みは false を返すだけ", L.writeLastOpened(throwingStorage, NOW), false);
+  eq("使えない: 表示の基準は直近3日", shown, NOW - 3 * D);
+  eq("storage が null でも動く", [L.readLastOpened(null), L.openTab(null, NOW)], [null, NOW - 3 * D]);
+  eq("壊れた値が入っていても初回扱い", L.readLastOpened(memStorage({ "jpyc.lastOpenedAt": "abc" })), null);
+}
+
+// --- その回の表示は開く前の日時を基準にする ---
+{
+  const st = memStorage({ "jpyc.lastOpenedAt": String(NOW - 1 * D) });
+  const events = [ev("X", NOW - 2 * H)];
+  const first = L.openTab(st, NOW);
+  check("1回目に開いたときは新着として表示", L.isNewEvent(events[0], first));
+  const second = L.openTab(st, NOW + 5 * 60 * 1000);
+  check("直後にもう一度開くと新着ではない", !L.isNewEvent(events[0], second));
+}
+
+// --- 表示範囲(直近7日と前回以降の長いほう) ---
+{
+  const events = [ev("D8", NOW - 8 * D), ev("D6", NOW - 6 * D)];
+  eq("前回が10日前なら10日分", L.cardEvents(events, NOW - 10 * D, NOW).map((e) => e.event_id), ["D6", "D8"]);
+  eq("前回が1日前なら7日分", L.cardEvents(events, NOW - 1 * D, NOW).map((e) => e.event_id), ["D6"]);
+}
+
+// --- 他N媒体(媒体名の重複を除く) ---
+{
+  const e = ev("M", NOW - H, [NOW - H, NOW - H, NOW - H, NOW - H], { domains: ["a.jp", "news.yahoo.co.jp", "news.yahoo.co.jp", "a.jp"] });
+  eq("代表と同じ媒体・重複を除いて「他1媒体」", L.otherOutletCount(e), 1);
+  eq("記事が1件なら他0媒体", L.otherOutletCount(ev("S", NOW - H)), 0);
+}
+
+// --- 実行の状態 ---
+{
+  const at = (ms) => new Date(ms).toISOString();
+  const s1 = L.summarizeRuns([{ conclusion: "failure", run_started_at: at(NOW - 1 * H) }, { conclusion: "success", run_started_at: at(NOW - 25 * H) }], NOW);
+  eq("最新が失敗なら失敗と表示、最後の成功は25時間前で警告なし", [s1.lastFailed, s1.stale, s1.lastSuccessAt], [true, false, NOW - 25 * H]);
+  const s2 = L.summarizeRuns([{ conclusion: "success", run_started_at: at(NOW - 27 * H) }], NOW);
+  eq("最後の成功から27時間なら「止まっている可能性」", [s2.lastFailed, s2.stale], [false, true]);
+  const s3 = L.summarizeRuns([], NOW);
+  eq("実行の記録がなければ警告", [s3.lastFailed, s3.stale, s3.lastSuccessAt], [false, true, null]);
+}
+
+// --- 画面の描画 ---
+{
+  const content = document.getElementById("jpyc-content");
+  jpycState.events = [ev("OLD", NOW - 5 * D)];
+  jpycState.loadError = null;
+  renderJpycView(NOW - 1 * D);
+  check("新着も続報もなければ「新しい出来事はありません」だけ", content.textContent.trim() === "新しい出来事はありません", content.textContent.trim());
+
+  jpycState.events = [ev("N1", Date.now() - 2 * H, [Date.now() - 2 * H, Date.now() - H], { title: "<img src=x onerror=alert(1)>見出し", tags: ["提携・連携", "活用事例"], domains: ["a.jp", "b.jp"] })];
+  renderJpycView(Date.now() - 1 * D);
+  check("新着カードに印が付く", content.querySelector(".jpyc-card.is-unread .jpyc-unread-dot") !== null);
+  check("見出しのHTMLは文字として表示される(埋め込まれない)", content.querySelector("img") === null && content.textContent.includes("<img"));
+  eq("タグは色なしのラベルで全部出る", [...content.querySelectorAll(".jpyc-tag")].map((t) => t.textContent), ["提携・連携", "活用事例"]);
+  check("媒体と「他1媒体」が出る", content.querySelector(".jpyc-meta").textContent.includes("a.jp 他1媒体"), content.querySelector(".jpyc-meta").textContent);
+
+  jpycState.events = [Object.assign(ev("P", Date.now() - 2 * H), { representative: { title: "公開日", domain: "a.jp", url: "https://a.jp/", published_at: "2026-09-30 13:05:00", summary: "" } }),
+                      Object.assign(ev("Q", Date.now() - 3 * H), { representative: { title: "日付のみ", domain: "b.jp", url: "https://b.jp/", published_at: "2026-09-29 00:00:00", summary: "" } })];
+  renderJpycView(Date.now() - 1 * D);
+  eq("カードの日付は代表記事の公開日(時刻が00:00なら日付だけ)", [...content.querySelectorAll(".jpyc-meta")].map((m) => m.textContent.split("・")[1].trim()), ["公開 9/30 13:05", "公開 9/29"]);
+  check("公開日が古くても、初出が前回より後なら新着の印が付く", content.querySelectorAll(".jpyc-unread-dot").length === 2);
+
+  jpycState.events = [ev("C", Date.now() - 3 * D, [Date.now() - 3 * D, Date.now() - H])];
+  renderJpycView(Date.now() - 1 * D);
+  check("続報は折りたたみの1行で「+1件」", content.querySelector("details.jpyc-followup summary").textContent.includes("+1件"));
+
+  jpycState.events = null;
+  jpycState.loadError = "JPYCのデータを取得できませんでした (HTTP 404)";
+  renderJpycView(Date.now());
+  check("読み込みに失敗したらエラーを表示する", content.querySelector(".error") !== null);
+}
+
+// --- 結果 ---
+const ok = results.filter((r) => r.ok).length;
+document.getElementById("summary").textContent = `${ok} / ${results.length} 件合格`;
+document.getElementById("summary").className = ok === results.length ? "pass" : "fail";
+document.getElementById("results").innerHTML = results
+  .map((r) => `<li class="${r.ok ? "pass" : "fail"}">${r.ok ? "✓" : "✗"} ${r.name}${r.ok ? "" : ` — ${r.detail.replace(/</g, "&lt;")}`}</li>`)
+  .join("");
+document.title = `JPYCタブのテスト: ${ok}/${results.length}`;
+</script>
+</body>
+</html>
