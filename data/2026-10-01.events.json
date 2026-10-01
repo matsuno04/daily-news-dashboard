@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-01",
+  "matched_at": "2026-10-01T12:32:15.516362+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "西武渋谷店 58年の歴史に幕 デザイナーが語る“過去”“未来”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53266",
+          "description": "東京 渋谷で58年にわたって営業を続けてきたデパートの「西武渋谷店」が30日、閉店しました。 最先端の文化や流行を発信する街のシンボルとして知られてきましたが、今回の閉店によって渋谷から大型のデパー…",
+          "pub_date": "2026-09-30T22:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "西武渋谷店が閉店 入り口は大混雑",
+          "link": "https://news.yahoo.co.jp/pickup/6597110?source=rss",
+          "description": "",
+          "pub_date": "2026-09-30T21:47:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風26号 明け方にかけ伊豆諸島に接近 千葉で雨強まるおそれも",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53237",
+          "description": "台風26号は、伊豆諸島に10月1日明け方にかけて、かなり接近する見込みです。伊豆諸島では風が強まり、1日にかけて非常に激しい雨が降るおそれがあり、土砂災害に警戒し、高波にも十分注意が必要です。これまで…",
+          "pub_date": "2026-10-01T00:19:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風が関東接近へ 千葉は大雨恐れ",
+          "link": "https://news.yahoo.co.jp/pickup/6597124?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T06:42:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "イラク駐留の米軍が撤退完了 治安悪化への懸念残る",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53501",
+          "description": "イラクで、過激派組織IS＝イスラミックステートに対応するために駐留を続けてきたアメリカ軍は9月30日、部隊の撤退が完了したと発表しました。ただ、隣国イランへの軍事作戦のあと活動を活発化させてきたイラン…",
+          "pub_date": "2026-10-01T06:01:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米軍 IS巡るイラクでの任務を終了",
+          "link": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
+          "description": "",
+          "pub_date": "2026-09-30T22:02:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "旅客機緊急着陸 イスラエル首相 「操縦士の1人が墜落企てた」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53511",
+          "description": "UAE＝アラブ首長国連邦からイスラエルに向かっていた旅客機が9月30日、ハイジャックなどを知らせる信号を出したあと緊急着陸しました。イスラエルのネタニヤフ首相は、操縦士の1人が別の操縦士を刺し、墜落を…",
+          "pub_date": "2026-10-01T04:13:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "テルアビブ便 副操縦士が機長刺す",
+          "link": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T07:17:08+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日銀短観 大企業の製造業の景気判断 6期連続で改善",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53527",
+          "description": "日銀が1日に発表した短観＝企業短期経済観測調査で、大企業の製造業の景気判断を示す指数はプラス24ポイントと前回の調査を2ポイント上回り、6期連続の改善となりました。",
+          "pub_date": "2026-10-01T12:26:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大企業製造業 景況感6期連続改善",
+          "link": "https://news.yahoo.co.jp/pickup/6597141?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T09:48:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「timelesz」猪俣周杜メンバーの契約解除 所属事務所が発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53556",
+          "description": "知人の女性を殴るなどしてけがをさせたとして逮捕され、その後、釈放された人気アイドルグループ、「timelesz」の猪俣周杜メンバーについて、所属事務所は契約を解除したと発表しました。",
+          "pub_date": "2026-10-01T11:38:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "timelesz猪俣氏 事務所が契約解除",
+          "link": "https://news.yahoo.co.jp/pickup/6597139?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T09:26:17+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京湾アクアラインで車4台事故 1人死亡1人重体",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53536",
+          "description": "1日朝、川崎市の東京湾アクアラインでトラックなど車4台が関係する事故があり、1人が死亡、1人が意識不明の重体となっています。 ほかにもけがをした人がいるということで、警察が事故の詳しい状況を調べていま…",
+          "pub_date": "2026-10-01T12:15:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アクアラインで4台事故 1人死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6597152?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T11:45:16+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "OTC類似薬 患者追加負担 来年3月導入へ 厚労省が通知 対象薬は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53373",
+      "description": "市販薬と似た成分や効能を持つ「OTC類似薬」を処方された患者に追加負担を求める新たな仕組みについて、厚生労働省は、来年3月1日から実施すると関係機関に通知しました。 18歳の年度末までの子どもやがん…",
+      "pub_date": "2026-09-30T21:55:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "住宅ローン 3行が変動金利引き上げ 固定金利は5行とも",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53488",
+      "description": "みずほ銀行など大手銀行3行は、10月から適用する変動型の住宅ローン金利を引き上げます。また、固定金利については、大手5行すべてが引き上げます。",
+      "pub_date": "2026-10-01T00:28:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "沖縄 宜野湾 女性殺害事件 首や周辺に複数の刺し傷",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53508",
+      "description": "9月30日、沖縄県宜野湾市で23歳の女性が殺害されているのが見つかった事件で、女性の首や周辺には複数の刺し傷があったことが警察への取材で分かりました。警察は、けがをして病院で手当てを受けている元交際相…",
+      "pub_date": "2026-10-01T03:16:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "外国人の在留許可に関する手数料 10月1日から引き上げ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53503",
+      "description": "外国人の在留許可に関する手数料が10月1日から引き上げられます。出入国在留管理庁は、今後もホームページなどで関連情報の周知を続けるなどして、円滑な移行を図っていきたいとしています。",
+      "pub_date": "2026-10-01T01:58:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イラン提案めぐり米から回答受け取る 双方に隔たりの報道も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53504",
+      "description": "イラン政府は、ホルムズ海峡の開放などに向けた提案をめぐってアメリカから回答を受け取ったと明らかにしました。ただ、双方の間には依然として隔たりがあるとも伝えられ、先行きは不透明な状況が続いています。",
+      "pub_date": "2026-10-01T02:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風26号 伊豆諸島は強風 高波 落雷に注意 千葉で強い雨おそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53516",
+      "description": "台風26号は、伊豆諸島付近を進んでいて、伊豆諸島では、警報級の大雨となる可能性は低くなりましたが、強風や高波のほか、落雷、竜巻などの激しい突風に注意してください。また、千葉県では、1日昼ごろにかけて、…",
+      "pub_date": "2026-10-01T08:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風27号が発生 日本のはるか南を北上見込み 最新の情報を確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53515",
+      "description": "台風26号はしだいに伊豆諸島や関東から遠ざかり各地で気温が上がっていますが、これまでの長雨で地盤の緩んでいるところもあり、危険な場所には近づかないようにしてください。 一方、1日午前には日本のはるか南…",
+      "pub_date": "2026-10-01T12:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "三島由紀夫 米出版社にあてた手紙多数発見 自身の作品売り込む",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53497",
+      "description": "戦後日本を代表する作家の1人、三島由紀夫がアメリカの出版社の編集者あてに英語で書いた直筆の手紙、40通余りが見つかりました。手紙には、作品の海外での評価に強い関心を持ったり、ノーベル文学賞への思いを吐…",
+      "pub_date": "2026-10-01T05:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "外国人材「育成就労制度」まで半年 日本語教育担い手確保課題",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53498",
+      "description": "「技能実習制度」に代わる外国人材の新たな受け入れ制度、「育成就労制度」が始まるまであと半年となりました。新たな制度では、まとまった日本語講習を義務づけるなど日本語教育に重点が置かれていて、教育の担い手…",
+      "pub_date": "2026-10-01T06:42:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "世界遺産 二条城の観覧料 京都市が「二重価格」導入方針固める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53517",
+      "description": "観光客の増加によるオーバーツーリズムが課題となる中、京都市は2027年度中に、世界遺産・二条城の観覧料を市民については引き下げる一方、市民以外はその2倍に引き上げる「二重価格」を導入する方針を固めたこ…",
+      "pub_date": "2026-10-01T07:59:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米FRB 本部改修工事めぐり 監察機関 “法律違反は確認されず”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53533",
+      "description": "アメリカのFRB＝連邦準備制度理事会の本部の改修工事をめぐり、費用が当初の想定を大きく上回った問題で、FRBの監察機関は、法律違反は確認されなかったとする調査報告書を公表しました。工事についてはトラン…",
+      "pub_date": "2026-10-01T09:14:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "TBSテレビ ドラマ「VIVANT」監督をパワハラで処分",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53513",
+      "description": "TBSテレビは、放送中のドラマの監督に、番組関係者に対するパワーハラスメント行為が認められたとして、処分したことを明らかにしました。",
+      "pub_date": "2026-10-01T05:05:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国大使館侵入事件 元自衛官 侵入など認め脅迫は無罪主張",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53561",
+      "description": "ことし3月、東京・港区の中国大使館に侵入し、大使館の職員を脅した罪などに問われている24歳の元陸上自衛官の初公判が開かれ、被告側は侵入などの起訴内容を認めた一方、脅迫については無罪を主張しました。",
+      "pub_date": "2026-10-01T11:46:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "BMW管理職20％削減 ドイツ自動車大手で人員削減相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53565",
+      "description": "ドイツの自動車大手BMWは、経営合理化のため管理職をおよそ20％削減する方針を示しました。ドイツの自動車メーカーの間では中国市場での競争激化などで販売台数が減少していて、人員削減の動きが相次いでいます…",
+      "pub_date": "2026-10-01T11:49:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ネイリスト殺害 納得できないと夫",
+      "link": "https://news.yahoo.co.jp/pickup/6597113?source=rss",
+      "description": "",
+      "pub_date": "2026-09-30T22:43:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サッカー男子 PK戦制し決勝進出",
+      "link": "https://news.yahoo.co.jp/pickup/6597115?source=rss",
+      "description": "",
+      "pub_date": "2026-09-30T22:33:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神戸発砲事件 死亡男性は会社役員",
+      "link": "https://news.yahoo.co.jp/pickup/6597119?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T00:02:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世界大学ランキング 東北大に注目",
+      "link": "https://news.yahoo.co.jp/pickup/6597092?source=rss",
+      "description": "",
+      "pub_date": "2026-09-30T23:37:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画オデュッセイアの天候を考察",
+      "link": "https://news.yahoo.co.jp/pickup/6597117?source=rss",
+      "description": "",
+      "pub_date": "2026-09-30T23:05:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリ野上さん急逝 球団本部長が涙",
+      "link": "https://news.yahoo.co.jp/pickup/6597118?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T00:03:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハチミツ二郎が会見 笑い絶えず",
+      "link": "https://news.yahoo.co.jp/pickup/6597125?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T07:12:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "おぼっちゃまくん 35年ぶり復活へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597122?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T06:23:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ニデック極まる混乱 再生不透明",
+      "link": "https://news.yahoo.co.jp/pickup/6597129?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T07:43:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高性能AI普及へ 年内に行動計画",
+      "link": "https://news.yahoo.co.jp/pickup/6597128?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T07:33:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トヨタ 祝日勤務の業界慣行見直し",
+      "link": "https://news.yahoo.co.jp/pickup/6597133?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T08:21:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "C・ロナウド ポルトガル代表離脱",
+      "link": "https://news.yahoo.co.jp/pickup/6597132?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T07:54:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日・ブライト健太に戦力外通告",
+      "link": "https://news.yahoo.co.jp/pickup/6597131?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T07:51:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "農相 地元自治体の予算カット発言",
+      "link": "https://news.yahoo.co.jp/pickup/6597135?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T08:44:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "竜星涼「オフィスにの」所属発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597136?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T08:54:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相の所信表明演説 原案が判明",
+      "link": "https://news.yahoo.co.jp/pickup/6597134?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T08:38:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "テルアビブ便 乗客らが襲撃者制圧",
+      "link": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T09:33:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NTT東西 固定電話の通話料値上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6597140?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T09:53:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "飼い犬発見し車外へ はねられ重体",
+      "link": "https://news.yahoo.co.jp/pickup/6597137?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T09:31:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Wソックス連勝 地区シリーズ進出",
+      "link": "https://news.yahoo.co.jp/pickup/6597142?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T10:08:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "核ごみ調査受け入れ 人口減決め手",
+      "link": "https://news.yahoo.co.jp/pickup/6597143?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T10:35:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上宗隆が英語で絶叫 解説者爆笑",
+      "link": "https://news.yahoo.co.jp/pickup/6597148?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T11:26:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バレー元代表 大友愛さん離婚発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597144?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T10:34:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風27号が発生 来週にかけ北上か",
+      "link": "https://news.yahoo.co.jp/pickup/6597147?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T11:19:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米誌「次世代の100人」に八幡市長",
+      "link": "https://news.yahoo.co.jp/pickup/6597153?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T11:50:47+09:00"
+    }
+  ]
+}
