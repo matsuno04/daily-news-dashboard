@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>デイリーニュースダイジェスト</title>
+<title>Overlap</title>
 <link rel="stylesheet" href="style.css">
 
 <!-- PWA: ホーム画面追加・スタンドアロン表示・テーマカラー -->
@@ -15,16 +15,19 @@
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png?v=3">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="apple-mobile-web-app-title" content="ニュース">
+<meta name="apple-mobile-web-app-title" content="Overlap">
 </head>
 <body>
 <header class="app-header">
-  <h1>デイリーニュースダイジェスト</h1>
-  <p class="app-subtitle">NHK・Yahoo!ニュースを突き合わせた毎日のニュース要約</p>
-  <div class="date-picker">
-    <label for="date-select">日付</label>
-    <select id="date-select"></select>
+  <div class="app-topline">
+    <h1 class="app-name">Overlap</h1>
+    <span id="edition-label" class="edition-label"></span>
   </div>
+  <!-- 大きな日付をタップすると日付の選択が開く(透明の select を日付の上に重ねている) -->
+  <label class="date-picker" for="date-select">
+    <span id="date-big" class="date-big" aria-hidden="true">&nbsp;</span>
+    <select id="date-select" aria-label="日付を選ぶ"></select>
+  </label>
 </header>
 
 <nav class="tab-bar" role="tablist" aria-label="表示の切り替え">

@@ -1,6 +1,6 @@
 {
-  "name": "デイリーニュースダイジェスト",
-  "short_name": "ニュース",
+  "name": "Overlap",
+  "short_name": "Overlap",
   "description": "NHK・Yahoo!ニュースを突き合わせた毎日のニュース要約",
   "start_url": "./",
   "scope": "./",

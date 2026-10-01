@@ -5,8 +5,12 @@
   --text-primary: #0b0b0b;
   --text-secondary: #52514e;
   --text-muted: #898781;
-  --border: rgba(11, 11, 11, 0.10);
+  --border: rgba(11, 11, 11, 0.07);
   --gridline: #e1e0d9;
+  --hairline: rgba(11, 11, 11, 0.09);
+  --text-tertiary: #6b6a66;
+  --segment-bg: rgba(118, 118, 128, 0.12);
+  --segment-active: #ffffff;
 
   /* カテゴリ8色(datavizスキルの検証済み既定パレット、slot 1-8をそのまま使用) */
   --cat-1: #2a78d6; /* 政治 */
@@ -35,8 +39,12 @@
     --text-primary: #ffffff;
     --text-secondary: #c3c2b7;
     --text-muted: #898781;
-    --border: rgba(255, 255, 255, 0.10);
+    --border: rgba(255, 255, 255, 0.08);
     --gridline: #2c2c2a;
+    --hairline: rgba(255, 255, 255, 0.10);
+    --text-tertiary: #a9a89f;
+    --segment-bg: rgba(118, 118, 128, 0.24);
+    --segment-active: #3a3a3c;
 
     --cat-1: #3987e5;
     --cat-2: #d95926;
@@ -59,50 +67,81 @@
   box-sizing: border-box;
 }
 
+/* 日本語の見出しはプロポーショナルにして字間を詰める */
+.app-name,
+.date-big,
+.section-title,
+.headline,
+.brief-link {
+  font-feature-settings: "palt";
+}
+
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* iPhoneではヒラギノ(system-ui と同じ)。Windowsの system-ui(Yu Gothic UI)は palt で字が重なるため、
+     日本語フォントを明示する */
+  font-family: -apple-system, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", "YuGothic", Meiryo, system-ui, sans-serif;
   background: var(--page-bg);
   color: var(--text-primary);
   line-height: 1.6;
 }
 
 .app-header {
-  padding: 20px 16px 16px;
+  padding: 14px 16px 10px;
   max-width: 640px;
   margin: 0 auto;
 }
 
-.app-header h1 {
-  font-size: 1.4rem;
-  margin: 0 0 4px;
-}
-
-.app-subtitle {
-  margin: 0 0 12px;
-  color: var(--text-secondary);
-  font-size: 0.85rem;
-}
-
-.date-picker {
+.app-topline {
   display: flex;
   align-items: center;
-  gap: 8px;
+  justify-content: space-between;
 }
 
-.date-picker label {
-  font-size: 0.82rem;
-  color: var(--text-secondary);
+.app-name {
+  margin: 0;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.edition-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+/* 大きな日付の上に透明の select を重ね、タップで日付の選択が開くようにする */
+.date-picker {
+  position: relative;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-top: 2px;
+  cursor: pointer;
+}
+
+.date-big {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.01em;
+}
+
+.date-picker::after {
+  content: "▾";
+  font-size: 0.9rem;
+  color: var(--text-muted);
 }
 
 .date-picker select {
-  font: inherit;
-  font-size: 0.88rem;
-  color: var(--text-primary);
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 5px 8px;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  opacity: 0;
+  font-size: 16px; /* iOSで選択時に拡大されないように */
+  cursor: pointer;
 }
 
 #app {
@@ -116,10 +155,10 @@ body {
 }
 
 .section-title {
-  font-size: 1.05rem;
-  margin: 0 0 12px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid var(--gridline);
+  font-size: 0.95rem;
+  margin: 0 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 0.5px solid var(--hairline);
 }
 
 .card-list {
@@ -136,8 +175,9 @@ body {
   flex-direction: column;
 }
 
+/* 片方だけの記事の一覧: 細い区切り線だけ */
 .brief-item {
-  border-bottom: 1px solid var(--gridline);
+  border-bottom: 0.5px solid var(--hairline);
 }
 
 .brief-item:last-child {
@@ -159,8 +199,8 @@ body {
 
 .news-card {
   background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 10px;
+  border: 0.5px solid var(--border);
+  border-radius: 12px;
   padding: 14px 16px;
 }
 
@@ -169,33 +209,42 @@ body {
 }
 
 .category-badge {
-  display: inline-block;
-  font-size: 0.72rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
   font-weight: 600;
-  padding: 2px 9px;
-  border-radius: 999px;
-  color: #fff;
+  color: var(--text-secondary);
 }
 
-.cat-1 { background: var(--cat-1); }
-.cat-2 { background: var(--cat-2); }
-.cat-3 { background: var(--cat-3); }
-.cat-4 { background: var(--cat-4); }
-.cat-5 { background: var(--cat-5); }
-.cat-6 { background: var(--cat-6); }
-.cat-7 { background: var(--cat-7); }
-.cat-8 { background: var(--cat-8); }
+.category-badge::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--dot, var(--text-muted));
+}
+
+.cat-1 { --dot: var(--cat-1); }
+.cat-2 { --dot: var(--cat-2); }
+.cat-3 { --dot: var(--cat-3); }
+.cat-4 { --dot: var(--cat-4); }
+.cat-5 { --dot: var(--cat-5); }
+.cat-6 { --dot: var(--cat-6); }
+.cat-7 { --dot: var(--cat-7); }
+.cat-8 { --dot: var(--cat-8); }
 
 .headline {
-  font-size: 1.02rem;
+  font-size: 1.12rem;
+  font-weight: 700;
   margin: 0 0 6px;
-  line-height: 1.4;
+  line-height: 1.42;
 }
 
 .summary {
   margin: 0 0 10px;
-  color: var(--text-secondary);
-  font-size: 0.9rem;
+  color: var(--text-tertiary);
+  font-size: 0.88rem;
 }
 
 .source-links {
@@ -277,12 +326,25 @@ body {
   position: sticky;
   top: 0;
   z-index: 10;
-  display: flex;
   max-width: 640px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 6px 16px 8px;
   background: var(--page-bg);
-  border-bottom: 1px solid var(--gridline);
+}
+
+.tab-bar::before {
+  content: "";
+  position: absolute;
+  inset: 6px 16px 8px;
+  border-radius: 9px;
+  background: var(--segment-bg);
+  z-index: -1;
+}
+
+.tab-bar {
+  display: flex;
+  gap: 2px;
+  isolation: isolate;
 }
 
 .tab-btn {
@@ -291,34 +353,36 @@ body {
   align-items: center;
   justify-content: center;
   gap: 6px;
+  margin: 2px;
+  padding: 6px 4px;
   font: inherit;
-  font-size: 0.95rem;
+  font-size: 0.86rem;
   font-weight: 600;
-  color: var(--text-muted);
+  color: var(--text-primary);
   background: transparent;
   border: none;
-  border-bottom: 2.5px solid transparent;
-  padding: 11px 4px 9px;
+  border-radius: 7px;
   cursor: pointer;
 }
 
 .tab-btn.is-active {
-  color: var(--text-primary);
-  border-bottom-color: var(--accent);
+  background: var(--segment-active);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 0 0.5px rgba(0, 0, 0, 0.04);
 }
 
 .tab-badge {
-  min-width: 20px;
-  padding: 1px 6px;
+  min-width: 18px;
+  padding: 0 5px;
   border-radius: 999px;
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   font-weight: 700;
-  line-height: 1.5;
+  line-height: 1.6;
   color: var(--accent-text);
   background: var(--accent);
 }
 
-/* 日付の選択はデイリー専用 */
+/* 日付と版はデイリー専用 */
+body.tab-jpyc .edition-label,
 body.tab-jpyc .date-picker {
   display: none;
 }

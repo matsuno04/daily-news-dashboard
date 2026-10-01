@@ -51,6 +51,26 @@ function formatDateLabel(dateStr) {
   return `${y}年${m}月${d}日(${weekday})`;
 }
 
+// ヘッダーの大きな日付(例: "10.1 木")。表示だけの処理
+function formatDateBig(dateStr) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  const weekday = ["日", "月", "火", "水", "木", "金", "土"][new Date(Date.UTC(y, m - 1, d)).getUTCDay()];
+  return `${m}.${d} ${weekday}`;
+}
+
+// 版の表示(昼版・確定版)。要約を作った時刻が、その日の21:30(JST)より前なら昼版、以後なら確定版。
+// 読み込んだ summaries.json の summarized_at を見るだけの表示用の処理
+function editionLabel(dateStr, summariesData) {
+  const at = summariesData && Date.parse(summariesData.summarized_at);
+  if (!at) return "";
+  return at < Date.parse(`${dateStr}T21:30:00+09:00`) ? "昼版" : "確定版";
+}
+
+function updateHeader(dateStr, summariesData) {
+  document.getElementById("date-big").textContent = formatDateBig(dateStr);
+  document.getElementById("edition-label").textContent = editionLabel(dateStr, summariesData);
+}
+
 // 「詳しく見る」ボタンを、渡された行(actionsRow)の末尾に追加する。
 // NHK/Yahooリンクと同じ行に並べる(枠内に収まる想定 -> 収まらない端末はflex-wrapで折り返す)。
 // data属性はテンプレート文字列に埋め込まず、要素のプロパティとして直接設定する
@@ -155,6 +175,7 @@ async function loadDate(date) {
   const sections = [matchedListEl, nhkOnlyListEl, yahooOnlyListEl];
 
   setLoading(sections);
+  updateHeader(date, null);
 
   const isToday = date === todayInJst();
   let eventsData;
@@ -168,6 +189,8 @@ async function loadDate(date) {
     showError(sections, err.message);
     return;
   }
+
+  updateHeader(date, summariesData);
 
   const eventsById = Object.fromEntries(eventsData.events.map((e) => [e.event_id, e]));
   const matchedItems = summariesData.summaries
