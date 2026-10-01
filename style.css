@@ -1,16 +1,21 @@
 :root {
   color-scheme: light;
-  --page-bg: #f9f9f7;
-  --surface: #fcfcfb;
+  --page-bg: #f2f2f7;
+  --surface: #ffffff;
   --text-primary: #0b0b0b;
   --text-secondary: #52514e;
   --text-muted: #898781;
-  --border: rgba(11, 11, 11, 0.07);
+  --border: rgba(60, 60, 67, 0.18); /* タグ・チェックの丸などの細い線(カードの枠には使わない) */
   --gridline: #e1e0d9;
-  --hairline: rgba(11, 11, 11, 0.09);
+  --hairline: rgba(60, 60, 67, 0.16);
+  --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
   --text-tertiary: #6b6a66;
   --segment-bg: rgba(118, 118, 128, 0.12);
   --segment-active: #ffffff;
+
+  /* 「詳しく見る」はClaudeによる解説なので、Claudeの色(テラコッタ)にする。文字は読みやすいよう少し濃く */
+  --claude: #d98a4e;
+  --claude-text: #a8622b;
 
   /* カテゴリ8色(datavizスキルの検証済み既定パレット、slot 1-8をそのまま使用) */
   --cat-1: #2a78d6; /* 政治 */
@@ -34,17 +39,21 @@
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    --page-bg: #0d0d0d;
-    --surface: #1a1a19;
+    --page-bg: #000000;
+    --surface: #1c1c1e;
     --text-primary: #ffffff;
     --text-secondary: #c3c2b7;
     --text-muted: #898781;
-    --border: rgba(255, 255, 255, 0.08);
-    --gridline: #2c2c2a;
-    --hairline: rgba(255, 255, 255, 0.10);
+    --border: rgba(235, 235, 245, 0.18);
+    --gridline: #2c2c2e;
+    --hairline: rgba(235, 235, 245, 0.14);
+    --card-shadow: none;
     --text-tertiary: #a9a89f;
     --segment-bg: rgba(118, 118, 128, 0.24);
-    --segment-active: #3a3a3c;
+    --segment-active: #636366;
+
+    --claude: #e39a5f;
+    --claude-text: #eeab74;
 
     --cat-1: #3987e5;
     --cat-2: #d95926;
@@ -85,13 +94,11 @@ body {
   line-height: 1.6;
 }
 
-.app-header {
-  padding: 18px 16px 10px;
-  max-width: 640px;
-  margin: 0 auto;
+/* 主要のタブの一番上の日付(タップで日付の選択が開く) */
+.daily-header {
+  padding: 10px 0 0;
 }
 
-/* 大きな日付の上に透明の select を重ね、タップで日付の選択が開くようにする */
 .date-picker {
   position: relative;
   display: inline-flex;
@@ -178,7 +185,8 @@ body {
 
 .news-card {
   background: var(--surface);
-  border: 0.5px solid var(--border);
+  border: none;
+  box-shadow: var(--card-shadow);
   border-radius: 12px;
   padding: 14px 16px;
 }
@@ -258,9 +266,9 @@ body {
   font: inherit;
   font-size: 0.78rem;
   font-weight: 600;
-  color: var(--text-secondary);
+  color: var(--claude-text);
   background: transparent;
-  border: 1.5px dashed var(--border);
+  border: 1.5px solid var(--claude);
   border-radius: 6px;
   padding: 4px 10px;
   cursor: pointer;
@@ -305,25 +313,22 @@ body {
   position: sticky;
   top: 0;
   z-index: 10;
+  display: flex;
+  gap: 2px;
+  isolation: isolate;
   max-width: 640px;
   margin: 0 auto;
-  padding: 6px 16px 8px;
+  padding: calc(10px + env(safe-area-inset-top, 0px)) 16px 8px;
   background: var(--page-bg);
 }
 
 .tab-bar::before {
   content: "";
   position: absolute;
-  inset: 6px 16px 8px;
+  inset: calc(10px + env(safe-area-inset-top, 0px)) 16px 8px;
   border-radius: 9px;
   background: var(--segment-bg);
   z-index: -1;
-}
-
-.tab-bar {
-  display: flex;
-  gap: 2px;
-  isolation: isolate;
 }
 
 .tab-btn {
@@ -362,46 +367,24 @@ body {
   background: var(--accent);
 }
 
-/* 日付の選択は主要のタブ専用 */
-body.tab-jpyc .date-picker {
-  display: none;
+/* 更新に失敗した・止まっているときだけ一番上に出す警告 */
+.jpyc-alert {
+  margin: 12px 0 0;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--source-yahoo);
+  background: var(--surface);
 }
 
-/* JPYCのタブでは、同じ位置・同じ大きさで今日の日付だけを出す(タップしても何も起きない) */
-.date-static {
-  display: none;
-  margin-top: 2px;
-}
-
-body.tab-jpyc .date-static {
-  display: inline-flex;
-  align-items: baseline;
-  gap: 6px;
-}
-
-/* 主要のタブの「▾」と同じ幅・高さを見えない形で確保し、タブを切り替えてもタブの位置がずれないようにする */
-.date-static::after {
-  content: "▾";
-  font-size: 0.9rem;
-  visibility: hidden;
-}
-
-/* ------------------------------------------------------------------
-   JPYCタブ
-   ------------------------------------------------------------------ */
+/* 最終収集日時は一番下に小さく(研究用ダッシュボードへのリンクの上) */
 .jpyc-status {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px 12px;
-  margin: 14px 0 0;
-  font-size: 0.8rem;
+  margin: 0 0 6px;
+  font-size: 0.78rem;
   color: var(--text-muted);
 }
 
-.jpyc-status-warn {
-  color: var(--source-yahoo);
-  font-weight: 600;
-}
 
 .jpyc-section-count {
   margin-left: 8px;

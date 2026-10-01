@@ -275,19 +275,23 @@ async function fetchRunStatus(now) {
   return runs;
 }
 
+// 更新状況: 最終収集日時は一番下(研究用ダッシュボードへのリンクの上)に小さく出し、
+// 更新の失敗・停止の警告があるときだけ一番上に出す
 async function renderJpycStatus() {
   const el = document.getElementById("jpyc-status");
+  const alert = document.getElementById("jpyc-alert");
   const now = Date.now();
   try {
     const s = JpycLogic.summarizeRuns(await fetchRunStatus(now), now, JpycLogic.dataLastCollectedAt(jpycState.events));
-    const parts = [
-      `<span>JPYCの最終収集: ${s.lastSuccessAt ? formatJstShort(s.lastSuccessAt) : "不明"}</span>`,
-    ];
-    if (s.lastFailed) parts.push(`<span class="jpyc-status-warn">⚠ 前回の更新に失敗しました</span>`);
-    if (s.stale) parts.push(`<span class="jpyc-status-warn">⚠ 更新が止まっている可能性があります</span>`);
-    el.innerHTML = parts.join("");
+    el.textContent = `JPYCの最終収集: ${s.lastSuccessAt ? formatJstShort(s.lastSuccessAt) : "不明"}`;
+    const warnings = [];
+    if (s.lastFailed) warnings.push("⚠ 前回の更新に失敗しました");
+    if (s.stale) warnings.push("⚠ 更新が止まっている可能性があります");
+    alert.textContent = warnings.join(" ");
+    alert.hidden = warnings.length === 0;
   } catch {
-    el.innerHTML = `<span>JPYCの更新状況を取得できませんでした</span>`;
+    el.textContent = "JPYCの更新状況を取得できませんでした";
+    alert.hidden = true;
   }
 }
 
@@ -485,13 +489,6 @@ async function loadJpycData() {
   }
 }
 
-// JPYCのタブのヘッダーに出す今日の日付(例: "10.2 金")。主要のタブと見た目をそろえるための表示だけ
-function renderTodayDate() {
-  const p = new Intl.DateTimeFormat("ja-JP", { timeZone: "Asia/Tokyo", month: "numeric", day: "numeric", weekday: "short" }).formatToParts(new Date());
-  const get = (t) => p.find((x) => x.type === t).value;
-  document.getElementById("date-today").textContent = `${get("month")}.${get("day")} ${get("weekday")}`;
-}
-
 function switchTab(tab) {
   jpycState.activeTab = tab;
   document.body.classList.toggle("tab-jpyc", tab === "jpyc");
@@ -503,7 +500,6 @@ function switchTab(tab) {
     btn.setAttribute("aria-selected", String(active));
   }
   if (tab === "jpyc") {
-    renderTodayDate();
     renderJpycView(); // タブを開いただけでは既読にしない
     renderJpycStatus();
   } else {

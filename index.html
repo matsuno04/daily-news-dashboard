@@ -18,16 +18,6 @@
 <meta name="apple-mobile-web-app-title" content="Overlap">
 </head>
 <body>
-<header class="app-header">
-  <!-- 大きな日付をタップすると日付の選択が開く(透明の select を日付の上に重ねている) -->
-  <label class="date-picker" for="date-select">
-    <span id="date-big" class="date-big" aria-hidden="true">&nbsp;</span>
-    <select id="date-select" aria-label="日付を選ぶ"></select>
-  </label>
-  <!-- JPYCのタブ用: 主要のタブと見た目をそろえるための今日の日付(表示だけで、選択はできない) -->
-  <div class="date-static"><span id="date-today" class="date-big">&nbsp;</span></div>
-</header>
-
 <nav class="tab-bar" role="tablist" aria-label="表示の切り替え">
   <button type="button" class="tab-btn is-active" role="tab" aria-selected="true" data-tab="daily">主要</button>
   <button type="button" class="tab-btn" role="tab" aria-selected="false" data-tab="jpyc">JPYC<span id="jpyc-badge" class="tab-badge" hidden></span></button>
@@ -35,6 +25,13 @@
 
 <main id="app">
 <div id="daily-view">
+  <!-- 大きな日付をタップすると日付の選択が開く(透明の select を日付の上に重ねている)。主要のタブの中身の一部 -->
+  <div class="daily-header">
+    <label class="date-picker" for="date-select">
+      <span id="date-big" class="date-big" aria-hidden="true">&nbsp;</span>
+      <select id="date-select" aria-label="日付を選ぶ"></select>
+    </label>
+  </div>
   <section id="matched-section" class="section">
     <div id="matched-list" class="card-list">
       <p class="loading">読み込み中…</p>
@@ -58,9 +55,13 @@
 
 <!-- JPYCタブ: jpyc-news-v2(卒業論文の研究データ)の recent_events.json を読み込むだけ。jpyc.js 参照 -->
 <div id="jpyc-view" hidden>
-  <p id="jpyc-status" class="jpyc-status"><span>JPYCの更新状況を確認中…</span></p>
+  <!-- 更新に失敗した・止まっているときだけ一番上に出す警告 -->
+  <p id="jpyc-alert" class="jpyc-alert" hidden></p>
   <div id="jpyc-content"><p class="loading">読み込み中…</p></div>
-  <p class="jpyc-footer"><a id="jpyc-research-link" href="#" target="_blank" rel="noopener">研究用の集計ダッシュボードを開く →</a></p>
+  <div class="jpyc-footer">
+    <p id="jpyc-status" class="jpyc-status">JPYCの更新状況を確認中…</p>
+    <a id="jpyc-research-link" href="#" target="_blank" rel="noopener">研究用の集計ダッシュボードを開く →</a>
+  </div>
   <div id="jpyc-toast" class="jpyc-toast" role="status" aria-live="polite" hidden></div>
 </div>
 </main>
