@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "matched_at": "2026-10-01T12:32:15.516362+09:00",
+  "matched_at": "2026-10-01T21:46:07.548979+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -130,17 +130,97 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "東京湾アクアラインで車4台事故 1人死亡1人重体",
+          "title": "東京湾アクアライン 車4台が関係する事故 2人死亡3人けが",
           "link": "https://news.web.nhk/newsweb/na/nd-20261001de53536",
-          "description": "1日朝、川崎市の東京湾アクアラインでトラックなど車4台が関係する事故があり、1人が死亡、1人が意識不明の重体となっています。 ほかにもけがをした人がいるということで、警察が事故の詳しい状況を調べていま…",
-          "pub_date": "2026-10-01T12:15:59+09:00"
+          "description": "1日朝、川崎市の東京湾アクアラインでトラックなど4台が関係する事故があり、2人が死亡し3人が病院に運ばれました。 警察は大型トレーラーが渋滞の列に突っ込んだとみて調べています。",
+          "pub_date": "2026-10-01T15:32:27+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "アクアラインで4台事故 1人死亡",
-          "link": "https://news.yahoo.co.jp/pickup/6597152?source=rss",
+          "title": "アクアラインで多重事故 2人死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6597171?source=rss",
           "description": "",
-          "pub_date": "2026-10-01T11:45:16+09:00"
+          "pub_date": "2026-10-01T15:22:08+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "広島 4選手と来季契約結ばず 球団「信頼関係築くのが難しい」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53613",
+          "description": "プロ野球、広島は主力の小園海斗選手や矢野雅哉選手など4人について、指定薬物をめぐる問題への内部調査の結果、信頼関係を築くのが難しいとして来シーズンの契約を結ばないと発表しました。 球団は、薬物を使用…",
+          "pub_date": "2026-10-01T18:23:12+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "広島 小園・矢野ら4選手を戦力外",
+          "link": "https://news.yahoo.co.jp/pickup/6597166?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T14:04:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ニデック 戒田理夫新社長が会見「品質第一にした会社に戻す」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53606",
+          "description": "不正会計や品質をめぐる不適切行為が相次いで判明している電子部品大手の「ニデック」は、1日、戒田理夫新社長が会見し、一連の問題を陳謝した上で「会社を立て直し、ふたたび信頼してもらえる状態にする」と述べま…",
+          "pub_date": "2026-10-01T19:35:33+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中継 ニデック新社長らが記者会見",
+          "link": "https://news.yahoo.co.jp/pickup/6597174?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T16:00:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "神戸 横断歩道に車突っ込み歩行者4人けが 20代女性意識なし",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53642",
+          "description": "1日午後、神戸市中央区で乗用車が横断歩道に突っ込んで、歩いていた4人がけがをし、消防によりますと、このうち20代の女性が意識がない状態だということです。 乗用車のドライバーもけがをして病院に搬送され…",
+          "pub_date": "2026-10-01T20:18:51+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "横断歩道で事故 1人死亡4人けが",
+          "link": "https://news.yahoo.co.jp/pickup/6597203?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T19:33:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "青森みちのく銀行 岩手銀行 秋田銀行が経営統合協議へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53731",
+          "description": "東北3県でそれぞれ最大の地方銀行の青森みちのく銀行、岩手銀行、それに秋田銀行の3行が、経営統合に向けた協議を進めることが関係者への取材で分かりました。 地方銀行をめぐっては、日銀による利上げや人口減…",
+          "pub_date": "2026-10-01T20:48:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "青森秋田岩手の3銀行 統合協議へ",
+          "link": "https://news.yahoo.co.jp/pickup/6597211?source=rss",
+          "description": "",
+          "pub_date": "2026-10-01T20:54:52+09:00"
         }
       }
     }
@@ -190,10 +270,10 @@
     },
     {
       "source": "NHK",
-      "title": "台風27号が発生 日本のはるか南を北上見込み 最新の情報を確認",
+      "title": "台風27号 勢力を強めながら日曜日ごろ小笠原近海へ進む見込み",
       "link": "https://news.web.nhk/newsweb/na/nd-20261001de53515",
-      "description": "台風26号はしだいに伊豆諸島や関東から遠ざかり各地で気温が上がっていますが、これまでの長雨で地盤の緩んでいるところもあり、危険な場所には近づかないようにしてください。 一方、1日午前には日本のはるか南…",
-      "pub_date": "2026-10-01T12:02:00+09:00"
+      "description": "台風26号は伊豆諸島や関東から離れ、1日は広い範囲で晴れて、関東甲信から沖縄で真夏日になったところもありました。 一方、日本のはるか南で発生した台風27号は日曜にも小笠原近海へ進む見込みで、今後の情報…",
+      "pub_date": "2026-10-01T18:50:46+09:00"
     },
     {
       "source": "NHK",
@@ -243,6 +323,55 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261001de53565",
       "description": "ドイツの自動車大手BMWは、経営合理化のため管理職をおよそ20％削減する方針を示しました。ドイツの自動車メーカーの間では中国市場での競争激化などで販売台数が減少していて、人員削減の動きが相次いでいます…",
       "pub_date": "2026-10-01T11:49:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ソフトバンク子会社の元常務を逮捕 1億7000万円着服か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53598",
+      "description": "ソフトバンクの子会社の元常務が、会社から金を借りたように装い、1億7000万円を着服したとして業務上横領の疑いで逮捕されました。 警視庁は同じ手口で着服を繰り返し、被害額はあわせて4億6000万円に上…",
+      "pub_date": "2026-10-01T13:11:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イスラエル行き旅客機 緊急着陸 副操縦士が機長を刺したか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53581",
+      "description": "イスラエル行きの旅客機がサウジアラビアに緊急着陸した問題でイスラエルメディアは副操縦士が機長を刺して旅客機の墜落を企てたと伝えています。 副操縦士はオマーン国籍とされ動機の解明が焦点です。",
+      "pub_date": "2026-10-01T17:54:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "臨時国会 消費税減税法案など21の法案提出予定 政府",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53589",
+      "description": "来週5日に召集される臨時国会で、政府は、食料品の消費税減税に関する法案や重要施設周辺の土地取得に許可制を導入する法案など、あわせて21の法案を提出する予定です。",
+      "pub_date": "2026-10-01T13:14:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "企業や官庁で内定式 “望まない転勤廃止”で人材確保の動きも",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53615",
+      "description": "1日は多くの企業で来年春に入社する大学生などの内定式が開かれました。 売り手市場が続く中、企業の間では望まない転勤を廃止するなど、人事制度を見直して優秀な人材を確保しようという動きも見られます。",
+      "pub_date": "2026-10-01T17:13:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "人気ユーチューバー逮捕　女性の下半身触った疑い",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53656",
+      "description": "チャンネル登録者数が1800万人を超える36歳のユーチューバーが1日、東京 六本木のクラブで女性の下半身を触ったとして、都の迷惑防止条例違反の疑いで逮捕されました。",
+      "pub_date": "2026-10-01T17:18:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新種カイミジンコに「ヒゲじい」の名 NHK“ダーウィン”で発見",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53648",
+      "description": "NHKの自然番組の撮影の際に見つかったカイミジンコと呼ばれるごく小さな甲殻類の仲間が新種と確認され、調査を行った研究者が番組のキャラクター「ヒゲじい」にちなんだ名前をつけたと発表しました。",
+      "pub_date": "2026-10-01T18:43:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "出産無償化へ 厚労省検討会初会合 ことし12月めどにとりまとめ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53728",
+      "description": "出産の無償化に向けて、厚生労働省は、基本的な費用を全額、公的医療保険で賄うための制度設計を議論する検討会の初会合を開きました。 対象となる施設の基準などについて議論を進め、ことし12月をめどにとりま…",
+      "pub_date": "2026-10-01T20:56:58+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -414,10 +543,213 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "アクアラインで4台事故 1人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6597152?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T11:45:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "米誌「次世代の100人」に八幡市長",
       "link": "https://news.yahoo.co.jp/pickup/6597153?source=rss",
       "description": "",
       "pub_date": "2026-10-01T11:50:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "猪俣氏が脱退 timelesz7人で継続",
+      "link": "https://news.yahoo.co.jp/pickup/6597149?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T11:33:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自民生稲・朝日氏 公選法違反疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6597159?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T12:45:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国防長官 米軍将官20%削減と発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597146?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T11:14:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "病院でチューブ誤挿入 意識不明",
+      "link": "https://news.yahoo.co.jp/pickup/6597160?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T13:00:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伊東四朗 来年6月で芸能活動引退",
+      "link": "https://news.yahoo.co.jp/pickup/6597162?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T13:23:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "京都・二条城 二重価格を導入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597164?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T13:54:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "少女にわいせつ動画指示疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597156?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T12:19:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "野上さん急逝受け オリ自主練習に",
+      "link": "https://news.yahoo.co.jp/pickup/6597163?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T13:45:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "食料品の消費減税法案 概要判明",
+      "link": "https://news.yahoo.co.jp/pickup/6597165?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T14:20:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日経平均 一時2100円超値上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6597168?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T14:57:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ヴァンビ」 白井容疑者を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597167?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T14:39:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西野カナが独立 自身で会社を設立",
+      "link": "https://news.yahoo.co.jp/pickup/6597170?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T15:42:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西野カナ 18年間所属の事務所退所",
+      "link": "https://news.yahoo.co.jp/pickup/6597180?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T16:34:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "交差点で事故 歩行者5人が重軽傷",
+      "link": "https://news.yahoo.co.jp/pickup/6597181?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T16:58:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小園海斗が謝罪 広島から戦力外",
+      "link": "https://news.yahoo.co.jp/pickup/6597182?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T16:58:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "timelesz メンバーが涙の謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6597177?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T16:36:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フラット35 金利3.830%で過去最高",
+      "link": "https://news.yahoo.co.jp/pickup/6597190?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T17:50:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "9月降水量 東日本で統計史上最多",
+      "link": "https://news.yahoo.co.jp/pickup/6597188?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T17:45:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マック一部バーガー 北海道で休止",
+      "link": "https://news.yahoo.co.jp/pickup/6597187?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T17:30:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "錦織圭が敗退 涙でプロ人生に幕",
+      "link": "https://news.yahoo.co.jp/pickup/6597191?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T17:53:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ニデック 上場維持できるかが焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6597183?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T18:44:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横断歩道で事故 1人は心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6597201?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T19:17:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報 森保ジャパンvs.エクアドル",
+      "link": "https://news.yahoo.co.jp/pickup/6597179?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T19:07:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "菊池風磨 契約解除の猪俣氏に憤り",
+      "link": "https://news.yahoo.co.jp/pickup/6597198?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T19:16:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "こめお「割烹こめを」閉店を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597202?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T19:28:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "無許可でモスク建設 市が撤去命令",
+      "link": "https://news.yahoo.co.jp/pickup/6597207?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T20:37:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "滋賀の工場で爆発 男性の遺体発見",
+      "link": "https://news.yahoo.co.jp/pickup/6597208?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T20:31:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保J エクアドルにPK戦の末勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6597213?source=rss",
+      "description": "",
+      "pub_date": "2026-10-01T21:27:39+09:00"
     }
   ]
 }
