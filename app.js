@@ -10,7 +10,8 @@ const CATEGORY_ORDER = ["政治", "経済", "社会", "国際", "災害", "ス�
 const EXPLAIN_WORKER_URL = "https://daily-news-explain.matsuno04.workers.dev";
 
 async function fetchJSON(path, { noStore = false } = {}) {
-  // 日付別データ(events/summaries)は一度公開されたら中身が変わらないので通常キャッシュ。
+  // 日付別データ(events/summaries)は確定版(21:45)の公開後は中身が変わらないので通常キャッシュ。
+  // ただし当日分は11:45の昼版から21:45の確定版に更新されるため、呼び出し側でnoStoreにする。
   // index.json だけは「どの日付が公開済みか」を示す小さなポインタで毎日追記されるため、
   // noStore: true でキャッシュを回避し、新しい日付の追加を即座に反映させる。
   const res = await fetch(path, noStore ? { cache: "no-store" } : undefined);
@@ -155,12 +156,13 @@ async function loadDate(date) {
 
   setLoading(sections);
 
+  const isToday = date === todayInJst();
   let eventsData;
   let summariesData;
   try {
     [eventsData, summariesData] = await Promise.all([
-      fetchJSON(`data/${date}.events.json`),
-      fetchJSON(`data/${date}.summaries.json`),
+      fetchJSON(`data/${date}.events.json`, { noStore: isToday }),
+      fetchJSON(`data/${date}.summaries.json`, { noStore: isToday }),
     ]);
   } catch (err) {
     showError(sections, err.message);
