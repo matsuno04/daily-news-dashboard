@@ -2,13 +2,13 @@
 
 毎日のニュースダッシュボード(GitHub Pages、PWA)。公開URL: https://matsuno04.github.io/daily-news-dashboard/
 
-- **デイリー**: NHK・Yahoo!ニュースを突き合わせた毎日のニュース。データは daily-news-digest から `data/` に自動で同期される
+- **主要**: NHK・Yahoo!ニュースを突き合わせた毎日のニュース。データは daily-news-digest から `data/` に自動で同期される
 - **JPYC**: 日本円ステーブルコインJPYCの新しい出来事。別リポジトリ matsuno04/jpyc-news-v2(卒業論文の研究データ)の `data/recent_events.json` を読み込むだけで、あちらには何も書き込まない
 
 | ファイル | 内容 |
 |---|---|
 | `index.html` / `style.css` / `manifest.json` / `icons/` | 画面の骨組み・見た目・PWAの設定 |
-| `app.js` | デイリーのタブ |
+| `app.js` | 主要のタブ(同じジャンルが続くように並べる) |
 | `jpyc.js` | JPYCのタブ(既読の記録は出来事ごとに localStorage へ保存) |
 | `tests.html` | JPYCタブの判定のテスト。`python -m http.server 8765` で起動し、http://localhost:8765/tests.html を開くと実行される |
 | `worker/` | 「詳しく見る」の解説 Worker(Cloudflare) |
@@ -26,6 +26,7 @@ JPYCタブの既読の変更(出来事ごとのチェック式)までを含ん�
 - `c383f89` アプリ名を Overlap にし、ヘッダー・タブ・カードの見た目を変更
 - `73b30a0` ヘッダーを日付だけにし、タブ名を「主要」に、タブと要約の見やすさを調整
 - `4bdc937` JPYCのタブにも今日の日付を表示し、要約の文字を大きく
+- `40a4f03` 配色を変え、タブを一番上に、「詳しく見る」をClaude色に(JPYCの日付表示はなくなった)
 
 ### 方法1: デザイン変更のコミットを打ち消す(勧める)
 
@@ -33,7 +34,7 @@ JPYCタブの既読の変更(出来事ごとのチェック式)までを含ん�
 
 ```bash
 git log --oneline --grep "デザイン変更:"   # 打ち消すコミットを確かめる
-git revert 4bdc937 73b30a0 c383f89         # 新しいほうから順に打ち消す
+git revert 40a4f03 4bdc937 73b30a0 c383f89 # 新しいほうから順に打ち消す
 git push                                  # 数分で公開される
 ```
 
