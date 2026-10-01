@@ -26,6 +26,12 @@ function categoryClass(category) {
   return `cat-${idx >= 0 ? idx + 1 : 8}`;
 }
 
+// 一覧にないジャンルは「その他」と同じ位置(最後)に置く
+function categoryRank(category) {
+  const idx = CATEGORY_ORDER.indexOf(category);
+  return idx >= 0 ? idx : CATEGORY_ORDER.length - 1;
+}
+
 function escapeHtml(str) {
   const div = document.createElement("div");
   div.textContent = str ?? "";
@@ -184,7 +190,10 @@ async function loadDate(date) {
   const eventsById = Object.fromEntries(eventsData.events.map((e) => [e.event_id, e]));
   const matchedItems = summariesData.summaries
     .map((summary) => ({ summary, event: eventsById[summary.event_id] }))
-    .filter(({ event }) => event);
+    .filter(({ event }) => event)
+    // 同じジャンルが続くように CATEGORY_ORDER 順に並べる(同じジャンル内は元の順のまま)
+    .map((item, i) => ({ ...item, rank: categoryRank(item.summary.category), i }))
+    .sort((a, b) => a.rank - b.rank || a.i - b.i);
 
   renderList(
     matchedListEl,
