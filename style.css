@@ -349,8 +349,14 @@ body.tab-jpyc .date-picker {
 
 .jpyc-card-header {
   display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.jpyc-tags {
+  display: flex;
   flex-wrap: wrap;
-  align-items: center;
   gap: 6px;
 }
 
@@ -365,12 +371,143 @@ body.tab-jpyc .date-picker {
   border: 1px solid var(--border);
 }
 
-.jpyc-unread-dot {
-  width: 9px;
-  height: 9px;
-  border-radius: 50%;
-  background: var(--accent);
+/* 既読にするチェック。押しやすいよう44px四方を確保する */
+.jpyc-check {
   flex: none;
+  width: 44px;
+  height: 44px;
+  margin: -10px -10px 0 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font: inherit;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  isolation: isolate; /* 丸を✓の後ろ・カードの前に描くため */
+}
+
+.jpyc-check::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 1.5px solid var(--border);
+}
+
+.jpyc-check:active::before {
+  background: var(--gridline);
+}
+
+.jpyc-check.is-checked {
+  color: var(--accent-text);
+}
+
+.jpyc-check.is-checked::before {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.jpyc-check-small {
+  margin: 0;
+}
+
+.jpyc-section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.jpyc-text-btn {
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  background: transparent;
+  border: none;
+  padding: 6px 0 6px 8px;
+  cursor: pointer;
+}
+
+.jpyc-followup-row,
+.jpyc-read-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.jpyc-followup-row > details,
+.jpyc-read-link {
+  flex: 1;
+  min-width: 0;
+}
+
+.jpyc-read-section > summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.jpyc-read-section > summary::-webkit-details-marker {
+  display: none;
+}
+
+.jpyc-read-section > summary::before {
+  content: "▸ ";
+  color: var(--text-muted);
+}
+
+.jpyc-read-section[open] > summary::before {
+  content: "▾ ";
+}
+
+.jpyc-read-link {
+  color: var(--text-secondary);
+}
+
+.jpyc-empty {
+  margin-top: 24px;
+}
+
+/* 「元に戻す」の表示。画面下に数秒だけ出す */
+.jpyc-toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  transform: translateX(-50%);
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  max-width: calc(100% - 32px);
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-size: 0.88rem;
+  color: var(--page-bg);
+  background: var(--text-primary);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+}
+
+/* display:flex が hidden 属性より優先されて空の帯が出るのを防ぐ */
+.jpyc-toast[hidden] {
+  display: none;
+}
+
+.jpyc-undo-btn {
+  font: inherit;
+  font-weight: 700;
+  color: var(--accent-text);
+  background: var(--accent);
+  border: none;
+  border-radius: 6px;
+  padding: 5px 10px;
+  cursor: pointer;
 }
 
 .jpyc-headline-link {

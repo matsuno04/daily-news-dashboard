@@ -4,7 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>JPYCタブのテスト</title>
+<link rel="stylesheet" href="style.css">
 <style>
+  body { background: #fff; color: #000; }
   body { font-family: system-ui, sans-serif; margin: 16px; line-height: 1.5; }
   .pass { color: #1a7f37; } .fail { color: #cf222e; font-weight: 700; }
   #summary { font-size: 1.1rem; font-weight: 700; margin-bottom: 12px; }
@@ -12,11 +14,12 @@
 </style>
 </head>
 <body>
-<!-- JPYCタブの判定ロジック(jpyc.js の JpycLogic と描画関数)のテスト。
-     ローカルで python -m http.server を起動し、/tests.html を開くと実行される。本番の表示には使わない -->
+<!-- JPYCタブの既読の判定(jpyc.js の JpycLogic と描画・操作)のテスト。
+     ローカルで python -m http.server を起動し、/tests.html を開くと実行される。本番の表示には使わない。
+     テスト中は保存先をメモリ上の偽物に差し替えるので、このブラウザの本当の既読の記録には触れない -->
 <div id="summary">実行中…</div>
 <ol id="results"></ol>
-<div id="jpyc-content" hidden></div>
+<div hidden><span id="jpyc-badge" hidden></span><div id="jpyc-content"></div><div id="jpyc-toast" class="jpyc-toast" hidden></div></div>
 <script src="jpyc.js"></script>
 <script>
 const NOW = Date.parse("2026-10-02T22:00:00+09:00");
@@ -39,146 +42,203 @@ function jst(ms) {
 function ev(id, firstMs, articleMs = [firstMs], opts = {}) {
   const articles = articleMs.map((t, i) => ({
     title: `${id} 記事${i + 1}`, domain: (opts.domains || [])[i] || `site${i}.example`,
-    url: `https://site${i}.example/${id}`, published_at: jst(t), collected_at: jst(t),
+    url: `https://site${i}.example/${id}/${i}`, published_at: jst(t), collected_at: jst(t),
   }));
   return {
     event_id: id, first_collected_at: jst(firstMs), last_collected_at: jst(Math.max(...articleMs)),
     article_count: articles.length, tags: opts.tags || ["活用事例"], tags_mode: (opts.tags || ["活用事例"])[0],
     representative: { title: opts.title || `${id} の見出し`, domain: articles[0].domain, url: articles[0].url,
-                      published_at: jst(firstMs), summary: `${id} の要約` },
+                      published_at: opts.published || jst(firstMs), summary: `${id} の要約` },
     articles,
   };
 }
 function memStorage(init = {}) {
   const m = new Map(Object.entries(init));
-  return { getItem: (k) => (m.has(k) ? m.get(k) : null), setItem: (k, v) => m.set(k, String(v)) };
+  return { getItem: (k) => (m.has(k) ? m.get(k) : null), setItem: (k, v) => m.set(k, String(v)), removeItem: (k) => m.delete(k), _m: m };
 }
-const throwingStorage = { getItem() { throw new Error("SecurityError"); }, setItem() { throw new Error("QuotaExceeded"); } };
+const throwingStorage = { getItem() { throw new Error("SecurityError"); }, setItem() { throw new Error("QuotaExceeded"); }, removeItem() { throw new Error("SecurityError"); } };
 const L = JpycLogic;
+const ids = (list) => list.map((e) => e.event_id);
 
 // --- 日時の解釈 ---
 eq("日本時間の文字列を正しく解釈する", L.parseJst("2026-10-02 09:00:00"), Date.UTC(2026, 9, 2, 0, 0, 0));
 eq("空・不正な日時は null", [L.parseJst(""), L.parseJst(null), L.parseJst("abc")], [null, null, null]);
 
-// --- 初回(保存された日時なし) ---
+// --- 初回(以前の仕組みからの切り替えを含む) ---
 {
   const events = [ev("A", NOW - 1 * D), ev("B", NOW - 2 * D), ev("C", NOW - 4 * D), ev("D", NOW - 10 * D)];
-  const st = memStorage();
-  const base = L.baseline(L.readLastOpened(st), NOW);
-  eq("初回: 直近3日分が未読(2件)", L.unreadCount(events, base), 2);
-  eq("初回: バッジは「2」", L.badgeLabel(L.unreadCount(events, base)), "2");
-  const shown = L.openTab(st, NOW);
-  eq("初回: 表示の基準は3日前", shown, NOW - 3 * D);
-  eq("初回: 開いたら既読の日時が今になる", L.readLastOpened(st), NOW);
-  eq("初回: 開いた後のバッジは消える", L.badgeLabel(L.unreadCount(events, L.baseline(L.readLastOpened(st), NOW))), "");
-  eq("初回: カードは直近7日分(3日より長い)", L.cardEvents(events, shown, NOW).map((e) => e.event_id), ["A", "B", "C"]);
+  const st = memStorage({ "jpyc.lastOpenedAt": String(NOW - 20 * D) }); // 以前の仕組みの値が残っている
+  const loaded = L.loadReadState(st);
+  eq("切り替え: 新しい記録が無ければ初回扱い", loaded, null);
+  const s = L.ensureInitialized(loaded, events, NOW);
+  eq("初回: 直近3日に初めて収集された出来事だけが未読", ids(L.unreadEvents(s, events)), ["A", "B"]);
+  eq("初回: バッジは「2」", L.badgeLabel(L.unreadEvents(s, events).length), "2");
+  eq("初回: それより前の出来事は自動で既読", [s.events.C && s.events.C.auto, s.events.D && s.events.D.auto], [true, true]);
+  eq("初回: 自動の既読は「既読(直近7日)」に出さない", ids(L.recentlyRead(s, events, NOW)), []);
+  check("切り替え: 保存すると以前の仕組みの値を消す", L.saveReadState(st, s) && st.getItem("jpyc.lastOpenedAt") === null);
+  eq("保存した記録を読み直すと同じ内容", L.loadReadState(st), s);
+  eq("既に記録があれば初期化し直さない", L.ensureInitialized(s, [...events, ev("Z", NOW - 9 * D)], NOW + D), s);
 }
 
-// --- 未読あり ---
+// --- チェックで既読・元に戻す・すべて既読・未読に戻す ---
 {
-  const st = memStorage({ "jpyc.lastOpenedAt": String(NOW - 1 * D) });
-  const events = [ev("NEW", NOW - 12 * H), ev("OLD", NOW - 2 * D)];
-  const shown = L.openTab(st, NOW);
-  eq("未読あり: 前回より後の初出だけが新着", events.filter((e) => L.isNewEvent(e, shown)).map((e) => e.event_id), ["NEW"]);
-  eq("未読あり: カードは新しい順で、既読の出来事も7日以内なら並ぶ", L.cardEvents(events, shown, NOW).map((e) => e.event_id), ["NEW", "OLD"]);
-  eq("未読あり: 続報はなし", L.followUps(events, shown).length, 0);
+  const events = [ev("A", NOW - 1 * H), ev("B", NOW - 2 * H), ev("C", NOW - 3 * H)];
+  const s0 = L.ensureInitialized(null, events, NOW);
+  const s1 = L.markRead(s0, [events[0]], NOW);
+  eq("チェックした出来事だけが既読になる", ids(L.unreadEvents(s1, events)), ["B", "C"]);
+  eq("バッジの数が減る(3→2)", [L.unreadEvents(s0, events).length, L.unreadEvents(s1, events).length], [3, 2]);
+  eq("既読の記録には、その時点の last_collected_at を残す", s1.events.A.lastCollectedAt, events[0].last_collected_at);
+  eq("元に戻す: 前の状態は書き換わっていない", ids(L.unreadEvents(s0, events)), ["A", "B", "C"]);
+  eq("既読(直近7日)に出る", ids(L.recentlyRead(s1, events, NOW)), ["A"]);
+  const s2 = L.markRead(s1, L.unreadEvents(s1, events), NOW + 1000);
+  eq("すべて既読にすると未読0件", L.unreadEvents(s2, events).length, 0);
+  eq("既読(直近7日)は最近既読にした順", ids(L.recentlyRead(s2, events, NOW + 2000)).slice(-1), ["A"]);
+  const s3 = L.markUnread(s2, events[1]);
+  eq("チェックを外すと未読に戻る", ids(L.unreadEvents(s3, events)), ["B"]);
+  check("未読に戻した出来事は既読の一覧から消える", !ids(L.recentlyRead(s3, events, NOW)).includes("B"));
 }
 
-// --- 続報のみ ---
-{
-  const lastOpened = NOW - 1 * D;
-  const events = [ev("CONT", NOW - 3 * D, [NOW - 3 * D, NOW - 2 * H, NOW - 1 * H]), ev("QUIET", NOW - 5 * D)];
-  eq("続報のみ: バッジには数えない(0件)", L.badgeLabel(L.unreadCount(events, lastOpened)), "");
-  const f = L.followUps(events, lastOpened);
-  eq("続報のみ: 続報は1件、追加された記事は2件", [f.length, f[0] && f[0].added.length], [1, 2]);
-  eq("続報のみ: 続報の出来事はカードにしない", L.cardEvents(events, lastOpened, NOW).map((e) => e.event_id), ["QUIET"]);
-}
-
-// --- 10件以上 ---
+// --- バッジ(10件以上) ---
 {
   const mk = (n) => Array.from({ length: n }, (_, i) => ev(`E${i}`, NOW - (i + 1) * H));
-  const base = NOW - 1 * D;
-  eq("9件はそのまま「9」", L.badgeLabel(L.unreadCount(mk(9), base)), "9");
-  eq("10件は「9+」", L.badgeLabel(L.unreadCount(mk(10), base)), "9+");
-  eq("12件も「9+」", L.badgeLabel(L.unreadCount(mk(12), base)), "9+");
+  const lbl = (n) => { const e = mk(n); return L.badgeLabel(L.unreadEvents(L.ensureInitialized(null, e, NOW), e).length); };
+  eq("9件はそのまま「9」", lbl(9), "9");
+  eq("10件は「9+」", lbl(10), "9+");
+  eq("12件も「9+」", lbl(12), "9+");
   eq("0件はバッジなし", L.badgeLabel(0), "");
+}
+
+// --- 続報 ---
+{
+  const before = ev("A", NOW - 2 * D, [NOW - 2 * D]);
+  const s = L.markRead(L.ensureInitialized(null, [before], NOW), [before], NOW - 1 * D);
+  const after = ev("A", NOW - 2 * D, [NOW - 2 * D, NOW - 3 * H, NOW - 1 * H]);
+  const f = L.followUps(s, [after]);
+  eq("既読にした後に追加された記事が続報になる(2件)", [f.length, f[0] && f[0].added.length], [1, 2]);
+  eq("続報はバッジに数えない", L.unreadEvents(s, [after]).length, 0);
+  const s2 = L.markFollowUpRead(s, after);
+  eq("続報を既読にすると続報から消える", L.followUps(s2, [after]).length, 0);
+  eq("続報を既読にしても、既読にした日時は変わらない", s2.events.A.readAt, s.events.A.readAt);
+  const old = ev("OLD", NOW - 5 * D, [NOW - 5 * D]);
+  const sAuto = L.ensureInitialized(null, [old], NOW);
+  const oldMore = ev("OLD", NOW - 5 * D, [NOW - 5 * D, NOW + 1 * H]);
+  eq("自動で既読にした古い出来事にも続報が出る", L.followUps(sAuto, [oldMore]).length, 1);
+  eq("未読の出来事には続報を出さない(カードに含まれる)", L.followUps(L.ensureInitialized(null, [after], NOW), [after]).length, 0);
+}
+
+// --- 既読(直近7日) ---
+{
+  const events = [ev("R1", NOW - 9 * D), ev("R2", NOW - 2 * D)];
+  let s = { initializedAt: NOW - 20 * D, events: {} };
+  s = L.markRead(s, [events[0]], NOW - 8 * D);
+  s = L.markRead(s, [events[1]], NOW - 1 * D);
+  eq("既読にして8日たった出来事は出さない", ids(L.recentlyRead(s, events, NOW)), ["R2"]);
+}
+
+// --- 記録の削除(増え続けないように) ---
+{
+  const events = [ev("KEEP", NOW - H)];
+  const s = { initializedAt: NOW, events: { KEEP: { readAt: NOW, lastCollectedAt: "x" }, GONE: { readAt: NOW, lastCollectedAt: "x" } } };
+  eq("recent_events.json に無い出来事の記録は消す", Object.keys(L.prune(s, events).events), ["KEEP"]);
+  eq("データが空のときは何も消さない", Object.keys(L.prune(s, []).events).sort(), ["GONE", "KEEP"]);
 }
 
 // --- localStorage が使えない ---
 {
-  let threw = false, shown;
-  try { shown = L.openTab(throwingStorage, NOW); } catch { threw = true; }
-  check("使えない: 開いても例外を外に出さない", !threw);
-  eq("使えない: 読み込みは null(初回と同じ扱い)", L.readLastOpened(throwingStorage), null);
-  eq("使えない: 書き込みは false を返すだけ", L.writeLastOpened(throwingStorage, NOW), false);
-  eq("使えない: 表示の基準は直近3日", shown, NOW - 3 * D);
-  eq("storage が null でも動く", [L.readLastOpened(null), L.openTab(null, NOW)], [null, NOW - 3 * D]);
-  eq("壊れた値が入っていても初回扱い", L.readLastOpened(memStorage({ "jpyc.lastOpenedAt": "abc" })), null);
+  let threw = false, s;
+  const events = [ev("A", NOW - H), ev("B", NOW - 5 * D)];
+  try {
+    s = L.ensureInitialized(L.loadReadState(throwingStorage), events, NOW);
+    L.saveReadState(throwingStorage, L.markRead(s, [events[0]], NOW));
+  } catch { threw = true; }
+  check("使えない: 読み書きしても例外を外に出さない", !threw);
+  eq("使えない: 読み込みは null(初回と同じ扱い)", L.loadReadState(throwingStorage), null);
+  eq("使えない: 保存は false を返すだけ", L.saveReadState(throwingStorage, s), false);
+  eq("使えない: 直近3日分が未読として表示できる", ids(L.unreadEvents(s, events)), ["A"]);
+  eq("storage が null でも動く", [L.loadReadState(null), L.saveReadState(null, s)], [null, false]);
+  eq("壊れた値が入っていても初回扱い", [L.loadReadState(memStorage({ "jpyc.readState.v1": "{oops" })), L.loadReadState(memStorage({ "jpyc.readState.v1": "123" }))], [null, null]);
 }
 
-// --- その回の表示は開く前の日時を基準にする ---
-{
-  const st = memStorage({ "jpyc.lastOpenedAt": String(NOW - 1 * D) });
-  const events = [ev("X", NOW - 2 * H)];
-  const first = L.openTab(st, NOW);
-  check("1回目に開いたときは新着として表示", L.isNewEvent(events[0], first));
-  const second = L.openTab(st, NOW + 5 * 60 * 1000);
-  check("直後にもう一度開くと新着ではない", !L.isNewEvent(events[0], second));
-}
-
-// --- 表示範囲(直近7日と前回以降の長いほう) ---
-{
-  const events = [ev("D8", NOW - 8 * D), ev("D6", NOW - 6 * D)];
-  eq("前回が10日前なら10日分", L.cardEvents(events, NOW - 10 * D, NOW).map((e) => e.event_id), ["D6", "D8"]);
-  eq("前回が1日前なら7日分", L.cardEvents(events, NOW - 1 * D, NOW).map((e) => e.event_id), ["D6"]);
-}
-
-// --- 他N媒体(媒体名の重複を除く) ---
+// --- 他N媒体・実行の状態 ---
 {
   const e = ev("M", NOW - H, [NOW - H, NOW - H, NOW - H, NOW - H], { domains: ["a.jp", "news.yahoo.co.jp", "news.yahoo.co.jp", "a.jp"] });
   eq("代表と同じ媒体・重複を除いて「他1媒体」", L.otherOutletCount(e), 1);
-  eq("記事が1件なら他0媒体", L.otherOutletCount(ev("S", NOW - H)), 0);
-}
-
-// --- 実行の状態 ---
-{
   const at = (ms) => new Date(ms).toISOString();
   const s1 = L.summarizeRuns([{ conclusion: "failure", run_started_at: at(NOW - 1 * H) }, { conclusion: "success", run_started_at: at(NOW - 25 * H) }], NOW);
-  eq("最新が失敗なら失敗と表示、最後の成功は25時間前で警告なし", [s1.lastFailed, s1.stale, s1.lastSuccessAt], [true, false, NOW - 25 * H]);
-  const s2 = L.summarizeRuns([{ conclusion: "success", run_started_at: at(NOW - 27 * H) }], NOW);
-  eq("最後の成功から27時間なら「止まっている可能性」", [s2.lastFailed, s2.stale], [false, true]);
-  const s3 = L.summarizeRuns([], NOW);
-  eq("実行の記録がなければ警告", [s3.lastFailed, s3.stale, s3.lastSuccessAt], [false, true, null]);
+  eq("最新が失敗なら失敗と表示、最後の成功は25時間前で警告なし", [s1.lastFailed, s1.stale], [true, false]);
+  eq("最後の成功から27時間なら「止まっている可能性」", L.summarizeRuns([{ conclusion: "success", run_started_at: at(NOW - 27 * H) }], NOW).stale, true);
+  const s4 = L.summarizeRuns([{ conclusion: "success", run_started_at: at(NOW - 30 * D) }, { conclusion: "success", run_started_at: at(NOW - 2 * H) }], NOW);
+  eq("APIの並び順が古い順でも、最新の成功を使う", [s4.lastSuccessAt, s4.stale], [NOW - 2 * H, false]);
+  const s5 = L.summarizeRuns([{ conclusion: "success", run_started_at: at(NOW - 27 * D) }], NOW, NOW - 1 * H);
+  eq("APIが古い一覧を返しても、データの収集日時が新しければ警告しない", [s5.lastSuccessAt, s5.stale], [NOW - 1 * H, false]);
+  const s6 = L.summarizeRuns([{ conclusion: "failure", run_started_at: at(NOW - 3 * H) }], NOW, NOW - 1 * H);
+  eq("失敗の後にデータが更新されていれば失敗とは出さない", s6.lastFailed, false);
+  eq("データの最も新しい収集日時", L.dataLastCollectedAt([ev("X", NOW - 5 * H, [NOW - 5 * H, NOW - 2 * H]), ev("Y", NOW - 3 * H)]), NOW - 2 * H);
 }
 
-// --- 画面の描画 ---
+// --- 画面の描画と操作(保存先はメモリ上の偽物に差し替える) ---
 {
+  const store = memStorage();
+  safeStorage = () => store; // eslint-disable-line no-global-assign
   const content = document.getElementById("jpyc-content");
-  jpycState.events = [ev("OLD", NOW - 5 * D)];
+  const badge = document.getElementById("jpyc-badge");
+  const toast = document.getElementById("jpyc-toast");
+  content.addEventListener("click", handleJpycClick);
+  content.addEventListener("toggle", handleJpycToggle, true);
+  const t = Date.now();
+  const cards = () => [...content.querySelectorAll(".jpyc-card")].map((c) => c.dataset.eventId);
+
   jpycState.loadError = null;
-  renderJpycView(NOW - 1 * D);
-  check("新着も続報もなければ「新しい出来事はありません」だけ", content.textContent.trim() === "新しい出来事はありません", content.textContent.trim());
-
-  jpycState.events = [ev("N1", Date.now() - 2 * H, [Date.now() - 2 * H, Date.now() - H], { title: "<img src=x onerror=alert(1)>見出し", tags: ["提携・連携", "活用事例"], domains: ["a.jp", "b.jp"] })];
-  renderJpycView(Date.now() - 1 * D);
-  check("新着カードに印が付く", content.querySelector(".jpyc-card.is-unread .jpyc-unread-dot") !== null);
+  jpycState.events = [
+    ev("N1", t - 1 * H, [t - 1 * H, t - H], { title: "<img src=x onerror=alert(1)>見出し", tags: ["提携・連携", "活用事例"], domains: ["a.jp", "b.jp"], published: "2026-09-30 13:05:00" }),
+    ev("N2", t - 2 * H, [t - 2 * H], { published: "2026-09-29 00:00:00" }),
+    ev("N3", t - 3 * H),
+  ];
+  jpycState.readState = L.ensureInitialized(null, jpycState.events, t);
+  renderJpycView(); updateJpycBadge();
+  renderJpycView(); updateJpycBadge();
+  eq("タブを開いた(描いた)だけでは既読にならない", [cards(), badge.textContent], [["N1", "N2", "N3"], "3"]);
+  check("各カードにチェックのボタンがある", content.querySelectorAll(".jpyc-card .jpyc-check[data-action=read]").length === 3);
   check("見出しのHTMLは文字として表示される(埋め込まれない)", content.querySelector("img") === null && content.textContent.includes("<img"));
-  eq("タグは色なしのラベルで全部出る", [...content.querySelectorAll(".jpyc-tag")].map((t) => t.textContent), ["提携・連携", "活用事例"]);
-  check("媒体と「他1媒体」が出る", content.querySelector(".jpyc-meta").textContent.includes("a.jp 他1媒体"), content.querySelector(".jpyc-meta").textContent);
+  eq("カードの日付は代表記事の公開日(時刻が00:00なら日付だけ)", [...content.querySelectorAll(".jpyc-meta")].slice(0, 2).map((m) => m.textContent.split("・")[1].trim()), ["公開 9/30 13:05", "公開 9/29"]);
 
-  jpycState.events = [Object.assign(ev("P", Date.now() - 2 * H), { representative: { title: "公開日", domain: "a.jp", url: "https://a.jp/", published_at: "2026-09-30 13:05:00", summary: "" } }),
-                      Object.assign(ev("Q", Date.now() - 3 * H), { representative: { title: "日付のみ", domain: "b.jp", url: "https://b.jp/", published_at: "2026-09-29 00:00:00", summary: "" } })];
-  renderJpycView(Date.now() - 1 * D);
-  eq("カードの日付は代表記事の公開日(時刻が00:00なら日付だけ)", [...content.querySelectorAll(".jpyc-meta")].map((m) => m.textContent.split("・")[1].trim()), ["公開 9/30 13:05", "公開 9/29"]);
-  check("公開日が古くても、初出が前回より後なら新着の印が付く", content.querySelectorAll(".jpyc-unread-dot").length === 2);
+  content.querySelector('.jpyc-check[data-event-id="N2"]').click();
+  eq("チェックを押すとカードが消えてバッジが減る", [cards(), badge.textContent], [["N1", "N3"], "2"]);
+  check("押した直後に「元に戻す」が出る", !toast.hidden && toast.textContent.includes("元に戻す") && getComputedStyle(toast).display === "flex");
+  check("既読はlocalStorageに保存される", JSON.parse(store.getItem("jpyc.readState.v1")).events.N2 !== undefined);
+  check("既読(直近7日)に折りたたんで表示される", content.querySelector("details.jpyc-read-section") !== null && !content.querySelector("details.jpyc-read-section").open);
+  toast.querySelector(".jpyc-undo-btn").click();
+  eq("元に戻すとカードとバッジが戻る", [cards(), badge.textContent, toast.hidden], [["N1", "N2", "N3"], "3", true]);
+  eq("隠した「元に戻す」は画面に描かれない(CSSで消えている)", getComputedStyle(toast).display, "none");
 
-  jpycState.events = [ev("C", Date.now() - 3 * D, [Date.now() - 3 * D, Date.now() - H])];
-  renderJpycView(Date.now() - 1 * D);
-  check("続報は折りたたみの1行で「+1件」", content.querySelector("details.jpyc-followup summary").textContent.includes("+1件"));
+  content.querySelector("[data-action=read-all]").click();
+  eq("すべて既読にすると新着が0件・バッジなし", [cards().length, badge.hidden], [0, true]);
+  check("新着も続報もなければ「新しい出来事はありません」", content.textContent.includes("新しい出来事はありません"));
+  const readSec = content.querySelector("details.jpyc-read-section");
+  readSec.open = true;
+  content.querySelector('.jpyc-read-row [data-event-id="N3"]').click();
+  eq("既読の一覧でチェックを外すと未読に戻る", [cards(), badge.textContent], [["N3"], "1"]);
+  check("操作しても既読の一覧は開いたまま", content.querySelector("details.jpyc-read-section").open);
+
+  // 続報: N1 に記事が追加された
+  jpycState.events = jpycState.events.map((e) => (e.event_id === "N1" ? ev("N1", t - 1 * H, [t - 1 * H, t - H, t + 5000], { domains: ["a.jp", "b.jp", "c.jp"] }) : e));
+  renderJpycView(); updateJpycBadge();
+  check("既読の出来事に記事が追加されると続報に出る(+1件)", content.querySelector(".jpyc-followup summary").textContent.includes("+1件"));
+  eq("続報はバッジに数えない", badge.textContent, "1");
+  const det = content.querySelector("details.jpyc-followup");
+  det.open = true;
+  det.dispatchEvent(new Event("toggle"));
+  check("続報の行を開くと既読になる(開いている行はその場では消えない)", L.followUps(jpycState.readState, jpycState.events).length === 0 && content.querySelector("details.jpyc-followup") !== null);
+  renderJpycView();
+  check("描き直すと続報から消える", content.querySelector("details.jpyc-followup") === null);
+  jpycState.events = jpycState.events.map((e) => (e.event_id === "N1" ? ev("N1", t - 1 * H, [t - 1 * H, t - H, t + 5000, t + 9000]) : e));
+  renderJpycView();
+  content.querySelector("[data-action=followup-read]").click();
+  check("続報のチェックを押しても既読になる", content.querySelector("details.jpyc-followup") === null);
 
   jpycState.events = null;
-  jpycState.loadError = "JPYCのデータを取得できませんでした (HTTP 404)";
-  renderJpycView(Date.now());
+  jpycState.loadError = "JPYCのデータを読み込めませんでした。通信状況を確認して、あとで開き直してください";
+  renderJpycView();
   check("読み込みに失敗したらエラーを表示する", content.querySelector(".error") !== null);
 }
 
