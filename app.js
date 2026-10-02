@@ -5,7 +5,7 @@ const CATEGORY_ORDER = ["政治", "経済", "社会", "国際", "災害", "ス�
 
 // ステップ5: オンデマンドAI解説(Cloudflare Worker経由)。
 // APIキーはWorker側のSecretに保持し、ここには一切含めない。
-// ページ読み込み時には一切呼び出さず、各カードの「詳しく見る」ボタンが
+// ページ読み込み時には一切呼び出さず、各カードの「解説」ボタンが
 // クリックされた時だけWorkerを呼ぶ(=Haikuが呼ばれる)。
 const EXPLAIN_WORKER_URL = "https://daily-news-explain.matsuno04.workers.dev";
 
@@ -68,15 +68,15 @@ function updateHeader(dateStr) {
   document.getElementById("date-big").textContent = formatDateBig(dateStr);
 }
 
-// 「詳しく見る」ボタンを、渡された行(actionsRow)の末尾に追加する。
-// NHK/Yahooリンクと同じ行に並べる(枠内に収まる想定 -> 収まらない端末はflex-wrapで折り返す)。
+// 「解説」ボタンを、渡された行(actionsRow)の末尾に追加する。
 // data属性はテンプレート文字列に埋め込まず、要素のプロパティとして直接設定する
 // (見出しに引用符が含まれる場合のHTML属性エスケープ漏れを避けるため)。
 function appendExplainButton(article, actionsRow, url, title, summaryText, pubDate) {
   const btn = document.createElement("button");
   btn.type = "button";
   btn.className = "explain-btn";
-  btn.textContent = "詳しく見る";
+  btn.textContent = "解説";
+  btn.setAttribute("aria-expanded", "false");
   btn.dataset.url = url;
   btn.dataset.title = title;
   // 解説側で要約の繰り返しを避けるため、読者が既に読んだ要約も渡す
@@ -91,12 +91,12 @@ function appendExplainButton(article, actionsRow, url, title, summaryText, pubDa
   article.appendChild(explanationEl);
 }
 
-// 2/2記事: Haiku要約(headline/summary/category) + 両ソースへのリンク + 詳しく見るボタン
-// (詳しく見るボタンは代表記事のリンクを使う。要約生成時と同じ記事)
+// 2/2記事: Haiku要約(headline/summary/category) + 解説ボタン
+// 見出しを押すとYahoo!の記事を開く(Yahoo!が無い時はNHK)。JPYCタブのカードと同じ操作にそろえる
+// (解説ボタンは代表記事のリンクを使う。要約生成時と同じ記事)
 // summaryが空 = 速報ページ等で本文が見出し程度しか無かった記事。見出しのみ表示する。
 function renderMatchedCard(summary, event) {
-  const nhk = event.sources["NHK"];
-  const yahoo = event.sources["Yahoo!ニュース"];
+  const source = event.sources["Yahoo!ニュース"] || event.sources["NHK"];
 
   const article = document.createElement("article");
   article.className = "news-card";
@@ -104,14 +104,15 @@ function renderMatchedCard(summary, event) {
     <div class="card-header">
       <span class="category-badge ${categoryClass(summary.category)}">${escapeHtml(summary.category)}</span>
     </div>
-    <h3 class="headline">${escapeHtml(summary.headline)}</h3>
+    <h3 class="headline">${
+      source
+        ? `<a class="headline-link" href="${escapeHtml(source.link)}" target="_blank" rel="noopener">${escapeHtml(summary.headline)}</a>`
+        : escapeHtml(summary.headline)
+    }</h3>
     ${summary.summary ? `<p class="summary">${escapeHtml(summary.summary)}</p>` : ""}
-    <div class="source-links">
-      ${nhk ? `<a class="source-link source-nhk" href="${nhk.link}" target="_blank" rel="noopener">NHKで読む</a>` : ""}
-      ${yahoo ? `<a class="source-link source-yahoo" href="${yahoo.link}" target="_blank" rel="noopener">Yahoo!で読む</a>` : ""}
-    </div>
+    <div class="card-actions"></div>
   `;
-  const actionsRow = article.querySelector(".source-links");
+  const actionsRow = article.querySelector(".card-actions");
   const representative = event.sources[summary.representative_source];
   appendExplainButton(
     article,
@@ -126,7 +127,7 @@ function renderMatchedCard(summary, event) {
 
 // 1/2記事: RSSタイトルそのまま(Haiku要約なし、追加コストなし)を1行リストで表示。
 // セクション見出し自体(「NHKのみ」「Yahoo!のみ」)でソースは分かるため、
-// 個別のタグや詳しく見るボタンは付けず、スマホで一度に多く見られる密度を優先する。
+// 個別のタグや解説ボタンは付けず、スマホで一度に多く見られる密度を優先する。
 function renderUnmatchedItem(item) {
   const row = document.createElement("div");
   row.className = "brief-item";
@@ -221,15 +222,22 @@ function setupDatePicker(dates) {
   return select;
 }
 
-// 「詳しく見る」ボタンのクリックをコンテナ単位で一括処理する(イベント委任)。
+// 「解説」ボタンのクリックをコンテナ単位で一括処理する(イベント委任)。
 // renderList()がcontainerEl.innerHTMLを日付切替のたびに差し替えるため、
 // リスナーはコンテナに1回だけ登録すれば、再描画後のボタンにも効く。
+// 一度取得した解説は、ボタンで開閉するだけにする(再度リクエストしない)。
 async function handleExplainClick(btn) {
   const { url, title, summary, pubDate } = btn.dataset;
   const explanationEl = btn.closest(".news-card").querySelector(".explanation");
 
+  if (btn.dataset.loaded) {
+    explanationEl.hidden = !explanationEl.hidden;
+    btn.setAttribute("aria-expanded", String(!explanationEl.hidden));
+    return;
+  }
+
   btn.disabled = true;
-  btn.textContent = "解説を生成中…";
+  btn.textContent = "解説を作成中…";
   explanationEl.hidden = false;
   explanationEl.innerHTML = `<p class="loading">読み込み中…</p>`;
 
@@ -244,12 +252,14 @@ async function handleExplainClick(btn) {
       throw new Error(data.error || `HTTP ${res.status}`);
     }
     explanationEl.innerHTML = `<p class="explanation-text">${escapeHtml(data.explanation)}</p>`;
-    btn.remove(); // 取得済みの記事に再度リクエストされないようボタン自体を消す
+    btn.dataset.loaded = "1";
+    btn.setAttribute("aria-expanded", "true");
   } catch (err) {
     explanationEl.innerHTML = `<p class="error">解説の取得に失敗しました: ${escapeHtml(err.message)}</p>`;
-    btn.disabled = false;
-    btn.textContent = "詳しく見る";
+    btn.setAttribute("aria-expanded", "false");
   }
+  btn.disabled = false;
+  btn.textContent = "解説";
 }
 
 function setupExplainDelegation(containerEl) {
@@ -263,7 +273,7 @@ async function main() {
   const matchedListEl = document.getElementById("matched-list");
   const nhkOnlyListEl = document.getElementById("nhk-only-list");
   const yahooOnlyListEl = document.getElementById("yahoo-only-list");
-  // 詳しく見るボタンは2/2記事にのみ存在する(1/2記事はタイトルリンクのみ)
+  // 解説ボタンは2/2記事にのみ存在する(1/2記事はタイトルリンクのみ)
   setupExplainDelegation(matchedListEl);
 
   let manifest;
