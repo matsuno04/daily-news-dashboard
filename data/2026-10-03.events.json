@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "matched_at": "2026-10-03T11:45:20.309129+09:00",
+  "matched_at": "2026-10-03T21:46:01.444717+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -110,6 +110,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "タイとミャンマー国境付近で日本人2人を保護 詐欺拠点滞在か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54003",
+          "description": "タイの警察は隣国ミャンマーとの国境付近でミャンマー側にある特殊詐欺の拠点にいたとみられる日本人2人を保護したと明らかにしました。 警察は2人がだまされて拠点に連れてこられ、特殊詐欺に加担するよう強い…",
+          "pub_date": "2026-10-03T02:07:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "冷凍庫に子を遺棄 苦しみ抱え孤立",
+          "link": "https://news.yahoo.co.jp/pickup/6597363?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T11:32:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "北朝鮮から発射 弾道ミサイルの可能性あるものEEZ外側に落下か",
           "link": "https://news.web.nhk/newsweb/na/nd-20261003de54012",
           "description": "防衛省関係者によりますと、北朝鮮から発射された弾道ミサイルの可能性があるものは、日本のＥＥＺ＝排他的経済水域の外側に落下したとみられるということです。",
@@ -125,7 +145,7 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -145,7 +165,7 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0009",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -153,7 +173,7 @@
           "title": "富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警",
           "link": "https://news.web.nhk/newsweb/na/nd-20261003de54022",
           "description": "富山市の職員が国勢調査で人口を水増しした疑いがあるとして刑事告発されていた問題で、警察は3日、統計法違反の疑いで富山市役所を捜索しました。 人口の水増しには複数の職員が関与した可能性があるということ…",
-          "pub_date": "2026-10-03T10:05:00+09:00"
+          "pub_date": "2026-10-03T15:59:04+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -163,16 +183,169 @@
           "pub_date": "2026-10-03T10:12:21+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "津市4人死亡火事 住宅南側の玄関付近が激しく燃える 火元か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54036",
+          "description": "2日に津市で住宅1棟が全焼し、4人が死亡した火事で、火事が起きた当時、住宅の南側の玄関付近が激しく燃えていたことが分かり、消防が火元の可能性があるとみて調べています。 一方、住人やその知人の子ども4…",
+          "pub_date": "2026-10-03T12:13:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "4人死亡の火災 玄関付近が火元か",
+          "link": "https://news.yahoo.co.jp/pickup/6597434?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T20:41:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54037",
+          "description": "生命保険大手の第一ライフグループは、社内の人事システムが不正アクセスを受け、退職者を含むおよそ12万人分の従業員情報が外部に流出した可能性があると発表しました。 一方、現時点では顧客情報への不正アク…",
+          "pub_date": "2026-10-03T11:58:35+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "第一ライフG 従業員情報漏えいか",
+          "link": "https://news.yahoo.co.jp/pickup/6597333?source=rss",
+          "description": "",
+          "pub_date": "2026-10-02T23:44:23+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54066",
+          "description": "3日午後、東京 八丈島近くの海で、ダイビングをしていたインストラクターと客あわせて8人の行方が一時分からなくなりましたが、海上保安部によりますと、午後5時半ごろまでに8人全員が救助され、いずれも意識は…",
+          "pub_date": "2026-10-03T19:14:12+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ダイビング客ら8人救助 意識あり",
+          "link": "https://news.yahoo.co.jp/pickup/6597418?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T17:52:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "9歳男児がタワマン23階のベランダから転落し死亡 東京 中央区",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54069",
+          "description": "3日午後、東京 中央区のタワーマンションで、住人の9歳の男の子が23階のベランダから転落し、死亡しました。 ベランダづたいに自宅から隣の部屋に移動しようとして転落したとみられるということで、警視庁が…",
+          "pub_date": "2026-10-03T18:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "都内タワマン23階から子転落 死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T16:39:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "副操縦士がテロ実行しようとしたか UAEの国営通信が報道",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54041",
+          "description": "イスラエル行きの旅客機で副操縦士が刃物で機長を襲ったとされる事件で、捜査が進められているUAE＝アラブ首長国連邦の、国営通信は、副操縦士がテロ行為を実行しようとしたことが明らかになったと報じました。",
+          "pub_date": "2026-10-03T19:07:58+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "機長刺した副操縦士 過去乗務禁止",
+          "link": "https://news.yahoo.co.jp/pickup/6597344?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T08:41:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0015",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "肥満症薬 急激な減量で救急搬送相次ぐ 学会が注意呼びかけ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54074",
+          "description": "肥満症や糖尿病の治療薬がダイエット目的で使われ問題となっていますが、日本肥満学会は過度な食事制限に加えて薬を使用したために重い健康障害が起き、救急搬送される人が相次いでいるとして注意を呼びかける声明を…",
+          "pub_date": "2026-10-03T19:52:15+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "マンジャロ使用巡り 肥満学会声明",
+          "link": "https://news.yahoo.co.jp/pickup/6597438?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T21:08:56+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0016",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "那覇市のホテルで女性遺体 強盗殺人事件として捜査",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54044",
+          "description": "3日朝早く、那覇市のホテルで女性が死亡しているのが見つかり、警察は、現場の状況などから女性は殺害され、所持品が持ち去られた強盗殺人事件として捜査を始めました。 付近の防犯カメラには女性と一緒に部屋に…",
+          "pub_date": "2026-10-03T20:49:12+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "那覇のホテルに女性遺体 事件か",
+          "link": "https://news.yahoo.co.jp/pickup/6597356?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T09:52:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0017",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北朝鮮キム・ヨジョン氏“中距離戦略ミサイルを発射”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54093",
+          "description": "北朝鮮のキム・ジョンウン総書記の妹、キム・ヨジョン氏は、国営メディアを通じて、「中距離戦略ミサイル」の発射訓練を3日行ったと明らかにしました。 韓国軍は、北朝鮮が3日朝、日本海に向けて弾道ミサイル1…",
+          "pub_date": "2026-10-03T21:26:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北ミサイル700km以上飛行 韓国軍",
+          "link": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T11:16:45+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
-    {
-      "source": "NHK",
-      "title": "タイとミャンマー国境付近で日本人2人を保護 詐欺拠点滞在か",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54003",
-      "description": "タイの警察は隣国ミャンマーとの国境付近でミャンマー側にある特殊詐欺の拠点にいたとみられる日本人2人を保護したと明らかにしました。 警察は2人がだまされて拠点に連れてこられ、特殊詐欺に加担するよう強い…",
-      "pub_date": "2026-10-03T02:07:57+09:00"
-    },
     {
       "source": "NHK",
       "title": "船舶使用停止命令の東海汽船 “慣習踏襲の社内風土に問題”",
@@ -185,7 +358,7 @@
       "title": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
       "link": "https://news.web.nhk/newsweb/na/nd-20261003de54005",
       "description": "日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。",
-      "pub_date": "2026-10-03T11:10:33+09:00"
+      "pub_date": "2026-10-03T18:52:00+09:00"
     },
     {
       "source": "NHK",
@@ -223,6 +396,69 @@
       "pub_date": "2026-10-03T11:17:00+09:00"
     },
     {
+      "source": "NHK",
+      "title": "ドジャース 大谷翔平 地区シリーズへ「期待とわくわく感」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54033",
+      "description": "大リーグで先月けが人リストから復帰し、ポストシーズンに臨むドジャースの大谷翔平選手が初戦となる地区シリーズを前に会見を行い「状態はかなりよくなっている。期待とわくわく感がある」と心境を話しました。 …",
+      "pub_date": "2026-10-03T13:49:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 印旛沼 堤防4か所決壊 最後の1か所をふさぐ工事が完了",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54039",
+      "description": "台風25号に伴う大雨で堤防が決壊し、広い範囲が浸水した千葉県の印旛沼で決壊したか所をふさぐ工事が3日、完了しました。",
+      "pub_date": "2026-10-03T12:11:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "レスリング女子 藤波朱理 公式戦の連勝が「155」で止まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54049",
+      "description": "愛知・名古屋アジア大会、レスリング女子57キロ級の藤波朱理選手が準決勝で北朝鮮の選手に敗れ、自身の公式戦の連勝が155で止まりました。",
+      "pub_date": "2026-10-03T16:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "公明 岡本新代表“与野党垣根なく連携 政界再編軸に”党大会で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54053",
+      "description": "公明党は党大会を開き新たな代表に岡本三成・元政務調査会長が就任しました。 岡本氏は、与野党の垣根なく幅広く連携し、政界再編の軸となって誰もが希望を持てる政治を実現したいという考えを示しました。",
+      "pub_date": "2026-10-03T15:52:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヤクルト 中村悠平 一時“右目失明の危機” 3回目の手術へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54073",
+      "description": "プロ野球・ヤクルトの中村悠平選手がことし7月の試合で右目をけがしたあと初めて取材に応じ、一時、失明の危機があったことを明かしたうえで、今月、3回目の手術を控えていることを話しました。",
+      "pub_date": "2026-10-03T19:50:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "パラ陸上 中西麻耶 故郷の大分で現役最後の大会に出場",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54076",
+      "description": "パラリンピックに5大会連続で出場したパラ陸上の第一人者で、現役引退を表明している中西麻耶選手が出身地の大分県で現役最後の大会に臨み、「故郷でたくさんの皆さんに支えられて終われることを心から感謝したい」…",
+      "pub_date": "2026-10-03T19:55:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サッカー日本代表が練習再開 結婚発表の久保も笑顔で調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54086",
+      "description": "サッカー日本代表は5日、東京で行われるニュージーランドとの強化試合に向けて3日から練習を再開しました。",
+      "pub_date": "2026-10-03T21:08:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゴルフ 日本女子オープン 第3ラウンド 桑木志帆が単独首位",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54084",
+      "description": "女子ゴルファー日本一を決める「日本女子オープン」は第3ラウンドが行われ、ことし海外メジャー大会で初優勝した桑木志帆選手が2位に2打差をつけて単独首位に立ちました。",
+      "pub_date": "2026-10-03T20:42:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アーチェリー 中西絢哉がアジア大会銀 ロス五輪出場枠獲得",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54080",
+      "description": "愛知・名古屋アジア大会で3日、アーチェリーの男子リカーブ個人が行われ、中西絢哉選手が銀メダルを獲得しました。",
+      "pub_date": "2026-10-03T21:28:43+09:00"
+    },
+    {
       "source": "Yahoo!ニュース",
       "title": "プルデンシャルの処分検討 金融庁",
       "link": "https://news.yahoo.co.jp/pickup/6597329?source=rss",
@@ -249,13 +485,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6597331?source=rss",
       "description": "",
       "pub_date": "2026-10-02T23:12:04+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "第一ライフG 従業員情報漏えいか",
-      "link": "https://news.yahoo.co.jp/pickup/6597333?source=rss",
-      "description": "",
-      "pub_date": "2026-10-02T23:44:23+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -294,13 +523,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "機長刺した副操縦士 過去乗務禁止",
-      "link": "https://news.yahoo.co.jp/pickup/6597344?source=rss",
-      "description": "",
-      "pub_date": "2026-10-03T08:41:32+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "IL入り中に支え 大谷が家族に感謝",
       "link": "https://news.yahoo.co.jp/pickup/6597347?source=rss",
       "description": "",
@@ -329,13 +551,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "北ミサイル700km以上飛行 韓国軍",
-      "link": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
-      "description": "",
-      "pub_date": "2026-10-03T11:16:45+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "トランプ氏自嘲 中間選挙に焦り?",
       "link": "https://news.yahoo.co.jp/pickup/6597354?source=rss",
       "description": "",
@@ -350,10 +565,304 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "那覇のホテルに女性遺体 事件か",
-      "link": "https://news.yahoo.co.jp/pickup/6597356?source=rss",
+      "title": "仏各地のデモ激化 逮捕者5000人に",
+      "link": "https://news.yahoo.co.jp/pickup/6597362?source=rss",
       "description": "",
-      "pub_date": "2026-10-03T09:52:06+09:00"
+      "pub_date": "2026-10-03T11:08:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "e-Tax 他人の税情報が一時閲覧可",
+      "link": "https://news.yahoo.co.jp/pickup/6597360?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T10:35:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "白神山地で「幻のモグラ」初確認",
+      "link": "https://news.yahoo.co.jp/pickup/6597351?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T09:33:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪中体連の締切誤認 追加認めず",
+      "link": "https://news.yahoo.co.jp/pickup/6597368?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T11:58:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "衆院の定数削減 自民に先送り論",
+      "link": "https://news.yahoo.co.jp/pickup/6597377?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T13:16:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "4人死亡火災 プロパンボンベ破裂",
+      "link": "https://news.yahoo.co.jp/pickup/6597373?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T12:41:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自殺した父 そっけない言葉が最後",
+      "link": "https://news.yahoo.co.jp/pickup/6597371?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T12:13:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンション販売「ワニの口」とは",
+      "link": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T12:46:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "久保の結婚 スペインも祝福ムード",
+      "link": "https://news.yahoo.co.jp/pickup/6597380?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T13:19:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "薬過剰摂取の事故件数 9月が最多",
+      "link": "https://news.yahoo.co.jp/pickup/6597370?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T12:05:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ホテル女性死亡 同行者の行方追う",
+      "link": "https://news.yahoo.co.jp/pickup/6597383?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T13:50:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報プロ野球 広島vs.M1の阪神",
+      "link": "https://news.yahoo.co.jp/pickup/6597381?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T13:57:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤波朱理ぼう然 北朝鮮選手に完敗",
+      "link": "https://news.yahoo.co.jp/pickup/6597384?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T14:03:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 週明け小笠原諸島へ接近恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6597387?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T14:47:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "都内のタワマンで子転落 心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6597389?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T14:54:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報プロ野球 阪神佐藤輝が3ラン",
+      "link": "https://news.yahoo.co.jp/pickup/6597391?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T15:28:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米殺人犯の死刑失敗 被害者母落胆",
+      "link": "https://news.yahoo.co.jp/pickup/6597385?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T15:02:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "悪質な「名古屋ライド」SNS拡散",
+      "link": "https://news.yahoo.co.jp/pickup/6597392?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T15:38:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "セパタクローで悲願 初アジア王者",
+      "link": "https://news.yahoo.co.jp/pickup/6597396?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T16:06:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相の予算委出席減を野党警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6597404?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T17:02:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "流産後の休養「足りない」の声",
+      "link": "https://news.yahoo.co.jp/pickup/6597398?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T16:15:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダイビングで不明の客ら8人 発見",
+      "link": "https://news.yahoo.co.jp/pickup/6597412?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T17:27:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市が毎年更衣室解体 6年で7千万円",
+      "link": "https://news.yahoo.co.jp/pickup/6597400?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T16:25:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報プロ野球 広島vs.M1の阪神",
+      "link": "https://news.yahoo.co.jp/pickup/6597405?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T16:40:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福原遥と結婚 久保の左手に指輪",
+      "link": "https://news.yahoo.co.jp/pickup/6597409?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T16:59:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「こどもNISA」注意点 専門家解説",
+      "link": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T13:07:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "M1の阪神逆転負け 連覇はお預け",
+      "link": "https://news.yahoo.co.jp/pickup/6597421?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T18:13:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福原遥と結婚 久保が取材に応じる",
+      "link": "https://news.yahoo.co.jp/pickup/6597420?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T18:21:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広瀬すず 異性の友情はあると思う",
+      "link": "https://news.yahoo.co.jp/pickup/6597413?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T18:00:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領2千万人に90ドル給付表明",
+      "link": "https://news.yahoo.co.jp/pickup/6597410?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T17:43:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "食品消費税1%に賛否 減税効果は",
+      "link": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T18:00:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報バレー男子 日本vs.イラン",
+      "link": "https://news.yahoo.co.jp/pickup/6597419?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T19:25:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伊東四朗 報道陣40人に「驚いた」",
+      "link": "https://news.yahoo.co.jp/pickup/6597422?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T18:28:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "4人死亡火災 隣家の住民ぼうぜん",
+      "link": "https://news.yahoo.co.jp/pickup/6597432?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T20:25:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 千葉・神奈川で死者計15人に",
+      "link": "https://news.yahoo.co.jp/pickup/6597425?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T18:53:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "和菓子店の倒産 過去最多ペース",
+      "link": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T16:15:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報サッカー男子 日本vs.韓国",
+      "link": "https://news.yahoo.co.jp/pickup/6597414?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T19:31:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "キンプリ・髙橋海人 ソロ活動開始",
+      "link": "https://news.yahoo.co.jp/pickup/6597433?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T20:15:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 長引く物価高が争点",
+      "link": "https://news.yahoo.co.jp/pickup/6597406?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T17:03:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "23階転落 母が「転落しそう」通報",
+      "link": "https://news.yahoo.co.jp/pickup/6597435?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T20:37:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハラル対応食品 商機見いだす企業",
+      "link": "https://news.yahoo.co.jp/pickup/6597429?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T19:57:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サッカー男子 韓国に敗れ銀メダル",
+      "link": "https://news.yahoo.co.jp/pickup/6597443?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T21:29:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バレー男子 16年ぶり金ならず",
+      "link": "https://news.yahoo.co.jp/pickup/6597442?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T21:26:20+09:00"
     }
   ]
 }
