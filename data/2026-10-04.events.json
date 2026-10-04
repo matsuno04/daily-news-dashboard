@@ -1,0 +1,346 @@
+{
+  "date": "2026-10-04",
+  "matched_at": "2026-10-04T11:45:23.181578+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "阪神が2年連続優勝 球団初セ・リーグ連覇【選手談話も詳しく】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54054",
+          "description": "プロ野球、セ・リーグは、2位の巨人が3日の試合に敗れたため、阪神の2年連続8回目の優勝が決まりました。 阪神のリーグ連覇は、2リーグ制になった1950年以降で初めてです。",
+          "pub_date": "2026-10-04T02:09:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "阪神史上初 セ・リーグ連覇",
+          "link": "https://news.yahoo.co.jp/pickup/6597445?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T21:35:43+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アジア大会 サッカー男子 日本は決勝で韓国に敗れる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54098",
+          "description": "愛知・名古屋アジア大会のサッカー男子は決勝が行われ、日本は韓国に0対1で敗れて16年ぶりの金メダルはなりませんでした。",
+          "pub_date": "2026-10-03T22:52:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "韓国サッカー男子V 国旗揚がらず",
+          "link": "https://news.yahoo.co.jp/pickup/6597458?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T23:51:27+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "那覇ホテルで女性殺害 米海兵隊の上等兵を強盗殺人容疑で逮捕",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54164",
+          "description": "3日、那覇市のホテルで女性が殺害され所持品が持ち去られているのが見つかった事件で、警察は4日、沖縄に駐留するアメリカ海兵隊の20歳の上等兵を強盗殺人の疑いで逮捕しました。警察によりますと、調べに対し、…",
+          "pub_date": "2026-10-04T10:06:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "那覇遺体 強殺疑いで米兵を逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T07:35:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風27号 あすからあさって小笠原諸島に接近 高波警戒",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54159",
+          "description": "大型で非常に強い台風27号は、東京の小笠原近海を北寄りに進んでいます。 非常に強い勢力のまま、5日夕方から6日はじめにかけて、小笠原諸島に接近するおそれがあり、高波に警戒が必要です。",
+          "pub_date": "2026-10-04T10:43:48+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風27号 小笠原諸島で高波警戒",
+          "link": "https://news.yahoo.co.jp/pickup/6597449?source=rss",
+          "description": "",
+          "pub_date": "2026-10-03T22:23:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サザン関口和之氏の著作権管理会社 5億8000万円余の申告漏れ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54104",
+          "description": "人気バンド、「サザンオールスターズ」のメンバー、関口和之氏の著作権の管理などを行う会社が、東京国税局の税務調査を受け、税理士から紹介された節税の方法は認められないとして、5億8000万円余りの申告漏れ…",
+          "pub_date": "2026-10-04T05:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "サザン関口氏会社5.8億円申告漏れ",
+          "link": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T07:35:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ホワイトソックス 地区シリーズで先勝 村上が先制ホームラン",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54148",
+          "description": "大リーグのポストシーズンは3日から地区シリーズが始まり、ホワイトソックスの村上宗隆選手はガーディアンズとの第1戦で、ポストシーズン1号となる先制のツーランホームランを含む2安打の活躍でチームの白星スタ…",
+          "pub_date": "2026-10-04T07:37:09+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "村上宗隆がPS1号 雄たけび確信弾",
+          "link": "https://news.yahoo.co.jp/pickup/6597460?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T07:17:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "淡路島で釣りの9歳男児 海に転落し重体 救助向かった知人不明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54174",
+          "description": "4日未明、兵庫県の淡路島で、釣りに来ていた9歳の男の子が海に転落し、およそ30分後に救助されましたが意識不明の重体となっています。 男の子を助けようと海に入った20代の知人の行方が分からなくなってい…",
+          "pub_date": "2026-10-04T08:27:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "海で9歳重体 救助向かった人不明",
+          "link": "https://news.yahoo.co.jp/pickup/6597478?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T09:46:15+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "ことしの秋のクマ出没どうなる？「どんぐり」の実りは",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54083",
+      "description": "秋は、冬眠を前にクマの活動が活発になる季節です。 この時期のクマの栄養源となる山の「どんぐり」の実りについてNHKが、都道府県などが行っている調査をまとめたところ、東北地方では多くの県で「豊作」と予…",
+      "pub_date": "2026-10-03T22:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "プロ野球 現役最年長 ヤクルト石川雅規 25年の現役に別れ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54109",
+      "description": "プロ野球で現役最年長の46歳、通算188勝をマークしたヤクルトの石川雅規投手が引退試合に臨み、代打からのリリーフという異例の出場で投打にプレーして25年間の現役生活を終えました。",
+      "pub_date": "2026-10-03T23:15:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54127",
+      "description": "簗農林水産大臣は3日、熊本県を訪れて熊本地震の被災地を視察しました。 地元・栃木県の道路に関する国からの予算配分をめぐる発言について記者団から問われると、「個人としての政治活動に関わる発言は控える」…",
+      "pub_date": "2026-10-03T23:55:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "津 4人死亡の火事 4人は寝室とリビングで見つかる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54129",
+      "description": "津市で住宅1棟が全焼し、4人が死亡した火事で、4人のうち3人は寝室で、もう1人はリビングで見つかっていたことが、警察への取材で新たに分かりました。 当時、大人は留守中で、家には子ども4人がいたという…",
+      "pub_date": "2026-10-04T07:14:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米大統領“選挙勝利で5000ドル支給”重ねて主張 選挙戦激しく",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54158",
+      "description": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙まで3日で1か月となりました。 トランプ大統領は与党・共和党が上下両院で勝利すれば市民に5000ドルを支給すると重ねて主張したのに対…",
+      "pub_date": "2026-10-04T06:40:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドジャースが地区シリーズ先勝 大谷翔平は1安打",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54157",
+      "description": "大リーグのポストシーズンは3日、ナショナルリーグの西部地区で優勝したドジャースが地区シリーズの第1戦に臨み、東部地区優勝のブレーブスに5対3で勝って白星スタートです。 この試合、大谷翔平選手は2番・…",
+      "pub_date": "2026-10-04T08:05:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "政府 安保上重要土地の取得規制強化「許可制」導入法案提出へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54185",
+      "description": "安全保障上重要な土地などの取得の規制を強化するため、政府は、事前に審査してリスクがあると判断した場合は取得を認めないなど、「許可制」の導入を盛り込んだ法案を国会に提出する方針です。",
+      "pub_date": "2026-10-04T10:35:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バレー男子は銀 イランに敗れる",
+      "link": "https://news.yahoo.co.jp/pickup/6597444?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T21:31:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米政府のAI 都合の悪い質問を拒否",
+      "link": "https://news.yahoo.co.jp/pickup/6597451?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T22:35:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MacのOSを修正へ AIリスク対策",
+      "link": "https://news.yahoo.co.jp/pickup/6597441?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T21:52:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "だんじりが横転し7人けが 転落か",
+      "link": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T22:05:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神V2 監督が涙「苦しかった」",
+      "link": "https://news.yahoo.co.jp/pickup/6597455?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T23:18:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国産ジャガイモ解禁 前倒し浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
+      "description": "",
+      "pub_date": "2026-10-03T22:57:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "釣り中の9歳が海に転落 心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6597459?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T07:17:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市早苗氏 自民総裁選出から1年",
+      "link": "https://news.yahoo.co.jp/pickup/6597465?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T08:05:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風27号 小笠原諸島の近海へ北上",
+      "link": "https://news.yahoo.co.jp/pickup/6597463?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T07:52:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オフロードバイクで転倒 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T08:19:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上信五 政界進出今年は1万%ない",
+      "link": "https://news.yahoo.co.jp/pickup/6597467?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T08:23:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北朝鮮 発射のミサイル「AI導入」",
+      "link": "https://news.yahoo.co.jp/pickup/6597469?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T08:46:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "那覇強殺 逮捕の米兵は容疑否認",
+      "link": "https://news.yahoo.co.jp/pickup/6597475?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T09:22:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神祝福の岡田氏 巨人2位に仰天",
+      "link": "https://news.yahoo.co.jp/pickup/6597470?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T08:52:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子3人育てる母 27歳で乳がん診断",
+      "link": "https://news.yahoo.co.jp/pickup/6597474?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T09:38:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜市長選が告示 7人が立候補",
+      "link": "https://news.yahoo.co.jp/pickup/6597482?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T10:24:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "独大統領 反移民の極右台頭に警告",
+      "link": "https://news.yahoo.co.jp/pickup/6597473?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T09:15:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "死刑執行失敗 州矯正局長が辞任",
+      "link": "https://news.yahoo.co.jp/pickup/6597480?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T10:24:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「出前一丁」香港で独自進化 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6597479?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T09:51:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "夫婦の性行為は義務? 法学者見解",
+      "link": "https://news.yahoo.co.jp/pickup/6597485?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T10:44:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "檜山沙耶 退社の経緯や結婚を語る",
+      "link": "https://news.yahoo.co.jp/pickup/6597486?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T10:54:27+09:00"
+    }
+  ]
+}
