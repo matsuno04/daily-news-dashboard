@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "matched_at": "2026-10-04T11:45:23.181578+09:00",
+  "matched_at": "2026-10-04T21:46:00.564875+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -50,10 +50,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "那覇ホテルで女性殺害 米海兵隊の上等兵を強盗殺人容疑で逮捕",
+          "title": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認",
           "link": "https://news.web.nhk/newsweb/na/nd-20261004de54164",
-          "description": "3日、那覇市のホテルで女性が殺害され所持品が持ち去られているのが見つかった事件で、警察は4日、沖縄に駐留するアメリカ海兵隊の20歳の上等兵を強盗殺人の疑いで逮捕しました。警察によりますと、調べに対し、…",
-          "pub_date": "2026-10-04T10:06:00+09:00"
+          "description": "3日、那覇市のホテルで女性を殺害したうえ所持品を奪ったとして、沖縄に駐留するアメリカ海兵隊の20歳の上等兵が強盗殺人の疑いで逮捕された事件で、女性の死因は首を圧迫されたことによる窒息だったことが警察へ…",
+          "pub_date": "2026-10-04T19:09:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -70,10 +70,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "台風27号 あすからあさって小笠原諸島に接近 高波警戒",
+          "title": "台風27号 あさってにかけ小笠原近海を北上の見込み 高波に警戒",
           "link": "https://news.web.nhk/newsweb/na/nd-20261004de54159",
-          "description": "大型で非常に強い台風27号は、東京の小笠原近海を北寄りに進んでいます。 非常に強い勢力のまま、5日夕方から6日はじめにかけて、小笠原諸島に接近するおそれがあり、高波に警戒が必要です。",
-          "pub_date": "2026-10-04T10:43:48+09:00"
+          "description": "大型で非常に強い台風27号は、6日にかけて東京の小笠原近海を北上する見込みで、高波に警戒が必要です。",
+          "pub_date": "2026-10-04T19:42:08+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -113,7 +113,7 @@
           "title": "ホワイトソックス 地区シリーズで先勝 村上が先制ホームラン",
           "link": "https://news.web.nhk/newsweb/na/nd-20261004de54148",
           "description": "大リーグのポストシーズンは3日から地区シリーズが始まり、ホワイトソックスの村上宗隆選手はガーディアンズとの第1戦で、ポストシーズン1号となる先制のツーランホームランを含む2安打の活躍でチームの白星スタ…",
-          "pub_date": "2026-10-04T07:37:09+09:00"
+          "pub_date": "2026-10-04T12:17:22+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -130,17 +130,57 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "淡路島で釣りの9歳男児 海に転落し重体 救助向かった知人不明",
+          "title": "淡路島 釣りの男児が海に転落し重体 助けに入った知人男性死亡",
           "link": "https://news.web.nhk/newsweb/na/nd-20261004de54174",
-          "description": "4日未明、兵庫県の淡路島で、釣りに来ていた9歳の男の子が海に転落し、およそ30分後に救助されましたが意識不明の重体となっています。 男の子を助けようと海に入った20代の知人の行方が分からなくなってい…",
-          "pub_date": "2026-10-04T08:27:00+09:00"
+          "description": "4日未明、兵庫県の淡路島で、釣りに来ていた9歳の男の子が海に転落し意識不明の重体となっているほか、男の子を助けようと海に入った知り合いの男性が遺体で見つかりました。警察は男の子が海に転落したいきさつを…",
+          "pub_date": "2026-10-04T16:37:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "海で9歳重体 救助向かった人不明",
-          "link": "https://news.yahoo.co.jp/pickup/6597478?source=rss",
+          "title": "9歳海に転落 救助図った男性死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6597492?source=rss",
           "description": "",
-          "pub_date": "2026-10-04T09:46:15+09:00"
+          "pub_date": "2026-10-04T12:07:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フライドバイ機長“祈りの間 見ないようにしていたら襲撃”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54216",
+          "description": "UAE＝アラブ首長国連邦からイスラエルに向かう旅客機で副操縦士が機長を刃物で襲ったとされる事件で、機長は副操縦士から「祈りたい」と言われ、その様子を見ないようにしていたところ、背後から襲われたことを明…",
+          "pub_date": "2026-10-04T13:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "副操縦士襲撃 緊迫の状況語る機長",
+          "link": "https://news.yahoo.co.jp/pickup/6597506?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T15:32:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "横浜市長選挙 パワハラ問題で辞職の前市長と新人 7人が立候補",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54266",
+          "description": "パワハラ問題で市長が辞職したことに伴う横浜市長選挙が4日、告示され、前の市長と新人のあわせて7人が立候補しました。選挙戦では市政の継続か刷新かを主な争点に論戦が交わされる見通しです。",
+          "pub_date": "2026-10-04T19:39:09+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "横浜市長選が告示 7人が立候補",
+          "link": "https://news.yahoo.co.jp/pickup/6597482?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T10:24:33+09:00"
         }
       }
     }
@@ -185,8 +225,8 @@
       "source": "NHK",
       "title": "ドジャースが地区シリーズ先勝 大谷翔平は1安打",
       "link": "https://news.web.nhk/newsweb/na/nd-20261004de54157",
-      "description": "大リーグのポストシーズンは3日、ナショナルリーグの西部地区で優勝したドジャースが地区シリーズの第1戦に臨み、東部地区優勝のブレーブスに5対3で勝って白星スタートです。 この試合、大谷翔平選手は2番・…",
-      "pub_date": "2026-10-04T08:05:00+09:00"
+      "description": "大リーグのポストシーズンはドジャースが地区シリーズの第1戦に臨み、ブレーブスに5対3で勝って白星スタートを切りました。大谷翔平選手は4打数1安打でした。 地区シリーズ、ナショナルリーグのもう1試合、…",
+      "pub_date": "2026-10-04T18:48:19+09:00"
     },
     {
       "source": "NHK",
@@ -194,6 +234,55 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261004de54185",
       "description": "安全保障上重要な土地などの取得の規制を強化するため、政府は、事前に審査してリスクがあると判断した場合は取得を認めないなど、「許可制」の導入を盛り込んだ法案を国会に提出する方針です。",
       "pub_date": "2026-10-04T10:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風25号被害のJR成田線一部区間 きょうから運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54194",
+      "description": "台風25号の影響で一部区間で運転できなくなっていた千葉県のJR成田線は、4日から運転を再開しました。",
+      "pub_date": "2026-10-04T12:22:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大島元衆院議長 川端元衆院副議長“議論戦わせ合意形成を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54195",
+      "description": "臨時国会が5日召集されるのを前に、NHKの日曜討論に大島元衆議院議長と川端元衆議院副議長が出演し、国会では与野党が議論を戦わせる一方で、丁寧に合意形成を図る努力も必要だと指摘しました。",
+      "pub_date": "2026-10-04T11:38:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アジア大会閉幕へ 組織委会長“競技運営 基本的に順調”と評価",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54249",
+      "description": "愛知・名古屋アジア大会が4日夜、閉幕するのを前に、大会組織委員会の会長を務める愛知県の大村秀章知事は、期間中、トラブルやミスが相次いだことについて「予期しないさまざまな問題や課題に対応していく毎日だっ…",
+      "pub_date": "2026-10-04T17:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54271",
+      "description": "ジャガイモの生産地で害虫に対する懸念が広がる中、注目されているのが害虫に強い「抵抗性品種」と呼ばれる品種です。 味や香りなどが違うことから切り替えが進んでいませんでしたが、今、大手食品メーカーの間で…",
+      "pub_date": "2026-10-04T19:31:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 小林政調会長 消費税減税法案成立へ野党に働きかけ強める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54277",
+      "description": "臨時国会が5日召集されるのを前に、自民党の小林政務調査会長は、佐賀県小城市で記者団に対し、食料品の消費税減税は物価高を乗り越えていくために必要だとした上で、法案の成立に向けて野党への働きかけを強めてい…",
+      "pub_date": "2026-10-04T16:43:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゴルフ 日本女子オープン シン・ジエ プレーオフ制し初優勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54320",
+      "description": "女子ゴルフの国内メジャー大会、「日本女子オープン」は最終ラウンドが行われ、韓国のシン・ジエ選手が桑木志帆選手とのプレーオフを制して初優勝を果たしました。",
+      "pub_date": "2026-10-04T19:16:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "簗農相“予算カット”発言への言及避け「現場主義で対応」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54280",
+      "description": "簗農林水産大臣は、4日、石川県を訪れて能登半島地震の被災地を視察しました。 記者団からは地元・栃木県の自治体に対する国の道路予算を「大幅にカットした」とする発言に関連した質問が相次ぎましたが、簗大臣…",
+      "pub_date": "2026-10-04T20:33:54+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -295,17 +384,17 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "海で9歳重体 救助向かった人不明",
+      "link": "https://news.yahoo.co.jp/pickup/6597478?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T09:46:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "子3人育てる母 27歳で乳がん診断",
       "link": "https://news.yahoo.co.jp/pickup/6597474?source=rss",
       "description": "",
       "pub_date": "2026-10-04T09:38:46+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "横浜市長選が告示 7人が立候補",
-      "link": "https://news.yahoo.co.jp/pickup/6597482?source=rss",
-      "description": "",
-      "pub_date": "2026-10-04T10:24:33+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -341,6 +430,258 @@
       "link": "https://news.yahoo.co.jp/pickup/6597486?source=rss",
       "description": "",
       "pub_date": "2026-10-04T10:54:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フーシ派 サウジの石油施設を攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6597490?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T11:44:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマに襲われ1カ月で16人死亡 露",
+      "link": "https://news.yahoo.co.jp/pickup/6597489?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T11:33:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鈴井貴之 脳梗塞診断に「マジ?」",
+      "link": "https://news.yahoo.co.jp/pickup/6597488?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T11:23:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米兵逮捕 外務省が米側に強く抗議",
+      "link": "https://news.yahoo.co.jp/pickup/6597496?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T13:05:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カーブで車3台絡む事故 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6597495?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T13:02:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風27号 東北〜関東でも高波注意",
+      "link": "https://news.yahoo.co.jp/pickup/6597491?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T12:28:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "昨年死去「広島太郎さん」追悼展",
+      "link": "https://news.yahoo.co.jp/pickup/6597497?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T13:21:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜敗戦 織田の高校野球終わる",
+      "link": "https://news.yahoo.co.jp/pickup/6597501?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T14:21:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新代表選出の公明 難路の再出発",
+      "link": "https://news.yahoo.co.jp/pickup/6597477?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T09:52:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "片山さつき財務相 事前運動の疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6597502?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T14:52:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "那覇強殺 タトゥーが逮捕手がかり",
+      "link": "https://news.yahoo.co.jp/pickup/6597504?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T14:32:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上信五 新番組のMC即決できず",
+      "link": "https://news.yahoo.co.jp/pickup/6597503?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T14:43:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "那覇強殺 女性の死因は「窒息」",
+      "link": "https://news.yahoo.co.jp/pickup/6597511?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T15:49:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "企業は「高専卒」に熱視線か 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T15:29:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "脳出血で倒れ失語症に 司会に挑戦",
+      "link": "https://news.yahoo.co.jp/pickup/6597510?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T15:51:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松村沙友理 子ども服10万円爆買い",
+      "link": "https://news.yahoo.co.jp/pickup/6597508?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T15:27:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岩屋氏を異例の厚遇 中国側思惑は",
+      "link": "https://news.yahoo.co.jp/pickup/6597518?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T16:34:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪の2市合併検討へ 副首都視野",
+      "link": "https://news.yahoo.co.jp/pickup/6597517?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T16:24:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "離婚後も同居の元夫婦 メリデメは",
+      "link": "https://news.yahoo.co.jp/pickup/6597516?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T16:20:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会巡るトラブル 識者見解",
+      "link": "https://news.yahoo.co.jp/pickup/6597519?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T16:55:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "猪俣氏契約解除 なぜ取締役会決定",
+      "link": "https://news.yahoo.co.jp/pickup/6597521?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T17:05:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "那覇強殺 米海兵隊側コメント発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597525?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T17:42:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不倫バラすとの相手言動 法的問題",
+      "link": "https://news.yahoo.co.jp/pickup/6597526?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T17:45:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サザン関口氏会社 申告漏れを謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6597529?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T18:02:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリックス コーチ2人の退団発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597524?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T17:36:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜流星 世界に誇る日本映画を",
+      "link": "https://news.yahoo.co.jp/pickup/6597520?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T16:57:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "独 ウに2400億円相当を追加支援へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597536?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T18:54:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モトクロスでバイク転倒 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6597528?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T17:51:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロッテ5選手に戦力外 一條は引退",
+      "link": "https://news.yahoo.co.jp/pickup/6597531?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T18:23:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜流星 日頃SNSを見る習慣ない",
+      "link": "https://news.yahoo.co.jp/pickup/6597535?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T18:35:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "故意に車を対向車に衝突疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597540?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T19:20:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア大会 マツケンサンバで終幕",
+      "link": "https://news.yahoo.co.jp/pickup/6597546?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T20:03:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "J2新潟サポ 飲料水などまき散らす",
+      "link": "https://news.yahoo.co.jp/pickup/6597544?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T19:40:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風27号 太平洋側は高波に警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6597534?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T18:43:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "那覇強殺事件 遺族がコメント発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597545?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T20:28:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ごみ収集車で頭巻き込まれる 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T20:33:46+09:00"
     }
   ]
 }
