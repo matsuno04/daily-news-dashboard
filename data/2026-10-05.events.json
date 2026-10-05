@@ -1,0 +1,403 @@
+{
+  "date": "2026-10-05",
+  "matched_at": "2026-10-05T11:45:22.646627+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ゴルフ 日本女子オープン シン・ジエ初優勝 国内メジャー4冠初",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54320",
+          "description": "女子ゴルフの国内メジャー大会、「日本女子オープン」は最終ラウンドが行われ、韓国のシン・ジエ選手が桑木志帆選手とのプレーオフを制して初優勝を果たしました。 シン選手はこれで初めて4つの国内メジャー大会…",
+          "pub_date": "2026-10-04T22:18:39+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "凱旋門賞 武豊12度目挑戦も夢散",
+          "link": "https://news.yahoo.co.jp/pickup/6597559?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T23:16:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54164",
+          "description": "3日、那覇市のホテルで女性を殺害したうえ所持品を奪ったとして、沖縄に駐留するアメリカ海兵隊の20歳の上等兵が強盗殺人の疑いで逮捕された事件で、女性の死因は首を圧迫されたことによる窒息だったことが警察へ…",
+          "pub_date": "2026-10-04T23:13:24+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "那覇強殺 女性の首にひも状の痕",
+          "link": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
+          "description": "",
+          "pub_date": "2026-10-05T08:19:52+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "臨時国会きょう召集 消費税減税法案などで論戦へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54388",
+          "description": "先の内閣改造後初めての論戦の場となる臨時国会が5日召集されます。政府・与党が、食料品の消費税減税に関する法案などの成立を図るのに対し、野党側は物価高対策としての効果や財源などをただす構えで活発な論戦が…",
+          "pub_date": "2026-10-05T08:27:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "臨時国会召集へ 消費減税など焦点",
+          "link": "https://news.yahoo.co.jp/pickup/6597564?source=rss",
+          "description": "",
+          "pub_date": "2026-10-05T07:18:12+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 AI政策を調整する司令塔組織を設立",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54399",
+          "description": "AIの安全性をめぐる議論が高まるなか、アメリカのトランプ大統領はAIに関する政策の司令塔となる新たな組織を設立し、情報機関を統括する国家情報長官らが責任者を務めると発表しました。",
+          "pub_date": "2026-10-05T06:35:39+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "AI政策司令塔SIフォース 米が創設",
+          "link": "https://news.yahoo.co.jp/pickup/6597563?source=rss",
+          "description": "",
+          "pub_date": "2026-10-05T06:47:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ブラジル大統領選挙 10月25日に決選投票へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54416",
+          "description": "4日に投票が行われた南米ブラジルの大統領選挙は、いずれの候補も当選に必要な有効票の過半数を得ることができず、右派で前大統領の長男のフラビオ・ボルソナロ上院議員と左派で現職のルーラ大統領の上位2名による…",
+          "pub_date": "2026-10-05T09:49:51+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ブラジル大統領選 決選投票の公算",
+          "link": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
+          "description": "",
+          "pub_date": "2026-10-04T21:54:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "株価 3か月ぶりに一時7万円台回復 取引開始直後から買い注文",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54437",
+          "description": "週明けの5日の東京株式市場、アメリカの早期の利上げ観測が後退したことを背景に取引開始直後から買い注文が広がり、日経平均株価は7万円台を回復しました。",
+          "pub_date": "2026-10-05T11:10:34+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日経平均が一時7万円台 3カ月ぶり",
+          "link": "https://news.yahoo.co.jp/pickup/6597585?source=rss",
+          "description": "",
+          "pub_date": "2026-10-05T10:51:46+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54358",
+      "description": "日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。 メールアドレスなどの情報が漏えいしたとみられるとい…",
+      "pub_date": "2026-10-04T21:30:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サッカー日本代表 ニュージーランド戦へ最終調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54361",
+      "description": "サッカー日本代表は5日に東京で行われるニュージーランドとの強化試合を前に最終調整し、上田綺世選手が「体はいい状態なので活躍したい」と意気込みを述べました。",
+      "pub_date": "2026-10-04T22:37:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54373",
+      "description": "ウクライナの首都キーウで4日、市内を流れる川にかかる橋が無人機の攻撃を受けました。キーウではここ数日、橋がロシア軍に狙われていて、市民に心理的な圧力を加える意図があるとの見方が出ています。",
+      "pub_date": "2026-10-04T23:45:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "競馬 凱旋門賞 日本馬は11着と14着 初優勝ならず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54386",
+      "description": "競馬の世界最高峰のレース「凱旋門賞」が4日、フランスで行われ、日本から2頭が出走しましたが11着と14着に終わり、初優勝はなりませんでした。",
+      "pub_date": "2026-10-05T00:41:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54384",
+      "description": "3日、那覇市で女性を殺害したうえ所持品を奪ったとして、沖縄に駐留するアメリカ海兵隊の20歳の上等兵が強盗殺人の疑いで逮捕された事件で、女性の首にはコードのようなものが巻かれ、絞められた痕があったことが…",
+      "pub_date": "2026-10-05T11:17:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風27号 あすにかけて小笠原近海を北上 高波に警戒を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54402",
+      "description": "大型で非常に強い台風27号は、6日にかけて東京の小笠原近海を北上する見込みで、高波に警戒が必要です。",
+      "pub_date": "2026-10-05T11:24:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "柔道世界選手権 女子48キロ 古賀若菜が初の金メダル",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54396",
+      "description": "柔道の世界選手権が4日、アゼルバイジャンで開幕し、女子48キロ級で古賀若菜選手が初めて金メダルを獲得しました。",
+      "pub_date": "2026-10-05T05:17:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ノーベル賞 5日は生理学・医学賞の発表日",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54368",
+      "description": "5日はノーベル生理学・医学賞の発表日です。",
+      "pub_date": "2026-10-05T04:49:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "18歳未満の選挙運動禁止めぐる裁判 原告側控訴の方針",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54360",
+      "description": "18歳未満の選挙運動を禁止する公職選挙法の規定を「憲法違反」だと指摘した一方、賠償などを求める訴えを退けた東京地方裁判所の判決について、原告と弁護団が控訴する方針を固めたことがわかりました。 最終的…",
+      "pub_date": "2026-10-05T05:14:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風25号で不通の内房線 一部区間で折り返し運転始まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54411",
+      "description": "台風25号に伴う大雨の影響で一部区間で運転見合わせが続いているJR内房線は、線路への被害がなかった木更津駅と長浦駅の区間で5日から折り返し運転を始めました。",
+      "pub_date": "2026-10-05T08:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中東情勢の価格転嫁 中小企業の半数\"一部受け入れ\" 公取調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54367",
+      "description": "公正取引委員会は、立場の弱い中小企業などが、中東情勢を受けた石油関連のコストの上昇分を取引価格に適正に転嫁できているかを調査し、その結果を公表しました。 半数以上の事業者が、「一部でも価格転嫁を受け…",
+      "pub_date": "2026-10-05T07:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "横田めぐみさん62歳に 母親の早紀江さん「悔しさといらだち」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54222",
+      "description": "中学1年生の時に北朝鮮に拉致された横田めぐみさんが5日、62歳の誕生日を迎えました。ことし90歳となった母親の早紀江さんは「50年近く頑張っても声を聞くこともできないことに悔しさといらだちを感じます」…",
+      "pub_date": "2026-10-05T05:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "石川 小松空港 滑走路にひび割れ 使用できない状態に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54452",
+      "description": "国土交通省小松空港事務所によりますと、石川県の小松空港で滑走路にひび割れが見つかり、現在、使用できない状態になっているということです。 復旧のめどは立っていないということです。",
+      "pub_date": "2026-10-05T11:02:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風29号が発生 今後の情報に注意を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54440",
+      "description": "5日午前、日本のはるか南東のマーシャル諸島近海で台風29号が発生しました。気象庁は今後の情報に注意するよう呼びかけています。",
+      "pub_date": "2026-10-05T11:19:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風28号が発生 ハリケーンから台風に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54429",
+      "description": "5日午前、日本のはるか南東のミッドウェー諸島近海で台風28号が発生しました。",
+      "pub_date": "2026-10-05T11:07:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露元首相 プーチン氏の過ち語る",
+      "link": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T21:34:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "遮断器ない踏切 15歳はねられ死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6597556?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T22:30:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛知県知事 アジア大会を巡り謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6597554?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T22:00:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロッテ一條力真 通算1試合で引退",
+      "link": "https://news.yahoo.co.jp/pickup/6597555?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T22:25:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風被害の千葉 なぜ盛り土崩落",
+      "link": "https://news.yahoo.co.jp/pickup/6597557?source=rss",
+      "description": "",
+      "pub_date": "2026-10-04T23:43:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "知人女性の腹刺した疑い 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597560?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T06:11:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "駐車場で親子3人に車衝突 父重傷",
+      "link": "https://news.yahoo.co.jp/pickup/6597561?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T06:19:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日 新監督候補に工藤公康氏浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6597565?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T07:23:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリ 前楽天監督・三木氏招へいへ",
+      "link": "https://news.yahoo.co.jp/pickup/6597562?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T06:32:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI自動運航船 自衛隊に導入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597567?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T07:43:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人情報提供 事前報告を義務化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597566?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T07:43:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "満州アヘンスクワッドがアニメ化",
+      "link": "https://news.yahoo.co.jp/pickup/6597569?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T08:03:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DV被害者らの情報漏洩 5年で68件",
+      "link": "https://news.yahoo.co.jp/pickup/6597568?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T07:55:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "8年で20倍 民泊規制強化と争奪戦",
+      "link": "https://news.yahoo.co.jp/pickup/6597572?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T08:51:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報 ドジャースvs.ブレーブス",
+      "link": "https://news.yahoo.co.jp/pickup/6597571?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T08:51:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTに「アナゴさんの声」話題",
+      "link": "https://news.yahoo.co.jp/pickup/6597574?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T09:00:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米軍 英空軍基地から爆撃機を撤収",
+      "link": "https://news.yahoo.co.jp/pickup/6597578?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T10:02:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マスク氏「スペースXSI」に改称へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597576?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T09:34:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ネイリスト殺害 大晦日の「悲劇」",
+      "link": "https://news.yahoo.co.jp/pickup/6597577?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T09:46:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "劇場版「虎に翼」新キャスト発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597579?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T10:06:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イエメン フーシ派へ軍事作戦開始",
+      "link": "https://news.yahoo.co.jp/pickup/6597582?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T10:49:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "6人死亡放火殺人 起訴内容を否認",
+      "link": "https://news.yahoo.co.jp/pickup/6597581?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T11:08:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "定置網で男性が見つかる 死亡確認",
+      "link": "https://news.yahoo.co.jp/pickup/6597583?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T10:36:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京ヴェルディ 監督を電撃解任",
+      "link": "https://news.yahoo.co.jp/pickup/6597584?source=rss",
+      "description": "",
+      "pub_date": "2026-10-05T10:48:38+09:00"
+    }
+  ]
+}
