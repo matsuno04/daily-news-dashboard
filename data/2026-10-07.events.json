@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "matched_at": "2026-10-07T11:45:21.072128+09:00",
+  "matched_at": "2026-10-07T21:46:03.364895+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -17,10 +17,10 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "速報ドジャース 山本由伸が先発",
-          "link": "https://news.yahoo.co.jp/pickup/6597766?source=rss",
+          "title": "ノーベル化学賞に硤合憲三氏ら",
+          "link": "https://news.yahoo.co.jp/pickup/6597913?source=rss",
           "description": "",
-          "pub_date": "2026-10-07T07:03:40+09:00"
+          "pub_date": "2026-10-07T19:16:02+09:00"
         }
       }
     },
@@ -70,17 +70,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "ドジャース 山本由伸が好投 リーグ優勝決定シリーズ進出に王手",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55630",
-          "description": "大リーグのポストシーズンはナショナルリーグの地区シリーズ第3戦が行われ、ドジャースがブレーブスに3対1で勝ち、対戦成績を2勝1敗としてリーグ優勝決定シリーズ進出に王手をかけました。 ドジャースは4回…",
-          "pub_date": "2026-10-07T11:26:27+09:00"
+          "title": "【随時更新】ノーベル化学賞に東京理科大学名誉教授",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261006de55098",
+          "description": "ことしのノーベル化学賞の受賞者に、自然界に存在するアミノ酸などの構造の起源の謎を明らかにし、人工的に再現できる方法を見いだした東京理科大学名誉教授のそ※合憲三さんらが選ばれました。日本からのノーベル賞…",
+          "pub_date": "2026-10-07T21:22:20+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "ド軍快勝 地区シリーズ突破に王手",
-          "link": "https://news.yahoo.co.jp/pickup/6597840?source=rss",
+          "title": "ノーベル化学賞に硤合憲三氏ら2人",
+          "link": "https://news.yahoo.co.jp/pickup/6597917?source=rss",
           "description": "",
-          "pub_date": "2026-10-07T10:22:50+09:00"
+          "pub_date": "2026-10-07T19:58:19+09:00"
         }
       }
     },
@@ -90,17 +90,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "8月の実質賃金 前年同月比1.5％増 8か月連続プラス",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261006de55521",
-          "description": "ことし8月の働く人1人あたりの現金給与の総額は、前の年の同じ月と比べて3.8％増加し、4年8か月連続のプラスとなりました。 また、物価を反映した実質賃金も1.5％増えて、8か月連続のプラスとなりまし…",
-          "pub_date": "2026-10-07T08:39:00+09:00"
+          "title": "ドジャース 山本由伸が好投 リーグ優勝決定シリーズ進出に王手",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55630",
+          "description": "大リーグのポストシーズンはナショナルリーグの地区シリーズ第3戦が行われ、ドジャースは先発の山本由伸投手が7回1失点の力投でブレーブスに3対1で勝ち、対戦成績を2勝1敗としてリーグ優勝決定シリーズ進出に…",
+          "pub_date": "2026-10-07T12:23:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "実質賃金10年ぶり8カ月連続プラス",
-          "link": "https://news.yahoo.co.jp/pickup/6597835?source=rss",
+          "title": "ド軍快勝 地区シリーズ突破に王手",
+          "link": "https://news.yahoo.co.jp/pickup/6597840?source=rss",
           "description": "",
-          "pub_date": "2026-10-07T09:55:21+09:00"
+          "pub_date": "2026-10-07T10:22:50+09:00"
         }
       }
     },
@@ -113,7 +113,7 @@
           "title": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委",
           "link": "https://news.web.nhk/newsweb/na/nd-20261007de55664",
           "description": "国内の大手ビールメーカー4社が出荷するビールの値上げ幅などを事前に示し合わせるカルテルを結んだ疑いがあるとして、公正取引委員会は独占禁止法違反の疑いで強制調査を始め、各社の本社を一斉に捜索しています。…",
-          "pub_date": "2026-10-07T10:54:14+09:00"
+          "pub_date": "2026-10-07T19:27:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -121,6 +121,146 @@
           "link": "https://news.yahoo.co.jp/pickup/6597843?source=rss",
           "description": "",
           "pub_date": "2026-10-07T10:45:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "立花孝志党首襲撃事件 被告に懲役12年を求刑",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55732",
+          "description": "去年、東京・霞が関で、政治団体「NHKから国民を守る党」の立花孝志党首をナタで切りつけて殺害しようとした罪に問われている32歳の被告に対し、検察は「極めて強固な殺意があり、強く非難すべきだ」として懲役…",
+          "pub_date": "2026-10-07T12:00:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "立花氏切りつけ 男に懲役12年求刑",
+          "link": "https://news.yahoo.co.jp/pickup/6597860?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T12:47:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "新潟 6人死亡菓子工場火災 三幸製菓の当時の幹部4人在宅起訴",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55856",
+          "description": "2022年、新潟県にある菓子メーカー「三幸製菓」の工場が全焼して従業員6人が死亡した火災で、新潟地方検察庁が当時の代表取締役ら幹部4人を安全対策を怠ったとして業務上過失致死の罪で在宅起訴しました。",
+          "pub_date": "2026-10-07T18:45:33+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "三幸製菓火災 元CEOらを在宅起訴",
+          "link": "https://news.yahoo.co.jp/pickup/6597897?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T17:37:17+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "18歳未満の選挙運動禁止めぐる裁判 原告側が控訴",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55924",
+          "description": "18歳未満の選挙運動を禁止する公職選挙法の規定を「憲法違反」だと指摘した一方、賠償などを求める訴えを退けた東京地方裁判所の判決について、原告と弁護団が7日、控訴したことを明らかにしました。最終的には最…",
+          "pub_date": "2026-10-07T17:10:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "選挙運動巡る判決 高校生らが控訴",
+          "link": "https://news.yahoo.co.jp/pickup/6597895?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T17:31:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米海兵隊員逮捕の強盗殺人 軍関係者資格持つカードで支払いか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de56022",
+          "description": "那覇市のホテルで女性が殺害された強盗殺人事件でホテルの支払いにアメリカ軍の関係者が会員資格を持つカードが使われ、逮捕されたアメリカの海兵隊員が同じ種類のカードを所持していたことが、捜査関係者への取材で…",
+          "pub_date": "2026-10-07T18:18:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "沖縄知事 首相に事件再発防止要求",
+          "link": "https://news.yahoo.co.jp/pickup/6597915?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T19:36:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55973",
+          "description": "損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。",
+          "pub_date": "2026-10-07T18:08:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "損保J 顧客情報6万件が漏えいか",
+          "link": "https://news.yahoo.co.jp/pickup/6597901?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T18:14:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プーチン大統領の誕生日に大規模攻撃か 12人以上死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de56090",
+          "description": "ウクライナでは7日にかけて各地でロシア軍による大規模な攻撃があり、10月7日がプーチン大統領の誕生日であることからゼレンスキー大統領は、攻撃は「ロシア軍から大統領への贈り物だ」と非難しました。",
+          "pub_date": "2026-10-07T18:50:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ガザ戦闘から3年 死者は7万4000人",
+          "link": "https://news.yahoo.co.jp/pickup/6597866?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T14:08:04+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de56048",
+          "description": "ソフトバンクの子会社の「IDCフロンティア」は、システムに不正アクセスがあり、自社が提供するクラウドサービスの一部に障害が発生していると発表しました。",
+          "pub_date": "2026-10-07T19:54:58+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "攻撃で情報漏洩被害 今年500件超",
+          "link": "https://news.yahoo.co.jp/pickup/6597815?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T07:31:04+09:00"
         }
       }
     }
@@ -156,13 +296,6 @@
     },
     {
       "source": "NHK",
-      "title": "ノーベル賞 7日は化学賞の発表日",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55098",
-      "description": "7日はノーベル化学賞の発表日です。",
-      "pub_date": "2026-10-07T05:20:00+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "アメリカと中国が核関連施設の相互訪問協議か 米メディア報道",
       "link": "https://news.web.nhk/newsweb/na/nd-20261007de55632",
       "description": "中国が軍事力を急速に強化させるなか、アメリカのトランプ政権が、中国との間で核関連施設を相互に訪問することについて協議しているとアメリカメディアが報じました。",
@@ -177,10 +310,94 @@
     },
     {
       "source": "NHK",
+      "title": "8月の実質賃金 前年同月比1.5％増 8か月連続プラス",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55521",
+      "description": "ことし8月の働く人1人あたりの現金給与の総額は、前の年の同じ月と比べて3.8％増加し、4年8か月連続のプラスとなりました。 また、物価を反映した実質賃金も1.5％増えて、8か月連続のプラスとなりまし…",
+      "pub_date": "2026-10-07T08:39:00+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "ブルガリア沖の黒海で民間船に無人機攻撃 行方不明者も",
       "link": "https://news.web.nhk/newsweb/na/nd-20261007de55636",
       "description": "東ヨーロッパのブルガリア沖の黒海で、2隻の民間の船が無人機と無人艇の攻撃を受けて一部の乗組員が行方不明となり、ブルガリアの首相は「断じて容認できない」と厳しく非難しました。",
-      "pub_date": "2026-10-07T09:35:25+09:00"
+      "pub_date": "2026-10-07T09:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "簗農相“道路予算カット”発言で働きかけ改めて否定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55717",
+      "description": "簗農林水産大臣は、地元の道路予算に関する国からの配分を「大幅にカットした」とする発言をめぐり、国土交通省が「働きかけや圧力を受けたことはなかったと思う」と説明したことを受けて、7日、記者団に「減額を求…",
+      "pub_date": "2026-10-07T17:47:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "沖縄 古謝知事が高市首相に面会",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55698",
+      "description": "東京を訪れている沖縄県の古謝知事はきょう、小泉防衛大臣や茂木外務大臣と会談したのに続いて、さきほど、高市総理大臣と面会しました。",
+      "pub_date": "2026-10-07T11:45:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "万博背任事件 竹中工務店元社員を再逮捕 別工事でも水増しか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55780",
+      "description": "大阪・関西万博の関連工事をめぐる背任事件で、大手ゼネコンの竹中工務店で現場責任者を務めていた61歳の元社員が、別の工事でも下請け会社に水増し請求をさせて竹中工務店に1000万円余りの損害を与えたとして…",
+      "pub_date": "2026-10-07T12:58:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "簗農相「法令に従い適正に処理」シャトルバス報道受け",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55847",
+      "description": "簗農林水産大臣は、選挙活動中に、手配したシャトルバスで自身の支持者を無料で送迎したことが法令違反にあたるのではないかなどと一部で報じられたことについて、7日、農林水産省で記者団に対し「法令に従い、適正…",
+      "pub_date": "2026-10-07T15:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "吉原の同系列風俗店を摘発 9人逮捕 47億円余売り上げか 警視庁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55830",
+      "description": "東京 台東区にある同じ系列の2つの風俗店で売春の場所を提供していたとして、店の責任者ら9人が逮捕されました。およそ5年間の売り上げはあわせて47億円余りに上るということで、警視庁は資金の流れなどを調べ…",
+      "pub_date": "2026-10-07T14:46:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "80歳暴力団員を海岸法違反疑いで逮捕 18年前から海の家営業か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55816",
+      "description": "指定暴力団・住吉会系の80歳の暴力団員が、千葉県の海水浴場で無許可で海の家を営業していたなどとして、海岸法違反の疑いで逮捕されました。警視庁は18年前から同じ場所で営業していたとみて調べています。",
+      "pub_date": "2026-10-07T14:50:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ちぃたん☆」めぐる裁判 高知 須崎市に2審も賠償命令",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55869",
+      "description": "高知県須崎市のマスコットキャラクター「しんじょう君」に似たカワウソのキャラクター「ちぃたん☆」を運営する芸能事務所が、市から著作権の侵害だと言われて活動を妨害されたと訴えた裁判で、2審の東京高等裁判所…",
+      "pub_date": "2026-10-07T16:15:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "マツコ・デラックスさん 1日警察署長 詐欺などに注意呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55965",
+      "description": "今月11日から「全国地域安全運動」が始まるのを前に、タレントのマツコ・デラックスさんが警視庁の1日署長を務め、特殊詐欺などへの注意を呼びかけました。",
+      "pub_date": "2026-10-07T17:52:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
+      "description": "国会は衆議院で各党の代表質問が始まり、高市総理大臣は、物価高対策は来年4月からの食料品の消費税減税が実施可能な最善の方法だと訴え、理解を求めました。 また、簗農林水産大臣が地元の自治体に対する国の道…",
+      "pub_date": "2026-10-07T18:21:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【ライブ配信】ノーベル化学賞 大学で会見 午後10時から",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54630",
+      "description": "東京理科大学によりますと、このあと午後10時から東京 新宿区にある大学に設けられた会見場で、本人と学長などが出席して記者会見を行うということです。 この記事でライブ配信するほか、記者会見での発言を速…",
+      "pub_date": "2026-10-07T21:24:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「伝説の教授」「昔の学者肌」「研究一筋」各地で喜びの声",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56145",
+      "description": "ことしのノーベル化学賞の受賞者に東京理科大学名誉教授のそ※合憲三さんらが選ばれましたことについて、各地で喜びの声が上がりました。",
+      "pub_date": "2026-10-07T21:22:04+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -254,6 +471,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "速報ドジャース 山本由伸が先発",
+      "link": "https://news.yahoo.co.jp/pickup/6597766?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T07:03:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "C・ロナウド 代表離脱を巡り激白",
       "link": "https://news.yahoo.co.jp/pickup/6597811?source=rss",
       "description": "",
@@ -265,13 +489,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6597814?source=rss",
       "description": "",
       "pub_date": "2026-10-07T07:22:44+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "攻撃で情報漏洩被害 今年500件超",
-      "link": "https://news.yahoo.co.jp/pickup/6597815?source=rss",
-      "description": "",
-      "pub_date": "2026-10-07T07:31:04+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -331,6 +548,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "実質賃金10年ぶり8カ月連続プラス",
+      "link": "https://news.yahoo.co.jp/pickup/6597835?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T09:55:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "執行失敗の米死刑囚 意識戻り発話",
       "link": "https://news.yahoo.co.jp/pickup/6597833?source=rss",
       "description": "",
@@ -377,6 +601,258 @@
       "link": "https://news.yahoo.co.jp/pickup/6597841?source=rss",
       "description": "",
       "pub_date": "2026-10-07T10:29:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府 第2次補正予算編成を検討",
+      "link": "https://news.yahoo.co.jp/pickup/6597844?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T11:11:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "転落巻き添え死は「殺人」父訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6597845?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T11:34:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PIECE OF BAKE運営破産申立てへ",
+      "link": "https://news.yahoo.co.jp/pickup/6597853?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T12:10:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大舞台で7回10K 由伸を監督絶賛",
+      "link": "https://news.yahoo.co.jp/pickup/6597846?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T11:34:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米歌手 F・ジャクソンさん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6597857?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T12:05:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗農相 会見で辞任を改めて否定",
+      "link": "https://news.yahoo.co.jp/pickup/6597854?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T12:00:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハッカー集団Qilin 取材に応じる",
+      "link": "https://news.yahoo.co.jp/pickup/6597861?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T13:14:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハッカー集団Qilin 日本に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6597862?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T13:31:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソフト強豪主将自殺 高校側を提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6597865?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T14:07:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「火星の夜明け」画像公開 NASA",
+      "link": "https://news.yahoo.co.jp/pickup/6597850?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T11:57:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Nコン 反田恭平氏の出演取りやめ",
+      "link": "https://news.yahoo.co.jp/pickup/6597867?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T14:12:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "採決で居眠り 起立せず「反対」に",
+      "link": "https://news.yahoo.co.jp/pickup/6597872?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T14:36:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜高・織田翔希 進路巡り会見へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597876?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T15:08:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "公取委 ビール大手の動き長年注視",
+      "link": "https://news.yahoo.co.jp/pickup/6597875?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T15:09:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "奈良母娘遺体 殺人疑いで男再逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597874?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T14:59:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍J新ユニ発表 マーク刷新「SJ」",
+      "link": "https://news.yahoo.co.jp/pickup/6597870?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T14:56:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "芸人・阿曽山大噴火 難病と診断",
+      "link": "https://news.yahoo.co.jp/pickup/6597878?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T15:42:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗氏が別会合でも同様の発言 証言",
+      "link": "https://news.yahoo.co.jp/pickup/6597882?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T16:33:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "貸トランクルームで遺体発見 愛知",
+      "link": "https://news.yahoo.co.jp/pickup/6597880?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T16:36:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海の家を無許可経営疑い 組長逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597885?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T16:55:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンジャロ求め訪日 韓国で広がり",
+      "link": "https://news.yahoo.co.jp/pickup/6597871?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T14:38:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "茨城県・茨城県警のHP 閲覧不可",
+      "link": "https://news.yahoo.co.jp/pickup/6597884?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T16:38:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長雨で道路にコケ増殖 転倒に警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6597881?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T16:24:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "住民興奮 神戸市灘区にコウノトリ",
+      "link": "https://news.yahoo.co.jp/pickup/6597891?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T17:19:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍J セリーグ連覇の阪神は選出0",
+      "link": "https://news.yahoo.co.jp/pickup/6597896?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T17:51:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "HIS 旅券情報627人分が流出の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6597900?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T18:04:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "琵琶湖に転落し心肺停止 10代か",
+      "link": "https://news.yahoo.co.jp/pickup/6597903?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T18:08:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「〇〇レディー」呼称 変化広がり",
+      "link": "https://news.yahoo.co.jp/pickup/6597879?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T15:46:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍J 阪神・オリックスから選出0",
+      "link": "https://news.yahoo.co.jp/pickup/6597906?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T18:06:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トラブル相次ぐ歯の自由診療 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6597890?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T18:21:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中1初の100m10秒台 特技はピアノ",
+      "link": "https://news.yahoo.co.jp/pickup/6597911?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T19:10:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相を中国側呼び捨て 外務省批判",
+      "link": "https://news.yahoo.co.jp/pickup/6597919?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T20:13:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "育休でパタハラ 男性が会社側提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6597902?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T18:13:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "化学賞 日本人は2年連続10人目",
+      "link": "https://news.yahoo.co.jp/pickup/6597916?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T19:56:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宜野湾で女性殺害疑い 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597924?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T21:17:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大会締切誤認 大阪中体連が報告書",
+      "link": "https://news.yahoo.co.jp/pickup/6597894?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T17:42:09+09:00"
     }
   ]
 }
