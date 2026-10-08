@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "matched_at": "2026-10-08T11:45:18.313141+09:00",
+  "matched_at": "2026-10-08T21:46:06.745903+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -57,10 +57,10 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "ビール大手を調査 経営層関与焦点",
-          "link": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
+          "title": "ビール4社 価格一覧表を共有か",
+          "link": "https://news.yahoo.co.jp/pickup/6597970?source=rss",
           "description": "",
-          "pub_date": "2026-10-08T09:38:29+09:00"
+          "pub_date": "2026-10-08T11:17:33+09:00"
         }
       }
     },
@@ -70,29 +70,9 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
-          "description": "大リーグのポストシーズンはナショナルリーグの地区シリーズ第4戦が行われ、ドジャースがブレーブスに4対1で勝って、対戦成績を3勝1敗として3年連続でのリーグ優勝決定シリーズ進出を決めました。",
-          "pub_date": "2026-10-08T10:51:00+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "速報 ドジャースvs.ブレーブス",
-          "link": "https://news.yahoo.co.jp/pickup/6597893?source=rss",
-          "description": "",
-          "pub_date": "2026-10-08T07:00:58+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0005",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
           "title": "プロ野球 中日の新監督に工藤公康氏 就任へ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261008de56275",
-          "description": "プロ野球、中日の新しい監督にソフトバンクの監督時代、チームを5回の日本一に導いた工藤公康氏が就任することになりました。",
+          "description": "プロ野球、中日の新しい監督にソフトバンクの監督時代、チームを5回の日本一に導いた工藤公康氏が、就任することになりました。",
           "pub_date": "2026-10-08T10:49:00+09:00"
         },
         "Yahoo!ニュース": {
@@ -105,7 +85,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -121,6 +101,46 @@
           "link": "https://news.yahoo.co.jp/pickup/6597949?source=rss",
           "description": "",
           "pub_date": "2026-10-08T08:48:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ノーベル文学賞にアン・カーソン氏 カナダの詩人",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55972",
+          "description": "ことしのノーベル文学賞に、カナダの詩人、アン・カーソン氏が選ばれました。",
+          "pub_date": "2026-10-08T20:49:49+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ノーベル文学賞にカナダ出身詩人",
+          "link": "https://news.yahoo.co.jp/pickup/6598049?source=rss",
+          "description": "",
+          "pub_date": "2026-10-08T20:17:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56508",
+          "description": "プロ野球、阪神の佐藤輝明選手がセ・リーグの打率、ホームラン、打点でいずれもタイトルを獲得し三冠王に輝きました。 プロ野球の三冠王は、2022年に当時ヤクルトの村上宗隆選手が達成して以来、4年ぶり、史…",
+          "pub_date": "2026-10-08T20:52:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "阪神・佐藤輝明が三冠王を獲得",
+          "link": "https://news.yahoo.co.jp/pickup/6598052?source=rss",
+          "description": "",
+          "pub_date": "2026-10-08T20:59:13+09:00"
         }
       }
     }
@@ -254,10 +274,129 @@
     },
     {
       "source": "NHK",
+      "title": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
+      "description": "大リーグのポストシーズンはナショナルリーグの地区シリーズ第4戦が行われ、ドジャースがブレーブスに4対1で勝ち、対戦成績を3勝1敗として3年連続となるリーグ優勝決定シリーズ進出を決めました。",
+      "pub_date": "2026-10-08T17:14:30+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "トランプ大統領 ロシア研究所職員死亡“生物兵器”否定的見方",
       "link": "https://news.web.nhk/newsweb/na/nd-20261008de56250",
       "description": "アメリカのトランプ大統領は、ロシアでペスト対策研究所の職員1人が死亡したケースをめぐり、生物兵器との関わりについて否定的な見方を示しました。ロシア側から事態は十分に制御できているとの説明があったとして…",
       "pub_date": "2026-10-08T10:34:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "受賞から一夜明け “どうなるかわからない研究含め支援を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56371",
+      "description": "ノーベル化学賞の発表から一夜明け、受賞が決定した東京理科大学名誉教授のそ※合憲三さんは8日朝、NHKの単独インタビューに応じ、日本の科学研究への支援について「まだどうなるかわからないような研究を含めて…",
+      "pub_date": "2026-10-08T13:59:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "首相“消費税減税 社会保障財源影響与えず” 簗農相続投の考え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56280",
+      "description": "国会は8日から参議院で代表質問が始まり、高市総理大臣は、食料品の消費税減税などの財源について、歳出・歳入両面の見直しで確保するとして社会保障の財源に影響は与えないと強調しました。 また、簗農林水産大臣…",
+      "pub_date": "2026-10-08T12:29:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56405",
+      "description": "ソフトバンクの子会社「IDCフロンティア」のクラウドサービスがサイバー攻撃を受けた問題で、7日、利用企業がサービスを使おうとした際に、ハッカー集団の犯行声明とみられる文書が画面に表示されていたことが関…",
+      "pub_date": "2026-10-08T19:13:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "墨田区の高校で生徒が防犯用スプレー噴射 2人軽傷",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56421",
+      "description": "8日朝、東京・墨田区の高校の教室で生徒が防犯用スプレーを噴射して生徒2人が目の痛みを訴えるなど軽いけがをしました。",
+      "pub_date": "2026-10-08T11:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "参議院自民 参議院幹事長人事で石井氏交代の説明を求める声",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56463",
+      "description": "先の参議院自民党の人事で参議院幹事長だった石井準一氏が交代したことについて、参議院議員総会で出席者から説明を求める声が上がり、松山参議院議員会長は「総合的に判断した」と述べました。",
+      "pub_date": "2026-10-08T13:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【ライブ配信】プルデンシャル生命 記者会見",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56488",
+      "description": "プルデンシャル生命は、社員が顧客から巨額の金銭をだまし取っていた問題で、業績に過度に連動していた報酬制度などに原因があったとして、月の報酬が基準を下回る場合に差額を支給するなど制度を抜本的に見直す方針…",
+      "pub_date": "2026-10-08T14:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56547",
+      "description": "神奈川県内の警察署の警備部門に所属する20代の巡査長が、警察が運転免許の更新の際に一般の人から回収した、他人の古い運転免許証、数十枚を不正に持ち出していたことが捜査関係者への取材で分かりました。 警…",
+      "pub_date": "2026-10-08T15:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広島県警巡査長 知人に情報漏えいし金銭要求した疑いで逮捕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56603",
+      "description": "広島県警察本部の高速道路交通警察隊に所属する28歳の巡査長が、警察が保有している個人情報を知人に漏らして金銭を要求したとして、加重収賄と地方公務員法違反の疑いで逮捕されました。",
+      "pub_date": "2026-10-08T16:13:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "事故で運動まひの患者に脳の神経再生促す国内初の治療 北大",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56643",
+      "description": "事故などで頭にけがをして運動まひがある患者に対し、脳の神経の再生を促す細胞を投与する国内初の治療を行ったと北海道大学病院が発表しました。手術は成功し、まひの症状は改善傾向が見られるとしています。",
+      "pub_date": "2026-10-08T17:26:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "来春統一地方選 4月11日・25日実施へ 自民に特例法案提示 政府",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56779",
+      "description": "来年春に行われる統一地方選挙について、政府は、前半の知事選挙などを4月11日に、後半の市区町村長選挙などを4月25日に行うとした特例法案を自民党の会合に示しました。",
+      "pub_date": "2026-10-08T18:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "カラオケ店運営の第一興商 約872万件の個人情報漏えいのおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56831",
+      "description": "カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると発表しました。",
+      "pub_date": "2026-10-08T19:17:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大学や母校 地元で…受賞決定に祝福の声続々と",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56606",
+      "description": "ことしのノーベル化学賞の受賞者に東京理科大学名誉教授のそ※合憲三さんが選ばれたと発表されてから一夜明け、祝福の声が相次いでいます。 この記事では、母校や大学、ゆかりの人々などのさまざまな反応をまとめ…",
+      "pub_date": "2026-10-08T21:11:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "運転免許証 情報漏えいで再交付申請相次ぐ“効果は限定的”か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56278",
+      "description": "今、相次ぐ情報流出の中で特に深刻なケースの1つが、カーシェアリングサービスの「タイムズカー」から利用者の顔写真を含む運転免許証の情報が大量に漏えいした問題です。 警察庁は情報がなりすましに悪用されるお…",
+      "pub_date": "2026-10-08T18:29:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56876",
+      "description": "不正アクセスで個人情報が流出する被害が相次いでいることを受けて、情報セキュリティーの専門機関がこれまでに確認されている3つの攻撃手法を公開し、企業などに注意を呼びかけています。",
+      "pub_date": "2026-10-08T21:25:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サイバー攻撃 SKE48のファン向けメールサービス利用できず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56796",
+      "description": "ソフトバンク子会社のクラウドサービスがサイバー攻撃を受けた影響で、名古屋・栄を拠点にするアイドルグループ「SKE48」のファン向けのメールサービスが利用できなくなっていることが分かりました。",
+      "pub_date": "2026-10-08T19:04:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日銀の地域経済報告“AI関連需要拡大 多くの地域で生産増加”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56554",
+      "description": "日銀は8日、地域経済報告を公表し、この中では、多くの地域から世界的なAI関連需要の拡大で半導体製造装置や電子部品などの生産が増加しているという報告が相次ぎました。",
+      "pub_date": "2026-10-08T20:01:11+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -317,6 +456,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "速報 ドジャースvs.ブレーブス",
+      "link": "https://news.yahoo.co.jp/pickup/6597893?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T07:00:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "外国人材 都市部への転職が増加",
       "link": "https://news.yahoo.co.jp/pickup/6597945?source=rss",
       "description": "",
@@ -359,6 +505,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "ビール大手を調査 経営層関与焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T09:38:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "意識回復の米死刑囚に重い症状",
       "link": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
       "description": "",
@@ -398,6 +551,251 @@
       "link": "https://news.yahoo.co.jp/pickup/6597968?source=rss",
       "description": "",
       "pub_date": "2026-10-08T11:04:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 簗農相を更迭しない方針示す",
+      "link": "https://news.yahoo.co.jp/pickup/6597972?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T11:45:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "硤合さん受賞 広島の仲間が祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6597974?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T12:04:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉酒々井の団地 浸水深なお1m",
+      "link": "https://news.yahoo.co.jp/pickup/6597975?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T11:59:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日 工藤氏に複数年契約を提示へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597978?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T12:09:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷 シャンパンファイトで笑顔",
+      "link": "https://news.yahoo.co.jp/pickup/6597973?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T11:42:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高橋塁 同性愛者公表後の思い語る",
+      "link": "https://news.yahoo.co.jp/pickup/6597985?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T12:54:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東映 配給マークの「荒波」擬人化",
+      "link": "https://news.yahoo.co.jp/pickup/6597987?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T13:08:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ビール4社 業者間の「合意」焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6597983?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T13:21:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防総省 イラン攻撃準備命令か",
+      "link": "https://news.yahoo.co.jp/pickup/6597981?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T12:21:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "那須町長選当選無効取り消し 高裁",
+      "link": "https://news.yahoo.co.jp/pickup/6597991?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T14:05:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新聞印刷工場で栽培 キクラゲ人気",
+      "link": "https://news.yahoo.co.jp/pickup/6597980?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T12:24:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JO1 米ツアー公演を急きょ中止",
+      "link": "https://news.yahoo.co.jp/pickup/6597989?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T14:17:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイで波紋 大村知事が発言を説明",
+      "link": "https://news.yahoo.co.jp/pickup/6597995?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T15:03:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Cロナ メッシに「心から敬意を」",
+      "link": "https://news.yahoo.co.jp/pickup/6597996?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T15:24:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宜野湾殺害 男は事前に刃物用意か",
+      "link": "https://news.yahoo.co.jp/pickup/6597993?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T14:45:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ビール4社の地方支店にも強制調査",
+      "link": "https://news.yahoo.co.jp/pickup/6598011?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:04:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "消費減税 中小零細農家に補填へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598002?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T16:32:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プルデンシャル不正 約52億円被害",
+      "link": "https://news.yahoo.co.jp/pickup/6598015?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:10:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 簗氏に「働いて仕事で返せ」",
+      "link": "https://news.yahoo.co.jp/pickup/6598019?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:20:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巡査長 失効免許証を不正持ち出し",
+      "link": "https://news.yahoo.co.jp/pickup/6598003?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T16:28:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "青森「ミスりんご」活動終了へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598021?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:17:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スーパーカップ抹茶 製造終了の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6598001?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T16:19:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メッシとCロナ「引き際」好対照",
+      "link": "https://news.yahoo.co.jp/pickup/6598020?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:22:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "成田空港 機内でモバイル電池発火",
+      "link": "https://news.yahoo.co.jp/pickup/6598031?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T18:01:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アッコ 障害者手帳4級持っている",
+      "link": "https://news.yahoo.co.jp/pickup/6598030?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:57:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "篠原ともえ 大学の特別招聘教授に",
+      "link": "https://news.yahoo.co.jp/pickup/6598029?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:57:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アサヒGHD社長 カルテル認識ない",
+      "link": "https://news.yahoo.co.jp/pickup/6598028?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T18:06:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "参院農水委の開催に応じず 立憲",
+      "link": "https://news.yahoo.co.jp/pickup/6598036?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T18:40:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国 駐ウクライナ大使の召還発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598038?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T18:54:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「季節を選ばない服」が人気 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6598040?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T19:00:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日ハム 新庄監督の続投を正式発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598016?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T17:14:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "はま寿司「22時間営業」狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6598039?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T19:09:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バレー男子 永露元稀が結婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598047?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T20:16:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "みちょぱ 子誕生後夫婦で初公の場",
+      "link": "https://news.yahoo.co.jp/pickup/6598046?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T19:53:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤崎奈々子 自覚なかった脳梗塞",
+      "link": "https://news.yahoo.co.jp/pickup/6598050?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T20:47:20+09:00"
     }
   ]
 }
