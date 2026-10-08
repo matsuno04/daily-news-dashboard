@@ -1,0 +1,403 @@
+{
+  "date": "2026-10-08",
+  "matched_at": "2026-10-08T11:45:18.313141+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ノーベル化学賞に東京理科大学名誉教授",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261006de55098",
+          "description": "ことしのノーベル化学賞の受賞者に、自然界に存在するアミノ酸などの構造の起源の謎を明らかにし、人工的に再現できる方法を見いだした東京理科大学名誉教授のそ※合憲三さんらが選ばれました。日本からのノーベル賞…",
+          "pub_date": "2026-10-07T22:58:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "硤合氏ら化学賞 1世紀超え謎解く",
+          "link": "https://news.yahoo.co.jp/pickup/6597926?source=rss",
+          "description": "",
+          "pub_date": "2026-10-07T23:16:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【地震速報】千葉県北東部で震度4 津波の心配なし",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54047",
+          "description": "8日午前4時13分ごろ、千葉県で震度4の揺れを観測する地震がありました。 この地震による津波の心配はありません。",
+          "pub_date": "2026-10-08T04:47:22+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "千葉県で震度4 津波の心配なし",
+          "link": "https://news.yahoo.co.jp/pickup/6597936?source=rss",
+          "description": "",
+          "pub_date": "2026-10-08T04:25:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56219",
+          "description": "大手ビールメーカー4社がビールの値上げ幅などを事前に調整して取り決めるカルテルを結んだ疑いがあるとして、公正取引委員会は7日、各社の本社などを一斉に捜索しました。関係者によりますと、出荷時の価格をまと…",
+          "pub_date": "2026-10-08T05:26:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ビール大手を調査 経営層関与焦点",
+          "link": "https://news.yahoo.co.jp/pickup/6597955?source=rss",
+          "description": "",
+          "pub_date": "2026-10-08T09:38:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
+          "description": "大リーグのポストシーズンはナショナルリーグの地区シリーズ第4戦が行われ、ドジャースがブレーブスに4対1で勝って、対戦成績を3勝1敗として3年連続でのリーグ優勝決定シリーズ進出を決めました。",
+          "pub_date": "2026-10-08T10:51:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "速報 ドジャースvs.ブレーブス",
+          "link": "https://news.yahoo.co.jp/pickup/6597893?source=rss",
+          "description": "",
+          "pub_date": "2026-10-08T07:00:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロ野球 中日の新監督に工藤公康氏 就任へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56275",
+          "description": "プロ野球、中日の新しい監督にソフトバンクの監督時代、チームを5回の日本一に導いた工藤公康氏が就任することになりました。",
+          "pub_date": "2026-10-08T10:49:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "工藤公康氏 中日監督就任が決定的",
+          "link": "https://news.yahoo.co.jp/pickup/6597937?source=rss",
+          "description": "",
+          "pub_date": "2026-10-08T06:10:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ホワイトソックスはガーディアンズに初黒星 村上宗隆は無安打",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56251",
+          "description": "大リーグのポストシーズン、アメリカンリーグの地区シリーズ第3戦が行われ、村上宗隆選手が所属するホワイトソックスはガーディアンズに3対9で敗れ、対戦成績は2勝1敗となりました。村上選手は3つの三振を喫す…",
+          "pub_date": "2026-10-08T10:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "WソックスPS初黒星 村上は3三振",
+          "link": "https://news.yahoo.co.jp/pickup/6597949?source=rss",
+          "description": "",
+          "pub_date": "2026-10-08T08:48:44+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "ノーベル化学賞 受賞決定を受け東京理科大学で記者会見",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54630",
+      "description": "東京 新宿区にある東京理科大学に設けられた会見場で、7日午後10時から本人と学長などが出席して記者会見を行いました。",
+      "pub_date": "2026-10-08T00:20:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「伝説の教授」「昔の学者肌」「研究一筋」各地で喜びの声",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56145",
+      "description": "ことしのノーベル化学賞の受賞者に東京理科大学名誉教授のそ※合憲三さんらが選ばれ、各地で喜びの声が上がりました。",
+      "pub_date": "2026-10-07T22:39:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "南海トラフ巨大地震 定例の評価検討会「特段の変化なし」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56204",
+      "description": "南海トラフで巨大地震が起きる可能性を評価する気象庁の定例の検討会が開かれ、「特段の変化は観測されていない」とする評価結果をまとめました。",
+      "pub_date": "2026-10-08T01:20:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "沖縄 女性殺害事件 元交際相手を逮捕 女性はストーカー被害",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56187",
+      "description": "先月30日、沖縄県宜野湾市で23歳の女性が殺害された事件で、警察は25歳の元交際相手を殺人の疑いで逮捕しました。元交際相手にはストーカー規制法に基づいてつきまといなどを禁じる禁止命令が出されていて、警…",
+      "pub_date": "2026-10-08T01:10:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "介護団体が事業所の経営環境改善へ 介護報酬引き上げなど訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56202",
+      "description": "国が来年度の介護報酬の改定に向けた議論を行う中、介護の関係団体が集会を開き、現場は深刻な人手不足や物価高騰などで危機的な状況にあるとして、国に対して介護報酬の十分な引き上げや人材確保のための支援を求め…",
+      "pub_date": "2026-10-08T01:18:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "原子力人材確保へ 官民が共同で新団体を設立",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56174",
+      "description": "政府が掲げる原子力発電の活用に向けて人材の確保が課題となる中、官民が共同で原子力分野の人材育成に取り組む新たな団体を立ち上げました。団体では今後、人手不足の状況などを分析した上で、企業や大学など各現場…",
+      "pub_date": "2026-10-07T23:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サッカー天皇杯 浦和レッズや横浜F・マリノスなど4回戦へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56216",
+      "description": "サッカーの天皇杯、全日本選手権は3回戦の残り10試合が行われ、J1の浦和レッズや横浜F・マリノス、J2の横浜FCなどが4回戦に進みました。",
+      "pub_date": "2026-10-08T04:45:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "柔道世界選手権 女子63キロ級は嘉重春樺が2連覇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56218",
+      "description": "アゼルバイジャンで開かれている柔道の世界選手権は大会4日目、女子63キロ級の嘉重春樺選手が2連覇を果たしました。",
+      "pub_date": "2026-10-08T04:57:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震速報】茨城県北部で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56237",
+      "description": "8日午前7時14分ごろ地震がありました。 現在、震度3以上が観測されている地域は以下のとおりです。 震度3が、茨城県北部。 今後の情報に注意してください。",
+      "pub_date": "2026-10-08T07:20:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ノーベル化学賞に東京理科大学名誉教授 会見で喜びの声",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56220",
+      "description": "ことしのノーベル化学賞の受賞者に、自然界に存在するアミノ酸などの構造の起源の謎を明らかにし、人工的に再現する方法を発見した東京理科大学名誉教授のそ※合憲三さんらが選ばれました。そ※合さんは7日夜、記者…",
+      "pub_date": "2026-10-08T05:08:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "参院できょうから代表質問 消費税減税など論戦 農相発言追及も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56201",
+      "description": "国会では、8日から参議院でも高市総理大臣の所信表明演説に対する代表質問が行われ、食料品の消費税減税などについて論戦が交わされます。野党は引き続き簗農林水産大臣の地元の道路予算に関する発言などを追及する…",
+      "pub_date": "2026-10-08T05:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ローカル線に続き「幹線」も 鉄道網見直しへ新たな議論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56192",
+      "description": "人口減少などで鉄道利用者の減少が続く中、国土交通省は特急列車なども通る「幹線」と呼ばれる基幹的な路線のあり方について、有識者などが検討する場を新たに設ける方針を固めました。赤字が続くローカル線について…",
+      "pub_date": "2026-10-08T05:30:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "特殊詐欺の金を暗号資産に交換し資金洗浄か 6人逮捕 警視庁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56189",
+      "description": "特殊詐欺グループがだまし取った金など400万円余りを暗号資産に交換しマネーロンダリング＝資金洗浄を行ったとして、大阪にある会社の36歳の代表取締役ら6人が逮捕されたことが捜査関係者への取材で分かりまし…",
+      "pub_date": "2026-10-08T05:36:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
+      "description": "アメリカのFRB＝連邦準備制度理事会は、3年2か月ぶりの利上げを決めた先月の会合の議事録を公表し、ほとんどの参加者がインフレのリスクが上振れする方向に偏っていると警戒感を示していたことが分かりました。…",
+      "pub_date": "2026-10-08T07:06:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米の経営者ら AIで日米の共通ルールづくり提言",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56238",
+      "description": "日本とアメリカの企業経営者が両国の政府に政策提言を行う会議が開かれ、AIの安全性についての懸念が示されるなかAIについて日米で共通したルールづくりを推進することなどを提言する共同声明を採択しました。",
+      "pub_date": "2026-10-08T07:53:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "パリのシャンゼリゼ通りと大阪・御堂筋が「姉妹ストリート」に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56247",
+      "description": "フランス・パリの観光地シャンゼリゼ通りと、大阪のメインストリート、御堂筋について、「姉妹ストリート」と位置づけて協力を深めていこうと、パリでそれぞれの関係者が出席して調印式が行われました。",
+      "pub_date": "2026-10-08T08:58:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナ外務省 北朝鮮捕虜移送めぐり「韓国と解決へ協議」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56245",
+      "description": "ウクライナ政府が、捕虜の北朝鮮兵士を韓国に移送したことを公にしたことについて韓国が反発している問題で、ウクライナの外務省は7日、韓国側との間で解決に向けた協議を続けていると明らかにしました。",
+      "pub_date": "2026-10-08T08:52:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イスラエル ハマスによる奇襲で300人以上犠牲の地で追悼式",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56246",
+      "description": "イスラエルでは、3年前のイスラム組織ハマスの奇襲攻撃によって300人以上が殺害されたイベント会場の跡地で7日、犠牲者の追悼式が開かれ、遺族は今も深い悲しみが続いていると語りました。",
+      "pub_date": "2026-10-08T08:57:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 ロシア研究所職員死亡“生物兵器”否定的見方",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56250",
+      "description": "アメリカのトランプ大統領は、ロシアでペスト対策研究所の職員1人が死亡したケースをめぐり、生物兵器との関わりについて否定的な見方を示しました。ロシア側から事態は十分に制御できているとの説明があったとして…",
+      "pub_date": "2026-10-08T10:34:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "複数の自治体など HP閲覧できず",
+      "link": "https://news.yahoo.co.jp/pickup/6597928?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T22:44:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛知・大村知事の発言 タイで波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T22:23:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "余命1年の元教諭 生きる力伝える",
+      "link": "https://news.yahoo.co.jp/pickup/6597931?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T23:13:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "立憲 食料品消費税ゼロから転換",
+      "link": "https://news.yahoo.co.jp/pickup/6597930?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T23:33:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗農相 衆院選巡り公選法違反疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6597934?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T23:47:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サンケイビル売却 入札額1兆円超",
+      "link": "https://news.yahoo.co.jp/pickup/6597933?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T23:33:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西勇輝引退 山本由伸がメッセージ",
+      "link": "https://news.yahoo.co.jp/pickup/6597935?source=rss",
+      "description": "",
+      "pub_date": "2026-10-07T23:55:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "硤合氏発見 不斉自己触媒作用とは",
+      "link": "https://news.yahoo.co.jp/pickup/6597938?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T06:30:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "外国人材 都市部への転職が増加",
+      "link": "https://news.yahoo.co.jp/pickup/6597945?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T08:03:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TOPIX構成銘柄 1634→986社へ",
+      "link": "https://news.yahoo.co.jp/pickup/6597944?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T07:40:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人情報売買 ダークウェブの実態",
+      "link": "https://news.yahoo.co.jp/pickup/6597942?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T07:33:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "八田與一容疑者目撃情報 関東で増",
+      "link": "https://news.yahoo.co.jp/pickup/6597952?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T09:02:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "194歳ゾウガメのゲノム解析 研究",
+      "link": "https://news.yahoo.co.jp/pickup/6597950?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T08:37:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "永野芽郁の主演映画 12月3日配信",
+      "link": "https://news.yahoo.co.jp/pickup/6597953?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T09:11:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "意識回復の米死刑囚に重い症状",
+      "link": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T09:40:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ド軍3年連続リーグ優勝決定S進出",
+      "link": "https://news.yahoo.co.jp/pickup/6597961?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T10:16:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "陸自情報収集 地検に告訴・告発状",
+      "link": "https://news.yahoo.co.jp/pickup/6597959?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T10:22:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "湖に転落し中1心肺停止 呼吸回復",
+      "link": "https://news.yahoo.co.jp/pickup/6597965?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T10:48:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本木雅弘 妻との結婚当初など語る",
+      "link": "https://news.yahoo.co.jp/pickup/6597967?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T10:42:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10月りゅう座流星群8日深夜見ごろ",
+      "link": "https://news.yahoo.co.jp/pickup/6597968?source=rss",
+      "description": "",
+      "pub_date": "2026-10-08T11:04:18+09:00"
+    }
+  ]
+}
