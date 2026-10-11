@@ -1,11 +1,31 @@
 {
   "date": "2026-10-11",
-  "matched_at": "2026-10-11T11:45:21.136244+09:00",
+  "matched_at": "2026-10-11T21:45:56.001058+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
     {
       "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "インド“ゴキブリ人民党”創設者　抗議活動前に拘束",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57783",
+          "description": "インドでは選挙の有権者名簿の更新をめぐる不正疑惑が報じられたことをきっかけに、選挙管理委員会トップの辞任を求める抗議活動に発展し、デモを呼びかけた団体、「ゴキブリ人民党」の創設者らが警察に拘束されまし…",
+          "pub_date": "2026-10-10T23:20:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "インド 抗議集会で6000人拘束か",
+          "link": "https://news.yahoo.co.jp/pickup/6598354?source=rss",
+          "description": "",
+          "pub_date": "2026-10-11T12:07:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -25,15 +45,15 @@
       }
     },
     {
-      "event_id": "evt-0002",
+      "event_id": "evt-0003",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上",
+          "title": "サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261011de57816",
-          "description": "サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰…",
-          "pub_date": "2026-10-11T08:13:00+09:00"
+          "description": "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをしました。 サウジアラビアなどは敵対する「イエメンの反政府勢力フーシ派によるテロ行為であり断固とした対応を…",
+          "pub_date": "2026-10-11T18:59:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -45,7 +65,7 @@
       }
     },
     {
-      "event_id": "evt-0003",
+      "event_id": "evt-0004",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -65,7 +85,7 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -85,7 +105,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,7 +125,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -123,16 +143,89 @@
           "pub_date": "2026-10-11T09:05:45+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ホワイトソックスが地区シリーズで敗退 村上は4打数4三振",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57843",
+          "description": "大リーグのポストシーズンはアメリカンリーグの地区シリーズ第5戦が行われ、ホワイトソックスがガーディアンズに0対2で敗れ21年ぶりとなるリーグ優勝決定シリーズ進出はなりませんでした。",
+          "pub_date": "2026-10-11T16:28:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "Wソックス敗退 村上宗隆は4三振",
+          "link": "https://news.yahoo.co.jp/pickup/6598353?source=rss",
+          "description": "",
+          "pub_date": "2026-10-11T11:57:26+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "愛知 岐阜県境の木曽川で男性死亡 遊泳中に溺れたか 警察",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57970",
+          "description": "11日午後、愛知県と岐阜県の県境を流れる木曽川で、「川で泳いでいた友人がいなくなった」などと消防に通報があり、その後、20代くらいの男性が川の中で死亡しているのが見つかりました。 警察は遊泳中に溺れた…",
+          "pub_date": "2026-10-11T18:30:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "木曽川で泳ぎ溺れる 25歳男性死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6598403?source=rss",
+          "description": "",
+          "pub_date": "2026-10-11T18:08:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57965",
+          "description": "アメリカで、女性の死刑囚に薬の注射による死刑が9月執行されましたが死刑囚は生存し、病院で手当てを受けたあと刑務所に戻りました。 この死刑囚に再び刑を執行するべきかなど、死刑制度をめぐってアメリカ国内で…",
+          "pub_date": "2026-10-11T18:47:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "刑執行失敗の米女性死刑囚 退院",
+          "link": "https://news.yahoo.co.jp/pickup/6598362?source=rss",
+          "description": "",
+          "pub_date": "2026-10-11T13:12:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "石破前首相 簗農相発言を批判“全国民の代表者との認識ない”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57884",
+          "description": "簗農林水産大臣の道路予算に関する発言について、自民党の石破前総理大臣は、国会議員がすべての国民の代表者であることを認識していない発言だと批判しました。",
+          "pub_date": "2026-10-11T17:44:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "石破氏 簗氏の発言を痛烈に批判",
+          "link": "https://news.yahoo.co.jp/pickup/6598401?source=rss",
+          "description": "",
+          "pub_date": "2026-10-11T18:01:51+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
-    {
-      "source": "NHK",
-      "title": "インド“ゴキブリ人民党”創設者　抗議活動前に拘束",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261010de57783",
-      "description": "インドでは選挙の有権者名簿の更新をめぐる不正疑惑が報じられたことをきっかけに、選挙管理委員会トップの辞任を求める抗議活動に発展し、デモを呼びかけた団体、「ゴキブリ人民党」の創設者らが警察に拘束されまし…",
-      "pub_date": "2026-10-10T23:20:28+09:00"
-    },
     {
       "source": "NHK",
       "title": "柔道世界選手権 男子100キロ超と女子78キロ超メダル獲得ならず",
@@ -153,6 +246,111 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261011de57814",
       "description": "ウクライナ南部では10日にかけてロシア軍による攻撃で子どもを含む20人以上が死亡しました。 ゼレンスキー大統領は、アメリカのトランプ政権とロシア側との軽油の供給を巡る合意を踏まえ、ロシアの戦争遂行能…",
       "pub_date": "2026-10-11T06:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
+      "description": "NHKの日曜討論に木原官房長官が出演し、参議院で与党が過半数に達していない状況を受けて、野党とも丁寧に議論し、食料品の消費税減税関連法案などの成立を目指す考えを示しました。",
+      "pub_date": "2026-10-11T11:21:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "両陛下 青森で国民スポーツ大会 観戦 青森ねぶた祭 施設なども",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57868",
+      "description": "天皇皇后両陛下は青森県で開かれている国民スポーツ大会の卓球競技をご覧になりました。 午後からは、東北を代表する夏祭りのひとつ、「青森ねぶた祭」の歴史を紹介する青森市の観光施設などを訪ねられました。",
+      "pub_date": "2026-10-11T18:05:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "目黒のさんま祭 不漁で解凍のサンマも人気",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57863",
+      "description": "サンマの炭火焼きが無料でふる舞われる恒例の「目黒のさんま祭」が東京 目黒区で開かれ、訪れた人たちが秋の味覚を楽しみました。",
+      "pub_date": "2026-10-11T12:24:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 古屋前選対委員長 台湾訪問 頼総統と会談",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57877",
+      "description": "台湾を訪問した自民党の古屋前選挙対策委員長は頼清徳総統と会談し、日本と台湾は民主主義など共通の価値観を持っているとして、引き続き関係国とともに連携していくことが重要だと伝えました。",
+      "pub_date": "2026-10-11T14:09:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドジャース大谷翔平 復調へ第1戦前にフリー打撃で調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57881",
+      "description": "大リーグのドジャースは日本時間12日からブルワーズとのリーグ優勝決定シリーズに臨みます。不振からの脱却を目指す大谷翔平選手は屋外でフリーバッティングを行い、相手先発で剛速球が持ち味のミザロウスキー投手…",
+      "pub_date": "2026-10-11T16:26:08+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北口榛花選手らがスポーツの日を前に陸上教室 北海道 旭川",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57894",
+      "description": "12日のスポーツの日を前に、パリオリンピック陸上女子やり投げの金メダリスト、北口榛花選手らによる陸上教室が北海道 旭川市で開かれました。",
+      "pub_date": "2026-10-11T15:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57945",
+      "description": "プロ野球、セ・リーグのクライマックスシリーズファーストステージは、11日の第2戦でDeNAが巨人に4対1で勝って対戦成績を2勝0敗としてファイナルステージ進出を決めました。",
+      "pub_date": "2026-10-11T19:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57845",
+      "description": "アメリカのトランプ政権はICCのトップを務める赤根智子所長らを制裁対象にしてきましたが、10月9日には、新たにICCそのものを制裁対象に指定したと発表しました。 これを受けて、ICCに加盟する125…",
+      "pub_date": "2026-10-11T17:22:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "佳子さま ガールスカウトの活動 表彰するイベントに出席",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57931",
+      "description": "秋篠宮ご夫妻の次女の佳子さまは11日東京でガールスカウトの活動を表彰するイベントに出席されました。",
+      "pub_date": "2026-10-11T17:49:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "女子ゴルフ 国内ツアー 岩井明愛が2年ぶりの優勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57929",
+      "description": "女子ゴルフの国内ツアーの大会は静岡県で最終ラウンドが行われ、岩井明愛選手が通算16アンダーで国内ツアー2年ぶりの優勝で通算7勝目を挙げました。",
+      "pub_date": "2026-10-11T17:19:01+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "競泳 松下知之が短水路の世界新記録 男子400m個人メドレー",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57993",
+      "description": "25メートルプールで争う競泳の短水路の日本選手権が11日、佐賀市で行われ、男子400メートル個人メドレーで、パリオリンピックの銀メダリスト、松下知之選手が3分54秒33の短水路の世界新記録をマークしま…",
+      "pub_date": "2026-10-11T19:06:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "CS パ・リーグ 日本ハムが西武に勝ち1勝1敗に 決着は第3戦へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57954",
+      "description": "プロ野球、パ・リーグのクライマックスシリーズファーストステージ第2戦は、日本ハムが西武に1対0で競り勝って対戦成績を1勝1敗としました。",
+      "pub_date": "2026-10-11T18:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮が韓国との境界付近を「要塞化」？いったい何が",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de57841",
+      "description": "北朝鮮は今、南北の境界で「要塞化」を進めていると主張しています。 その具体的な動きが見えづらい中、NHKの取材班は今月、韓国の専門家も「珍しい」とする映像を撮影しました。 南北の境界で、何が起きて…",
+      "pub_date": "2026-10-11T19:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ベトナムのドクさん 鹿児島で水俣病の被害者らと意見交換",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de58003",
+      "description": "ベトナム戦争で使われた枯れ葉剤の影響とみられる障害で双子の兄と下半身がつながって生まれた「ベトちゃんドクちゃん」のグエン・ドクさんが鹿児島県を訪れ、水俣病の被害者などと意見交換しました。",
+      "pub_date": "2026-10-11T20:19:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "拉致被害者5人帰国から24年を前に 横田拓也さんが支援訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de58000",
+      "description": "中学1年生の時に北朝鮮に拉致された横田めぐみさんの弟の拓也さんが11日千葉県で講演し「『助けて』というめぐみの声なき声に耳を傾けてもらい、支援をお願いしたい」と訴えました。",
+      "pub_date": "2026-10-11T20:04:52+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -321,6 +519,314 @@
       "link": "https://news.yahoo.co.jp/pickup/6598348?source=rss",
       "description": "",
       "pub_date": "2026-10-11T11:10:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京都心37日連続で雨 なぜ続いた",
+      "link": "https://news.yahoo.co.jp/pickup/6598350?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T11:40:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜で男性が刺されけが 男逃走",
+      "link": "https://news.yahoo.co.jp/pickup/6598352?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T11:32:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山梨学院大 試験替え玉を複数確認",
+      "link": "https://news.yahoo.co.jp/pickup/6598356?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T12:17:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリックス コーチ4人が一斉退団",
+      "link": "https://news.yahoo.co.jp/pickup/6598357?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T12:20:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上ベンチで呆然 大一番で4三振",
+      "link": "https://news.yahoo.co.jp/pickup/6598358?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T12:29:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "peco 子どもの習い事を続ける基準",
+      "link": "https://news.yahoo.co.jp/pickup/6598361?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T13:17:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性刺傷 知人男性発見し事情聴取",
+      "link": "https://news.yahoo.co.jp/pickup/6598366?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T13:41:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "看護師が撮った動画がSNSに 解雇",
+      "link": "https://news.yahoo.co.jp/pickup/6598363?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T13:27:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報CS 先頭打者弾でDeNAが先制",
+      "link": "https://news.yahoo.co.jp/pickup/6598371?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T14:20:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報CS 西武vs.日本ハム",
+      "link": "https://news.yahoo.co.jp/pickup/6598364?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T13:56:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "消費減税方針は全くぶれず 片山氏",
+      "link": "https://news.yahoo.co.jp/pickup/6598370?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T14:34:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米当局 TV局との対立巡り5社調査",
+      "link": "https://news.yahoo.co.jp/pickup/6598373?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T14:33:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "太平洋をトランプ洋に? 改称言及",
+      "link": "https://news.yahoo.co.jp/pickup/6598372?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T14:26:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "割引やポイント還元 15日なぜ多い",
+      "link": "https://news.yahoo.co.jp/pickup/6598328?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T08:55:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・竹丸を2回で交代 どよめき",
+      "link": "https://news.yahoo.co.jp/pickup/6598376?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T15:26:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "i☆Ris 2027年末で活動終了へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598374?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T14:39:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「18歳の壁」で就職に不安 ケア児",
+      "link": "https://news.yahoo.co.jp/pickup/6598379?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T15:50:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "就活セクハラ被害 求められる対策",
+      "link": "https://news.yahoo.co.jp/pickup/6598344?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T10:48:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "学校隣にデータセンター計画 反発",
+      "link": "https://news.yahoo.co.jp/pickup/6598378?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T15:34:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "40代で子宮体がん 目の前真っ暗に",
+      "link": "https://news.yahoo.co.jp/pickup/6598375?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T15:02:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "竹丸を2回交代 采配に東京D騒然",
+      "link": "https://news.yahoo.co.jp/pickup/6598380?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T15:34:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報DeNAがリード 巨人が1点返す",
+      "link": "https://news.yahoo.co.jp/pickup/6598377?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T15:30:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "那覇強殺 米国務長官が哀悼の意",
+      "link": "https://news.yahoo.co.jp/pickup/6598382?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T16:06:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「予算カット」市町 工事先送りも",
+      "link": "https://news.yahoo.co.jp/pickup/6598383?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T16:12:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "玄関先にクマ 襲われ頭などに重傷",
+      "link": "https://news.yahoo.co.jp/pickup/6598386?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T16:32:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "京都衝撃の寺乗っ取り事件 背景は",
+      "link": "https://news.yahoo.co.jp/pickup/6598389?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T16:51:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子宮体がん診断 受診先延ばし後悔",
+      "link": "https://news.yahoo.co.jp/pickup/6598394?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T17:05:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA 競り勝ちCSファイナル進出",
+      "link": "https://news.yahoo.co.jp/pickup/6598395?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T17:13:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新築の平屋率が増加 耐震性に注目",
+      "link": "https://news.yahoo.co.jp/pickup/6598387?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T16:50:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人敗退 球場ファンらブーイング",
+      "link": "https://news.yahoo.co.jp/pickup/6598404?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T18:07:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GK痛恨 ブンデス史上最速の失点",
+      "link": "https://news.yahoo.co.jp/pickup/6598393?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T17:30:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバー防御サービス 相談が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6598407?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T18:36:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "30～40代女性に体力低下傾向 調査",
+      "link": "https://news.yahoo.co.jp/pickup/6598399?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T17:29:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "続くサケ密漁 地元の怒りは頂点に",
+      "link": "https://news.yahoo.co.jp/pickup/6598405?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T18:20:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Bitcoin大暴落1年 流動性回復か",
+      "link": "https://news.yahoo.co.jp/pickup/6598410?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T18:49:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "紫の芋「ウベ」世界的なブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6598412?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T19:14:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TSMC進出 高給目当て人材流出も",
+      "link": "https://news.yahoo.co.jp/pickup/6598413?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T19:27:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "玄関先でクマに襲われる 眼球破裂",
+      "link": "https://news.yahoo.co.jp/pickup/6598416?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T20:08:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "信じた彼が独身偽装 女性の喪失感",
+      "link": "https://news.yahoo.co.jp/pickup/6598411?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T19:24:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "頭から出血の男性死亡 ひき逃げか",
+      "link": "https://news.yahoo.co.jp/pickup/6598420?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T20:54:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人M&Aで多額損失「恋は盲目」",
+      "link": "https://news.yahoo.co.jp/pickup/6598418?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T20:34:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例経緯のG監督代行 1年を回顧",
+      "link": "https://news.yahoo.co.jp/pickup/6598417?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T20:30:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松島輝空が快挙 WTT最高峰大会V",
+      "link": "https://news.yahoo.co.jp/pickup/6598419?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T20:49:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "娘とランウェイ 尾形貴弘は感無量",
+      "link": "https://news.yahoo.co.jp/pickup/6598425?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T21:28:06+09:00"
     }
   ]
 }
