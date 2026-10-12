@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-12",
+  "matched_at": "2026-10-12T11:45:19.780201+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de58027",
+          "description": "ことし8月、大規模な土石流が発生したネパールで11日再び土石流が発生し、5人の行方が分からなくなっていて軍による救助活動が行われています。 ネパール軍によりますと11日中部ゴルカ郡で土砂崩れが発生し…",
+          "pub_date": "2026-10-11T22:17:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ネパールで再び土石流 5人不明",
+          "link": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
+          "description": "",
+          "pub_date": "2026-10-11T23:36:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“ロシアのグーグル”に無人機攻撃　一部サービス利用できず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58066",
+          "description": "「ロシアのグーグル」とも呼ばれるIT大手の「ヤンデックス」は、データセンターがウクライナの無人機による攻撃を受けて損傷したと発表しました。タクシーの配車やフードデリバリーなど一部のサービスが利用できな…",
+          "pub_date": "2026-10-12T06:29:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ウ軍「露のGoogle」を相次ぎ攻撃",
+          "link": "https://news.yahoo.co.jp/pickup/6598438?source=rss",
+          "description": "",
+          "pub_date": "2026-10-11T22:51:26+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de58042",
+          "description": "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。 この空港は10日にも攻撃を受け多数の死傷者が出ていて、緊張のさら…",
+          "pub_date": "2026-10-12T11:29:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "サウジの安保が悪化 米国支援鈍く",
+          "link": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
+          "description": "",
+          "pub_date": "2026-10-12T08:18:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58065",
+          "description": "アメリカのトランプ大統領は、11日、SNSにロシアとウクライナが互いのエネルギー関連施設への攻撃をしないことで合意したと投稿しました。 ただ、9月にもトランプ大統領が同様の投稿を行ったあと、両国は攻…",
+          "pub_date": "2026-10-12T06:19:56+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "エネルギー停戦発表 ウは「初耳」",
+          "link": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
+          "description": "",
+          "pub_date": "2026-10-12T00:18:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "連休最終日も広く晴れ 太平洋沿岸は高波注意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de58040",
+          "description": "3連休最終日の12日も北日本から西日本では、晴れて行楽日和のところが多くなる見込みです。一方、台風29号などの影響で、小笠原諸島や関東の沿岸などでは高波に注意してください。",
+          "pub_date": "2026-10-12T06:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風29号で高波 海のレジャー注意",
+          "link": "https://news.yahoo.co.jp/pickup/6598458?source=rss",
+          "description": "",
+          "pub_date": "2026-10-12T08:30:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de58022",
+          "description": "大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズは日本時間の12日、第1戦が行われます。 試合は日本時間の午前9時15分すぎに始まりました。NHKは総合とBSP4Kで中継し、…",
+          "pub_date": "2026-10-12T11:12:50+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "速報 ドジャースvs.ブリュワーズ",
+          "link": "https://news.yahoo.co.jp/pickup/6598461?source=rss",
+          "description": "",
+          "pub_date": "2026-10-12T09:11:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北朝鮮 相次ぎ“弾道ミサイル”発射 いずれもEEZ外に落下か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58077",
+          "description": "防衛省は12日朝、相次いで北朝鮮から弾道ミサイルの可能性のあるものが発射されたと発表しました。 防衛省関係者によりますと、日本のEEZ＝排他的経済水域の外側に落下したとみられるということです。",
+          "pub_date": "2026-10-12T11:04:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北が2度ミサイル EEZ外に落下か",
+          "link": "https://news.yahoo.co.jp/pickup/6598471?source=rss",
+          "description": "",
+          "pub_date": "2026-10-12T10:19:09+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "愛知 豊田 住宅の玄関先でクマに襲われ男性大けが",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de58011",
+      "description": "11日午前、愛知県豊田市の山間部にある住宅の玄関先で、男性がクマに襲われて大けがをしました。",
+      "pub_date": "2026-10-11T21:58:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "巨人一筋20年の坂本勇人 来季も現役続行の見通し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261012de58051",
+      "description": "プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。",
+      "pub_date": "2026-10-12T05:10:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261011de58041",
+      "description": "パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…",
+      "pub_date": "2026-10-12T04:50:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "定数削減 自民幹事長の腹案に波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6598430?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T22:14:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "停車前にTXドア開く 客が操作か",
+      "link": "https://news.yahoo.co.jp/pickup/6598435?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T22:42:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電車で心臓発作 8分の救命リレー",
+      "link": "https://news.yahoo.co.jp/pickup/6598441?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T23:24:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鎌田大地 待望のプレミア初ゴール",
+      "link": "https://news.yahoo.co.jp/pickup/6598440?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T23:23:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤田ニコル 不妊治療の裏側を語る",
+      "link": "https://news.yahoo.co.jp/pickup/6598436?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T22:58:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鈴木光司さん偲ぶ会 貞子が登場",
+      "link": "https://news.yahoo.co.jp/pickup/6598426?source=rss",
+      "description": "",
+      "pub_date": "2026-10-11T21:54:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "重要医療機器の備蓄 企業に補助へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598448?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T07:28:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 阿部前監督に球団復帰を要請",
+      "link": "https://news.yahoo.co.jp/pickup/6598445?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T07:22:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "救命病棟 風間俊介が13年ぶり出演",
+      "link": "https://news.yahoo.co.jp/pickup/6598447?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T07:20:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米ウ首脳 露軽油の制裁緩和で応酬",
+      "link": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T07:56:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モトクロスバイク3台転倒 2人骨折",
+      "link": "https://news.yahoo.co.jp/pickup/6598450?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T07:35:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マツタケ狩りの男性 滑落し死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6598454?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T07:56:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "観る→解く→観る VIVANTの考察",
+      "link": "https://news.yahoo.co.jp/pickup/6598455?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T08:08:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "縛られた遺体 窃盗疑いの妹関与か",
+      "link": "https://news.yahoo.co.jp/pickup/6598462?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T08:55:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ワークマン 値下げと利益両立の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6598459?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T08:36:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ナルト新作 なぜ米コミコンで発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598463?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T09:03:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アシックスとナイキ なぜ「明暗」",
+      "link": "https://news.yahoo.co.jp/pickup/6598467?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T10:03:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・橋上監督代行 退任の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6598465?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T09:21:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ひき逃げ疑い逮捕 仕事継続と供述",
+      "link": "https://news.yahoo.co.jp/pickup/6598476?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T10:53:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中野窃盗 被告は国際的窃盗団か",
+      "link": "https://news.yahoo.co.jp/pickup/6598475?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T10:42:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エスカレーター 歩くひとの意見",
+      "link": "https://news.yahoo.co.jp/pickup/6598477?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T11:05:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "駅伝1区で北大に異変 苦悶の表情",
+      "link": "https://news.yahoo.co.jp/pickup/6598473?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T10:32:11+09:00"
+    }
+  ]
+}
