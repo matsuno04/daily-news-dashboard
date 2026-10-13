@@ -1,0 +1,380 @@
+{
+  "date": "2026-10-13",
+  "matched_at": "2026-10-13T11:45:21.279977+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "栃木 那珂川町 工場火災 鎮火のめど立たず 夜間も消火活動へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58117",
+          "description": "12日朝、栃木県那珂川町のプラスチック製品を作る工場の倉庫で火災があり、発生から半日以上が経過した現在も続いています。 けが人はいませんが敷地内の別の建物にも延焼していて、消防が消火活動を行っています…",
+          "pub_date": "2026-10-12T21:59:55+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "九州新幹線 全線で運転見合わせ",
+          "link": "https://news.yahoo.co.jp/pickup/6598565?source=rss",
+          "description": "",
+          "pub_date": "2026-10-13T06:09:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58196",
+          "description": "プロ野球、パ・リーグのクライマックスシリーズファーストステージ第3戦は日本ハムが4対1で勝ち、対戦成績を2勝1敗としてファイナルステージ進出を決めました。",
+          "pub_date": "2026-10-12T22:54:01+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "速報 ドジャースvs.ブリュワーズ",
+          "link": "https://news.yahoo.co.jp/pickup/6598518?source=rss",
+          "description": "",
+          "pub_date": "2026-10-13T05:57:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "九州新幹線 架線点検のため全線運転見合わせ 再開見通し遅れる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58310",
+          "description": "九州新幹線は、架線の点検作業のため全線で運転を見合わせていますが、JR九州によりますと、このうち正午ごろの運転再開を見込んでいた博多と熊本の区間はきょう午後4時ごろに、また、午後2時の再開を見込んでい…",
+          "pub_date": "2026-10-13T10:27:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "九州新幹線が全線運休 再開は午後",
+          "link": "https://news.yahoo.co.jp/pickup/6598582?source=rss",
+          "description": "",
+          "pub_date": "2026-10-13T09:05:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "片山財務相　IMF・世銀の合同開発委員会次期議長に指名",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58295",
+          "description": "片山財務大臣は、閣議のあとの記者会見で、途上国の開発問題などを話し合うIMF＝国際通貨基金と世界銀行の合同開発委員会の次の議長に指名されたことを明らかにしました。 正式に議長に選任されれば、日本の財…",
+          "pub_date": "2026-10-13T00:30:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "財務相 世銀IMF合同開発委議長に",
+          "link": "https://news.yahoo.co.jp/pickup/6598563?source=rss",
+          "description": "",
+          "pub_date": "2026-10-12T23:27:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドジャース×ブルワーズ ドジャース2連敗",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58219",
+          "description": "大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズはブルワーズが第1戦に勝って、日本時間の午前6時から第2戦が行われました。 ドジャースは4対7で敗れて2連敗となりました。",
+          "pub_date": "2026-10-13T09:35:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ドジャース2連敗 2戦連続逆転負け",
+          "link": "https://news.yahoo.co.jp/pickup/6598583?source=rss",
+          "description": "",
+          "pub_date": "2026-10-13T09:32:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "きょうから予算委 消費税 経済政策 簗農相発言で論戦",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58277",
+          "description": "国会では、13日から衆議院予算委員会で高市総理大臣とすべての閣僚が出席して基本的質疑が始まります。 食料品の消費税減税や経済・財政政策、それに簗農林水産大臣の道路予算に関する発言などをめぐって論戦が…",
+          "pub_date": "2026-10-13T05:01:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "予算委 野党は簗氏の発言を追及へ",
+          "link": "https://news.yahoo.co.jp/pickup/6598573?source=rss",
+          "description": "",
+          "pub_date": "2026-10-13T07:44:47+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "英基地のテロ計画疑い 首相“イラン革命防衛隊の可能性高い”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58326",
+          "description": "イギリス南西部の空軍基地の近くでテロの計画があったとして警察が捜査している事件をめぐり、バーナム首相はイランの革命防衛隊が関与した可能性が高いという見方を明らかにしました。",
+          "pub_date": "2026-10-13T05:54:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "英基地事件はイラン関与 共同声明",
+          "link": "https://news.yahoo.co.jp/pickup/6598574?source=rss",
+          "description": "",
+          "pub_date": "2026-10-13T08:10:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58366",
+          "description": "関文部科学大臣は、自身が代表を務める自民党支部が政治資金パーティーを衆議院の内規で禁止されている議員会館内で開催していたとして陳謝した上で、再発防止に努める考えを示しました。",
+          "pub_date": "2026-10-13T10:52:51+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "議員会館でパーティー 文科相謝罪",
+          "link": "https://news.yahoo.co.jp/pickup/6598592?source=rss",
+          "description": "",
+          "pub_date": "2026-10-13T11:15:24+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58321",
+      "description": "12日朝、栃木県那珂川町のプラスチック製品を作る工場の倉庫で火災があり、発生から24時間以上が経過した現在も消火活動が続けられています。 これまでにけが人はいないということです。",
+      "pub_date": "2026-10-13T07:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゼレンスキー氏\"エネルギー停戦\"発表後もロシアは攻撃と非難",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58308",
+      "description": "ウクライナのゼレンスキー大統領は、アメリカのトランプ大統領がロシアとウクライナがいわゆる「エネルギー停戦」で合意したと発表したあともロシアはエネルギー施設への攻撃を続けていると非難し、各国にロシアへの…",
+      "pub_date": "2026-10-13T06:05:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "9月 企業物価指数 昨年同月比6.8%上昇 上昇率鈍化も高水準続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58340",
+      "description": "企業の間で取り引きされるモノの価格を示す9月の企業物価指数は、2025年の同じ月と比べて6.8％上昇しました。 8月と比べると上昇率は縮小したものの、中東情勢の影響による石油関連製品の値上がりを反映…",
+      "pub_date": "2026-10-13T11:16:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日経平均株価 一時1500円超下落 東京株式市場",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58344",
+      "description": "連休明けの13日の東京株式市場、日経平均株価は一時、1500円以上値下がりしています。 イエメンの反政府勢力がサウジアラビアの国際空港を攻撃したことで、原油の先物価格が上昇し、企業の業績悪化につなが…",
+      "pub_date": "2026-10-13T09:40:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "簗農相「説明尽くし真摯に対応」問責決議案提出の動きに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58352",
+      "description": "簗農林水産大臣は、道路予算に関する発言などをめぐり、野党が問責決議案を提出することも含め対応を協議していることについて「しっかりと説明を尽くして真摯に対応していく」と述べました。",
+      "pub_date": "2026-10-13T10:42:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中露朝が連動し日本批判 政府警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6598555?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T22:33:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンション高騰 売れ残り値下げも",
+      "link": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T23:00:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木にみこし衝突 中学生ら5人けが",
+      "link": "https://news.yahoo.co.jp/pickup/6598550?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T21:58:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東海オンエアのりょう 結婚を報告",
+      "link": "https://news.yahoo.co.jp/pickup/6598553?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T22:18:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "齊藤京子 ソロ歌手デビューを発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598552?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T22:05:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台所に女性遺体 傷害疑い長男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6598564?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T23:56:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マイクロソフト 新型AI半導体発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598562?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T23:08:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西武本部長 MLB志望の平良に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6598559?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T23:09:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ひばりさんの「謝罪」の手紙 公開",
+      "link": "https://news.yahoo.co.jp/pickup/6598561?source=rss",
+      "description": "",
+      "pub_date": "2026-10-12T23:09:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "飲食店で男性刺される 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6598566?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T06:21:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米俳優 セルマ・ブレア容疑者逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6598569?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T06:56:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風被害 流れたニシキゴイを救出",
+      "link": "https://news.yahoo.co.jp/pickup/6598567?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T06:33:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JR東の法廷無断録音 新たに確認",
+      "link": "https://news.yahoo.co.jp/pickup/6598571?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T07:30:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "由伸 まさかの今季最短3回途中KO",
+      "link": "https://news.yahoo.co.jp/pickup/6598575?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T08:02:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "正恩氏と「会うかも」トランプ氏",
+      "link": "https://news.yahoo.co.jp/pickup/6598577?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T08:27:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国にもトー横? 日本との共通点",
+      "link": "https://news.yahoo.co.jp/pickup/6598578?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T08:50:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熟年離婚 切り出すのは7～8割女性",
+      "link": "https://news.yahoo.co.jp/pickup/6598580?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T09:14:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米スタバ チポトレ買収を否定",
+      "link": "https://news.yahoo.co.jp/pickup/6598572?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T07:40:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熟年離婚 修復経ず別れるケース増",
+      "link": "https://news.yahoo.co.jp/pickup/6598584?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T09:33:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "5年前から閉鎖 東大「赤門」は今",
+      "link": "https://news.yahoo.co.jp/pickup/6598585?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T09:48:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "漫画家・わたなべまさこさん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6598587?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T10:07:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "九州新幹線 運転再開は夕方以降に",
+      "link": "https://news.yahoo.co.jp/pickup/6598590?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T10:49:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平和賞のピレイ氏 ICC職員を激励",
+      "link": "https://news.yahoo.co.jp/pickup/6598576?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T08:16:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "由伸KO ド軍監督は驚き隠せず",
+      "link": "https://news.yahoo.co.jp/pickup/6598591?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T10:46:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "片桐はいり 体調不良で舞台降板",
+      "link": "https://news.yahoo.co.jp/pickup/6598589?source=rss",
+      "description": "",
+      "pub_date": "2026-10-13T10:27:53+09:00"
+    }
+  ]
+}
