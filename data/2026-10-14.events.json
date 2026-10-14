@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "matched_at": "2026-10-14T11:46:10.680565+09:00",
+  "matched_at": "2026-10-14T21:46:02.481589+09:00",
   "model": "claude-haiku-4-5-20251001",
   "required_source_count": 2,
   "events": [
@@ -10,10 +10,30 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "ロシアが北海道新聞記者をスパイ容疑で拘束 治安機関が発表",
+          "title": "都営地下鉄の保守工事談合で工事会社に排除措置命令へ 公取委",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58875",
+          "description": "都営地下鉄の線路などの保守工事を受注した6社が、落札する会社を調整する談合を繰り返していた疑いがあるとして、公正取引委員会が近く、このうち5社に対し、再発防止や課徴金の納付を命じる方針を固めたことが、…",
+          "pub_date": "2026-10-13T21:39:39+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "農相の進退 首相が14日にも判断へ",
+          "link": "https://news.yahoo.co.jp/pickup/6598682?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T08:28:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
           "link": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
-          "description": "ロシアの治安機関は北海道新聞のユジノサハリンスク支局の日本人の男性記者をスパイ容疑で拘束したと発表しました。 首都モスクワにある日本大使館は「事実関係の確認を急いでいる」としています。",
-          "pub_date": "2026-10-14T10:48:00+09:00"
+          "description": "ロシアの治安機関は北海道新聞のユジノサハリンスク支局の日本人の男性記者をスパイ容疑で拘束したと発表しました。治安機関がさらに捜査を進めるとしていることから、拘束が長期化する懸念もあります。",
+          "pub_date": "2026-10-14T12:03:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -25,7 +45,7 @@
       }
     },
     {
-      "event_id": "evt-0002",
+      "event_id": "evt-0003",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -41,26 +61,6 @@
           "link": "https://news.yahoo.co.jp/pickup/6598671?source=rss",
           "description": "",
           "pub_date": "2026-10-14T06:17:58+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0003",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261014de58923",
-          "description": "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。 与党内からは、国会審議などへの影響が…",
-          "pub_date": "2026-10-14T05:05:00+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "首相 14日に簗氏と面会する意向",
-          "link": "https://news.yahoo.co.jp/pickup/6598668?source=rss",
-          "description": "",
-          "pub_date": "2026-10-14T00:09:03+09:00"
         }
       }
     },
@@ -90,6 +90,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de58989",
+          "description": "大リーグ、ドジャースで深刻な打撃不振が続いている大谷翔平選手が、日本時間15日のリーグ優勝決定シリーズ第3戦に向けて会見し、「信じてくれる人のために頑張りたい」と強い気持ちを示しました。",
+          "pub_date": "2026-10-14T14:10:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大谷翔平 不振の原因を明かす",
+          "link": "https://news.yahoo.co.jp/pickup/6598696?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T10:08:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "ローマ教皇の手術成功 肺腺がん確認",
           "link": "https://news.web.nhk/newsweb/na/nd-20261014de58969",
           "description": "ローマ教皇レオ14世は13日、肺の一部を切除する手術を受け、組織検査で肺腺がんが確認されました。ローマ教皇庁によりますと、手術は成功したということです。",
@@ -103,6 +123,106 @@
           "pub_date": "2026-10-14T09:29:53+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59061",
+          "description": "アメリカのAI開発企業「オープンAI」のサウジアラビア国籍の従業員が、役員の会議室に高度な録音機器を設置した疑いで逮捕されました。捜査当局は、機密性の高い情報のやりとりを傍受しようとしたとみて、詳しく…",
+          "pub_date": "2026-10-14T12:21:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "OpenAIのエンジニアを逮捕 FBI",
+          "link": "https://news.yahoo.co.jp/pickup/6598695?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T10:10:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "誤った信号無視の取り締まり 警視庁が60件余繰り返す",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59211",
+          "description": "東京 小平市にある交差点で、誤った信号無視の取り締まりを警視庁が60件余り繰り返していたことが分かり、反則金の返還などを行っています。",
+          "pub_date": "2026-10-14T16:09:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "停止義務ないのに違反に ミス63件",
+          "link": "https://news.yahoo.co.jp/pickup/6598679?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T08:31:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【詳細】簗農相 辞表提出 道路予算発言など問題指摘の中",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59049",
+          "description": "簗農林水産大臣は、地元の道路予算に関する発言など、相次いで問題が指摘される中、14日、高市総理大臣に辞表を提出しました。",
+          "pub_date": "2026-10-14T20:43:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "簗農相が辞表提出 事実上の更迭か",
+          "link": "https://news.yahoo.co.jp/pickup/6598765?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T19:01:47+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "埼玉 「大樹生命」元営業職員を顧客への詐欺容疑で逮捕",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59353",
+          "description": "生命保険会社「大樹生命」の埼玉支社に勤務していた元営業職員が顧客から現金およそ500万円をだまし取ったとして逮捕されました。10年余りにわたって20人ほどの顧客に似たような手口を繰り返し被害の総額は1…",
+          "pub_date": "2026-10-14T18:13:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大樹生命の元社員を逮捕 詐取疑い",
+          "link": "https://news.yahoo.co.jp/pickup/6598748?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T17:20:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「内向の世代」を代表する作家 黒井千次さん死去",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59427",
+          "description": "「内向の世代」と呼ばれる作家の1人で人間の内面を見つめた小説を数多く発表した文化功労者の黒井千次さんが12日、肺炎のため亡くなりました。94歳でした。",
+          "pub_date": "2026-10-14T19:49:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "内向の世代 黒井千次さんが死去",
+          "link": "https://news.yahoo.co.jp/pickup/6598726?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T14:04:29+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
@@ -112,13 +232,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261013de58789",
       "description": "全国の自治体などが提供する災害情報メールや防災アプリ向けのシステムを運営している大阪・箕面市のIT関連会社「アルカディア」が、第三者による不正アクセスが疑われる事案を確認したと明らかにしました。 サー…",
       "pub_date": "2026-10-13T21:54:35+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "都営地下鉄の保守工事談合で工事会社に排除措置命令へ 公取委",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58875",
-      "description": "都営地下鉄の線路などの保守工事を受注した6社が、落札する会社を調整する談合を繰り返していた疑いがあるとして、公正取引委員会が近く、このうち5社に対し、再発防止や課徴金の納付を命じる方針を固めたことが、…",
-      "pub_date": "2026-10-13T21:39:39+09:00"
     },
     {
       "source": "NHK",
@@ -143,6 +256,13 @@
     },
     {
       "source": "NHK",
+      "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de58923",
+      "description": "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。 与党内からは、国会審議などへの影響が…",
+      "pub_date": "2026-10-14T05:05:00+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "個人情報の流出「不安感じる」77％ NHK世論調査",
       "link": "https://news.web.nhk/newsweb/na/nd-20261013de58351",
       "description": "不正アクセスによる情報漏えいが相次いでいることを受けて、NHKの世論調査で、自分の個人情報が流出する不安を感じるか尋ねたところ、「感じる」と答えた人が77％に上りました。",
@@ -150,10 +270,10 @@
     },
     {
       "source": "NHK",
-      "title": "急発達する低気圧 北海道で暴風警戒 全国的に大気不安定",
+      "title": "北海道は日本海側を中心に暴風警戒 あすは東北も大気不安定",
       "link": "https://news.web.nhk/newsweb/na/nd-20261014de58942",
-      "description": "前線を伴った低気圧が急速に発達する影響で、北海道では15日にかけて日本海側を中心に非常に強い風が吹く見込みで、気象庁は暴風に警戒するよう呼びかけています。 北日本から西日本では大気の状態が非常に不安定…",
-      "pub_date": "2026-10-14T09:14:08+09:00"
+      "description": "発達している低気圧の影響で北海道では風が強まっています。気象庁は、北海道の日本海側を中心に引き続き暴風に警戒するとともに、１５日は東北でも落雷や竜巻などの激しい突風、急な強い雨に注意するよう呼びかけて…",
+      "pub_date": "2026-10-14T19:34:18+09:00"
     },
     {
       "source": "NHK",
@@ -192,17 +312,115 @@
     },
     {
       "source": "NHK",
-      "title": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261014de58989",
-      "description": "大リーグ、ドジャースで深刻な打撃不振が続いている大谷翔平選手が、日本時間15日のリーグ優勝決定シリーズ第3戦に向けて会見し、「信じてくれる人のために頑張りたい」と強い気持ちを示しました。",
-      "pub_date": "2026-10-14T11:23:47+09:00"
+      "title": "PayPay証券 日本株 ETF全銘柄の取引を再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de58971",
+      "description": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、きのう、日本株とETF＝上場投資信託の取引を停止していましたが、復旧作業が進んだ結果、きょう午前9時から取引を再開したと発…",
+      "pub_date": "2026-10-14T12:12:00+09:00"
     },
     {
       "source": "NHK",
-      "title": "PayPay証券 日本株とETF全銘柄の取引を再開",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261014de58971",
-      "description": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、13日、日本株とETF＝上場投資信託のすべての銘柄の取引を停止していましたが、復旧作業が進んだ結果、14日午前9時から取引…",
-      "pub_date": "2026-10-14T10:13:00+09:00"
+      "title": "高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de58993",
+      "description": "高市総理大臣は、簗農林水産大臣が選挙期間中にシャトルバスで有権者を無料で送迎したことをめぐり、公職選挙法違反にあたるかどうかは関係当局が判断するもので現時点では答えられないとした上で、簗大臣に説明責任…",
+      "pub_date": "2026-10-14T16:10:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ニッスイの物流会社 全拠点で来週通常稼働へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59006",
+      "description": "大手食品メーカーのニッスイは、グループの物流会社でシステム障害が発生したことで、入荷や出荷への影響が続いていましたが、来週中にも全拠点で通常どおりの稼働ができる見通しになったと発表しました。",
+      "pub_date": "2026-10-14T11:26:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ゆめタウン」展開のイズミ 最大約40万件漏えいの可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59111",
+      "description": "西日本で総合スーパーの「ゆめタウン」などを展開する「イズミ」は、会員向けのサービスを委託している会社が使っているクラウドサービスに不正アクセスがあった影響で、最大で40万件の会員情報が漏えいした可能性…",
+      "pub_date": "2026-10-14T12:41:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サウジアラビア国営石油会社に攻撃 フーシ派と双方で攻撃続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59083",
+      "description": "中東のサウジアラビアと隣国イエメンの反政府勢力フーシ派の間で攻撃の応酬が続く中、サウジアラビアのエネルギー省は国営石油会社「サウジアラムコ」の管理棟が攻撃を受け、火災が発生したと明らかにしました。",
+      "pub_date": "2026-10-14T12:38:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "10月14日は「鉄道の日」 各地の動き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59081",
+      "description": "きょう10月14日は、154年前の1872年に東京の新橋と横浜の間で、日本で初めて鉄道が開業したことを記念する「鉄道の日」です。 鉄道に関する各地の動きをまとめました。",
+      "pub_date": "2026-10-14T13:42:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米駐ギリシャ大使が辞意 トランプ大統領“身内”を解任か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59035",
+      "description": "トランプ大統領の献金者に多額の金銭を要求した疑惑などが報じられていたアメリカの駐ギリシャ大使が辞任の意向を示しました。大使はトランプ大統領の長男の元婚約者だったことでも知られていますが、事実上の解任と…",
+      "pub_date": "2026-10-14T13:12:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国 9月消費者物価指数 前月比やや拡大も3か月連続1％下回る",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59167",
+      "description": "中国の9月の消費者物価指数は去年の同じ月と比べて0.9％上昇しました。8月からやや拡大しましたが、3か月連続で1％を下回りました。",
+      "pub_date": "2026-10-14T14:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ア・リーグ優勝決定シリーズ 第2戦はレイズが勝ち1勝1敗に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59173",
+      "description": "大リーグのポストシーズン、レイズとガーディアンズのアメリカンリーグの優勝決定シリーズは第2戦が行われ、レイズが3対1で勝って対戦成績を1勝1敗としました。",
+      "pub_date": "2026-10-14T15:03:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国と北朝鮮を結ぶ橋が15日に開通 両国貿易拡大の可能性も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59181",
+      "description": "中国と北朝鮮の関係強化が進む中、12年前に本体の工事が完了したものの開通していなかった両国を結ぶ橋が、15日開通することになりました。",
+      "pub_date": "2026-10-14T15:51:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 与党20日審議入り提案 野党 支援金対象明示を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59229",
+      "description": "食料品の消費税減税関連法案について、与党側は衆議院議院運営委員会の理事会で、来週20日に本会議を開いて審議入りさせたいと提案しました。 これに対して野党側は所得に応じた支援金の対象などのイメージを示…",
+      "pub_date": "2026-10-14T16:46:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北海道大樹町で新たなロケット発射場の土台部分完成",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59308",
+      "description": "北海道大樹町で人工衛星を搭載したロケットを打ち上げるための新たな発射場の土台部分が完成し、報道関係者に公開されました。",
+      "pub_date": "2026-10-14T18:11:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "投稿動画で会社元代表の名誉を毀損か ユーチューバー逮捕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59291",
+      "description": "20代のユーチューバーが、京都市にある不動産会社の当時の代表を「詐欺師」などとひぼう中傷する動画をYouTubeに投稿したとして、名誉毀損の疑いで警察に逮捕されました。 元代表は動画が投稿されたあと…",
+      "pub_date": "2026-10-14T20:12:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "渋谷区マンション建設 工事停止の申し立て 2審は退ける",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59164",
+      "description": "東京・渋谷区で進められていたマンションの建設工事をめぐり、近隣の住民が盛り土による土砂崩れのおそれがあるとして工事の停止を求めた申し立てについて、2審の東京高等裁判所が1審とは逆に退ける決定をしたこと…",
+      "pub_date": "2026-10-14T19:25:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "止まらない個人情報漏えい 警察でも漏えいの可能性明らかに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59388",
+      "description": "不正アクセスによる個人情報の流出が止まりません。14日、新たに都内各地の自治体が個人情報が流出したおそれがあると公表したほか、広島県警察本部の警察官や職員の個人情報が漏えいした可能性も明らかになりまし…",
+      "pub_date": "2026-10-14T20:48:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "共同創業者 単独インタで語った“AIの未来”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "description": "アメリカのAI開発企業「アンソロピック」の共同創業者の1人、ジャック・クラーク氏がNHKの単独インタビューに応じ、AIがみずからAIを開発する状況が来年にも起こりうるとした上で、「将来にわたって制御す…",
+      "pub_date": "2026-10-14T20:25:21+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -252,6 +470,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6598661?source=rss",
       "description": "",
       "pub_date": "2026-10-13T22:39:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 14日に簗氏と面会する意向",
+      "link": "https://news.yahoo.co.jp/pickup/6598668?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T00:09:03+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -311,24 +536,10 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "農相の進退 首相が14日にも判断へ",
-      "link": "https://news.yahoo.co.jp/pickup/6598682?source=rss",
-      "description": "",
-      "pub_date": "2026-10-14T08:28:06+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "横浜市で住宅火災 2遺体見つかる",
       "link": "https://news.yahoo.co.jp/pickup/6598689?source=rss",
       "description": "",
       "pub_date": "2026-10-14T09:16:12+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "停止義務ないのに違反に ミス63件",
-      "link": "https://news.yahoo.co.jp/pickup/6598679?source=rss",
-      "description": "",
-      "pub_date": "2026-10-14T08:31:21+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -360,24 +571,10 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "大谷翔平 不振の原因を明かす",
-      "link": "https://news.yahoo.co.jp/pickup/6598696?source=rss",
-      "description": "",
-      "pub_date": "2026-10-14T10:08:51+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "動物避けようとして車転落か 死亡",
       "link": "https://news.yahoo.co.jp/pickup/6598697?source=rss",
       "description": "",
       "pub_date": "2026-10-14T10:26:21+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "OpenAIのエンジニアを逮捕 FBI",
-      "link": "https://news.yahoo.co.jp/pickup/6598695?source=rss",
-      "description": "",
-      "pub_date": "2026-10-14T10:10:32+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -413,6 +610,265 @@
       "link": "https://news.yahoo.co.jp/pickup/6598701?source=rss",
       "description": "",
       "pub_date": "2026-10-14T11:08:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "記者拘束 人道的配慮要求と茂木氏",
+      "link": "https://news.yahoo.co.jp/pickup/6598703?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T11:34:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗氏 バス送迎の答弁を事実上修正",
+      "link": "https://news.yahoo.co.jp/pickup/6598707?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T11:47:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "給食に「貧相すぎ」と批判 市回答",
+      "link": "https://news.yahoo.co.jp/pickup/6598715?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T12:11:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "我が家・杉山裕之さん 万引き疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6598714?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T12:02:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PayPay証券 システム障害が解消",
+      "link": "https://news.yahoo.co.jp/pickup/6598720?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T13:01:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷翔平 スタッフから熱唱エール",
+      "link": "https://news.yahoo.co.jp/pickup/6598721?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T13:14:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 李承燁・打撃コーチが退任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598717?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T12:24:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウのEU加盟 ハンガリー反対撤回",
+      "link": "https://news.yahoo.co.jp/pickup/6598724?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T14:01:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "積み荷はニワトリ3000羽 崩れ散乱",
+      "link": "https://news.yahoo.co.jp/pickup/6598727?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T14:14:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ディズニー 客船名はIMAGINATION",
+      "link": "https://news.yahoo.co.jp/pickup/6598705?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T11:47:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ミス〇〇大使 中止や終了相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6598725?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T13:55:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハッカー集団Qilin AI利用と主張",
+      "link": "https://news.yahoo.co.jp/pickup/6598729?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T14:30:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イオン系スーパー100店閉店 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6598728?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T14:26:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ワールドとTSI 経営統合で合意",
+      "link": "https://news.yahoo.co.jp/pickup/6598738?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T16:15:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗氏 24年衆院選で運動員買収疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6598734?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T15:27:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "だんじり事故 主催者らの責任は",
+      "link": "https://news.yahoo.co.jp/pickup/6598733?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T15:25:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "W杯予定地サウジ 進む脱スポーツ",
+      "link": "https://news.yahoo.co.jp/pickup/6598713?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T13:34:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "外務省 駐日ロシア大使を呼び出し",
+      "link": "https://news.yahoo.co.jp/pickup/6598746?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T17:21:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイゼ メニューを平均6%値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6598740?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T16:50:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウインナー なぜ2袋セットで販売",
+      "link": "https://news.yahoo.co.jp/pickup/6598731?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T14:51:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "チョウの化石「250万年前」と判明",
+      "link": "https://news.yahoo.co.jp/pickup/6598745?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T17:24:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "陸上女子の名門・資生堂 休部へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598744?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T17:03:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 農相を交代させる方針固める",
+      "link": "https://news.yahoo.co.jp/pickup/6598753?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T17:46:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報CS ソフトバンクvs.日本ハム",
+      "link": "https://news.yahoo.co.jp/pickup/6598743?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T18:02:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報CSファイナル 阪神vs.DeNA",
+      "link": "https://news.yahoo.co.jp/pickup/6598742?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T18:02:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "恨みない 風間トオルの過酷幼少期",
+      "link": "https://news.yahoo.co.jp/pickup/6598752?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T17:54:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "幼い娘が偏食 追い詰められた母親",
+      "link": "https://news.yahoo.co.jp/pickup/6598758?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T17:55:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プール授業中に溺死 元担任も有罪",
+      "link": "https://news.yahoo.co.jp/pickup/6598763?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T19:14:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "BOOKOFF「本売るなら」から変身",
+      "link": "https://news.yahoo.co.jp/pickup/6598750?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T17:33:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "我が家・杉山の謹慎を事務所発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598766?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T19:25:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "農相「これ以上迷惑かけられず」",
+      "link": "https://news.yahoo.co.jp/pickup/6598770?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T19:49:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "名前を変える大学が増加 背景は",
+      "link": "https://news.yahoo.co.jp/pickup/6598774?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T20:20:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "警察官がひき逃げ疑い 書類送検",
+      "link": "https://news.yahoo.co.jp/pickup/6598767?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T19:33:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "がんでカツラ 1人で遺影撮った妻",
+      "link": "https://news.yahoo.co.jp/pickup/6598775?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T20:22:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報CSファイナル 阪神vs.DeNA",
+      "link": "https://news.yahoo.co.jp/pickup/6598771?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T19:52:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "目黒蓮 帰国後初のイベント登場",
+      "link": "https://news.yahoo.co.jp/pickup/6598777?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T20:48:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA好発進 CSで阪神に完封勝ち",
+      "link": "https://news.yahoo.co.jp/pickup/6598780?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T21:27:53+09:00"
     }
   ]
 }
