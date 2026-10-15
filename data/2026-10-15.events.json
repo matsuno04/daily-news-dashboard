@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-15",
+  "matched_at": "2026-10-15T11:46:08.449168+09:00",
+  "model": "claude-haiku-4-5-20251001",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【詳細】簗農相 辞表提出 道路予算発言など問題指摘の中",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59049",
+          "description": "簗農林水産大臣は、地元の道路予算に関する発言など、相次いで問題が指摘される中、14日、高市総理大臣に辞表を提出しました。",
+          "pub_date": "2026-10-14T22:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "農相辞表 内閣改造後わずか1カ月",
+          "link": "https://news.yahoo.co.jp/pickup/6598790?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T23:12:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "簗農相辞表提出 首相きょう後任決定方針 野党は任命責任追及へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261015de59520",
+          "description": "地元の道路予算に関する発言など相次いで問題が指摘された簗農林水産大臣が辞表を提出したことを受けて、高市総理大臣は、15日中に後任を決める方針です。政府・与党は速やかに態勢の立て直しを図りたい考えなのに…",
+          "pub_date": "2026-10-15T04:40:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "農相 後任に自民・武部新氏の方針",
+          "link": "https://news.yahoo.co.jp/pickup/6598828?source=rss",
+          "description": "",
+          "pub_date": "2026-10-15T10:26:23+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北海道新聞記者の拘束受けて状況などの確認急ぐ 日本政府",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261015de59523",
+          "description": "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。拘束に至った状況などの確認を急ぎ、必要な対応を検討していくことにしていま…",
+          "pub_date": "2026-10-15T10:17:43+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "道新記者の拘束 日本政府に衝撃",
+          "link": "https://news.yahoo.co.jp/pickup/6598791?source=rss",
+          "description": "",
+          "pub_date": "2026-10-14T23:34:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【速報中】ドジャース 逆転される リーグ優勝決定S第3戦(7回)",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59178",
+          "description": "大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズは、ブルワーズが2連勝でリードし、舞台をロサンゼルスに移して、日本時間の午前9時から第3戦が行われています。 ドジャースは、打…",
+          "pub_date": "2026-10-15T11:07:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "速報 ドジャースvs.ブリュワーズ",
+          "link": "https://news.yahoo.co.jp/pickup/6598811?source=rss",
+          "description": "",
+          "pub_date": "2026-10-15T08:56:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "株価 一時3000円以上値下がり 米利上げ観測など背景",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261015de59563",
+          "description": "15日の東京株式市場、日経平均株価は3000円以上、値下がりしています。 日本時間の14日発表されたアメリカの消費者物価指数が市場予想を上回って上昇し、アメリカでの早期の利上げ観測が高まったことや、…",
+          "pub_date": "2026-10-15T10:59:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日経平均 一時3000円以上値下がり",
+          "link": "https://news.yahoo.co.jp/pickup/6598832?source=rss",
+          "description": "",
+          "pub_date": "2026-10-15T10:57:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261015de59583",
+          "description": "プロ野球のドラフト会議で上位候補として注目を集めている神奈川の横浜高校の織田翔希投手が今月22日の会議を前に会見し「世界一のピッチャーになるためアメリカの地で挑戦することを決めました」と述べ、将来的な…",
+          "pub_date": "2026-10-15T10:54:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "横浜・織田翔希 MLB挑戦を表明",
+          "link": "https://news.yahoo.co.jp/pickup/6598826?source=rss",
+          "description": "",
+          "pub_date": "2026-10-15T10:13:06+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "止まらない個人情報漏えい 警察でも漏えいの可能性明らかに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59388",
+      "description": "不正アクセスによる個人情報の流出が止まりません。14日、新たに都内各地の自治体が個人情報が流出したおそれがあると公表したほか、広島県警察本部の警察官や職員の個人情報が漏えいした可能性も明らかになりまし…",
+      "pub_date": "2026-10-14T22:47:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国軍の空母が太平洋に向けて航行 戦闘機の発着も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59475",
+      "description": "中国海軍の空母が沖縄本島と宮古島の間を通って太平洋に向けて航行したのを確認したと防衛省が発表しました。その後、空母での戦闘機の発着も確認されたということで、防衛省が警戒と監視を続けています。",
+      "pub_date": "2026-10-14T22:20:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国内初 遠隔で手術ロボット操作し支援 弘前大など",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59458",
+      "description": "手術用のロボットを離れた場所にいる医師が操作し、遠隔で手術を支援する臨床研究を実施したと弘前大学などが発表しました。 ロボットを使って遠隔で手術に参加したのは国内初だということです。",
+      "pub_date": "2026-10-14T22:34:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "G20 財務相・中央銀行総裁会議 15日開幕へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59525",
+      "description": "G20＝主要20か国の財務相・中央銀行総裁会議が、15日、タイで開かれます。各国でインフレ懸念が高まり金利の上昇傾向も続く中、世界経済の安定した成長に向けた議論が行われるほか、高性能のAIモデルが金融…",
+      "pub_date": "2026-10-15T06:43:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59421",
+      "description": "警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しま…",
+      "pub_date": "2026-10-15T06:47:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋の園遊会 招待者決まる 宮部みゆきさんや吉田鋼太郎さんなど",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59522",
+      "description": "今月29日に開かれる秋の園遊会に、小説家の宮部みゆきさんや、俳優の吉田鋼太郎さんなど、1700人余りが招待されました。",
+      "pub_date": "2026-10-15T05:40:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "訪問介護の介護報酬の枠組み 抜本的見直しで検討 厚生労働省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59521",
+      "description": "介護が必要な高齢者が地域で暮らす際に欠かせない訪問介護サービスでは、利用者が分散している場合、ヘルパーの移動に時間がかかるなどして効率的なサービスの提供が難しく、事業者の経営を圧迫する要因となっていま…",
+      "pub_date": "2026-10-15T05:39:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米半導体企業 最大3兆円規模で新工場建設へ 日米合意に基づき",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59529",
+      "description": "アメリカの半導体の受託生産大手「グローバルファウンドリーズ」は、去年の日米合意に基づき、日本企業と協力して東部ニューヨーク州に新たな半導体工場を建設すると発表しました。事業規模は、日本円にして最大で3…",
+      "pub_date": "2026-10-15T07:18:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "農相に自民 武部新氏起用の意向 簗氏の後任に 高市首相",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59560",
+      "description": "高市総理大臣は自民党の武部新氏と会談し、簗氏の後任の農林水産大臣に起用すると伝えました。",
+      "pub_date": "2026-10-15T10:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "凍ったゼリーで男児死亡の民間こども園に監査 奈良 香芝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59577",
+      "description": "奈良県香芝市の民間の認定こども園で、4歳の男の子が凍らせたゼリーをのどに詰まらせて死亡した事故を受け、香芝市は、こども園の安全管理などに問題がなかったかどうか調べるため、さきほどから監査に入りました。",
+      "pub_date": "2026-10-15T10:09:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59459",
+      "description": "漫画家の女性が、都内の出版社と結んだ作品の出版契約について「期間が事実上無期限なのに印税が支払われず、一方的な内容だ」として、出版権がすでに消滅していることの確認を求める異例の訴えを起こしたことがわか…",
+      "pub_date": "2026-10-15T05:18:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日銀利上げ 2%超える可能性は",
+      "link": "https://news.yahoo.co.jp/pickup/6598757?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T22:18:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京都 23区内に火葬場の新設検討",
+      "link": "https://news.yahoo.co.jp/pickup/6598786?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T22:47:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新宿109KENZO 池田容疑者を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6598783?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T22:01:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神・村上 ベンチでうなだれる",
+      "link": "https://news.yahoo.co.jp/pickup/6598787?source=rss",
+      "description": "",
+      "pub_date": "2026-10-14T22:47:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海峡で機雷接触の貨物船沈没 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6598794?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T00:05:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "万博未払い アンゴラ異例対応の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6598795?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T00:20:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "農相辞任「当然」地元有権者怒り",
+      "link": "https://news.yahoo.co.jp/pickup/6598798?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T06:38:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ネトフリ 従業員約1000人を削減へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598797?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T06:20:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田翔希 MLB挑戦の意向固めたか",
+      "link": "https://news.yahoo.co.jp/pickup/6598796?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T06:09:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日 吉見一起氏をコーチ招へいへ",
+      "link": "https://news.yahoo.co.jp/pickup/6598801?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T06:51:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米上場の半導体株 下落止まらず",
+      "link": "https://news.yahoo.co.jp/pickup/6598805?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T07:37:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "区に個人が1億円寄付 進学支援へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598810?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T08:12:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷は昨夜遅くまで練習 監督言及",
+      "link": "https://news.yahoo.co.jp/pickup/6598803?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T07:24:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千と千尋・世界公演 千尋役は7人",
+      "link": "https://news.yahoo.co.jp/pickup/6598807?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T07:51:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日経平均 一時2000円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6598820?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T09:26:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIが自己改善「超知能」に危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6598809?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T08:14:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米8州がオープンAIを提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6598818?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T09:11:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "軽油価格の高騰 米国の農家は悲鳴",
+      "link": "https://news.yahoo.co.jp/pickup/6598814?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T08:50:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日経平均 一時2500円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6598824?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T10:04:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "仏で高校生がデモ 激化する背景",
+      "link": "https://news.yahoo.co.jp/pickup/6598812?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T08:38:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "金塊1.4億円相当 82歳が詐欺被害",
+      "link": "https://news.yahoo.co.jp/pickup/6598829?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T10:37:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豆腐の移動販売で年商20億円 秘訣",
+      "link": "https://news.yahoo.co.jp/pickup/6598825?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T10:46:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田翔希が米球界挑戦 母は後押し",
+      "link": "https://news.yahoo.co.jp/pickup/6598831?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T11:03:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "須藤晃氏死去 音楽プロデューサー",
+      "link": "https://news.yahoo.co.jp/pickup/6598830?source=rss",
+      "description": "",
+      "pub_date": "2026-10-15T10:40:18+09:00"
+    }
+  ]
+}
