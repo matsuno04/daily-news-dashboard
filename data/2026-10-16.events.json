@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "matched_at": "2026-10-16T11:46:11.935727+09:00",
-  "model": "claude-haiku-4-5-20251001",
+  "matched_at": "2026-10-16T21:45:36.231642+09:00",
+  "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
     {
@@ -50,17 +50,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "“餃子の王将”社長殺害事件 暴力団幹部にきょう判決 京都地裁",
+          "title": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
           "link": "https://news.web.nhk/newsweb/na/nd-20261015de60144",
-          "description": "2013年、「餃子の王将」を展開する会社の社長が京都市で拳銃で撃たれて殺害された事件で、実行役として殺人などの罪に問われた暴力団幹部に16日、判決が言い渡されます。 検察が無期懲役を求刑した一方で、被…",
-          "pub_date": "2026-10-16T10:14:21+09:00"
+          "description": "13年前、「餃子の王将」を展開する会社の社長が京都市で拳銃で撃たれて殺害された事件で、実行役として殺人などの罪に問われた暴力団幹部に対し、京都地方裁判所は「犯罪の証明がない」などとして無罪を言い渡しま…",
+          "pub_date": "2026-10-16T20:25:38+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "有罪か無罪か 王将射殺きょう判決",
-          "link": "https://news.yahoo.co.jp/pickup/6598954?source=rss",
+          "title": "王将社長射殺事件 男に無罪判決",
+          "link": "https://news.yahoo.co.jp/pickup/6598982?source=rss",
           "description": "",
-          "pub_date": "2026-10-16T09:23:13+09:00"
+          "pub_date": "2026-10-16T13:35:54+09:00"
         }
       }
     },
@@ -70,17 +70,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "アメリカ西部オレゴン州の小学校で銃撃 複数死傷",
+          "title": "アメリカ西部オレゴン州の小学校で銃撃 子ども3人と教師死亡",
           "link": "https://news.web.nhk/newsweb/na/nd-20261016de60199",
-          "description": "アメリカ西部オレゴン州ベンドにある小学校で15日午後、何者かが銃を発砲し、複数のメディアによりますと子どもを含む複数の死傷者がいるということです。 容疑者は撃たれて死亡したということです。 この小…",
-          "pub_date": "2026-10-16T10:54:20+09:00"
+          "description": "アメリカ西部オレゴン州の小学校で銃撃事件があり、子ども3人を含む4人が死亡しました。容疑者は16歳で、現場で撃たれて死亡したということです。",
+          "pub_date": "2026-10-16T12:04:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "小学校銃撃で子ら4人死亡 米報道",
-          "link": "https://news.yahoo.co.jp/pickup/6598946?source=rss",
+          "title": "米小学校で銃撃 16歳の容疑者死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6598962?source=rss",
           "description": "",
-          "pub_date": "2026-10-16T08:12:00+09:00"
+          "pub_date": "2026-10-16T11:13:11+09:00"
         }
       }
     },
@@ -90,17 +90,137 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "【速報中】ドジャース×ブルワーズ 大谷HRも追いかける展開に",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60061",
-          "description": "大リーグ、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズはブルワーズが3連勝し、ワールドシリーズ進出に王手をかけて、第4戦が行われています。負ければ終わりのドジャースは2回に大谷翔平…",
-          "pub_date": "2026-10-16T11:28:35+09:00"
+          "title": "高市首相 簗前農相辞任を陳謝“内閣一丸で重要課題に対応”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60209",
+          "description": "高市総理大臣は、地元の道路予算に関する発言など、相次いで問題が指摘された簗前農林水産大臣の辞任について参議院予算委員会で陳謝した上で内閣が一丸となって重要課題に対応していく考えを示しました。",
+          "pub_date": "2026-10-16T12:04:18+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "速報 ドジャースvs.ブリュワーズ",
-          "link": "https://news.yahoo.co.jp/pickup/6598949?source=rss",
+          "title": "高市首相 簗前農相の交代を陳謝",
+          "link": "https://news.yahoo.co.jp/pickup/6598973?source=rss",
           "description": "",
-          "pub_date": "2026-10-16T08:57:39+09:00"
+          "pub_date": "2026-10-16T12:34:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【詳しく】気象庁 緊急地震速報取り消し “M9.9と過大に推定”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60368",
+          "description": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震があり、気象庁は北海道から東海にかけての広い範囲を対象に緊急地震速報を発表しましたが、直後に取り消しました。 気象庁は地震の規模を過大に評価して緊急地…",
+          "pub_date": "2026-10-16T19:51:58+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "気象庁 M6.9をM9.9と過大に予測",
+          "link": "https://news.yahoo.co.jp/pickup/6598983?source=rss",
+          "description": "",
+          "pub_date": "2026-10-16T13:45:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ヤマト運輸 個人情報530万件余の外部流出を確認",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
+          "description": "宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202…",
+          "pub_date": "2026-10-16T15:02:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ヤマト運輸 個人情報530万件流出",
+          "link": "https://news.yahoo.co.jp/pickup/6598987?source=rss",
+          "description": "",
+          "pub_date": "2026-10-16T14:40:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "猪苗代湖ボート3人死傷事故 無罪取り消し 有罪確定へ 最高裁",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60234",
+          "description": "6年前、福島県の猪苗代湖で親子など3人にボートで衝突して死傷させたとして業務上過失致死傷の罪に問われた元会社役員の裁判で、最高裁判所は、2審の無罪判決を取り消し、1審の禁錮2年の有罪判決が確定すること…",
+          "pub_date": "2026-10-16T17:48:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "猪苗代湖3人死傷 最高裁逆転有罪",
+          "link": "https://news.yahoo.co.jp/pickup/6598989?source=rss",
+          "description": "",
+          "pub_date": "2026-10-16T15:13:49+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日経新聞 不正アクセスで個人情報約183万件漏えい",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60531",
+          "description": "日本経済新聞社は、システムの開発に使っているクラウドサービスが不正アクセスを受け、個人情報およそ183万件が漏えいしたと発表しました。 日本経済新聞社によりますと、10月7日の未明から朝にかけて、シ…",
+          "pub_date": "2026-10-16T18:13:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日経新聞 個人情報が183万件流出",
+          "link": "https://news.yahoo.co.jp/pickup/6599004?source=rss",
+          "description": "",
+          "pub_date": "2026-10-16T17:13:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "頭部にバット直撃の川上審判員が意識回復 家族「復帰めざす」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60624",
+          "description": "ことし4月、プロ野球の試合で頭部にバットが直撃し、入院が続く川上拓斗審判員の意識が回復したことがわかりました。 NPB＝日本野球機構を通じて川上審判員の家族が明らかにしました。",
+          "pub_date": "2026-10-16T18:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "バット直撃の川上審判員 意識回復",
+          "link": "https://news.yahoo.co.jp/pickup/6599000?source=rss",
+          "description": "",
+          "pub_date": "2026-10-16T16:46:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "NTTドコモ 緊急地震速報が利用者に配信されず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60749",
+          "description": "NTTドコモは、16日昼過ぎ、気象庁から発表された緊急地震速報が対象エリアの利用者に配信されなかったと発表しました。 通信会社には、利用者に対してこうした緊急速報を配信する仕組みがありますが、会社で…",
+          "pub_date": "2026-10-16T21:00:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "緊急地震速報 ドコモで配信されず",
+          "link": "https://news.yahoo.co.jp/pickup/6599019?source=rss",
+          "description": "",
+          "pub_date": "2026-10-16T19:27:32+09:00"
         }
       }
     }
@@ -178,6 +298,13 @@
     },
     {
       "source": "NHK",
+      "title": "ドジャース 大谷HRも敗退 3連覇逃す ブルワーズ戦【詳報】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de60061",
+      "description": "大リーグのポストシーズンはナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズ第4戦が行われ、ドジャースが4対6で逆転負けを喫し4連敗となり、3年連続のワールドシリーズ進出はなりませんでし…",
+      "pub_date": "2026-10-16T17:18:00+09:00"
+    },
+    {
+      "source": "NHK",
       "title": "在留外国人が428万人で過去最多に",
       "link": "https://news.web.nhk/newsweb/na/nd-20261016de60210",
       "description": "日本に在留する外国人の数は、ことし6月末時点でおよそ428万人で、過去最多となりました。",
@@ -185,17 +312,122 @@
     },
     {
       "source": "NHK",
-      "title": "高市首相 参議院予算委員会冒頭で簗前農相辞任を陳謝",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60209",
-      "description": "高市総理大臣は、地元の道路予算に関する発言など相次いで問題が指摘された簗前農林水産大臣の辞任について、16日の参議院予算委員会の冒頭で陳謝しました。",
-      "pub_date": "2026-10-16T10:23:14+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "G20閉幕 世界経済やAIリスク議論も共同声明なし",
       "link": "https://news.web.nhk/newsweb/na/nd-20261016de60163",
       "description": "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。 インフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし…",
       "pub_date": "2026-10-16T10:58:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "赤澤経産相 灯油の価格高騰対策を実施へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60289",
+      "description": "北海道などで冬場の暖房に欠かせない灯油が値上がりする中、赤澤経済産業大臣は、国内で生産される灯油に比べて割高な海外産を輸入する際は補助を出すなど、灯油の価格高騰対策を実施する方針を明らかにしました。",
+      "pub_date": "2026-10-16T12:07:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "木原長官 記者拘束\"領事通報あり 健康状態確認働きかけ\"",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60303",
+      "description": "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことをめぐり、木原官房長官は、現地時間の15日にロシア側から身柄拘束の事実を知らせる「領事通報」があったことを明らかにし、引き続き、健康状態の確認…",
+      "pub_date": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【対策】“相次ぐ個人情報の流出” 私たちができることは",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60212",
+      "description": "企業へのサイバー攻撃によって個人情報が流出した場合、2次被害を防ぐために個人でできる対応にはどんなことがあるのでしょうか。私たちがとるべき対策について、まとめました。",
+      "pub_date": "2026-10-16T12:10:08+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "カムチャツカ半島 M6.9の地震観測 USGS＝アメリカ地質調査所",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60373",
+      "description": "USGS＝アメリカの地質調査所によりますと日本時間の16日午後0時35分ごろ、ロシア極東のカムチャツカ半島南部で地震がありました。 震源の深さは140キロあまり、地震の規模を示すマグニチュードは6.…",
+      "pub_date": "2026-10-16T13:09:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東海道新幹線 地震防災システム作動で一時運転見合わせも再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60374",
+      "description": "JRによりますと、東海道新幹線は午後0時40分ごろから新横浜駅と豊橋駅の間の上下線で一時、運転を見合わせましたが午後0時55分に運転を再開しました。 緊急地震速報が出された影響で安全確保のため、地震…",
+      "pub_date": "2026-10-16T13:19:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米のICC制裁受け 人権団体など“日本が米と協議を”訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60353",
+      "description": "アメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定したことを受けて、国際的な人権団体やNGOなどがオンラインの会見を開き、「日本のリーダーシップが求められている」として、日本政府が制裁の撤…",
+      "pub_date": "2026-10-16T14:13:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 20日審議入り合意 自民・民改国対委員長会談",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60357",
+      "description": "食料品の消費税減税関連法案をめぐり、自民党と民主改革の会の国会対策委員長が会談し、来週20日の衆議院本会議で審議入りした上で、高市総理大臣の出席も求めて質疑を行うことで合意しました。",
+      "pub_date": "2026-10-16T14:02:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60258",
+      "description": "止まらない企業へのサイバー攻撃。なぜ急に被害が相次ぐようになったのか。背景として指摘される「AIエージェント」や、対策について解説します。",
+      "pub_date": "2026-10-16T13:59:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米空母「セオドア・ルーズベルト」横須賀に入港 中東に展開か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60340",
+      "description": "アメリカの原子力空母「セオドア・ルーズベルト」が16日、補給などのため横須賀基地に入港しました。アメリカの軍事ニュースサイトは、この空母がイランに対する軍事作戦に参加するため中東への長期展開に向かうと…",
+      "pub_date": "2026-10-16T13:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イエローハット およそ180万人分の個人情報漏えいを確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60437",
+      "description": "2026年8月に会社の予約システムが不正アクセスを受けたことを公表していた大手自動車用品チェーン「イエローハット」は16日までに、およそ180万人分の会員の情報が外部に流出したことを確認したと明らかに…",
+      "pub_date": "2026-10-16T16:28:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "緊急地震速報取り消し 驚きや正確な情報求める声 北海道・東北",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60369",
+      "description": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震があり、気象庁は北海道から東海にかけての広い範囲を対象に緊急地震速報を発表しましたが、直後に取り消しました。北海道や東北の市民などからは、驚きや正確な…",
+      "pub_date": "2026-10-16T16:51:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
+      "description": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…",
+      "pub_date": "2026-10-16T17:56:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60239",
+      "description": "2026年、不正アクセスで漏えいした可能性がある個人情報が、のべ1億6500万人分余りにのぼっていることがセキュリティー会社のまとめで分かりました。",
+      "pub_date": "2026-10-16T20:04:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "タイムズカー情報漏えい パーク24 本人確認の画像を即時削除へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60636",
+      "description": "駐車場の運営などを手がける「パーク24」は、不正なアクセスで運転免許証などの本人確認に使われる書類の画像およそ160万件が漏えいしたことを受けて、会員登録が完了した後、画像を即時削除するよう社内のルー…",
+      "pub_date": "2026-10-16T18:28:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山中教授 iPS保険適用後初の手術「世界初で大きな一歩」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60674",
+      "description": "京都大学の山中伸弥教授が今月16日、都内でNHKのインタビューに応じ、iPS細胞の治療が保険適用されてから初めてとなる手術が先月行われたことについて、「世界初で大きな一歩だ」と評価しました。",
+      "pub_date": "2026-10-16T19:28:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "コミックシーモアが不正アクセス確認 会員情報が漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60740",
+      "description": "漫画を中心とした電子書籍を配信する「コミックシーモア」の運営会社は、不正アクセスによりメールアドレスなどの会員情報が流出したと発表しました。",
+      "pub_date": "2026-10-16T20:58:50+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -311,6 +543,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "小学校銃撃で子ら4人死亡 米報道",
+      "link": "https://news.yahoo.co.jp/pickup/6598946?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T08:12:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "2児殺害 母「状況覚えていない」",
       "link": "https://news.yahoo.co.jp/pickup/6598951?source=rss",
       "description": "",
@@ -332,6 +571,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "速報 ドジャースvs.ブリュワーズ",
+      "link": "https://news.yahoo.co.jp/pickup/6598949?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T08:57:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "匿流スマホ 遠隔解析で被害防止へ",
       "link": "https://news.yahoo.co.jp/pickup/6598953?source=rss",
       "description": "",
@@ -343,6 +589,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6598950?source=rss",
       "description": "",
       "pub_date": "2026-10-16T08:57:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "有罪か無罪か 王将射殺きょう判決",
+      "link": "https://news.yahoo.co.jp/pickup/6598954?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T09:23:13+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -367,10 +620,255 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "米小学校で銃撃 16歳の容疑者死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6598962?source=rss",
+      "title": "記者拘束で日本抗議 露大使館拒否",
+      "link": "https://news.yahoo.co.jp/pickup/6598955?source=rss",
       "description": "",
-      "pub_date": "2026-10-16T11:13:11+09:00"
+      "pub_date": "2026-10-16T09:51:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マスク氏 ウ大統領に退陣呼びかけ",
+      "link": "https://news.yahoo.co.jp/pickup/6598972?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T12:06:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "道頓堀川に男性投げ入れ疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6598976?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T12:26:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "チョコザップ機器で事故 運営謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6598964?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T11:45:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "帝国ホテル 不適切な展示巡り謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6598963?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T11:37:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイ王妃 自ら航空機を操縦し来日",
+      "link": "https://news.yahoo.co.jp/pickup/6598965?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T11:42:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "矢野雅哉・前川誠太選手を不起訴",
+      "link": "https://news.yahoo.co.jp/pickup/6598966?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T12:03:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドジャース 屈辱の4連敗で終戦",
+      "link": "https://news.yahoo.co.jp/pickup/6598975?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T12:20:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緊急地震速報を取り消し 気象庁",
+      "link": "https://news.yahoo.co.jp/pickup/6598978?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T12:53:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "気象庁 速報対象地震ではなかった",
+      "link": "https://news.yahoo.co.jp/pickup/6598980?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T13:24:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中継気象庁会見 地震速報取り消し",
+      "link": "https://news.yahoo.co.jp/pickup/6598985?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T13:58:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "テスラ新型車 空中旋回を実演",
+      "link": "https://news.yahoo.co.jp/pickup/6598984?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T14:01:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大学準硬式の右腕 異例の米挑戦へ",
+      "link": "https://news.yahoo.co.jp/pickup/6598958?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T10:09:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "倖田來未が第2子出産を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598981?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T13:49:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "気象庁 サイバー攻撃の可能性ない",
+      "link": "https://news.yahoo.co.jp/pickup/6598988?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T14:36:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "葉物野菜高騰 家計に優しい料理は",
+      "link": "https://news.yahoo.co.jp/pickup/6598961?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T11:08:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ド軍敗退 大谷はため息「悔しい」",
+      "link": "https://news.yahoo.co.jp/pickup/6598986?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T14:36:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "インフル感染 前年同時期比5倍超",
+      "link": "https://news.yahoo.co.jp/pickup/6598993?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T15:58:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "王将事件で無罪判決 被告コメント",
+      "link": "https://news.yahoo.co.jp/pickup/6598994?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T16:18:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JR東海 新幹線の新型車両を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6598995?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T16:10:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緊急地震速報取り消し 各地混乱",
+      "link": "https://news.yahoo.co.jp/pickup/6599005?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T17:20:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米報道官 弁護士資格なしを認める",
+      "link": "https://news.yahoo.co.jp/pickup/6598974?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T12:19:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "倖田來未に第2子 出産は14年ぶり",
+      "link": "https://news.yahoo.co.jp/pickup/6599002?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T17:02:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗前農相 運動員への支払い指示か",
+      "link": "https://news.yahoo.co.jp/pickup/6599011?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T17:58:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "印旛沼の堤防 緊急復旧が完了",
+      "link": "https://news.yahoo.co.jp/pickup/6599013?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T18:08:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "攻撃受け 県メアドから迷惑メール",
+      "link": "https://news.yahoo.co.jp/pickup/6599003?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T17:42:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報CSファイナル 阪神vs.DeNA",
+      "link": "https://news.yahoo.co.jp/pickup/6599007?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T18:00:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 外食支援で商品券なども検討",
+      "link": "https://news.yahoo.co.jp/pickup/6599015?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T18:42:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トヨタ 30年までに全車種をSDVに",
+      "link": "https://news.yahoo.co.jp/pickup/6599017?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T18:46:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゲーセン市場内 分かれる明暗",
+      "link": "https://news.yahoo.co.jp/pickup/6599023?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T20:03:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "意識回復の川上審判員 復帰に意欲",
+      "link": "https://news.yahoo.co.jp/pickup/6599021?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T20:06:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗氏巡り 自民鶴保氏が首相に苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6599022?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T20:24:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "グッズが許可なく店に 堂本剛声明",
+      "link": "https://news.yahoo.co.jp/pickup/6599024?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T20:42:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自公再連立巡り 斉藤元代表が含み",
+      "link": "https://news.yahoo.co.jp/pickup/6599028?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T20:50:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソフトバンク 3年連続日本S進出",
+      "link": "https://news.yahoo.co.jp/pickup/6599034?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T21:12:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA 日本シリーズ進出に王手",
+      "link": "https://news.yahoo.co.jp/pickup/6599035?source=rss",
+      "description": "",
+      "pub_date": "2026-10-16T21:17:03+09:00"
     }
   ]
 }
