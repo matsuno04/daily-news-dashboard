@@ -1,0 +1,376 @@
+{
+  "date": "2026-10-18",
+  "matched_at": "2026-10-18T11:45:24.328266+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261018de61058",
+          "description": "17日午後、愛媛県西条市で江戸時代から続く「西条まつり」で、「太鼓台」の担ぎ手として参加していた西条市の副市長が倒れてきた太鼓台の下敷きになり、死亡しました。警察が当時の詳しい状況を調べています。",
+          "pub_date": "2026-10-18T07:10:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "祭りで太鼓台の下敷き 副市長死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6599181?source=rss",
+          "description": "",
+          "pub_date": "2026-10-17T23:59:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京 福生 男性が刃物で刺され死亡 知人の行方捜査",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261018de61068",
+          "description": "18日未明、東京 福生市の路上で40代くらいの男性が刃物で刺されて死亡しました。刺したのは男性の知人とみられ、現場から逃走したということで、警視庁は殺人事件として行方を捜査しています。",
+          "pub_date": "2026-10-18T06:43:27+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東京・福生で男性刺され死亡 逃走",
+          "link": "https://news.yahoo.co.jp/pickup/6599183?source=rss",
+          "description": "",
+          "pub_date": "2026-10-18T07:11:30+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261018de61091",
+          "description": "17日夜、愛知県新城市の新東名高速道路でシカとぶつかり止まっていた乗用車に大型トラックが追突し、乗用車に乗っていた女性1人が死亡しました。",
+          "pub_date": "2026-10-18T11:11:50+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "シカ衝突し停車 追突され女性死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6599195?source=rss",
+          "description": "",
+          "pub_date": "2026-10-18T08:30:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ゼレンスキー大統領 アメリカのロシア制裁免除に反発",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261017de61037",
+          "description": "アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。ウクライナのゼレンスキー大統領は「ロシア側を喜ばせるだけだ」と強く反発す…",
+          "pub_date": "2026-10-18T05:04:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米の対露制裁見送り ウ大統領反発",
+          "link": "https://news.yahoo.co.jp/pickup/6599194?source=rss",
+          "description": "",
+          "pub_date": "2026-10-18T08:32:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261018de61062",
+          "description": "フランスでは17日、物価高への対策などを訴える大規模なデモが行われました。教育環境の改善を訴えてきた高校生たちも加わり、全国で55万人が参加する大規模なデモになりましたが、デモに乗じて公共施設が放火さ…",
+          "pub_date": "2026-10-18T07:06:34+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "仏で55万人デモ 市庁舎ほぼ全焼",
+          "link": "https://news.yahoo.co.jp/pickup/6599210?source=rss",
+          "description": "",
+          "pub_date": "2026-10-18T10:16:44+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "墜落した空自「グローバルホーク」機体の一部海底から引き揚げ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de61020",
+      "description": "先月、鳥取県沖を飛行していた航空自衛隊の大型無人偵察機「グローバルホーク」が墜落した事故で、自衛隊は17日、現場周辺の海底から機体の胴体の一部を引き揚げました。機体を分析し、事故の詳しい原因を調べる方…",
+      "pub_date": "2026-10-17T22:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60916",
+      "description": "プロ野球、セ・リーグのクライマックスシリーズファイナルステージの第4戦は、DeNAが阪神に8対5で勝って4連勝とし、レギュラーシーズン3位から2年ぶりの日本シリーズ進出を決めました。",
+      "pub_date": "2026-10-18T01:47:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "阪神 佐藤輝明 大リーグ挑戦について“何も言えない”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de61014",
+      "description": "プロ野球、阪神の佐藤輝明選手は、クライマックスシリーズファイナルステージで敗退が決まった直後、報道陣から大リーグ挑戦について聞かれ「終わったばかりなので、何も言えない」と話しました。",
+      "pub_date": "2026-10-17T22:26:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "岡山 倉敷 素隠居まつり「じじ」「ばば」のお面かぶり幸せ願う",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de61023",
+      "description": "おじいさんやおばあさんを模したお面をかぶって町を練り歩き、道行く人々をうちわでたたいて健康などを願う「素隠居まつり」が、岡山県倉敷市の美観地区で行われました。",
+      "pub_date": "2026-10-17T22:51:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60815",
+      "description": "17日から始まった靖国神社の秋の例大祭にあわせて、高市総理大臣は「真榊」と呼ばれる鉢植えの供え物を奉納しました。 また、城内成長戦略担当大臣と、自民党の小林政務調査会長がそれぞれ参拝しました。",
+      "pub_date": "2026-10-18T01:25:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "インドネシア森林火災 煙が周辺国へ拡散し影響広がる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de61042",
+      "description": "インドネシアの森林などで続く大規模な火災の煙が、マレーシアをはじめ周辺の国にまで広がり、学校が休みになるなど影響が出ています。",
+      "pub_date": "2026-10-18T00:44:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61065",
+      "description": "非常に強い台風30号は、日本のはるか南の海上を発達しながら西寄りに進んでいます。22日木曜日ごろには沖縄の南の海上に達すると予想されていますが、その後の進路の予測は定まっておらず、気象庁は今後の情報に…",
+      "pub_date": "2026-10-18T10:52:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋田 奈良 クマに襲われけが人相次ぐ 警察などが注意呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61063",
+      "description": "17日、秋田県と奈良県であわせて男性2人がクマに襲われてけがをしました。警察や自治体が注意を呼びかけています。",
+      "pub_date": "2026-10-18T05:39:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京 調布の道路陥没から6年 補修8割終わるも完了のめど立たず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de61038",
+      "description": "東京 調布市の住宅街で、「東京外かく環状道路」のトンネル工事を原因とする道路の陥没が見つかってから、18日で6年です。地盤の補修はおよそ8割の範囲で終わりましたが、当初の予定より遅れていて、完了のめど…",
+      "pub_date": "2026-10-18T05:06:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de61034",
+      "description": "火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。",
+      "pub_date": "2026-10-18T08:46:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61074",
+      "description": "インド東部で17日、ヒンドゥー教の祭典に参加していた大勢の人たちが折り重なるように倒れ、これまでに少なくとも17人が死亡しました。",
+      "pub_date": "2026-10-18T08:02:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61073",
+      "description": "イスラエルによるユダヤ人入植地の拡大が続くパレスチナで、ヨーロッパの外交官らの一行が複数の入植者に襲撃されたと現地メディアが伝えました。イスラエルのサール外相は暴力行為を非難した上で、当局が捜査を開始…",
+      "pub_date": "2026-10-18T07:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米カンザス州 サッカー試合会場に車突っ込み2人死亡",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61075",
+      "description": "アメリカ中西部カンザス州で17日、サッカーの試合会場に車が突っ込み、地元当局によりますと子ども1人を含む2人が死亡し、複数のけが人が出ています。",
+      "pub_date": "2026-10-18T09:42:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドコモの緊急地震速報 不具合解消",
+      "link": "https://news.yahoo.co.jp/pickup/6599170?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T22:11:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「緑に見える星」初めて発見 研究",
+      "link": "https://news.yahoo.co.jp/pickup/6599171?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T22:29:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジェラードンV 元相方に呼びかけ",
+      "link": "https://news.yahoo.co.jp/pickup/6599173?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T22:38:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高まる反移民感情 在留外国人最多",
+      "link": "https://news.yahoo.co.jp/pickup/6599175?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T22:58:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA成瀬 大舞台で「プロ1号弾」",
+      "link": "https://news.yahoo.co.jp/pickup/6599174?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T22:43:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ITシステムの弱点 世界で発見急増",
+      "link": "https://news.yahoo.co.jp/pickup/6599176?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T22:50:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で今季初の冬日 栃木県日光市",
+      "link": "https://news.yahoo.co.jp/pickup/6599179?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T23:31:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プロレスで観客流血 主催者が謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6599177?source=rss",
+      "description": "",
+      "pub_date": "2026-10-17T23:10:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐藤輝明のメジャー移籍 容認へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599184?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T07:19:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "亀田和毅の世界戦 試合当日に中止",
+      "link": "https://news.yahoo.co.jp/pickup/6599182?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T07:12:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "閣僚更迭「高市1強」の弱点露呈",
+      "link": "https://news.yahoo.co.jp/pickup/6599190?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T07:58:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "死亡事故 無車検の車運転疑い逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599192?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T08:07:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "祭りで副市長が死亡 市長「痛恨」",
+      "link": "https://news.yahoo.co.jp/pickup/6599188?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T07:36:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "息子が赤ランドセル希望 母の不安",
+      "link": "https://news.yahoo.co.jp/pickup/6599185?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T07:35:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新たな教科書は「紙中心」素案",
+      "link": "https://news.yahoo.co.jp/pickup/6599189?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T07:50:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ネルソンズ1点 KOC芸人審査物議",
+      "link": "https://news.yahoo.co.jp/pickup/6599193?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T08:24:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国人観光客 目立つ「大阪離れ」",
+      "link": "https://news.yahoo.co.jp/pickup/6599199?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T09:15:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 小谷野栄一コーチが電撃退団",
+      "link": "https://news.yahoo.co.jp/pickup/6599196?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T08:36:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "通販に未認証のチャイルドシート",
+      "link": "https://news.yahoo.co.jp/pickup/6599187?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T07:37:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海で「溺れている」通報 2人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6599197?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T08:50:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "亀田和毅 世界戦中止に「悔しい」",
+      "link": "https://news.yahoo.co.jp/pickup/6599209?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T10:12:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 才木のMLB挑戦認めない方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599205?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T09:42:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "消費減税法案 野党との間に隔たり",
+      "link": "https://news.yahoo.co.jp/pickup/6599213?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T11:13:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "医療機関の倒産 1-9月は過去最多",
+      "link": "https://news.yahoo.co.jp/pickup/6599200?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T09:39:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「日本昔ばなし」公式配信を準備",
+      "link": "https://news.yahoo.co.jp/pickup/6599206?source=rss",
+      "description": "",
+      "pub_date": "2026-10-18T10:11:49+09:00"
+    }
+  ]
+}
