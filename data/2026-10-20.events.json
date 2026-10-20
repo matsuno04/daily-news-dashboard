@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-20",
+  "matched_at": "2026-10-20T11:46:01.367962+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "旅客機の操縦席に小動物が見つかり欠航 福岡空港",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61850",
+          "description": "19日昼過ぎ、福岡から鹿児島へ向かう予定だった日本エアコミューターの旅客機の操縦室に小動物が入り込んでいるのが見つかり、欠航するトラブルがありました。",
+          "pub_date": "2026-10-19T21:53:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "JAL便に小動物 サイズは猫以下か",
+          "link": "https://news.yahoo.co.jp/pickup/6599413?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T00:06:45+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "上皇后さま 92歳の誕生日",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61822",
+          "description": "上皇后さまは20日、92歳の誕生日を迎えられました。",
+          "pub_date": "2026-10-20T00:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "上皇后さま92歳に 穏やかな日々",
+          "link": "https://news.yahoo.co.jp/pickup/6599423?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T08:37:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61814",
+          "description": "日本の火星衛星探査機「MMX」は、鹿児島県の種子島宇宙センターからH3ロケット10号機で20日午前5時前に打ち上げられ、予定どおり火星へ向かう軌道に投入されて打ち上げは成功しました。",
+          "pub_date": "2026-10-20T11:08:50+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "H3ロケット10号機 打ち上げ成功",
+          "link": "https://news.yahoo.co.jp/pickup/6599414?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T06:20:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "拘束続くスー・チー氏に英国王からの本や書簡と政権側が発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61893",
+          "description": "ミャンマーで拘束が続いている民主化運動の指導者、アウン・サン・スー・チー氏に19日、イギリスのチャールズ国王から送られた本や書簡などが手渡されたと軍の影響力が強い政権が発表しました。政権側としては、処…",
+          "pub_date": "2026-10-20T04:50:31+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スーチー氏に英国王書簡 親軍政権",
+          "link": "https://news.yahoo.co.jp/pickup/6599421?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T08:31:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大阪地裁付近で男性が刺されたか 警察署に事情知る人物か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61997",
+          "description": "警察によりますと20日午前10時前、大阪 北区の大阪地方裁判所の付近で「路上で60代くらいの男性が首を刺された」と消防に通報があったということです。 男性は病院に搬送され、容体についての詳しい情報は…",
+          "pub_date": "2026-10-20T11:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大阪地裁前で男性刺される 男逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6599441?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T11:09:05+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "超低出生体重児の大動脈の血管へのステント治療成功 静岡",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61864",
+      "description": "静岡県立こども病院は体重350グラムあまりの超低出生体重児で、先天性の病気のある赤ちゃんの血管に「ステント」と呼ばれる網目状の金属の筒を入れて内側から広げる治療に成功したと発表しました。病院によります…",
+      "pub_date": "2026-10-19T23:17:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "企業・自治体のメール配信会社に不正アクセス 900万件流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61855",
+      "description": "企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は会社のシステムが不正なアクセスを受け、個人情報が外部に流出したと発表しました。 流出した情報は、メールアドレスなどの個人情報を含むのべお…",
+      "pub_date": "2026-10-19T22:39:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米国務長官は和平目指す姿勢強調もウクライナは不満表明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61898",
+      "description": "アメリカのルビオ国務長官は、ロシアによるウクライナ侵攻をめぐり、和平の実現を目指す姿勢を強調しました。一方、ウクライナのゼレンスキー大統領は、ロシアのミサイル発射に関する警戒情報が共有されなかったとし…",
+      "pub_date": "2026-10-20T04:52:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61895",
+      "description": "パレスチナのガザ地区での食料支援についてWFP＝世界食糧計画は活動資金の不足から今月以降、およそ50万人が支援を受けられなくなると発表し、人道状況のさらなる悪化が懸念されます。",
+      "pub_date": "2026-10-20T04:51:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61784",
+      "description": "候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。 アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…",
+      "pub_date": "2026-10-20T07:24:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
+      "description": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…",
+      "pub_date": "2026-10-20T07:48:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
+      "description": "今の国会で最大の焦点となる食料品の消費税減税関連法案は20日、衆議院で審議入りします。与党側ができるだけ多くの党の賛同を得て成立させたい考えなのに対し、野党側は物価高対策としての効果や具体的な財源など…",
+      "pub_date": "2026-10-20T05:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東・西日本で大気不安定に 台風30号の最新情報 確認を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61878",
+      "description": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注…",
+      "pub_date": "2026-10-20T10:29:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61876",
+      "description": "世界最大規模の投資ファンド「ブラックストーン」のスティーブン・シュワルツマン会長兼CEOは、NHKのインタビューに応じ、今後3年間の日本への投資額を400億ドル、日本円で6兆円規模に引き上げる方針を明…",
+      "pub_date": "2026-10-20T05:03:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "拳銃を密造した疑いで兵庫県の51歳会社員を再逮捕 警視庁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61948",
+      "description": "実弾を発射する能力を持つ“おもちゃの拳銃”を所持したとして逮捕された兵庫県の51歳の会社員が、殺傷能力のある拳銃を密造したなどとして警視庁に再逮捕されたことが捜査関係者への取材で分かりました。 調べ…",
+      "pub_date": "2026-10-20T10:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フランスでデモ乗じた暴動受け一部の都市で外出禁止令",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61899",
+      "description": "フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。",
+      "pub_date": "2026-10-20T07:56:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国民 消費税減税法案の対案提出 住民税減税などで負担軽減図る",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61991",
+      "description": "食料品の消費税減税関連法案をめぐり、国民民主党は、対案となる法案を国会に提出しました。住民税の減税や給付を組み合わせ、就業者1人あたり最大で年間5万円程度の負担軽減を図るとしています。",
+      "pub_date": "2026-10-20T11:13:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "記者拘束“領事面会実現せず遺憾 即時解放求める”官房長官",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61996",
+      "description": "ロシアの治安機関が北海道新聞の記者を拘束したと発表してから20日で1週間となる中、木原官房長官は「領事面会」が実現していないことは極めて遺憾だとした上で、即時解放などを強く求めていく考えを示しました。",
+      "pub_date": "2026-10-20T11:14:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "公共工事「入札不調」相次ぐ 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6599399?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T22:18:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "部屋に遺体 包丁所持疑いで女逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599402?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T22:55:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ユニクロが値上げ 11商品を11月に",
+      "link": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T22:41:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "麻枝准氏診断の咽頭がん 医師解説",
+      "link": "https://news.yahoo.co.jp/pickup/6599403?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T22:59:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "工藤新監督 ドラフト会議は欠席",
+      "link": "https://news.yahoo.co.jp/pickup/6599404?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T22:53:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦力外の阪神・島田海吏 大粒の涙",
+      "link": "https://news.yahoo.co.jp/pickup/6599394?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T21:32:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平日時間できた宮根アナ 被災地に",
+      "link": "https://news.yahoo.co.jp/pickup/6599398?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T22:10:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "仏首相 一部に夜間外出禁止令要請",
+      "link": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T23:05:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "特定技能「給食」受け入れ再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T22:32:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウ軍 ドローンで空から負傷兵救出",
+      "link": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T23:55:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ALS原因タンパク質 除去に新経路",
+      "link": "https://news.yahoo.co.jp/pickup/6599408?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T23:38:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐藤輝明 今オフに争奪戦勃発か",
+      "link": "https://news.yahoo.co.jp/pickup/6599411?source=rss",
+      "description": "",
+      "pub_date": "2026-10-19T23:53:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏 米露中会談に前向き",
+      "link": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T07:19:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "香取×シソンヌ 来年コントライブ",
+      "link": "https://news.yahoo.co.jp/pickup/6599415?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T06:41:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北道で複数台絡む事故 2人死傷",
+      "link": "https://news.yahoo.co.jp/pickup/6599419?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T07:38:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スイミングスクール 80代溺れ搬送",
+      "link": "https://news.yahoo.co.jp/pickup/6599420?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T08:05:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "増える訪日客 ポイ捨て被害深刻",
+      "link": "https://news.yahoo.co.jp/pickup/6599425?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T09:00:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "代表離脱のCロナ 罰金4万5000円",
+      "link": "https://news.yahoo.co.jp/pickup/6599429?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T09:24:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「あと1球コール」阪神OBの見解",
+      "link": "https://news.yahoo.co.jp/pickup/6599426?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T08:47:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "妻夫木 憧れのハイスタと名曲熱唱",
+      "link": "https://news.yahoo.co.jp/pickup/6599424?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T08:42:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自維連立合意1年 関係深化は途上",
+      "link": "https://news.yahoo.co.jp/pickup/6599427?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T09:13:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "H3の10号機 火星圏の物質採取へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599428?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T09:34:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア杯 通常開催か延期かの2択",
+      "link": "https://news.yahoo.co.jp/pickup/6599432?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T09:49:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人入り白紙 一場靖弘氏が回顧",
+      "link": "https://news.yahoo.co.jp/pickup/6599431?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T09:47:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "洗ったつもりでも 水筒ぬめる訳",
+      "link": "https://news.yahoo.co.jp/pickup/6599435?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T10:19:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "一場靖弘氏 金銭騒動「墓場まで」",
+      "link": "https://news.yahoo.co.jp/pickup/6599436?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T10:13:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏支持率31% ロイター",
+      "link": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T09:42:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自衛隊車両と車が衝突 1人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6599437?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T10:31:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "水筒から腐敗臭「ぬめり」の正体",
+      "link": "https://news.yahoo.co.jp/pickup/6599440?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T10:46:49+09:00"
+    }
+  ]
+}
