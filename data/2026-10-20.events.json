@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "matched_at": "2026-10-20T11:46:01.367962+09:00",
+  "matched_at": "2026-10-20T21:46:01.501368+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -17,10 +17,10 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "JAL便に小動物 サイズは猫以下か",
-          "link": "https://news.yahoo.co.jp/pickup/6599413?source=rss",
+          "title": "旅客機内で目撃の「小動物」発見",
+          "link": "https://news.yahoo.co.jp/pickup/6599494?source=rss",
           "description": "",
-          "pub_date": "2026-10-20T00:06:45+09:00"
+          "pub_date": "2026-10-20T18:24:43+09:00"
         }
       }
     },
@@ -50,10 +50,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
+          "title": "探査機「MMX」 火星へ向かう軌道に 衛星「フォボス」探査へ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261019de61814",
-          "description": "日本の火星衛星探査機「MMX」は、鹿児島県の種子島宇宙センターからH3ロケット10号機で20日午前5時前に打ち上げられ、予定どおり火星へ向かう軌道に投入されて打ち上げは成功しました。",
-          "pub_date": "2026-10-20T11:08:50+09:00"
+          "description": "日本の火星衛星探査機「MMX」は20日午前、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられ、予定どおり火星へ向かう軌道に投入されて打ち上げは成功しました。 JAXA＝宇宙航空研究開発機構…",
+          "pub_date": "2026-10-20T20:04:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -90,10 +90,50 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "大阪地裁付近で男性が刺されたか 警察署に事情知る人物か",
+          "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
+          "description": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…",
+          "pub_date": "2026-10-20T07:48:38+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "80社サイバー攻撃 中国語AI悪用か",
+          "link": "https://news.yahoo.co.jp/pickup/6599460?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T13:22:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "食料品の消費税減税関連法案 衆議院で審議入り",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
+          "description": "今の国会で最大の焦点となる食料品の消費税減税関連法案は20日午後、衆議院で審議入りします。与党側ができるだけ多くの党の賛同を得て成立させたい考えなのに対し、野党側は物価高対策としての効果や具体的な財源…",
+          "pub_date": "2026-10-20T13:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "消費減税法案 衆院で審議入り",
+          "link": "https://news.yahoo.co.jp/pickup/6599472?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T15:32:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大阪地裁前で男性刺される 容疑者は面識ありか 出頭して逮捕",
           "link": "https://news.web.nhk/newsweb/na/nd-20261020de61997",
-          "description": "警察によりますと20日午前10時前、大阪 北区の大阪地方裁判所の付近で「路上で60代くらいの男性が首を刺された」と消防に通報があったということです。 男性は病院に搬送され、容体についての詳しい情報は…",
-          "pub_date": "2026-10-20T11:03:00+09:00"
+          "description": "20日午前、大阪地方裁判所前の路上で60代の男性が刃物のようなもので首の辺りを刺されました。 男性は搬送される際に意識はあったということで、警察は、事件のあと近くの警察署に出頭した男の容疑者を殺人未…",
+          "pub_date": "2026-10-20T12:03:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -101,6 +141,106 @@
           "link": "https://news.yahoo.co.jp/pickup/6599441?source=rss",
           "description": "",
           "pub_date": "2026-10-20T11:09:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61968",
+          "description": "ことし3月、三重県の新名神高速道路で大型トラックを運転中にスマートフォンの画面に脇見をして追突事故を起こし、6人を死亡させたとして過失運転致死の罪に問われた55歳の被告に、津地方裁判所は求刑どおり拘禁…",
+          "pub_date": "2026-10-20T19:51:43+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "新名神6人死亡 被告に拘禁7年判決",
+          "link": "https://news.yahoo.co.jp/pickup/6599454?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T11:51:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61985",
+          "description": "大型で猛烈な台風30号の影響で沖縄県では21日から海上は大しけとなり、特に先島諸島では台風が接近する23日から24日にかけて暴風や警報級の大雨になるおそれがあります。その後の予報には大きな幅があります…",
+          "pub_date": "2026-10-20T18:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風 23-24日頃にかけ先島諸島へ",
+          "link": "https://news.yahoo.co.jp/pickup/6599465?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T14:06:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61930",
+          "description": "アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。",
+          "pub_date": "2026-10-20T18:16:16+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "トランプ氏 米露中会談に前向き",
+          "link": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T07:19:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ふるさとチョイス 445万件の個人情報流出を発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de62437",
+          "description": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは、会員登録している顧客の氏名やメールアドレス、それに住所などの個人情報、445万件あまりが外部に流出したと発表しました。",
+          "pub_date": "2026-10-20T20:18:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ふるさとチョイス 445万件が流出",
+          "link": "https://news.yahoo.co.jp/pickup/6599501?source=rss",
+          "description": "",
+          "pub_date": "2026-10-20T19:52:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フランス首相 状況次第で新たな外出禁止令求める考え",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de62412",
+          "description": "フランスでは大規模なデモに乗じて起きた暴動を受けて19日夜から一部の都市で夜間の外出禁止令が出されました。一夜明けて、大きな混乱は報告されていませんが、ルコルニュ首相は必要であれば20日夜も、各県に外…",
+          "pub_date": "2026-10-20T19:21:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "仏首相 一部に夜間外出禁止令要請",
+          "link": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
+          "description": "",
+          "pub_date": "2026-10-19T23:05:17+09:00"
         }
       }
     }
@@ -143,24 +283,10 @@
     },
     {
       "source": "NHK",
-      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
-      "description": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…",
-      "pub_date": "2026-10-20T07:48:38+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
-      "description": "今の国会で最大の焦点となる食料品の消費税減税関連法案は20日、衆議院で審議入りします。与党側ができるだけ多くの党の賛同を得て成立させたい考えなのに対し、野党側は物価高対策としての効果や具体的な財源など…",
-      "pub_date": "2026-10-20T05:10:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "東・西日本で大気不安定に 台風30号の最新情報 確認を",
+      "title": "あす北～西日本で激しい雨か 北日本は荒天に 季節外れの暑さも",
       "link": "https://news.web.nhk/newsweb/na/nd-20261019de61878",
-      "description": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注…",
-      "pub_date": "2026-10-20T10:29:13+09:00"
+      "description": "急速に発達する低気圧と前線の影響で、北日本から西日本の広い範囲で21日にかけて大気の状態が非常に不安定になり激しい雨が降る見込みで、北日本では風も強く吹いて荒れた天気となるおそれがあります。気象庁は、…",
+      "pub_date": "2026-10-20T19:08:00+09:00"
     },
     {
       "source": "NHK",
@@ -188,7 +314,7 @@
       "title": "国民 消費税減税法案の対案提出 住民税減税などで負担軽減図る",
       "link": "https://news.web.nhk/newsweb/na/nd-20261020de61991",
       "description": "食料品の消費税減税関連法案をめぐり、国民民主党は、対案となる法案を国会に提出しました。住民税の減税や給付を組み合わせ、就業者1人あたり最大で年間5万円程度の負担軽減を図るとしています。",
-      "pub_date": "2026-10-20T11:13:05+09:00"
+      "pub_date": "2026-10-20T11:58:21+09:00"
     },
     {
       "source": "NHK",
@@ -196,6 +322,62 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261020de61996",
       "description": "ロシアの治安機関が北海道新聞の記者を拘束したと発表してから20日で1週間となる中、木原官房長官は「領事面会」が実現していないことは極めて遺憾だとした上で、即時解放などを強く求めていく考えを示しました。",
       "pub_date": "2026-10-20T11:14:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR東日本が新しいQRコード決済を開始 なぜ鉄道会社が？【QA】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62102",
+      "description": "JR東日本はスマートフォン向けの「モバイルSuica」にQRコード決済の機能を追加した新たなサービスを20日から始めました。 QRコード決済はすでに通信やITなど多くの企業が展開していて、競争が激し…",
+      "pub_date": "2026-10-20T17:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ア・リーグはレイズがワールドシリーズ進出決定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62107",
+      "description": "大リーグのポストシーズン、アメリカンリーグの優勝決定シリーズ第6戦は、レイズがガーディアンズに7対3で勝ち、対戦成績を4勝2敗として6年ぶりのワールドシリーズ進出を決めました。",
+      "pub_date": "2026-10-20T13:29:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "上皇后さま 92歳の誕生日で祝賀行事",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62116",
+      "description": "上皇后さまは20日、92歳の誕生日を迎えられ、お住まいで祝賀行事が行われました。",
+      "pub_date": "2026-10-20T14:03:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "暖冬で太平洋側中心に降水量多い見込み 気象庁3か月予報",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62219",
+      "description": "気象庁が20日に発表した3か月予報によりますと、過去最大の強さとなっている「エルニーニョ現象」の影響で、来月以降、全国的に気温が高く暖冬が見込まれる一方、湿った空気が流れ込みやすくなり太平洋側を中心に…",
+      "pub_date": "2026-10-20T16:53:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "首都圏新築マンション平均価格 上半期として初の1億円超え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62252",
+      "description": "今年度の上半期に首都圏の1都3県で発売された新築マンションの平均価格は1億1400万円あまりと、上半期として初めて1億円を超えたことが民間の調査でわかりました。",
+      "pub_date": "2026-10-20T16:44:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ニデック“永守氏など経営陣に賠償責任”調査結果を公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62376",
+      "description": "不正会計や品質をめぐる不適切行為が相次いで判明した電子部品大手の「ニデック」は、これまでの経営陣の法的な責任を調べた外部の専門家による調査結果を発表しました。創業者の永守重信氏を含む歴代の経営トップな…",
+      "pub_date": "2026-10-20T18:04:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自動運転トラック 一般道で初成功 来年1月の商用運行目指す",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62347",
+      "description": "自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。",
+      "pub_date": "2026-10-20T17:50:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "食料品の消費税減税関連法案 首相“法案の早期成立目指す”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
+      "description": "今の国会で最大の焦点となる食料品の消費税減税関連法案が衆議院で審議入りしました。高市総理大臣は、できるだけ早く、減税による負担の軽減を実感してもらえるよう法案の早期成立を目指すとともに、2年後には責任…",
+      "pub_date": "2026-10-20T17:49:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -248,13 +430,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "仏首相 一部に夜間外出禁止令要請",
-      "link": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
-      "description": "",
-      "pub_date": "2026-10-19T23:05:17+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "特定技能「給食」受け入れ再開へ",
       "link": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
       "description": "",
@@ -269,6 +444,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "JAL便に小動物 サイズは猫以下か",
+      "link": "https://news.yahoo.co.jp/pickup/6599413?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T00:06:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "ALS原因タンパク質 除去に新経路",
       "link": "https://news.yahoo.co.jp/pickup/6599408?source=rss",
       "description": "",
@@ -280,13 +462,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6599411?source=rss",
       "description": "",
       "pub_date": "2026-10-19T23:53:32+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "トランプ氏 米露中会談に前向き",
-      "link": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
-      "description": "",
-      "pub_date": "2026-10-20T07:19:09+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -399,6 +574,265 @@
       "link": "https://news.yahoo.co.jp/pickup/6599440?source=rss",
       "description": "",
       "pub_date": "2026-10-20T10:46:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東大学長選 文科省異例の検証要求",
+      "link": "https://news.yahoo.co.jp/pickup/6599456?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T12:13:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "上田所属リールの公式店 略奪被害",
+      "link": "https://news.yahoo.co.jp/pickup/6599446?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T11:45:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本田翼 美容に目覚めたのは小6",
+      "link": "https://news.yahoo.co.jp/pickup/6599458?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T12:25:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "栃木県警全職員の個人情報流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6599459?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T12:29:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "teppayサービス開始 機能や特徴",
+      "link": "https://news.yahoo.co.jp/pickup/6599438?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T10:33:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官がイスラエル訪問 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6599461?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T13:06:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマ対策 福島知事選で爆竹準備も",
+      "link": "https://news.yahoo.co.jp/pickup/6599450?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T11:47:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロボ悪用し性的嫌がらせ 法的責任",
+      "link": "https://news.yahoo.co.jp/pickup/6599449?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T14:10:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ニンジャブルー役 土田大さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6599462?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T13:33:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウマ娘米公演中止 ビザ取得できず",
+      "link": "https://news.yahoo.co.jp/pickup/6599464?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T13:54:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米政権の汚職問題 中間選挙争点に",
+      "link": "https://news.yahoo.co.jp/pickup/6599466?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T14:15:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モバ充発火で鉄道遅延 増加傾向",
+      "link": "https://news.yahoo.co.jp/pickup/6599444?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T11:46:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元OpenAIの被告をサウジが支援か",
+      "link": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T11:54:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "永野芽郁主演ドラマ キャスト発表",
+      "link": "https://news.yahoo.co.jp/pickup/6599463?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T14:14:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ごみ集積所 生後間もない男児遺体",
+      "link": "https://news.yahoo.co.jp/pickup/6599474?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T16:15:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "学級写真廃止巡り集会 保護者反発",
+      "link": "https://news.yahoo.co.jp/pickup/6599471?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T15:25:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "脱ホワイトカラー 活かせる強みは",
+      "link": "https://news.yahoo.co.jp/pickup/6599467?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T14:18:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "亀田和毅の試合中止 WBAが声明",
+      "link": "https://news.yahoo.co.jp/pickup/6599470?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T15:11:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中道 政党交付金5.8億円受け取り",
+      "link": "https://news.yahoo.co.jp/pickup/6599479?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T17:09:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露の道新記者拘束 米国務省が非難",
+      "link": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T14:24:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VW  給与上昇30年まで凍結検討",
+      "link": "https://news.yahoo.co.jp/pickup/6599478?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T16:52:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "暴行報道の阪神・伊原 実戦解禁へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599482?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T17:22:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "土田大さん死去 梶裕貴らが追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6599476?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T16:40:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "21日 東京・大阪などで真夏日予想",
+      "link": "https://news.yahoo.co.jp/pickup/6599492?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T18:09:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "五郎丸歩氏 ラグビーから離れた今",
+      "link": "https://news.yahoo.co.jp/pickup/6599493?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T18:03:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官 ネタニヤフ首相と会談",
+      "link": "https://news.yahoo.co.jp/pickup/6599496?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T18:31:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "息子が難病と重度障害 母の葛藤",
+      "link": "https://news.yahoo.co.jp/pickup/6599499?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T19:12:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本ハム 福谷浩司の退団を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6599498?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T18:49:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "土田大さん死去 心不全の症状とは",
+      "link": "https://news.yahoo.co.jp/pickup/6599484?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T17:22:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小沢一郎氏「野党は泥船」と批判",
+      "link": "https://news.yahoo.co.jp/pickup/6599500?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T19:27:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソニーFGへの立ち入り検査検討",
+      "link": "https://news.yahoo.co.jp/pickup/6599504?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T20:10:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "民主改革の会 1人年4万円給付案",
+      "link": "https://news.yahoo.co.jp/pickup/6599506?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T20:34:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2人死亡「宝木争奪戦」来年は中止",
+      "link": "https://news.yahoo.co.jp/pickup/6599505?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T20:25:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性専用自習室に賛否 近大の回答",
+      "link": "https://news.yahoo.co.jp/pickup/6599508?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T20:51:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「検察なめんなよ」発言 被告説明",
+      "link": "https://news.yahoo.co.jp/pickup/6599510?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T21:04:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "旅客機で発見の小動物 正体はヘビ",
+      "link": "https://news.yahoo.co.jp/pickup/6599512?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T21:28:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "十両・炎鵬が結婚発表 近日会見へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599511?source=rss",
+      "description": "",
+      "pub_date": "2026-10-20T21:14:30+09:00"
     }
   ]
 }
