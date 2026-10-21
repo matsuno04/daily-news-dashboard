@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "matched_at": "2026-10-21T11:46:00.850265+09:00",
+  "matched_at": "2026-10-21T21:46:01.289001+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -70,10 +70,30 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "武部農相「襟を正して適正な処理徹底」違法献金報道で",
+          "title": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62531",
+          "description": "ロシアの治安機関が北海道新聞の記者を拘束したことをめぐり、外務省の幹部がモスクワを訪れてロシア外務省の幹部と会談し、一刻も早い「領事面会」の実現と即時解放を強く求めました。",
+          "pub_date": "2026-10-21T12:58:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "外務省局長 露に記者の解放要求",
+          "link": "https://news.yahoo.co.jp/pickup/6599566?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T11:57:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "武部農相の政党支部 衆院選中に国の事業受注の企業から寄付",
           "link": "https://news.web.nhk/newsweb/na/nd-20261021de62622",
-          "description": "武部農林水産大臣は、2024年に行われた衆議院選挙の公示日に地元企業から違法な献金を受け取っていた疑いがあるなどと一部で報じられたことについて、21日に記者団に対し「お騒がせしたことにおわび申し上げま…",
-          "pub_date": "2026-10-21T11:04:00+09:00"
+          "description": "武部農林水産大臣が代表を務める自民党の支部が、2024年の衆議院選挙の公示日に、国の公共事業を請け負っている企業から寄付を受けていたことが分かりました。公職選挙法は国の公共事業を請け負う事業者から、国…",
+          "pub_date": "2026-10-21T14:32:15+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -81,6 +101,186 @@
           "link": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
           "description": "",
           "pub_date": "2026-10-20T23:56:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京 大阪 名古屋で最も遅い真夏日 各地で季節外れの暑さに",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62637",
+          "description": "21日は東日本や西日本を中心に季節外れの暑さとなり、東京の都心、大阪市、名古屋市では最も遅い真夏日となりました。 一方、急速に発達する低気圧と前線の影響で、北日本や東日本の日本海側では発達した雨雲が…",
+          "pub_date": "2026-10-21T19:24:15+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東京大阪など 各地最も遅い真夏日",
+          "link": "https://news.yahoo.co.jp/pickup/6599568?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T12:04:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「カーセンサーnet」などに不正アクセス 最大370万件漏えいか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62694",
+          "description": "リクルートは、運営する中古車情報サイトの「カーセンサーnet」と、中古車販売店向けの業務支援サービスが、不正アクセスを受け、あわせて最大でおよそ370万件の個人情報が漏えいした可能性があると発表しまし…",
+          "pub_date": "2026-10-21T12:04:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「カーセンサーnet」情報漏えいか",
+          "link": "https://news.yahoo.co.jp/pickup/6599567?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T12:06:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "16歳女性が衰弱死 国賠訴訟で県や国は争う姿勢 神戸地裁",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62789",
+          "description": "兵庫県の16歳の女性がショックやストレスから摂食障害になって死亡したのは、警察や検察の違法な捜査が原因だとして、女性の母親が、兵庫県と国を訴えた裁判が神戸地方裁判所で始まり、県と国は、いずれも訴えを退…",
+          "pub_date": "2026-10-21T14:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "逮捕後に16歳が死亡 裁判で母訴え",
+          "link": "https://news.yahoo.co.jp/pickup/6599578?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T14:06:26+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "埼玉 八潮陥没事故 死亡のトラックの運転手遺族が県を提訴",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62856",
+          "description": "2025年、埼玉県八潮市で起きた下水道管の腐食による大規模な道路の陥没事故で転落して死亡したトラックの運転手の遺族が「下水道施設として通常持つべき安全性を欠いていた」として下水道管を管理する県に対し損…",
+          "pub_date": "2026-10-21T16:16:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "八潮陥没 遺族が賠償求め県を提訴",
+          "link": "https://news.yahoo.co.jp/pickup/6599573?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T13:00:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アジアパラで別の国の国歌流れるミス相次ぐ 名古屋市長が謝罪",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62803",
+          "description": "愛知・名古屋アジアパラ大会で、19日、競技の表彰式で別の国の国歌が流れるなどのミスが相次いでいたことがわかり、大会組織委員会の会長代行を務める名古屋市の広沢市長が21日、謝罪しました。",
+          "pub_date": "2026-10-21T15:27:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アジアパラでも国歌取り違え3件",
+          "link": "https://news.yahoo.co.jp/pickup/6599583?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T14:15:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "timeleszの猪俣周杜・元メンバー 起訴猶予に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63027",
+          "description": "知人の女性に暴行を加えてけがをさせたとして逮捕され、その後釈放されていた人気アイドルグループ、「timelesz」の猪俣周杜元メンバー（25）について東京地方検察庁は起訴猶予にしました。",
+          "pub_date": "2026-10-21T18:11:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "元timelesz猪俣周杜氏 不起訴処分",
+          "link": "https://news.yahoo.co.jp/pickup/6599585?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T14:54:04+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "秋田 由利本荘 子吉川に氾濫特別警報 氾濫発生 最大級の警戒を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63148",
+          "description": "急速に発達する低気圧と前線の影響で、秋田県などの日本海側では発達した雨雲が断続的に流れ込んでいて、気象庁と国土交通省は子吉川が流れる秋田県由利本荘市で氾濫の発生を確認したとして「レベル5氾濫特別警報」…",
+          "pub_date": "2026-10-21T20:41:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "秋田県・子吉川に氾濫特別警報",
+          "link": "https://news.yahoo.co.jp/pickup/6599614?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T19:56:43+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "秋田 由利本荘市 西滝沢地区と久保田地区 一部に緊急安全確保",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63174",
+          "description": "秋田県由利本荘市は、子吉川で氾濫が切迫しているとして午後7時45分、西滝沢地区と久保田地区の浸水想定区域の住民に「緊急安全確保」を出しました。 警戒レベルで最も高いレベル5で、近くの建物や自宅の2階…",
+          "pub_date": "2026-10-21T21:14:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "由利本荘市の一部に緊急安全確保",
+          "link": "https://news.yahoo.co.jp/pickup/6599618?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T20:42:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "秋田 レベル5氾濫特別警報 気象庁と国交省会見【詳細】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63153",
+          "description": "秋田県を流れる子吉川にレベル5氾濫特別警報を発表したことについて、気象庁と国土交通省は午後8時45分から記者会見を開きました。",
+          "pub_date": "2026-10-21T21:22:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中継 氾濫特別警報で気象庁が会見",
+          "link": "https://news.yahoo.co.jp/pickup/6599619?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T20:45:22+09:00"
         }
       }
     }
@@ -109,10 +309,10 @@
     },
     {
       "source": "NHK",
-      "title": "台風30号 先島諸島に23日から接近か きょうは広範囲で激しい雨",
+      "title": "猛烈な台風30号 先島諸島23日接近 西日本に影響の可能性も",
       "link": "https://news.web.nhk/newsweb/na/nd-20261021de62549",
-      "description": "大型で猛烈な台風30号は23日から24日にかけて沖縄県の先島諸島に接近する見込みで、その後、来週には進路を北東寄りに変えて西日本に影響する可能性もあり、最新の情報を確認するようにしてください。 一方…",
-      "pub_date": "2026-10-21T10:56:42+09:00"
+      "description": "大型で猛烈な台風30号は中心気圧が900ヘクトパスカルまで発達しています。23日から24日土曜日ごろにかけて沖縄県の先島諸島に近づく見込みで、猛烈な風が吹くおそれがあり、早めの対策が必要です。 その…",
+      "pub_date": "2026-10-21T20:19:31+09:00"
     },
     {
       "source": "NHK",
@@ -151,17 +351,115 @@
     },
     {
       "source": "NHK",
-      "title": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62531",
-      "description": "ロシアの治安機関が北海道新聞の記者を拘束したことをめぐり、外務省の幹部がモスクワを訪れてロシア外務省の幹部と会談し、一刻も早い「領事面会」の実現と即時解放を強く求めました。",
-      "pub_date": "2026-10-21T07:44:00+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "今年度上半期の貿易収支 2兆8000億円余の赤字",
       "link": "https://news.web.nhk/newsweb/na/nd-20261021de62600",
       "description": "ことし4月から9月までの今年度上半期の貿易収支は、2兆8000億円余りの赤字となりました。中東情勢を背景にしたエネルギー価格の上昇などが要因で、赤字額は昨年度の同じ時期の2倍近くに拡大しました。",
       "pub_date": "2026-10-21T11:02:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "不正アクセスによる個人情報漏えい相次ぎ警視庁に相談相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62656",
+      "description": "企業のシステムが不正なアクセスを受けて個人情報が流出する事態が相次ぐ中、警視庁には、この1か月間に悪用への不安を訴える相談が企業のサービス利用者からおよそ600件、寄せられていたことが分かりました。",
+      "pub_date": "2026-10-21T12:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "片山財務相“消費税減税は早期に効果実感できる物価高対策”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
+      "description": "衆議院の財務金融委員会が開かれ、片山財務大臣は食料品の消費税減税について、店頭の値札の変化から支援の効果を早く実感できる物価高対策だとして理解を求めました。",
+      "pub_date": "2026-10-21T12:37:08+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "マスク氏がウクライナ軍利用の通信サービス制限指示か 米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62759",
+      "description": "ウクライナ軍が利用しているアメリカの衛星通信サービスに一部制限がかけられていたとされる問題をめぐって、アメリカの有力紙、ウォール・ストリート・ジャーナルは20日、この衛星通信サービスを手がける実業家の…",
+      "pub_date": "2026-10-21T13:26:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "交番で「ショウリンジ」と叫ぶなどの行為 小学校低学年補導も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62792",
+      "description": "交番に無断で立ち入り「ショウリンジ」と叫ぶなどの行為がSNSで拡散し、兵庫県では25人が補導・検挙され、小学校低学年の児童も含まれていることが警察への取材で分かりました。警察は取り締まりを徹底するとし…",
+      "pub_date": "2026-10-21T14:44:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京電力 11月使用分料金9700円台で過去最高更新の見通し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62902",
+      "description": "東京電力は、11月使用する分の電気料金が、使用量が平均的な家庭では、9700円台となり、2か月連続で過去最高を更新する見通しだと明らかにしました。 火力発電の燃料となるLNG＝液化天然ガスの輸入価格…",
+      "pub_date": "2026-10-21T16:46:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "70歳以上窓口負担の見直し 年末までに工程表策定を確認 与党",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62880",
+      "description": "70歳以上の医療費の窓口負担の見直しに向けて、自民・維新両党は21日、実務者による協議を開き、年末までに工程表を策定することを確認しました。",
+      "pub_date": "2026-10-21T16:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62921",
+      "description": "証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め…",
+      "pub_date": "2026-10-21T19:30:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【台風25号1か月】住宅地が約3週間浸水 異例の事態 現地のいま",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62752",
+      "description": "台風25号に伴う記録的な大雨から、21日で1か月です。千葉県酒々井町では、住宅地の浸水がおよそ3週間にわたって続き、住宅地ではいまも住民たちが片づけ作業に追われています。",
+      "pub_date": "2026-10-21T18:17:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "陸自の地対艦ミサイル インドでの発射訓練検討で担当者派遣",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63036",
+      "description": "陸上自衛隊が保有する地対艦ミサイルの発射訓練について、防衛省がインドでの実施を検討するため担当者を現地に派遣して調整を始めたことがわかりました。 自衛隊はことし初めて地対艦ミサイルの発射訓練をフィリ…",
+      "pub_date": "2026-10-21T18:17:19+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "天皇皇后両陛下 海づくり大会で大阪へ サイバー攻撃で日程変更",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63065",
+      "description": "天皇皇后両陛下は、「全国豊かな海づくり大会」に出席するため、来月14日から2日間の日程で、大阪府を訪問されることになりました。 今回の訪問を巡っては、期間中に訪れる予定だった大学がサイバー攻撃を受け…",
+      "pub_date": "2026-10-21T18:27:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "武部農相 衆院選公示日の寄付“全額返金し収支報告書を訂正”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63092",
+      "description": "武部農林水産大臣は2024年の衆議院選挙の公示日に、みずからが代表を務める自民党の支部が国の公共事業を請け負っている企業から寄付を受けていたことについて、21日午後、記者団に対し、すでに全額を返金した…",
+      "pub_date": "2026-10-21T19:06:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋田河川国道事務所「子吉川で越水を確認」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63156",
+      "description": "国土交通省の秋田河川国道事務所によりますと、21日午後7時半ごろ、由利本荘市森子付近の子吉川の左岸側で越水を確認したということです。 現在、詳しい状況を確認しています。",
+      "pub_date": "2026-10-21T21:27:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【特別警報】秋田 由利本荘市「被害確認されず」（20時）",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63167",
+      "description": "秋田県由利本荘市によりますと、午後8時の時点で人や家屋などへの被害は確認されていないということです。また、子吉川の越水についての状況は現在、確認中だということです。",
+      "pub_date": "2026-10-21T21:17:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋田 氾濫特別警報 政府が官邸連絡室設置",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63165",
+      "description": "政府は、21日午後7時45分に総理大臣官邸の危機管理センターに官邸連絡室を設置し、情報の収集や被害の確認などにあたっています。",
+      "pub_date": "2026-10-21T20:39:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【交通影響】秋田のJR 大雨や河川増水の影響で運転取りやめも",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63186",
+      "description": "JR東日本によりますと、羽越本線は大雨による川の増水の影響で、山形県の吹浦駅と秋田県の新屋駅の間の上下線で、午後7時半以降すべての列車の運転を取りやめています。 また奥羽本線は、大雨の影響で山形県の…",
+      "pub_date": "2026-10-21T21:02:22+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -316,6 +614,230 @@
       "link": "https://news.yahoo.co.jp/pickup/6599553?source=rss",
       "description": "",
       "pub_date": "2026-10-21T10:17:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鳥取県知事 知事選不出馬を表明",
+      "link": "https://news.yahoo.co.jp/pickup/6599558?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T11:35:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "武部農相 公選法違反疑いを陳謝",
+      "link": "https://news.yahoo.co.jp/pickup/6599564?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T11:49:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "粗品がスポニチへ発信 記者の見解",
+      "link": "https://news.yahoo.co.jp/pickup/6599557?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T11:32:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SNS投稿から 珍しいハチを初確認",
+      "link": "https://news.yahoo.co.jp/pickup/6599550?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T09:33:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "一場靖弘氏 オフ休めず壊れた右肩",
+      "link": "https://news.yahoo.co.jp/pickup/6599570?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T12:30:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電気ガス料金 1～3月分の補助検討",
+      "link": "https://news.yahoo.co.jp/pickup/6599582?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T14:15:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "消費減税の財源 首相は従来の答弁",
+      "link": "https://news.yahoo.co.jp/pickup/6599559?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T11:36:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "下積み仕事はAIに 若手育成の今後",
+      "link": "https://news.yahoo.co.jp/pickup/6599563?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T13:50:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ななめ45°岡安 違和感でがん判明",
+      "link": "https://news.yahoo.co.jp/pickup/6599576?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T13:28:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TWICEジヒョ JYP退所と独立報告",
+      "link": "https://news.yahoo.co.jp/pickup/6599580?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T13:45:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カフェインレスコーヒー 市場拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6599579?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T14:08:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政権発足1年受け首相が意気込み",
+      "link": "https://news.yahoo.co.jp/pickup/6599586?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T15:44:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "iPS細胞の実用化手術 経過は良好",
+      "link": "https://news.yahoo.co.jp/pickup/6599571?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T12:35:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "八田與一容疑者 警察が海を捜索",
+      "link": "https://news.yahoo.co.jp/pickup/6599593?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T17:13:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米ネトフリ純利益44%増 7～9月期",
+      "link": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T14:50:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マック390円セット 全国販売開始",
+      "link": "https://news.yahoo.co.jp/pickup/6599592?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T16:48:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI設計ウイルスをヒト投与 治療で",
+      "link": "https://news.yahoo.co.jp/pickup/6599590?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T16:31:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 ドラフト1位指名候補は12人",
+      "link": "https://news.yahoo.co.jp/pickup/6599589?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T16:24:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリオン座流星群 22日3時ピーク",
+      "link": "https://news.yahoo.co.jp/pickup/6599601?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T17:58:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風30号 24日九州で警報級大雨か",
+      "link": "https://news.yahoo.co.jp/pickup/6599604?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T18:12:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "養子女性死亡させた疑い 女を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599595?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T17:35:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鷹CBO 織田翔希の指名可能性示唆",
+      "link": "https://news.yahoo.co.jp/pickup/6599606?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T18:18:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G矢野コーチが退任 今オフ3人目",
+      "link": "https://news.yahoo.co.jp/pickup/6599599?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T17:43:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "武部農相に選挙運動員買収疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6599608?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T18:47:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不出馬表明の鳥取知事 会見で涙",
+      "link": "https://news.yahoo.co.jp/pickup/6599611?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T19:11:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田・子吉川に特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6599615?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T20:08:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大食い動画規制の動き 投稿者動揺",
+      "link": "https://news.yahoo.co.jp/pickup/6599612?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T19:44:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田県の子吉川が氾濫 安全確保を",
+      "link": "https://news.yahoo.co.jp/pickup/6599617?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T20:31:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田県 夜遅くにかけ激しい雨恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6599616?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T20:30:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "復興相の事務所数 公選法違反疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6599609?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T19:15:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田・子吉川に特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6599621?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T21:10:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田の子吉川・石沢川で氾濫発生",
+      "link": "https://news.yahoo.co.jp/pickup/6599623?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T21:09:44+09:00"
     }
   ]
 }
