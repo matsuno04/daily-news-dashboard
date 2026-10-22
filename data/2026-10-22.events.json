@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "matched_at": "2026-10-22T11:46:08.972230+09:00",
+  "matched_at": "2026-10-22T21:45:46.350251+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -70,17 +70,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "秋田 子吉川に一時氾濫特別警報 川の増水など注意を",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63227",
-          "description": "低気圧と前線の影響で、記録的な大雨となった秋田県では子吉川で氾濫が確認され、一時、「レベル5氾濫特別警報」が発表されました。 特別警報は解除されましたが、これまでの雨で水位の高い川や地盤が緩んでいる…",
-          "pub_date": "2026-10-22T09:05:00+09:00"
+          "title": "「ちぃたん☆」訴訟 2審で賠償命じられた須崎市が上告",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63220",
+          "description": "高知県須崎市のマスコットキャラクター「しんじょう君」に似たカワウソのキャラクター、「ちぃたん☆」を運営する芸能事務所の活動を妨害したとして、訴えを起こされた市側が、1880万円余りの賠償を命じられた2…",
+          "pub_date": "2026-10-21T23:50:31+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "秋田・子吉川 氾濫注意報に切替",
-          "link": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
+          "title": "しんじょう君巡る裁判 市が上告",
+          "link": "https://news.yahoo.co.jp/pickup/6599685?source=rss",
           "description": "",
-          "pub_date": "2026-10-22T02:38:29+09:00"
+          "pub_date": "2026-10-22T13:00:11+09:00"
         }
       }
     },
@@ -90,17 +90,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
+          "title": "台風30号 先島諸島一部が暴風域 西～東日本 接近前から大雨も",
           "link": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
-          "description": "大型で猛烈な台風30号は23日から24日土曜日ごろにかけて、沖縄県の先島諸島に近づく見込みです。一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象庁は早めに対策を進めるよう呼びかけています。そ…",
-          "pub_date": "2026-10-22T07:06:00+09:00"
+          "description": "大型で非常に強い台風30号は沖縄県の先島諸島にしだいに近づき、一部が暴風域に入りました。 先島諸島では、23日から24日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか大雨となる見…",
+          "pub_date": "2026-10-22T19:16:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "台風 23日から沖縄先島諸島に接近",
-          "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
+          "title": "台風30号 非常に強い勢力で沖縄へ",
+          "link": "https://news.yahoo.co.jp/pickup/6599718?source=rss",
           "description": "",
-          "pub_date": "2026-10-22T07:38:46+09:00"
+          "pub_date": "2026-10-22T18:04:33+09:00"
         }
       }
     },
@@ -173,7 +173,7 @@
           "title": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
           "link": "https://news.web.nhk/newsweb/na/nd-20261022de63326",
           "description": "神奈川県内の警察署で、運転免許を更新した人から回収した古い免許証の顔写真などの個人情報を、警備部門の捜査などに無断で流用する不適正な取り扱いが続けられていたことがわかりました。県内複数の警察署で以前か…",
-          "pub_date": "2026-10-22T10:40:39+09:00"
+          "pub_date": "2026-10-22T18:49:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -181,6 +181,86 @@
           "link": "https://news.yahoo.co.jp/pickup/6599671?source=rss",
           "description": "",
           "pub_date": "2026-10-22T10:58:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "メタに約3兆9000億円の制裁金 消費者保護法違反など",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63349",
+          "description": "アメリカで、SNSの「フェイスブック」の利用者データが不正に第三者に渡ったとされる問題などをめぐり、西部ニューメキシコ州の裁判所は運営会社のIT大手メタに対し、制裁金として日本円にしておよそ3兆900…",
+          "pub_date": "2026-10-22T11:26:16+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "メタに約4兆円支払い命令 米地裁",
+          "link": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T08:28:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "交通違反の反則金納付 キャッシュレス決済を来年導入へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63453",
+          "description": "警察庁は交通違反をした人の反則金を納める手続きにキャッシュレス決済を新たに導入する方針です。来年の7月以降、全国で順次始めたいとしています。",
+          "pub_date": "2026-10-22T13:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "青切符 キャッシュレスで納付可へ",
+          "link": "https://news.yahoo.co.jp/pickup/6599676?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T11:36:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「カプコン」全世界の会員メールアドレスなど約1177万件漏えい",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63460",
+          "description": "ゲームソフト大手の「カプコン」は、オンラインの会員サービスのシステムに不正アクセスがあり、全世界の会員のメールアドレスなどおよそ1177万件の個人情報が漏えいしたと発表しました。 発表によりますと、…",
+          "pub_date": "2026-10-22T18:27:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "カプコン 1177万件の情報漏えい",
+          "link": "https://news.yahoo.co.jp/pickup/6599723?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T18:54:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63461",
+          "description": "プロ野球のドラフト会議で神奈川の横浜高校の織田翔希投手を巨人が1位で指名し、交渉権を獲得しました。また、投打の「二刀流」でプレーを希望している山梨学院高校の菰田陽生投手は日本ハムが交渉権を獲得しました…",
+          "pub_date": "2026-10-22T20:40:06+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ドラフト 12球団の支配下指名一覧",
+          "link": "https://news.yahoo.co.jp/pickup/6599720?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T19:16:22+09:00"
         }
       }
     }
@@ -202,17 +282,17 @@
     },
     {
       "source": "NHK",
-      "title": "「ちぃたん☆」訴訟 2審で賠償命じられた須崎市が上告",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63220",
-      "description": "高知県須崎市のマスコットキャラクター「しんじょう君」に似たカワウソのキャラクター、「ちぃたん☆」を運営する芸能事務所の活動を妨害したとして、訴えを起こされた市側が、1880万円余りの賠償を命じられた2…",
-      "pub_date": "2026-10-21T23:50:31+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "北朝鮮キム・ヨジョン氏　軍事境界線付近の「要塞化工事」視察",
       "link": "https://news.web.nhk/newsweb/na/nd-20261021de63216",
       "description": "北朝鮮のキム・ジョンウン（金正恩）総書記の妹、キム・ヨジョン（金与正）氏は、北朝鮮が韓国との軍事境界線近くを要塞化するとして進める工事の現場を視察しました。",
       "pub_date": "2026-10-21T23:42:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "秋田 子吉川に一時氾濫特別警報 男性1人意識なしで搬送",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63227",
+      "description": "低気圧と前線の影響で、記録的な大雨となった秋田県では子吉川で氾濫が確認され、一時、「レベル5氾濫特別警報」が発表されました。 特別警報は解除されましたが、これまでの雨で水位の高い川や地盤が緩んでいる…",
+      "pub_date": "2026-10-22T12:08:00+09:00"
     },
     {
       "source": "NHK",
@@ -257,6 +337,104 @@
       "pub_date": "2026-10-22T10:55:20+09:00"
     },
     {
+      "source": "NHK",
+      "title": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63353",
+      "description": "沖縄のレンタカー事業などを行う会社から漏えいした可能性がある運転免許証の画像などの個人情報のデータが闇サイトで販売されていることが、NHKとセキュリティー会社の調査で分かりました。セキュリティー会社で…",
+      "pub_date": "2026-10-22T11:54:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63324",
+      "description": "「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、企業や行政機関の間では、メンテナンスを行うために一時、サービスやウェブサイトの公開を停止する動きが相次ぎました。いずれも…",
+      "pub_date": "2026-10-22T18:59:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63386",
+      "description": "中東のサウジアラビアで21日、石油関連施設や国際空港を狙った攻撃が相次ぎ、あわせて3人が死亡したと国営メディアなどが伝えました。 サウジアラビアでは、隣国イエメンの反政府勢力フーシ派との間で攻撃の応…",
+      "pub_date": "2026-10-22T12:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関文科相 政治資金パーティー改めて陳謝 “再発防止に努める”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63442",
+      "description": "関文部科学大臣は参議院文教科学委員会で、自身が代表を務める自民党支部が政治資金パーティーを衆議院の内規で禁止されている議員会館内で開催していたことを改めて陳謝した上で、再発防止に努める考えを示しました…",
+      "pub_date": "2026-10-22T12:45:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米とイスラエルが中間選挙後のイラン再攻撃計画策定か 米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63478",
+      "description": "アメリカの有力紙は21日、アメリカが来月行われる中間選挙のあと、イスラエルとともにイランに対する攻撃の再開を計画していると報じました。トランプ大統領が承認するかは不透明だとしています。",
+      "pub_date": "2026-10-22T13:59:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "香港 168人死亡の高層住宅火災 委員会が報告書提出 近く公表へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63594",
+      "description": "香港の高層住宅で去年、168人が死亡した大規模な火災をめぐり、香港政府が設置した委員会が原因の究明に向けた報告書を提出しました。 近く内容が公表される見通しで、政府の監督責任がどこまで問われるかが焦…",
+      "pub_date": "2026-10-22T17:17:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東大大学院汚職事件 収賄側の元教授に猶予付き有罪判決",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63712",
+      "description": "東京大学大学院の元教授が、高級クラブなどで接待を受けたとして、収賄の罪に問われた裁判で、東京地方裁判所は「職務の清廉さを害した」として、執行猶予の付いた懲役2年の有罪判決を言い渡しました。",
+      "pub_date": "2026-10-22T18:17:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "経産省「ホワイトハッカー」のチーム立ち上げへ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63664",
+      "description": "国内で不正アクセスによる被害が相次いでいることを受けて、経済産業省は、所管する独立行政法人に、サイバー攻撃の手法に詳しい「ホワイトハッカー」と呼ばれるエンジニアのチームを新たに立ち上げる方針を固めまし…",
+      "pub_date": "2026-10-22T17:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "連合 来年春闘で「6％中心に5％以上」賃上げ要求へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63733",
+      "description": "労働団体の連合は、来年の春闘で、定期昇給分を含めて6％を中心に5％以上の賃上げを要求する方針を決めました。 5％以上の要求方針を掲げるのは4年連続で、より高い賃上げの実現を目指すとしています。",
+      "pub_date": "2026-10-22T18:18:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新宿 歌舞伎町のビルで火災",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63809",
+      "description": "東京消防庁によりますと、きょう午後6時すぎ、新宿区歌舞伎町1丁目のビルで火事があり、4階のベランダ付近が激しく燃えているということです。 現在も消火活動が続いています。 けが人や逃げ遅れた人はいな…",
+      "pub_date": "2026-10-22T18:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63462",
+      "description": "プロ野球のドラフト会議が22日開かれました。 ことしは大学生149人、高校生127人が「プロ野球志望届」を提出しています。 12球団で指名された選手の反応をまとめました。",
+      "pub_date": "2026-10-22T21:12:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "生のジャガイモ解禁 野党“米との協議は慎重な姿勢で”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63826",
+      "description": "アメリカが全面的な輸入解禁を求めている生のジャガイモをめぐり、野党各党の議員が相次いで農林水産省を訪れ、武部農林水産大臣に対してアメリカとの協議に慎重な姿勢で臨むよう求めました。",
+      "pub_date": "2026-10-22T20:00:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ女子ゴルフ 吉田優利が首位スタート",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63853",
+      "description": "女子ゴルフのアメリカツアーの大会は韓国で22日、第1ラウンドが行われ、吉田優利選手が6アンダーでオーストラリアの選手とともに首位に立ちました。",
+      "pub_date": "2026-10-22T20:26:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ことしのヨーロッパ議会人権賞「サハロフ賞」にICC",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63864",
+      "description": "EU＝ヨーロッパ連合の議会は、民主主義や人権の擁護に尽力した人に贈ることしの「サハロフ賞」に、ICC＝国際刑事裁判所とその職員を選んだと発表しました。",
+      "pub_date": "2026-10-22T20:54:39+09:00"
+    },
+    {
       "source": "Yahoo!ニュース",
       "title": "床はう患者を職員が撮影 病院謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6599631?source=rss",
@@ -283,6 +461,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6599640?source=rss",
       "description": "",
       "pub_date": "2026-10-21T23:32:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田・子吉川 氾濫注意報に切替",
+      "link": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T02:38:29+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -356,17 +541,17 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "台風 23日から沖縄先島諸島に接近",
+      "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T07:38:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "G7TV会議を首相欠席 与野党波紋",
       "link": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
       "description": "",
       "pub_date": "2026-10-22T08:55:48+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "メタに約4兆円支払い命令 米地裁",
-      "link": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
-      "description": "",
-      "pub_date": "2026-10-22T08:28:40+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -409,6 +594,230 @@
       "link": "https://news.yahoo.co.jp/pickup/6599666?source=rss",
       "description": "",
       "pub_date": "2026-10-22T09:48:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田・子吉川支流の河原 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6599680?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T12:00:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHP巡り 企業など対応に追われる",
+      "link": "https://news.yahoo.co.jp/pickup/6599679?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T12:06:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHPの脆弱性 10年以上発見されず",
+      "link": "https://news.yahoo.co.jp/pickup/6599674?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T11:33:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例のドラフト1位公表ゼロ なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6599675?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T11:36:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ミセス×ガスト特典 不正対策は",
+      "link": "https://news.yahoo.co.jp/pickup/6599681?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T12:09:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田翔希MLB挑戦表明 現地評価は",
+      "link": "https://news.yahoo.co.jp/pickup/6599682?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T12:48:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "天海祐希 イチロー氏を「尊敬」",
+      "link": "https://news.yahoo.co.jp/pickup/6599684?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T12:29:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市氏 自民内から再選支持相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6599693?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T13:56:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHP問題 政府機関の被害報告なし",
+      "link": "https://news.yahoo.co.jp/pickup/6599683?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T12:24:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンジャロを不正販売の疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599691?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T14:21:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平成の玩具アイロンビーズ 再注目",
+      "link": "https://news.yahoo.co.jp/pickup/6599673?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T11:33:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "玉川徹氏 ホームレス巡る発言謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6599690?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T13:54:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「あいのり」でっぱりんさん離婚",
+      "link": "https://news.yahoo.co.jp/pickup/6599694?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T14:01:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "負傷した脚自ら切断 ウ兵士の決断",
+      "link": "https://news.yahoo.co.jp/pickup/6599696?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T14:44:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米 サウジの大使館員らに退避命令",
+      "link": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T13:27:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "川崎競馬の厩務員自殺 労災認定",
+      "link": "https://news.yahoo.co.jp/pickup/6599701?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T16:15:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "70cmのジュラ紀恐竜足跡 化石発見",
+      "link": "https://news.yahoo.co.jp/pickup/6599697?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T15:24:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "王子コンテナーに公取委が勧告",
+      "link": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T16:36:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHP脆弱性悪用の試み増 数百万件",
+      "link": "https://news.yahoo.co.jp/pickup/6599702?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T16:54:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "都内の16歳女子 16%に抑うつ症状",
+      "link": "https://news.yahoo.co.jp/pickup/6599706?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T16:50:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドラフト 12球団の1位指名が確定",
+      "link": "https://news.yahoo.co.jp/pickup/6599709?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T17:23:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 横浜・織田を強行1位指名",
+      "link": "https://news.yahoo.co.jp/pickup/6599710?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T17:15:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "14歳の中学生が行方不明 大阪",
+      "link": "https://news.yahoo.co.jp/pickup/6599713?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T17:50:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドラフト速報 12球団の指名は",
+      "link": "https://news.yahoo.co.jp/pickup/6599717?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T17:59:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 横浜高・織田を強行1位指名",
+      "link": "https://news.yahoo.co.jp/pickup/6599711?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T17:34:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "発足1年の高市政権 麻生氏が評価",
+      "link": "https://news.yahoo.co.jp/pickup/6599724?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T19:11:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不登校のほぼ半数 学校健診受けず",
+      "link": "https://news.yahoo.co.jp/pickup/6599714?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T17:51:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "指名にどよめき 織田表情変えず",
+      "link": "https://news.yahoo.co.jp/pickup/6599725?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T19:25:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東でスガキヤ行列 愛知県民驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6599726?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T19:44:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "漢字検定X「祭」の漢字間違える",
+      "link": "https://news.yahoo.co.jp/pickup/6599733?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T20:37:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 14歳の中学生を育成5位指名",
+      "link": "https://news.yahoo.co.jp/pickup/6599736?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T20:48:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHP巡り一般ユーザーは対策必要?",
+      "link": "https://news.yahoo.co.jp/pickup/6599728?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T20:07:47+09:00"
     }
   ]
 }
