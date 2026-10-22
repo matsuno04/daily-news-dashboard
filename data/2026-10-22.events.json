@@ -1,0 +1,414 @@
+{
+  "date": "2026-10-22",
+  "matched_at": "2026-10-22T11:46:08.972230+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "秋田 子吉川に氾濫特別警報 氾濫発生 安全な場所で過ごして",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63148",
+          "description": "急速に発達する低気圧と前線の影響で、秋田県では記録的な大雨となり秋田県由利本荘市を流れる子吉川では21日夜、氾濫が確認されて、「レベル5氾濫特別警報」が発表されています。引き続き、安全な場所で過ごすよ…",
+          "pub_date": "2026-10-22T01:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "2年前水害の子吉川 住民不安な夜",
+          "link": "https://news.yahoo.co.jp/pickup/6599639?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T23:21:56+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63209",
+          "description": "ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び…",
+          "pub_date": "2026-10-22T05:14:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "PHPに重大欠陥 Webの7割で使用",
+          "link": "https://news.yahoo.co.jp/pickup/6599637?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T22:52:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "血管炎薬「タブネオス」治験データ疑義 承認取り消し可能性も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63207",
+          "description": "投与された患者の死亡が国内で報告されている難病の血管炎の治療薬「タブネオス」について、国の審査機関が治験データを確認した結果、症例の判定を不適切な方法でやり直すなどしていたとして、厚生労働省は、製造販…",
+          "pub_date": "2026-10-21T22:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "血管炎薬 新規投与差し控えへ",
+          "link": "https://news.yahoo.co.jp/pickup/6599632?source=rss",
+          "description": "",
+          "pub_date": "2026-10-21T22:27:45+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "秋田 子吉川に一時氾濫特別警報 川の増水など注意を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63227",
+          "description": "低気圧と前線の影響で、記録的な大雨となった秋田県では子吉川で氾濫が確認され、一時、「レベル5氾濫特別警報」が発表されました。 特別警報は解除されましたが、これまでの雨で水位の高い川や地盤が緩んでいる…",
+          "pub_date": "2026-10-22T09:05:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "秋田・子吉川 氾濫注意報に切替",
+          "link": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T02:38:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+          "description": "大型で猛烈な台風30号は23日から24日土曜日ごろにかけて、沖縄県の先島諸島に近づく見込みです。一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象庁は早めに対策を進めるよう呼びかけています。そ…",
+          "pub_date": "2026-10-22T07:06:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風 23日から沖縄先島諸島に接近",
+          "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T07:38:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63277",
+          "description": "アメリカのIT大手、「メタ」が21日に発表した9月までの3か月間の決算では、売り上げが去年の同じ時期と比べて26％増えて646億100万ドル、日本円にしておよそ10兆2200億円あまり、最終的な利益は…",
+          "pub_date": "2026-10-22T06:27:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米メタ 7-9月期決算で26%増収",
+          "link": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T09:28:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ネパールのヒマラヤで登山中だった日本人2人が行方不明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63265",
+          "description": "ネパール中部にあるヒマラヤ山脈で登山をしていた日本人男性2人の行方が10月15日以降分からなくなり、現地で捜索活動が行われています。",
+          "pub_date": "2026-10-22T04:37:11+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ヒマラヤ山脈 日本人2人が不明",
+          "link": "https://news.yahoo.co.jp/pickup/6599653?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T07:57:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "体操 世界選手権 女子団体 日本は銅メダルで五輪出場権獲得",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63274",
+          "description": "オランダで開かれている体操の世界選手権は21日、女子団体の決勝が行われ、日本は60年ぶりに銅メダルを獲得し、3位以内に与えられる再来年のロサンゼルスオリンピックの出場権を獲得しました。",
+          "pub_date": "2026-10-22T05:42:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "世界体操女子団体 日本が銅メダル",
+          "link": "https://news.yahoo.co.jp/pickup/6599657?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T08:01:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63326",
+          "description": "神奈川県内の警察署で、運転免許を更新した人から回収した古い免許証の顔写真などの個人情報を、警備部門の捜査などに無断で流用する不適正な取り扱いが続けられていたことがわかりました。県内複数の警察署で以前か…",
+          "pub_date": "2026-10-22T10:40:39+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "失効免許証を捜査流用 神奈川県警",
+          "link": "https://news.yahoo.co.jp/pickup/6599671?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T10:58:46+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63212",
+      "description": "21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。 ドライバーの親族が助手席から撮影したということです。",
+      "pub_date": "2026-10-21T22:55:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62921",
+      "description": "証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め…",
+      "pub_date": "2026-10-21T22:35:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ちぃたん☆」訴訟 2審で賠償命じられた須崎市が上告",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63220",
+      "description": "高知県須崎市のマスコットキャラクター「しんじょう君」に似たカワウソのキャラクター、「ちぃたん☆」を運営する芸能事務所の活動を妨害したとして、訴えを起こされた市側が、1880万円余りの賠償を命じられた2…",
+      "pub_date": "2026-10-21T23:50:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮キム・ヨジョン氏　軍事境界線付近の「要塞化工事」視察",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63216",
+      "description": "北朝鮮のキム・ジョンウン（金正恩）総書記の妹、キム・ヨジョン（金与正）氏は、北朝鮮が韓国との軍事境界線近くを要塞化するとして進める工事の現場を視察しました。",
+      "pub_date": "2026-10-21T23:42:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国AI発展に向けデータ事業担う国有企業を設立",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63217",
+      "description": "AIをめぐるアメリカと中国の開発競争が激しくなるなか、中国政府は、開発に欠かせないデータ関連の事業を担う国有企業を新たに設立したと発表しました。国主導でデータを管理してAI分野の競争力を高めたいねらい…",
+      "pub_date": "2026-10-22T00:55:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63246",
+      "description": "食料品の消費税減税関連法案は、23日、衆議院の委員会で実質的な審議に入ります。与党側が丁寧に審議を積み重ねて衆議院を通過させたい考えなのに対し、野党側は質疑への高市総理大臣の出席など審議の充実を求めて…",
+      "pub_date": "2026-10-22T06:08:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63278",
+      "description": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。 川やその周辺の様子です。 詳しくは上の動画をご覧ください（データ放送ではご覧になれません）。",
+      "pub_date": "2026-10-22T09:38:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシア ウクライナ アメリカの3か国高官協議 11月再開か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63271",
+      "description": "ロシアのプーチン大統領がアメリカのウィトコフ特使と会談し、プーチン大統領はロシアとウクライナとの和平案をめぐる、アメリカも交えた3か国の高官協議を、11月に再開させる用意があると伝えました。",
+      "pub_date": "2026-10-22T08:52:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北海道新聞の記者拘束 アメリカ有力紙がロシアを厳しく批判",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63325",
+      "description": "ロシアの治安機関が拘束した北海道新聞の記者について、アメリカの有力紙、ウォール・ストリート・ジャーナルは「プーチン大統領による威嚇と人質工作の新たな駒の1つなのだろう」などと指摘し、ロシアを厳しく批判…",
+      "pub_date": "2026-10-22T11:07:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "テスラが43%の大幅減益 AI開発などへの先行投資で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63327",
+      "description": "アメリカの大手EV＝電気自動車メーカー「テスラ」の先月までの3か月間の決算では、最終的な利益が去年の同じ時期と比べて43％の大幅な減少となりました。 EVの販売が減ったことに加え、AIなどへの投資が…",
+      "pub_date": "2026-10-22T10:55:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "床はう患者を職員が撮影 病院謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6599631?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T22:13:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドラフト 織田強行指名されたら?",
+      "link": "https://news.yahoo.co.jp/pickup/6599613?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T21:43:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "EVの補助金引き下げ 27年1月から",
+      "link": "https://news.yahoo.co.jp/pickup/6599642?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T23:37:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パンサー向井 交際質問にタジタジ",
+      "link": "https://news.yahoo.co.jp/pickup/6599640?source=rss",
+      "description": "",
+      "pub_date": "2026-10-21T23:32:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自民 衆院定数の削減幅を31で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T02:42:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "88歳の父死亡 傷害疑いで娘を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599636?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T02:45:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「MMX」探査機 機能正常を確認",
+      "link": "https://news.yahoo.co.jp/pickup/6599628?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T02:44:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHPに欠陥 欧州各国でサイト遮断",
+      "link": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T06:57:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コミックシーモア最大420万件流出",
+      "link": "https://news.yahoo.co.jp/pickup/6599646?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T06:22:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷は手術回避へ 編成本部長明言",
+      "link": "https://news.yahoo.co.jp/pickup/6599647?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T06:35:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例 阪神・上本打撃コーチが退団",
+      "link": "https://news.yahoo.co.jp/pickup/6599645?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T06:12:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHPの脆弱性 米OpenAIのAIで発見",
+      "link": "https://news.yahoo.co.jp/pickup/6599651?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T07:32:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高橋塁 ゲイ公表までの葛藤を語る",
+      "link": "https://news.yahoo.co.jp/pickup/6599656?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T08:15:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "柳楽優弥 日曜劇場に初出演で主演",
+      "link": "https://news.yahoo.co.jp/pickup/6599655?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T08:00:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G7TV会議を首相欠席 与野党波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T08:55:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メタに約4兆円支払い命令 米地裁",
+      "link": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T08:28:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "情報抜き取りに15秒 悪用指摘のAI",
+      "link": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T09:04:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "社会人向け新教職課程 創設の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T09:35:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "乳児遺体遺棄した疑い 24歳女逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599668?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T10:23:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "仕事探し困難「通信困窮」の実態",
+      "link": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T09:46:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "准教授の発表 学生の卒論と酷似か",
+      "link": "https://news.yahoo.co.jp/pickup/6599667?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T09:59:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国発大容量カフェ なぜ日本上陸",
+      "link": "https://news.yahoo.co.jp/pickup/6599666?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T09:48:59+09:00"
+    }
+  ]
+}
