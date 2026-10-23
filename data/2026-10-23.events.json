@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-23",
+  "matched_at": "2026-10-23T11:45:48.089585+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63462",
+          "description": "プロ野球のドラフト会議が22日開かれました。 ことしは大学生149人、高校生127人が「プロ野球志望届」を提出しています。 12球団で指名された選手の反応をまとめました。",
+          "pub_date": "2026-10-22T21:44:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "強行指名の織田翔希 気持ちぶれず",
+          "link": "https://news.yahoo.co.jp/pickup/6599752?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T23:59:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ホンダ 三菱自動車からピックアップトラックの供給受ける覚書",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63910",
+          "description": "ホンダは東南アジア市場のてこ入れにつなげるため、三菱自動車工業が強みとするピックアップトラックの供給を受ける覚書を両社で締結したと発表しました。",
+          "pub_date": "2026-10-22T22:39:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "三菱自 ホンダに車両供給で合意",
+          "link": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T23:06:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63890",
+          "description": "プロ野球のドラフト会議が22日に行われ、巨人は、川崎市宮前区の向丘中学校3年生で14歳の関蓮太郎選手を育成5位で指名しました。NPB＝日本野球機構によりますと、関選手は史上最年少のドラフト指名選手にな…",
+          "pub_date": "2026-10-22T23:42:20+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "14歳を指名 巨人が育成プラン説明",
+          "link": "https://news.yahoo.co.jp/pickup/6599747?source=rss",
+          "description": "",
+          "pub_date": "2026-10-22T23:10:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "体操 世界選手権 男子個人総合 橋本大輝が4連覇",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de63973",
+          "description": "オランダで開かれている体操の世界選手権は22日、男子個人総合の決勝が行われ、橋本大輝選手が金メダルを獲得し4連覇を果たしました。大会4連覇は、6連覇を果たした内村航平さん以来、2人目です。",
+          "pub_date": "2026-10-23T06:36:21+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "橋本大輝が4連覇達成 世界選手権",
+          "link": "https://news.yahoo.co.jp/pickup/6599777?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T09:32:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ANA エア・ドゥとソラシドに追加出資を検討",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de63929",
+          "description": "ANAホールディングスは、エア・ドゥとソラシドエアを傘下にもつ会社に対して、追加の出資を検討していることが分かりました。燃料費の高騰などで国内線の苦境が続く中、3社で整備の共通化などによる効率化を進め…",
+          "pub_date": "2026-10-23T06:39:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ANAが追加出資検討 中堅航空2社",
+          "link": "https://news.yahoo.co.jp/pickup/6599762?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T07:36:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【QA】PHPにぜい弱性発見 AI時代に求められる対応とは?",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63922",
+          "description": "「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、企業や行政機関などは対応に追われています。その影響はわれわれ生活者にも。 利用しているウェブサービスがストップし、不便…",
+          "pub_date": "2026-10-23T07:12:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「PHP」暮らし直撃 徹夜の社員も",
+          "link": "https://news.yahoo.co.jp/pickup/6599772?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T08:58:12+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64015",
+          "description": "プロ野球、巨人の新しい監督に、巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした松井秀喜氏が就任することが関係者への取材でわかりました。",
+          "pub_date": "2026-10-23T11:21:58+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "松井秀喜氏 巨人の新監督に就任へ",
+          "link": "https://news.yahoo.co.jp/pickup/6599785?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T11:13:24+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63461",
+      "description": "プロ野球のドラフト会議で神奈川の横浜高校の織田翔希投手を巨人が1位で指名し、交渉権を獲得しました。また、投打の「二刀流」でプレーを希望している山梨学院高校の菰田陽生投手は日本ハムが交渉権を獲得しました…",
+      "pub_date": "2026-10-23T00:17:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63896",
+      "description": "不正アクセスによる被害が相次ぐ中、横浜国立大学の研究グループが、ソフトウエアなどのセキュリティー上のぜい弱性が公表されてから、サイバー攻撃に悪用されるまでの期間を調べたところ、この2年で4分の1程度に…",
+      "pub_date": "2026-10-22T22:00:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風30号 先島諸島が暴風域 西～東日本 接近前から大雨も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+      "description": "大型で非常に強い台風30号は沖縄県の先島諸島を暴風域に巻き込みながら北西へ進んでいて、先島諸島では、24日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか大雨となる見込みで、気象庁は…",
+      "pub_date": "2026-10-23T01:11:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風 先島諸島 暴風大雨厳重警戒 西日本・東日本も大雨おそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63968",
+      "description": "大型で強い台風30号は沖縄県の先島諸島に近づいていて、風や雨が強まっています。24日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか、線状降水帯が発生して災害の危険度が急激に高まるおそ…",
+      "pub_date": "2026-10-23T10:52:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "仏 マクロン大統領「正当な理由ないデモ認めず」 デモ参加者は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63966",
+      "description": "大規模なデモに乗じて暴動が起きたフランスで、今週末もデモが呼びかけられていることを受け、マクロン大統領は今後数日間、正当な理由のないものは認めず、労働組合からの申請も審査してルートの変更を求める方針を…",
+      "pub_date": "2026-10-23T08:01:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+      "description": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…",
+      "pub_date": "2026-10-23T08:30:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ナスダック指数一時2.9％下落 AI投資への懸念が再燃",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63980",
+      "description": "22日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.9％の大幅な下落となりました。AI開発への巨額投資の持続性に対する投資家の懸念…",
+      "pub_date": "2026-10-23T07:58:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "エネルギー白書「石油危機以来の対策では対応しきれない事態」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63997",
+      "description": "政府は、23日、ことしの「エネルギー白書」を決定しました。ホルムズ海峡の通航が困難になって以降の政府の対応を振り返った上で、「石油危機以来、積み上げてきた対策だけでは対応しきれない事態が起こる時代に入…",
+      "pub_date": "2026-10-23T09:11:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
+      "description": "家庭で消費するモノやサービスの値動きをみる9月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2.1％上昇しました。 上昇率は、前の月の1.7％から0.4ポイント拡大…",
+      "pub_date": "2026-10-23T08:51:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本製鉄傘下のUSスチール 4700億円余の投資計画を発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63999",
+      "description": "日本製鉄傘下の「USスチール」は、東部ペンシルベニア州にある製鉄所に日本円にして4700億円余りを投資する計画を承認したと明らかにしました。 老朽化が進む設備を刷新し、生産能力を高めるねらいがありま…",
+      "pub_date": "2026-10-23T09:15:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "安全保障上重要な土地の取得規制強化へ 法案を決定 政府",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64008",
+      "description": "政府は、23日の閣議で、安全保障上重要な土地などの取得規制を強化するための法案を決定しました。事前に審査してリスクがあると判断した場合は取得を認めないなど「許可制」を導入し、違反した場合は罰則を科すと…",
+      "pub_date": "2026-10-23T10:15:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "選挙中のSNS偽情報対策 収益化・AI対応など指針案 総務省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64013",
+      "description": "選挙期間中のSNSでの偽情報の拡散などへの対策として、総務省は、運営事業者に対し、閲覧数に応じて収益を得られる仕組みを厳格化することや、AIで作成したコンテンツを明示することなどを推奨する指針案をまと…",
+      "pub_date": "2026-10-23T10:00:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "軟禁下のスー・チー氏 次男と電話",
+      "link": "https://news.yahoo.co.jp/pickup/6599742?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T22:22:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪で14歳が行方不明 14日朝から",
+      "link": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T22:43:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドラフト会議 主な指名漏れ選手",
+      "link": "https://news.yahoo.co.jp/pickup/6599741?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T22:18:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "初の核最終処分場の操業決定 北欧",
+      "link": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T23:28:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "免税制度変更へ「転売ヤー」防ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T22:50:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴルフで80万円負担 福岡県議証言",
+      "link": "https://news.yahoo.co.jp/pickup/6599750?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T23:54:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モンゴル火災 日系企業幹部が謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6599749?source=rss",
+      "description": "",
+      "pub_date": "2026-10-22T23:43:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風30号が先島諸島接近へ 警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6599757?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T06:30:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NHKがBS再編検討 8Kの存廃焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6599756?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T06:21:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大成建設・鹿島 国交省が処分方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599759?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T07:16:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "シャモンダウイルス 仏でヒト感染",
+      "link": "https://news.yahoo.co.jp/pickup/6599754?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T06:12:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神激震 梵コーチも辞意申し入れ",
+      "link": "https://news.yahoo.co.jp/pickup/6599753?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T06:05:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "一発レッドの中村敬斗 処分が決定",
+      "link": "https://news.yahoo.co.jp/pickup/6599758?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T06:41:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生活保護利用者の車保有 緩和検討",
+      "link": "https://news.yahoo.co.jp/pickup/6599765?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T07:49:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 レブロン「無礼」と批判",
+      "link": "https://news.yahoo.co.jp/pickup/6599769?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T08:26:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "食料品消費税1% 買い物は変わるか",
+      "link": "https://news.yahoo.co.jp/pickup/6599768?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T08:32:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "デジ庁HPの問い合わせ内容漏洩か",
+      "link": "https://news.yahoo.co.jp/pickup/6599763?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T07:41:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "早大無念 プロ志望全員が指名漏れ",
+      "link": "https://news.yahoo.co.jp/pickup/6599771?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T08:44:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "チベットでM7.0の地震 16人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6599773?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T09:07:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トップガン出演 スケリット氏死去",
+      "link": "https://news.yahoo.co.jp/pickup/6599776?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T09:30:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体一部ないシカ死骸4体 人為的か",
+      "link": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T10:24:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「iPhone Duo」発売 予約は好調",
+      "link": "https://news.yahoo.co.jp/pickup/6599778?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T09:34:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風30号 26日に九州上陸の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6599784?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T10:45:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "笹かまメーカー相次ぐ倒産 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T10:37:44+09:00"
+    }
+  ]
+}
