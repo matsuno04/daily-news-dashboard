@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "matched_at": "2026-10-23T11:45:48.089585+09:00",
+  "matched_at": "2026-10-23T21:45:43.233519+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -70,6 +70,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "台風30号 先島諸島が暴風域 西～東日本 接近前から大雨も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+          "description": "大型で非常に強い台風30号は沖縄県の先島諸島を暴風域に巻き込みながら北西へ進んでいて、先島諸島では、24日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか大雨となる見込みで、気象庁は…",
+          "pub_date": "2026-10-23T01:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風30号 24日にかけ先島諸島接近",
+          "link": "https://news.yahoo.co.jp/pickup/6599838?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T18:14:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "体操 世界選手権 男子個人総合 橋本大輝が4連覇",
           "link": "https://news.web.nhk/newsweb/na/nd-20261023de63973",
           "description": "オランダで開かれている体操の世界選手権は22日、男子個人総合の決勝が行われ、橋本大輝選手が金メダルを獲得し4連覇を果たしました。大会4連覇は、6連覇を果たした内村航平さん以来、2人目です。",
@@ -85,7 +105,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,7 +125,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -125,22 +145,142 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+          "title": "巨人新監督に就任 松井秀喜氏が会見「新たな黄金時代を」",
           "link": "https://news.web.nhk/newsweb/na/nd-20261023de64015",
-          "description": "プロ野球、巨人の新しい監督に、巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした松井秀喜氏が就任することが関係者への取材でわかりました。",
-          "pub_date": "2026-10-23T11:21:58+09:00"
+          "description": "プロ野球、巨人の新しい監督に、巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした松井秀喜氏が就任し、会見で「新たな黄金時代を作れるよう、きょうここからスタートしたい」と意気込みを話し…",
+          "pub_date": "2026-10-23T18:30:20+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "松井秀喜氏 巨人の新監督に就任へ",
-          "link": "https://news.yahoo.co.jp/pickup/6599785?source=rss",
+          "title": "中継・巨人監督に松井秀喜氏 会見",
+          "link": "https://news.yahoo.co.jp/pickup/6599810?source=rss",
           "description": "",
-          "pub_date": "2026-10-23T11:13:24+09:00"
+          "pub_date": "2026-10-23T15:12:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "デジタル庁 最大1万3000件余の個人情報が漏えいの可能性",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64088",
+          "description": "デジタル庁は、過去に庁のホームページの問い合わせフォームに入力された氏名やメールアドレスなど最大で1万3000件余りの個人情報が漏えいした可能性があると発表しました。",
+          "pub_date": "2026-10-23T12:10:12+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "デジ庁HPの問い合わせ内容漏洩か",
+          "link": "https://news.yahoo.co.jp/pickup/6599763?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T07:41:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "作家の村上龍さん死去「コインロッカー・ベイビーズ」 74歳",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64176",
+          "description": "「限りなく透明に近いブルー」や「コインロッカー・ベイビーズ」など、現代社会が抱えるひずみなどをテーマに数多くのベストセラーを生み出した作家の村上龍さんが今月17日、亡くなりました。74歳でした。",
+          "pub_date": "2026-10-23T20:56:22+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "作家・村上龍さん死去 74歳",
+          "link": "https://news.yahoo.co.jp/pickup/6599801?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T13:05:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "奈良公園周辺 子ジカ死骸4体見つかる 危害加えられた疑いも",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64116",
+          "description": "奈良市の奈良公園周辺の寺の境内などで、体の一部がない子ジカの死骸が1か月半ほどの間に4体見つかっていたことがわかりました。県は死骸の状況などから人に危害を加えられた疑いもあるとして警察に通報するととも…",
+          "pub_date": "2026-10-23T12:18:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "体一部ないシカ死骸4体 人為的か",
+          "link": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T10:24:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "佐川急便 流出した個人情報は最大5300万件超の可能性",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64285",
+          "description": "宅配大手の佐川急便は、不正アクセスを受けて外部に流出したおそれがあると発表していた個人情報について、荷物の送り主と送り先の氏名や住所など、最大で5323万件に上る可能性があると明らかにしました。 会…",
+          "pub_date": "2026-10-23T17:01:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "佐川急便で情報流出 最大5323万件",
+          "link": "https://news.yahoo.co.jp/pickup/6599819?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T16:12:30+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「タイムズカー」運転免許証など画像流出の痕跡146万件",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64213",
+          "description": "子会社が運営する「タイムズカー」のシステムが不正アクセスを受けたパーク24は、個人情報の漏えいについて現時点の調査結果を公表し、運転免許証などの画像データ、およそ146万件について流出した痕跡が確認さ…",
+          "pub_date": "2026-10-23T17:53:50+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "パーク24 流出の146万人に見舞金",
+          "link": "https://news.yahoo.co.jp/pickup/6599823?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T16:59:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ネパール ヒマラヤ山脈で2人の遺体見つかる 不明の日本人か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64496",
+          "description": "ネパール中部の地元当局は、ヒマラヤ山脈で23日、2人が遺体で見つかったと明らかにしました。ヒマラヤ山脈では登山中だった日本人男性2人の行方が分からなくなっていて、当局はこの2人の可能性もあるとみて、確…",
+          "pub_date": "2026-10-23T20:35:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "高峰登山で不明2邦人か 遺体発見",
+          "link": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T19:17:11+09:00"
         }
       }
     }
@@ -162,17 +302,10 @@
     },
     {
       "source": "NHK",
-      "title": "台風30号 先島諸島が暴風域 西～東日本 接近前から大雨も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
-      "description": "大型で非常に強い台風30号は沖縄県の先島諸島を暴風域に巻き込みながら北西へ進んでいて、先島諸島では、24日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか大雨となる見込みで、気象庁は…",
-      "pub_date": "2026-10-23T01:11:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "台風 先島諸島 暴風大雨厳重警戒 西日本・東日本も大雨おそれ",
+      "title": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【ライブ】",
       "link": "https://news.web.nhk/newsweb/na/nd-20261023de63968",
-      "description": "大型で強い台風30号は沖縄県の先島諸島に近づいていて、風や雨が強まっています。24日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか、線状降水帯が発生して災害の危険度が急激に高まるおそ…",
-      "pub_date": "2026-10-23T10:52:25+09:00"
+      "description": "大型で非常に強い台風30号はこの時間、沖縄県の先島諸島に最も近づいていて、猛烈な風が吹き、海上では大しけとなっています。台風は今後速度を落とす見込みで、先島諸島では、24日にかけて一部の住宅が倒壊する…",
+      "pub_date": "2026-10-23T21:00:59+09:00"
     },
     {
       "source": "NHK",
@@ -229,6 +362,27 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261023de64013",
       "description": "選挙期間中のSNSでの偽情報の拡散などへの対策として、総務省は、運営事業者に対し、閲覧数に応じて収益を得られる仕組みを厳格化することや、AIで作成したコンテンツを明示することなどを推奨する指針案をまと…",
       "pub_date": "2026-10-23T10:00:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64076",
+      "description": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードなどが不正に取得された可能…",
+      "pub_date": "2026-10-23T19:06:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64214",
+      "description": "「岩井コスモ証券」で、不正アクセスによって顧客が意図しない株の売買が行われた問題で、会社の沖津会長は23日に開いた会見で、陳謝するとともに不正な取引は125万株に上ることを明らかにしました。",
+      "pub_date": "2026-10-23T19:11:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
+      "description": "モスバーガーを展開するモスフードサービスによりますと不正アクセスによって店やネットでの支払いに使用できるプリペイドカードの情報が外部に流出したことから、カードの所有者に対し、身に覚えのない利用がないか…",
+      "pub_date": "2026-10-23T20:33:07+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -344,13 +498,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "デジ庁HPの問い合わせ内容漏洩か",
-      "link": "https://news.yahoo.co.jp/pickup/6599763?source=rss",
-      "description": "",
-      "pub_date": "2026-10-23T07:41:18+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "早大無念 プロ志望全員が指名漏れ",
       "link": "https://news.yahoo.co.jp/pickup/6599771?source=rss",
       "description": "",
@@ -372,17 +519,17 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "体一部ないシカ死骸4体 人為的か",
-      "link": "https://news.yahoo.co.jp/pickup/6599783?source=rss",
-      "description": "",
-      "pub_date": "2026-10-23T10:24:07+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "「iPhone Duo」発売 予約は好調",
       "link": "https://news.yahoo.co.jp/pickup/6599778?source=rss",
       "description": "",
       "pub_date": "2026-10-23T09:34:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井秀喜氏 巨人の新監督に就任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599785?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T11:13:24+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -397,6 +544,293 @@
       "link": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
       "description": "",
       "pub_date": "2026-10-23T10:37:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "失効免許証を捜査に流用 法的には",
+      "link": "https://news.yahoo.co.jp/pickup/6599786?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T11:39:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "折り畳み式iPhone 高額転売横行",
+      "link": "https://news.yahoo.co.jp/pickup/6599797?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T12:08:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マリオ生みの親 宮本氏に文化勲章",
+      "link": "https://news.yahoo.co.jp/pickup/6599789?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T11:46:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人監督に松井氏 長嶋氏との約束",
+      "link": "https://news.yahoo.co.jp/pickup/6599796?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T12:10:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "復興相 事務所数を巡り報告書訂正",
+      "link": "https://news.yahoo.co.jp/pickup/6599788?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T11:41:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンション修繕会議 業者潜入発覚",
+      "link": "https://news.yahoo.co.jp/pickup/6599799?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T13:14:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風接近 沖縄～関東は大雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6599802?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T13:33:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "交通違反反則金 スマホ納付の懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6599800?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T13:11:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「学生」の自殺者数 減少傾向なし",
+      "link": "https://news.yahoo.co.jp/pickup/6599781?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T10:04:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NYセントラルパークの馬車廃止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599787?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T11:39:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人新監督に松井秀喜氏 Xの反応",
+      "link": "https://news.yahoo.co.jp/pickup/6599798?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T12:23:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "仏デモ 一部暴徒化した2つの要因",
+      "link": "https://news.yahoo.co.jp/pickup/6599793?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T14:14:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本当の理由言わず退職 なぜ深刻か",
+      "link": "https://news.yahoo.co.jp/pickup/6599809?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T14:54:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "暴徒化 仏デモ参加者が嘆く理由",
+      "link": "https://news.yahoo.co.jp/pickup/6599811?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T15:21:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人新監督に松井秀喜氏 背番号90",
+      "link": "https://news.yahoo.co.jp/pickup/6599817?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T16:08:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上龍氏死去 デビュー作で芥川賞",
+      "link": "https://news.yahoo.co.jp/pickup/6599807?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T14:33:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ELLEGARDEN 当日にライブを延期",
+      "link": "https://news.yahoo.co.jp/pickup/6599813?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T15:47:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "リニア静岡工区 年内着工は困難か",
+      "link": "https://news.yahoo.co.jp/pickup/6599808?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T15:15:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "閉館の大阪松竹座 11月から解体",
+      "link": "https://news.yahoo.co.jp/pickup/6599822?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T16:33:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "回転喫茶店の人気再燃 若者が続々",
+      "link": "https://news.yahoo.co.jp/pickup/6599818?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T16:26:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "作家・村上龍さん死去 Xの反応",
+      "link": "https://news.yahoo.co.jp/pickup/6599825?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T16:47:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "吉本・浅香あき恵 乳がんを公表",
+      "link": "https://news.yahoo.co.jp/pickup/6599830?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T17:26:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "燃料油補助の見直し検討 首相指示",
+      "link": "https://news.yahoo.co.jp/pickup/6599832?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T17:39:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JR内房線 11月9日に全線で再開",
+      "link": "https://news.yahoo.co.jp/pickup/6599827?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T17:06:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソウル市長 政治資金巡り逆転無罪",
+      "link": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T15:54:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井氏 新コーチ1人だけ声かけた",
+      "link": "https://news.yahoo.co.jp/pickup/6599831?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T17:33:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上龍さん死去 テレ東がコメント",
+      "link": "https://news.yahoo.co.jp/pickup/6599828?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T17:05:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "滋賀銀と池田泉州HD 経営統合へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599846?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T18:48:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "蔵内氏に金銭 実名で4人目の証言",
+      "link": "https://news.yahoo.co.jp/pickup/6599815?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T16:00:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "意図しないFX取引 損害600万円超",
+      "link": "https://news.yahoo.co.jp/pickup/6599841?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T18:24:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パルグループ創業 井上英隆氏死去",
+      "link": "https://news.yahoo.co.jp/pickup/6599843?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T18:33:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三重・伊賀市長発言 パワハラ認定",
+      "link": "https://news.yahoo.co.jp/pickup/6599849?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T19:17:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生徒が「指導死」教諭を懲戒免職",
+      "link": "https://news.yahoo.co.jp/pickup/6599854?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T19:29:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鎮西寿々歌のX 不正アクセス被害",
+      "link": "https://news.yahoo.co.jp/pickup/6599851?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T19:13:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "物価上昇2%到達判断の公算大 日銀",
+      "link": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T18:37:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "迷惑行為「ショウリンジ」相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T20:40:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "作家の小林信彦さんが死去 93歳",
+      "link": "https://news.yahoo.co.jp/pickup/6599842?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T18:26:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "競歩池田の資格停止処分 取り消し",
+      "link": "https://news.yahoo.co.jp/pickup/6599858?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T20:41:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人が織田指名 松井氏もビックリ",
+      "link": "https://news.yahoo.co.jp/pickup/6599847?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T19:21:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Airbnb「過度な家事要求」禁止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599839?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T18:15:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井氏就任の経緯 Gオーナー語る",
+      "link": "https://news.yahoo.co.jp/pickup/6599826?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T16:49:42+09:00"
     }
   ]
 }
