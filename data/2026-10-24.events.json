@@ -1,0 +1,417 @@
+{
+  "date": "2026-10-24",
+  "matched_at": "2026-10-24T11:45:44.232361+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【気象解説】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de63968",
+          "description": "大型で非常に強い台風30号は沖縄県の先島諸島に最も近づいていて、台風の速度が落ちるため、24日にかけて影響は長引く見込みです。暴風や高波、高潮、大雨による土砂災害や低い土地の浸水に厳重な警戒を続けてく…",
+          "pub_date": "2026-10-24T00:07:43+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風 強い勢力のまま先島諸島接近",
+          "link": "https://news.yahoo.co.jp/pickup/6599876?source=rss",
+          "description": "",
+          "pub_date": "2026-10-23T23:44:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "改正皇室典範 きょう施行",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64625",
+          "description": "女性皇族が結婚後も皇室に残ることや、旧皇族の男系男子の養子縁組を盛り込んだ改正皇室典範が24日、施行されました。宮内庁は今後、具体的な検討を進めていくことになります。",
+          "pub_date": "2026-10-24T05:00:08+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "皇族数確保へ 改正皇室典範が施行",
+          "link": "https://news.yahoo.co.jp/pickup/6599886?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T07:58:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フランスで再び抗議デモ実施へ パリの街に警戒感広がる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64652",
+          "description": "フランスでは24日に物価高対策などを訴える大規模なデモが予定されています。フランス政府は混乱に乗じた放火や略奪などが再び起きることに備えて、7万人規模の治安部隊を投入し、厳戒態勢をとることにしています…",
+          "pub_date": "2026-10-24T05:47:42+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "仏 抗議活動に警官7万人を動員へ",
+          "link": "https://news.yahoo.co.jp/pickup/6599903?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T10:02:56+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“ウクライナ南部の都市で停戦実現 メラニア夫人仲介”米政権",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64657",
+          "description": "アメリカのトランプ政権はロシアが一方的に併合を宣言し、人道状況が急速に悪化しているウクライナ南部の都市で停戦が実現したと発表しました。トランプ大統領の夫人、メラニア氏が仲介したとしています。",
+          "pub_date": "2026-10-24T09:41:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ウ南部停戦へ トランプ氏夫人仲介",
+          "link": "https://news.yahoo.co.jp/pickup/6599882?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T07:18:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "仏パリ郊外で次々に銃撃1人死亡5人けが テロ事件とみて捜査",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64655",
+          "description": "フランスのパリ郊外で23日、容疑者が車で移動しながら次々に銃を発砲し、AFP通信などによりますと1人が死亡し、子どもを含む5人がけがをしました。捜査当局は39歳の男の容疑者を逮捕し、テロ事件とみて捜査…",
+          "pub_date": "2026-10-24T10:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "パリ近郊で銃乱射 1人死亡4人負傷",
+          "link": "https://news.yahoo.co.jp/pickup/6599883?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T07:36:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "沖縄 石垣島地方に「線状降水帯直前予測」 気象庁発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64712",
+          "description": "気象庁は沖縄県の石垣島地方では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前10時28分、「線状降水帯直前予測」の気象防災速報を発表しました。 「線状降水帯」は発達した積乱雲が…",
+          "pub_date": "2026-10-24T10:38:39+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "石垣島地方 線状降水帯の直前予測",
+          "link": "https://news.yahoo.co.jp/pickup/6599911?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T11:02:50+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
+      "description": "モスバーガーを展開するモスフードサービスによりますと、不正アクセスによって店やネットでの支払いに使用できるプリペイドカードの情報が外部に流出したことから、カードの所有者に対し、身に覚えのない利用がない…",
+      "pub_date": "2026-10-23T22:13:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "NHK出版 約12万件の個人情報漏えい 不正アクセスで",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64585",
+      "description": "NHK出版は、外部に委託していた、情報サイト「みんなの趣味の園芸」のメール配信システムが不正アクセスを受け、会員のメールアドレスなど、およそ12万件の個人情報が漏えいしたと発表しました。",
+      "pub_date": "2026-10-23T22:25:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64076",
+      "description": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードなどが不正に取得された可能…",
+      "pub_date": "2026-10-23T22:01:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アパレル大手「アンドエスティ」客の個人情報約250万件流出か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64499",
+      "description": "アパレル大手「アンドエスティHD」は、社内の業務で使用するサーバーが不正アクセスを受けた影響で、客の個人情報、およそ250万件が外部に流出した可能性があると明らかにしました。",
+      "pub_date": "2026-10-23T21:47:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "政府 ガソリン補助見直しも検討 水準や時期など焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64636",
+      "description": "中東情勢を受けた激変緩和措置をめぐり、政府はガソリン1リットルあたり170円程度に抑えている水準の見直しも含め、今後の支援のあり方について検討を始める方針です。価格を抑制している補助金を縮小する場合は…",
+      "pub_date": "2026-10-24T01:46:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 実質審議入り 支援金など論戦続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64640",
+      "description": "食料品の消費税減税関連法案は、衆議院の委員会で実質的な審議に入りました。与党側は丁寧に審議を積み重ねて衆議院の通過を目指す方針なのに対し、野党側は引き続き所得に応じた支援金の対象などを示すよう求める構…",
+      "pub_date": "2026-10-24T01:52:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【最新情報】台風30号 先島諸島が暴風域に 厳重警戒を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64650",
+      "description": "大型の台風30号は沖縄県の先島諸島の一部を暴風域に巻き込みながら東寄りに進んでいて、沖縄県では引き続き、暴風や高波、土砂災害や低い土地の浸水、川の増水に厳重に警戒してください。 台風から離れた西日本…",
+      "pub_date": "2026-10-24T11:24:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風31号が日本のはるか南東の海上で発生 今後の情報に注意を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64647",
+      "description": "24日午前、日本のはるか南東の海上で台風31号が発生しました。",
+      "pub_date": "2026-10-24T04:40:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "KDDI モンゴル自然保護区の大規模火災の経緯公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64642",
+      "description": "今月8日、モンゴルの自然保護区で発生した大規模な火災にKDDIの子会社の活動が関係していたことを受けて、会社は火災に至るまでの経緯を公表しました。この中ではモンゴルの当局と保護区内を移動していたところ…",
+      "pub_date": "2026-10-24T05:20:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィギュアスケート GPシリーズ第1戦 青木祐奈が首位発進",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64681",
+      "description": "フィギュアスケートのグランプリシリーズ第1戦のフランス大会が開幕し、女子シングル前半のショートプログラムでは昨シーズンの四大陸選手権女王、青木祐奈選手が自己ベストを更新し、トップに立ちました。",
+      "pub_date": "2026-10-24T09:25:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風30号 台湾で1人死亡350人けが 警戒続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64639",
+      "description": "台湾では、台風30号の接近に伴って1人が死亡し、強風で街路樹が倒れるなどしてあわせて350人がけがをしました。24日も台北などで休校などの措置がとられ、警戒が続いています。",
+      "pub_date": "2026-10-24T10:25:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ政権 対カナダ関税一部除外 接戦州の共和党候補が要請",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64703",
+      "description": "アメリカのトランプ政権は、カナダからの特定の輸入品に課している50％の追加関税の対象から包装資材や海藻類などを外すと発表しました。11月の中間選挙で、接戦が伝えられている共和党の候補が地元の企業などに…",
+      "pub_date": "2026-10-24T10:05:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "8～9月の記録的大雨 温暖化影響か",
+      "link": "https://news.yahoo.co.jp/pickup/6599866?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T22:21:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生活保護訴訟 利用者側の勝訴確定",
+      "link": "https://news.yahoo.co.jp/pickup/6599859?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T21:36:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイムズカー情報流出 集団訴訟へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599864?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T21:58:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車ドアと路面に首はさまれ 窒息死",
+      "link": "https://news.yahoo.co.jp/pickup/6599870?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T22:25:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車に1歳放置し病院勤務疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599875?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T22:56:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上龍さん死去 作家の訃報相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6599867?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T22:04:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "王貞治氏 松井秀喜新監督にエール",
+      "link": "https://news.yahoo.co.jp/pickup/6599877?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T23:01:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神コーチ4人退団発表 異例事態",
+      "link": "https://news.yahoo.co.jp/pickup/6599874?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T22:50:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露 ウ南部で一時停戦合意と米発表",
+      "link": "https://news.yahoo.co.jp/pickup/6599879?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T23:42:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "7歳死亡 法廷で母謝罪も無罪主張",
+      "link": "https://news.yahoo.co.jp/pickup/6599865?source=rss",
+      "description": "",
+      "pub_date": "2026-10-23T22:37:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "強い台風30号は九州へ 警報級大雨",
+      "link": "https://news.yahoo.co.jp/pickup/6599881?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T07:15:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 高橋由伸氏にヘッドCを要請",
+      "link": "https://news.yahoo.co.jp/pickup/6599880?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T07:20:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "県立高で威圧的指導か 精神疾患に",
+      "link": "https://news.yahoo.co.jp/pickup/6599889?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T08:07:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上龍さんのすごさ 見城徹氏語る",
+      "link": "https://news.yahoo.co.jp/pickup/6599888?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T08:05:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パナG従業員情報 外部AIにアップ",
+      "link": "https://news.yahoo.co.jp/pickup/6599885?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T08:14:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドラ1菰田 希望の愛称「BIGBOY」",
+      "link": "https://news.yahoo.co.jp/pickup/6599892?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T08:58:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "難病公表の阿曽山大噴火 不安ない",
+      "link": "https://news.yahoo.co.jp/pickup/6599890?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T08:29:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "9日間に3回 小学校給食に異物混入",
+      "link": "https://news.yahoo.co.jp/pickup/6599898?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T09:37:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "きょう東京湾大華火祭 なぜ秋に",
+      "link": "https://news.yahoo.co.jp/pickup/6599899?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T09:33:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "かもめんたる槙尾 優勝後もバイト",
+      "link": "https://news.yahoo.co.jp/pickup/6599896?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T09:18:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "裁量労働制 乱用防止へ労使が一致",
+      "link": "https://news.yahoo.co.jp/pickup/6599894?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T09:07:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PHP問題 災害情報メールにも影響",
+      "link": "https://news.yahoo.co.jp/pickup/6599891?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T08:37:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイトでAPIキー丸見え状態 研究",
+      "link": "https://news.yahoo.co.jp/pickup/6599895?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T09:12:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英仏 初めて共同で核演習を実施",
+      "link": "https://news.yahoo.co.jp/pickup/6599904?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T09:59:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヒマラヤで邦人2人死亡 遺体収容",
+      "link": "https://news.yahoo.co.jp/pickup/6599905?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T10:14:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「さす九」の根源巡る専門家見解",
+      "link": "https://news.yahoo.co.jp/pickup/6599910?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T10:48:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "免許証流出で見舞金3000円 妥当か",
+      "link": "https://news.yahoo.co.jp/pickup/6599906?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T10:31:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井新監督 トーリ氏「楽しみ」",
+      "link": "https://news.yahoo.co.jp/pickup/6599914?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T11:26:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「巨人の星」作者 苦悩と喜び語る",
+      "link": "https://news.yahoo.co.jp/pickup/6599912?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T10:58:50+09:00"
+    }
+  ]
+}
