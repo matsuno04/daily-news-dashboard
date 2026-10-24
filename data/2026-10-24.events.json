@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "matched_at": "2026-10-24T11:45:44.232361+09:00",
+  "matched_at": "2026-10-24T21:45:46.375869+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -52,8 +52,8 @@
           "source": "NHK",
           "title": "フランスで再び抗議デモ実施へ パリの街に警戒感広がる",
           "link": "https://news.web.nhk/newsweb/na/nd-20261024de64652",
-          "description": "フランスでは24日に物価高対策などを訴える大規模なデモが予定されています。フランス政府は混乱に乗じた放火や略奪などが再び起きることに備えて、7万人規模の治安部隊を投入し、厳戒態勢をとることにしています…",
-          "pub_date": "2026-10-24T05:47:42+09:00"
+          "description": "フランスでは日本時間の24日夜、物価高などを訴える大規模なデモが行われる予定です。今月17日にはデモに乗じて放火や略奪が相次いだことから、政府は警備態勢を強化して警戒にあたっています。",
+          "pub_date": "2026-10-24T18:48:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -90,6 +90,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64639",
+          "description": "台風30号が接近した台湾では、各地で強い風が吹き、建物や樹木が倒れる被害が相次ぎました。",
+          "pub_date": "2026-10-24T18:36:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台湾 台風30号で負傷者500人超",
+          "link": "https://news.yahoo.co.jp/pickup/6599921?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T12:46:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "仏パリ郊外で次々に銃撃1人死亡5人けが テロ事件とみて捜査",
           "link": "https://news.web.nhk/newsweb/na/nd-20261024de64655",
           "description": "フランスのパリ郊外で23日、容疑者が車で移動しながら次々に銃を発砲し、AFP通信などによりますと1人が死亡し、子どもを含む5人がけがをしました。捜査当局は39歳の男の容疑者を逮捕し、テロ事件とみて捜査…",
@@ -105,7 +125,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -121,6 +141,86 @@
           "link": "https://news.yahoo.co.jp/pickup/6599911?source=rss",
           "description": "",
           "pub_date": "2026-10-24T11:02:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64764",
+          "description": "GMOインターネットグループは投資家向けのクラウドサービスが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明らかにしました。会社はイ…",
+          "pub_date": "2026-10-24T18:57:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMO 能動的サイバー防御を要請",
+          "link": "https://news.yahoo.co.jp/pickup/6599928?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T13:47:27+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“北朝鮮 キム総書記 きょう中国訪問”韓国複数メディア",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64810",
+          "description": "韓国の複数のメディアによりますと、北朝鮮のキム・ジョンウン総書記が24日、中国を訪問したことが明らかになりました。 キム総書記の中国訪問は、2025年9月以来です。",
+          "pub_date": "2026-10-24T15:45:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "正恩氏が電撃訪中 開通の大橋通り",
+          "link": "https://news.yahoo.co.jp/pickup/6599942?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T16:12:35+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "リニア中央新幹線 地下ホーム初公開 まちはどう変わる？",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64791",
+          "description": "JR東海は、神奈川県相模原市に建設中のリニア中央新幹線の駅で、地下のホームなどの工事現場を初めて公開しました。2030年春ごろまでの完成を目指して駅の工事を進める計画です。 まちはどう変わるのか？工…",
+          "pub_date": "2026-10-24T18:11:48+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "リニア地下ホーム工事現場 初公開",
+          "link": "https://news.yahoo.co.jp/pickup/6599964?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T19:08:00+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【速報中】日本シリーズ DeNAが牧のHRで同点に ソフトバンク戦",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64830",
+          "description": "プロ野球の日本シリーズの第1戦が行われています。セ・リーグのDeNAが2年ぶり、パ・リーグのソフトバンクが2年連続の日本一をかけて対戦しています。試合は、7回にソフトバンクが先制し、DeNAが8回に牧…",
+          "pub_date": "2026-10-24T21:27:45+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日本S速報 DeNAvs.ソフトバンク",
+          "link": "https://news.yahoo.co.jp/pickup/6599954?source=rss",
+          "description": "",
+          "pub_date": "2026-10-24T18:27:18+09:00"
         }
       }
     }
@@ -170,10 +270,10 @@
     },
     {
       "source": "NHK",
-      "title": "【最新情報】台風30号 先島諸島が暴風域に 厳重警戒を",
+      "title": "【最新情報】台風30号西日本接近へ 西～東日本で大雨のおそれ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261024de64650",
-      "description": "大型の台風30号は沖縄県の先島諸島の一部を暴風域に巻き込みながら東寄りに進んでいて、沖縄県では引き続き、暴風や高波、土砂災害や低い土地の浸水、川の増水に厳重に警戒してください。 台風から離れた西日本…",
-      "pub_date": "2026-10-24T11:24:00+09:00"
+      "description": "大型の台風30号は、東シナ海を北上していて、25日午後には東寄りに進路を変え西日本に接近する見込みです。沖縄県の雨や風のピークは過ぎましたが、引き続き、土砂災害に厳重に警戒してください。 一方、前線の…",
+      "pub_date": "2026-10-24T21:10:55+09:00"
     },
     {
       "source": "NHK",
@@ -198,17 +298,66 @@
     },
     {
       "source": "NHK",
-      "title": "台風30号 台湾で1人死亡350人けが 警戒続く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64639",
-      "description": "台湾では、台風30号の接近に伴って1人が死亡し、強風で街路樹が倒れるなどしてあわせて350人がけがをしました。24日も台北などで休校などの措置がとられ、警戒が続いています。",
-      "pub_date": "2026-10-24T10:25:36+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "トランプ政権 対カナダ関税一部除外 接戦州の共和党候補が要請",
       "link": "https://news.web.nhk/newsweb/na/nd-20261024de64703",
       "description": "アメリカのトランプ政権は、カナダからの特定の輸入品に課している50％の追加関税の対象から包装資材や海藻類などを外すと発表しました。11月の中間選挙で、接戦が伝えられている共和党の候補が地元の企業などに…",
-      "pub_date": "2026-10-24T10:05:49+09:00"
+      "pub_date": "2026-10-24T10:05:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "南太平洋 バヌアツでM7.2の地震 日本への津波の影響なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64738",
+      "description": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の24日午前11時31分ごろ、南太平洋のバヌアツ諸島付近を震源とするマグニチュード7.2の大きな地震がありました。 気象…",
+      "pub_date": "2026-10-24T12:13:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "キム総書記「最強の軍隊建設」訴えるも対立深める韓国言及せず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64777",
+      "description": "北朝鮮のキム・ジョンウン総書記が軍の集会で演説し、「最強の軍隊を建設し、軍事革命を加速させよう」と述べ、改めて軍事力を強化していく姿勢を示しました。 一方、対立が深まっている韓国への言及はありません…",
+      "pub_date": "2026-10-24T15:12:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ペルーのケイコ・フジモリ大統領初来日へ 高市首相と会談調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64758",
+      "description": "日本と南米ペルーの両政府は、来月ケイコ・フジモリ大統領が就任後初めて日本を訪問し、高市総理大臣と首脳会談を行う方向で調整していて、資源エネルギーの安定供給などをめぐり意見が交わされるものとみられます。",
+      "pub_date": "2026-10-24T14:25:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ワールドシリーズが開幕 第1戦はブルワーズが勝利",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64775",
+      "description": "大リーグの頂点を決めるワールドシリーズが23日開幕し、第1戦はブルワーズがレイズに3対2で勝ちました。",
+      "pub_date": "2026-10-24T15:04:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イランが米政府職員殺害を計画か 米情報機関が警告",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64782",
+      "description": "イラン情勢をめぐり、アメリカの情報機関が、イランが中東地域でアメリカの政府職員を標的にした活動を強化し、殺害計画を進めているとして、国務省に警告していたことがわかりました。",
+      "pub_date": "2026-10-24T15:23:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "安全保障3文書改定向け自民と維新が11月から協議開始へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64819",
+      "description": "安全保障関連の3文書の改定に向けて、自民・維新両党は、来月、実務者による作業チームを設けて協議を始める方針です。 防衛力強化のあり方や防衛費の規模のほか、原子力潜水艦の導入や非核三原則の見直しについて…",
+      "pub_date": "2026-10-24T16:54:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "鳥取 琴浦町 発電所の風車から出火 けが人なし【動画】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64864",
+      "description": "24日昼前、鳥取県琴浦町にある風力発電所の風車1基から火が出る火事がありました。およそ2時間半後に自然に鎮火し、けが人はいませんでした。",
+      "pub_date": "2026-10-24T18:21:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "巨人 松井秀喜新監督 球団施設を訪れスタッフなどにあいさつ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64835",
+      "description": "プロ野球、巨人の監督に就任した松井秀喜新監督が24日、さっそく球団の施設を訪れました。",
+      "pub_date": "2026-10-24T17:46:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -412,6 +561,279 @@
       "link": "https://news.yahoo.co.jp/pickup/6599912?source=rss",
       "description": "",
       "pub_date": "2026-10-24T10:58:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風は九州接近へ 広範囲で大雨に",
+      "link": "https://news.yahoo.co.jp/pickup/6599918?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T12:11:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "劣勢トランプ氏 露骨なバラマキ策",
+      "link": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T10:01:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴルフのイ・ボミ 第1子妊娠公表",
+      "link": "https://news.yahoo.co.jp/pickup/6599919?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T12:23:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 織田「強行指名」の舞台裏",
+      "link": "https://news.yahoo.co.jp/pickup/6599917?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T11:59:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車で女性遺体運んだ疑い 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599920?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T12:34:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIで事故画像を偽造 保険金不正増",
+      "link": "https://news.yahoo.co.jp/pickup/6599916?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T11:44:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スタバに敬意 すなば珈琲経営戦略",
+      "link": "https://news.yahoo.co.jp/pickup/6599915?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T11:58:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島で6人戦力外 人的補償22歳も",
+      "link": "https://news.yahoo.co.jp/pickup/6599924?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T12:59:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "名古屋=派手婚は古い?東海の婚活",
+      "link": "https://news.yahoo.co.jp/pickup/6599922?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T13:01:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フジで続く人気ドラマの復活 賛否",
+      "link": "https://news.yahoo.co.jp/pickup/6599927?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T13:57:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "皇室典範「安定継承」議論乏しく",
+      "link": "https://news.yahoo.co.jp/pickup/6599923?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T12:57:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケニア首都で建設中のビルが倒壊",
+      "link": "https://news.yahoo.co.jp/pickup/6599930?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T14:31:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露は「人質外交」解放の米紙記者",
+      "link": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T13:50:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "崩れゆく軍艦島の景観 どう守る",
+      "link": "https://news.yahoo.co.jp/pickup/6599932?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T14:52:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・丸 松井監督就任で決意新た",
+      "link": "https://news.yahoo.co.jp/pickup/6599934?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T14:49:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪で行方不明の14歳 無事に発見",
+      "link": "https://news.yahoo.co.jp/pickup/6599935?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T15:24:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風30号 26日に九州上陸の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6599938?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T15:38:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO 攻撃者の金銭要求に応じず",
+      "link": "https://news.yahoo.co.jp/pickup/6599929?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T14:42:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井監督が練習視察 オーラ漂わす",
+      "link": "https://news.yahoo.co.jp/pickup/6599940?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T16:00:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山村紅葉 東大に落ち「トラウマ」",
+      "link": "https://news.yahoo.co.jp/pickup/6599936?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T15:27:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "足場設置中に川転落 20代男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6599946?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T16:36:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマ駆除せず放獣 秦野市の考え方",
+      "link": "https://news.yahoo.co.jp/pickup/6599950?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T17:08:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "32歳でALSに 2児の母の生きがい",
+      "link": "https://news.yahoo.co.jp/pickup/6599945?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T16:36:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西・東日本 台風接近前から雨警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6599957?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T18:26:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人情報売買 ダークウェブの実態",
+      "link": "https://news.yahoo.co.jp/pickup/6599943?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T16:32:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "OKURA不適切還付 追徴額5.8億円",
+      "link": "https://news.yahoo.co.jp/pickup/6599952?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T17:26:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "迷惑行為ショウリンジ 心配する母",
+      "link": "https://news.yahoo.co.jp/pickup/6599951?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T17:34:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相のX投稿へ返信 外国人関連増",
+      "link": "https://news.yahoo.co.jp/pickup/6599939?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T16:08:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イチローさん 松井新監督に期待",
+      "link": "https://news.yahoo.co.jp/pickup/6599959?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T18:41:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウーマン村本 米で事故に遭い負傷",
+      "link": "https://news.yahoo.co.jp/pickup/6599963?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T19:07:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジアパラ 日本勢はメダル186個",
+      "link": "https://news.yahoo.co.jp/pickup/6599962?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T19:05:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車が電柱に衝突 同乗の6歳重体",
+      "link": "https://news.yahoo.co.jp/pickup/6599965?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T19:26:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "お茶の飲み方 健康左右する可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6599966?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T19:43:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国で首相と会談 正恩氏日帰りか",
+      "link": "https://news.yahoo.co.jp/pickup/6599971?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T20:39:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "28日頃北海道で雪 全国的に肌寒く",
+      "link": "https://news.yahoo.co.jp/pickup/6599944?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T16:28:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自殺予防にAI 厚労省が効果検証へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599967?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T20:12:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モンゴル火災 当局が賠償請求検討",
+      "link": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T21:02:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "槙野監督 判定に「レベル低い」",
+      "link": "https://news.yahoo.co.jp/pickup/6599970?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T20:41:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本S速報 DeNAvs.ソフトバンク",
+      "link": "https://news.yahoo.co.jp/pickup/6599976?source=rss",
+      "description": "",
+      "pub_date": "2026-10-24T21:24:47+09:00"
     }
   ]
 }
