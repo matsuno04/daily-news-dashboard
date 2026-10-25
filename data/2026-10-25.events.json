@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "matched_at": "2026-10-25T11:45:53.688573+09:00",
+  "matched_at": "2026-10-25T21:45:51.598731+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -30,10 +30,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "【最新情報】台風30号 九州に接近へ 東・西日本で大雨のおそれ",
+          "title": "【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261024de64932",
-          "description": "大型の台風30号は東シナ海を北東へ進み、26日には九州に接近する見込みです。 本州付近にのびる前線に台風周辺の暖かく湿った空気が流れ込み、東日本と西日本では非常に激しい雨が降って大雨になるおそれがあり…",
-          "pub_date": "2026-10-25T10:05:00+09:00"
+          "description": "台風30号は東シナ海を北東へ進んでいて、前線に向かって台風周辺の暖かく湿った空気が流れ込んで西日本と東日本では大気の状態が非常に不安定になっています。 26日にかけて非常に激しい雨が降って大雨になるお…",
+          "pub_date": "2026-10-25T19:07:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -90,6 +90,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "キム総書記訪中 米朝交渉再開可能性見据え意思疎通のねらいか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64966",
+          "description": "北朝鮮のキム・ジョンウン（金正恩）総書記は、24日、中国東北部の都市を訪問し、中国共産党の最高指導部のメンバーと会談しました。北朝鮮が今後のアメリカとの交渉再開の可能性も踏まえ、中国と意思疎通を図るね…",
+          "pub_date": "2026-10-25T05:15:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "金正恩氏の訪中 習氏とは会談せず",
+          "link": "https://news.yahoo.co.jp/pickup/6600041?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T12:52:30+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
           "link": "https://news.web.nhk/newsweb/na/nd-20261025de64981",
           "description": "フィギュアスケート、グランプリシリーズ第1戦のフランス大会は、女子シングル後半のフリーが行われ、ことし2月のミラノ・コルティナオリンピックで銅メダルを獲得した18歳の中井亜美選手が逆転優勝を果たしまし…",
@@ -105,7 +125,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -121,6 +141,166 @@
           "link": "https://news.yahoo.co.jp/pickup/6600031?source=rss",
           "description": "",
           "pub_date": "2026-10-25T11:21:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北九州市の路上で女性刺される 殺人未遂容疑で男の行方を捜査",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65082",
+          "description": "25日朝早く、福岡県北九州市小倉北区の路上で、20代の女性が刃物のようなものを持った男に腰を刺され、病院に搬送されました。 女性は搬送時に意識はあったということで、警察は殺人未遂の疑いで逃げた男の行…",
+          "pub_date": "2026-10-25T12:27:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北九州で女性刺されけが 男が逃走",
+          "link": "https://news.yahoo.co.jp/pickup/6600016?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T09:24:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ワールドシリーズ第2戦 ブルワーズが逆転勝ちし2連勝",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65155",
+          "description": "大リーグの今年の頂点を決めるワールドシリーズは24日、第2戦が行われ、ブルワーズがレイズに5対4で逆転勝ちし対戦成績を2戦2勝としました。",
+          "pub_date": "2026-10-25T14:51:50+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "4点差逆転 WSでブルワーズ2連勝",
+          "link": "https://news.yahoo.co.jp/pickup/6600043?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T13:22:00+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "競馬 菊花賞 ロブチェン3冠ならず 優勝はゴーイントゥスカイ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65130",
+          "description": "競馬の秋のクラシックレース「菊花賞」が行われ、1番人気のロブチェンが14着となり、クラシックレース3冠とはなりませんでした。 優勝は武豊騎手が騎乗した3番人気のゴーイントゥスカイでした。",
+          "pub_date": "2026-10-25T16:28:36+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ロブチェン3冠達成ならず 菊花賞",
+          "link": "https://news.yahoo.co.jp/pickup/6600065?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T16:12:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【速報中】DeNA 筒香のHRで逆転もソフトバンク 山川が同点HR",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65213",
+          "description": "プロ野球の日本シリーズは第2戦が横浜スタジアムで行われています。 2点をリードされたDeNAは8回に筒香嘉智選手がスリーランホームランを打ち逆転しました。それでもソフトバンクが直後の9回、代打の山川穂…",
+          "pub_date": "2026-10-25T21:25:20+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日本S速報 SB山川が9回に同点弾",
+          "link": "https://news.yahoo.co.jp/pickup/6600109?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T21:07:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "巨人 ドラフト1位 4年目の浅野翔吾を自由契約 育成契約打診へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65230",
+          "description": "プロ野球・巨人は、ドラフト1位で入団した4年目の浅野翔吾選手に対して、25日、自由契約とすることを通知したと発表しました。球団は育成選手としての再契約を打診するものとみられます。",
+          "pub_date": "2026-10-25T18:13:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "巨人 ドラ1浅野翔吾を自由契約",
+          "link": "https://news.yahoo.co.jp/pickup/6600045?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T13:28:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ハロウィーンイベントで突風 乳児含む4人けが 静岡 三島",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65278",
+          "description": "静岡県三島市で行われていたハロウィーンのイベントの会場で、突風によって簡易テントが舞い上がり、生後6か月の女の子を含むあわせて4人がテントの支柱にあたるなどして軽いけがをしました。",
+          "pub_date": "2026-10-25T18:39:56+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ハロウィンイベで突風 乳児らけが",
+          "link": "https://news.yahoo.co.jp/pickup/6600080?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T17:57:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "那覇　女性強盗殺人事件　米海兵隊員を起訴",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65279",
+          "description": "沖縄に駐留するアメリカ海兵隊の20歳の兵士が那覇市で女性を殺害し、財布などを奪ったとして逮捕された事件で、検察は、25日、この兵士を強盗殺人の罪で起訴しました。",
+          "pub_date": "2026-10-25T20:34:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "那覇市の女性強殺事件 米兵を起訴",
+          "link": "https://news.yahoo.co.jp/pickup/6600057?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T15:13:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0015",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【速報】那覇市長選挙 現職の知念覚氏 2回目の当選確実",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65105",
+          "description": "現職と新人の4人による争いとなった那覇市長選挙は、現職の知念覚氏（63）が2回目の当選を確実にしました。",
+          "pub_date": "2026-10-25T20:01:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "那覇市長選 現職知念氏が再選確実",
+          "link": "https://news.yahoo.co.jp/pickup/6600101?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T20:17:28+09:00"
         }
       }
     }
@@ -184,13 +364,6 @@
     },
     {
       "source": "NHK",
-      "title": "キム総書記訪中 米朝交渉再開可能性見据え意思疎通のねらいか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64966",
-      "description": "北朝鮮のキム・ジョンウン（金正恩）総書記は、24日、中国東北部の都市を訪問し、中国共産党の最高指導部のメンバーと会談しました。北朝鮮が今後のアメリカとの交渉再開の可能性も踏まえ、中国と意思疎通を図るね…",
-      "pub_date": "2026-10-25T05:15:25+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "海底のプラごみ対策 分解酵素混ぜた新たなプラスチック開発",
       "link": "https://news.web.nhk/newsweb/na/nd-20261024de64624",
       "description": "東京大学などの研究グループは、プラスチックの中にあらかじめ分解酵素を混ぜておくことで、海に流出した際の分解を速める新たなプラスチックを開発しました。海底にごみがたまり続ける問題の改善につなげていきたい…",
@@ -214,8 +387,113 @@
       "source": "NHK",
       "title": "【地震速報】小笠原で震度3 津波の心配なし",
       "link": "https://news.web.nhk/newsweb/na/nd-20261025de65049",
-      "description": "25日午前11時10分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は小笠原諸島西方沖で震源の深さは470キロ、地震の規模を示すマグニチュードは7.0と推定されます。 各市町村…",
-      "pub_date": "2026-10-25T11:20:05+09:00"
+      "description": "25日午前11時10分ごろ、小笠原諸島西方沖の深い場所を震源とする地震があり、小笠原諸島で震度3の揺れを観測したほか、東北から東海にかけての広い範囲で震度2や1の揺れを観測しました。この地震による津波…",
+      "pub_date": "2026-10-25T11:56:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【映像】和歌山市で道路が川のように カラーコーンも流される",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65066",
+      "description": "本州付近にのびる前線に台風周辺の暖かく湿った空気が流れ込み、大雨になっているところがあります。 和歌山市のNHK和歌山放送局前では25日午前10時ごろ、道路に雨水が流れ込んで川のようになっていました…",
+      "pub_date": "2026-10-25T11:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65036",
+      "description": "食料品の消費税減税関連法案をめぐって、NHKの日曜討論に衆議院に議席を持つ与野党の国会対策委員長らが出演し、与党側が丁寧に審議を進め、野党の理解も得て成立を図る考えを示したのに対し、野党側からは所得に…",
+      "pub_date": "2026-10-25T12:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "オバマ元大統領が接戦州入り“歯止めかける最後で最大の機会”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65071",
+      "description": "アメリカの中間選挙まであと10日となるなか、民主党のオバマ元大統領が上院議員選挙で接戦が伝えられる中西部の2つの州に応援に入り、今回の選挙はトランプ政権に歯止めをかける最後にして最大の機会だと訴え、投…",
+      "pub_date": "2026-10-25T16:32:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮メディアもキム総書記の訪中を伝える 友好関係を強調",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65058",
+      "description": "北朝鮮のメディアは、キム・ジョンウン（金正恩）総書記の今回の中国訪問について初めて伝え、25日で中国が朝鮮戦争に参戦して76年となるのにあわせ、両国の伝統的な友好関係を強調しました。",
+      "pub_date": "2026-10-25T11:51:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "和歌山 紀美野町内全域 3867世帯7370人に高齢者等避難の情報",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65137",
+      "description": "和歌山県紀美野町は25日午後1時、町内全域の3867世帯7370人に高齢者等避難の情報を出しました。 5段階の警戒レベルのうち、警戒レベル3にあたる情報で、自治体は高齢者や体の不自由な人などに避難を…",
+      "pub_date": "2026-10-25T13:39:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "和歌山 由良町全域と広川町の一部に避難指示",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65148",
+      "description": "和歌山県では土砂災害の危険性が高まっているとして、由良町の全域と広川町の一部に避難指示が出されました。 避難指示の対象となっているのは由良町の全域の2516世帯の4752人と、広川町の津木地区の33…",
+      "pub_date": "2026-10-25T14:14:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65143",
+      "description": "衆議院議員の定数削減をめぐって、NHKの日曜討論に、衆議院に議席を持つ与野党の国会対策委員長らが出演し、自民党は比例代表で31議席を削減するなどとした案で合意できれば今の国会に法案を提出し、成立を目指…",
+      "pub_date": "2026-10-25T14:22:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "マラソン競歩 川野将虎が世界新記録で優勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65141",
+      "description": "陸上の競歩でマラソンと同じ42.195キロで行われる新しい種目「マラソン競歩」の大会が山形県高畠町で行われ、川野将虎選手が速報タイムで2時間55分14秒の世界新記録をマークし優勝しました。",
+      "pub_date": "2026-10-25T14:22:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "クライミングシリーズ スピードで大政涼が年間2位",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65139",
+      "description": "スポーツクライミングのワールドクライミングシリーズはスピードの今シーズン最終戦が行われ、24歳の大政涼選手が3位に入って、年間成績でもこの種目では日本勢で初めての2位になりました。",
+      "pub_date": "2026-10-25T14:23:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山口 長門市に「高齢者等避難」 台風30号の接近で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65238",
+      "description": "台風30号の接近に伴い、25日夜から26日未明にかけて雨が強まることが予想されるとして、山口県長門市は25日午後2時、市内全域を対象に「高齢者等避難」の情報を出しました。 これに伴い市内10か所に避…",
+      "pub_date": "2026-10-25T17:24:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "女子ゴルフ 吉田優利がアメリカツアー初優勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65211",
+      "description": "女子ゴルフのアメリカツアーの大会は25日、韓国で最終ラウンドが行われ、吉田優利選手が2位から4打差を逆転して、アメリカツアー初優勝を果たしました。",
+      "pub_date": "2026-10-25T17:21:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選確実【速報】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65086",
+      "description": "東日本大震災からの復興など現職の県政運営の評価が争点となった福島県知事選挙は、現職の内堀雅雄氏（62）が新人6人を抑えて4回目の当選を確実にしました。",
+      "pub_date": "2026-10-25T20:40:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米で大規模実動演習 長射程ミサイルを初使用",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65243",
+      "description": "今月、自衛隊やアメリカ軍は5万人以上が参加する大規模な実動演習を日本各地で実施しています。今回、防衛省が「反撃能力」としても使うとする長射程ミサイルが日米の実動演習で初めて使用され、25日、公開されま…",
+      "pub_date": "2026-10-25T18:08:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【速報】福島県知事選挙 出口調査の結果は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65085",
+      "description": "NHKは25日、有権者の投票行動や政治意識を探るため、出口調査を行いました。調査は県内24の投票所で投票を終えた有権者2693人を対象に行い、76.0％にあたる2046人から回答を得ました。一方、24…",
+      "pub_date": "2026-10-25T20:33:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新潟市長選挙 現職の中原八一氏 3回目の当選確実",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65104",
+      "description": "現職と新人のあわせて3人の争いとなった新潟市長選挙は、無所属で現職の中原八一氏（67）が3回目の当選を確実にしました。",
+      "pub_date": "2026-10-25T21:06:46+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -317,13 +595,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "北九州で女性刺されけが 男が逃走",
-      "link": "https://news.yahoo.co.jp/pickup/6600016?source=rss",
-      "description": "",
-      "pub_date": "2026-10-25T09:24:06+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "スズメバチを捕食? ヒヨドリとは",
       "link": "https://news.yahoo.co.jp/pickup/6600019?source=rss",
       "description": "",
@@ -363,6 +634,251 @@
       "link": "https://news.yahoo.co.jp/pickup/6600009?source=rss",
       "description": "",
       "pub_date": "2026-10-25T08:58:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オバマ氏 トランプ政権を痛烈批判",
+      "link": "https://news.yahoo.co.jp/pickup/6600025?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T11:24:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モスク放火の罪 法廷で語った後悔",
+      "link": "https://news.yahoo.co.jp/pickup/6600013?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T09:13:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "孤立出産2人遺棄で猶予判決 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6600027?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T10:59:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パンどろぼう主題歌話題 攻めた訳",
+      "link": "https://news.yahoo.co.jp/pickup/6600035?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T11:50:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "14歳で美容整形 心ない言葉で決意",
+      "link": "https://news.yahoo.co.jp/pickup/6600039?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T12:20:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIに暴言を吐く行為 識者らの見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600040?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T12:27:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10月FOMCは金利据え置きか 焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T12:30:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "美容室の倒産高水準 競争で二極化",
+      "link": "https://news.yahoo.co.jp/pickup/6600033?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T11:39:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中井亜美 完璧演技で右拳突き上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6600050?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T13:59:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "菊地亜美 マレーシアに移住の理由",
+      "link": "https://news.yahoo.co.jp/pickup/6600044?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T13:22:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "近畿で非常に激しい雨 26日も警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6600051?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T14:15:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "退職代行「バブル」崩壊? なぜ今",
+      "link": "https://news.yahoo.co.jp/pickup/6600048?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T13:55:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "妊娠中にがん宣告 選択迫られた母",
+      "link": "https://news.yahoo.co.jp/pickup/6600042?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T13:43:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "貴島明日香 妊娠の喜びや不安語る",
+      "link": "https://news.yahoo.co.jp/pickup/6600053?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T14:22:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "衆院議席減案 国民民主の賛否焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6600059?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T15:32:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "和菓子店主殺害 強殺疑い2人逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600058?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T15:30:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "床はう患者撮影し投稿 法的責任は",
+      "link": "https://news.yahoo.co.jp/pickup/6600047?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T13:47:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今田美桜 公式サイト&FC閉鎖へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600062?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T15:53:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Suicaペンギンなぜ「卒業」解説",
+      "link": "https://news.yahoo.co.jp/pickup/6600063?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T16:17:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森田剛 嫉妬との向き合い方に持論",
+      "link": "https://news.yahoo.co.jp/pickup/6600064?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T15:48:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風30号 弱まりながら九州接近へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600076?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T17:39:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "断水で透析危機 被災病院の現実",
+      "link": "https://news.yahoo.co.jp/pickup/6600072?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T16:44:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北の韓国侵攻描くゲーム話題 韓国",
+      "link": "https://news.yahoo.co.jp/pickup/6600083?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T18:20:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "武豊が勝利 空気読まず申し訳ない",
+      "link": "https://news.yahoo.co.jp/pickup/6600073?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T17:04:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モデル・鈴木えみ 離婚していた",
+      "link": "https://news.yahoo.co.jp/pickup/6600078?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T17:30:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 温帯低気圧になっても警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6600093?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T19:22:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2家族8人乗る車横転 20代の母死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600091?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T19:03:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "内閣支持率45%で横ばい 毎日調査",
+      "link": "https://news.yahoo.co.jp/pickup/6600099?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T20:05:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イオン爆発犠牲者7人 南側で発見",
+      "link": "https://news.yahoo.co.jp/pickup/6600100?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T20:11:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NY大司教区 性的虐待で和解合意",
+      "link": "https://news.yahoo.co.jp/pickup/6600082?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T18:23:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報・日本S第2戦 DeNA対SB",
+      "link": "https://news.yahoo.co.jp/pickup/6600094?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T19:24:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G浅野を自由契約 育成契約打診か",
+      "link": "https://news.yahoo.co.jp/pickup/6600070?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T16:51:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今田美桜 公式FC閉鎖の理由説明",
+      "link": "https://news.yahoo.co.jp/pickup/6600090?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T19:19:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事故で脚切断 25歳諦めていた恋愛",
+      "link": "https://news.yahoo.co.jp/pickup/6600106?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T21:17:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "菊花賞 騎手に制裁4件相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6600102?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T20:20:38+09:00"
     }
   ]
 }
