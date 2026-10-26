@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "matched_at": "2026-10-26T11:45:48.692747+09:00",
+  "matched_at": "2026-10-26T21:45:50.632046+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -10,10 +10,30 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64932",
+          "description": "台風30号は東シナ海で温帯低気圧に変わりました。 前線に向かって低気圧周辺の暖かく湿った空気が流れ込むなどして西日本と東日本では大気の状態が非常に不安定になっています。 26日にかけて非常に激しい雨が…",
+          "pub_date": "2026-10-25T22:47:39+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "台風30号は温帯低気圧に 大雨警戒",
+          "link": "https://news.yahoo.co.jp/pickup/6600115?source=rss",
+          "description": "",
+          "pub_date": "2026-10-25T22:45:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選",
           "link": "https://news.web.nhk/newsweb/na/nd-20261026de65416",
-          "description": "南米ブラジルの大統領選挙は決選投票が行われ、左派で現職のルーラ大統領が右派のフラビオ・ボルソナロ上院議員を破って再選を決めました。 南米の各国で左派から右派の政権への転換が相次ぐ中、経済や人口規模が…",
-          "pub_date": "2026-10-26T11:18:02+09:00"
+          "description": "南米ブラジルの大統領選挙は決選投票が行われ、左派で現職のルーラ大統領が右派のフラビオ・ボルソナロ上院議員を破って再選を決めました。 南米の各国で右派の政権への転換が相次ぐ中、経済や人口規模が最も大き…",
+          "pub_date": "2026-10-26T11:50:15+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -25,7 +45,7 @@
       }
     },
     {
-      "event_id": "evt-0002",
+      "event_id": "evt-0003",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -43,16 +63,69 @@
           "pub_date": "2026-10-26T08:22:57+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福田康夫元首相が死去 90歳",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65501",
+          "description": "福田康夫元総理大臣が今月22日に亡くなりました。90歳でした。",
+          "pub_date": "2026-10-26T18:57:52+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "福田康夫元首相が死去 90歳",
+          "link": "https://news.yahoo.co.jp/pickup/6600180?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T13:56:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
+          "description": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり…",
+          "pub_date": "2026-10-26T19:37:12+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMO 攻撃側が100万ドル要求か",
+          "link": "https://news.yahoo.co.jp/pickup/6600188?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T15:38:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65955",
+          "description": "家電量販店を展開する「Joshin」は、会社のネットワークに不正アクセスがあった影響で、顧客の氏名や住所などおよそ600万件の個人情報が漏えいした可能性があると明らかにしました。",
+          "pub_date": "2026-10-26T21:18:46+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "Joshin 600万件超の情報漏えいか",
+          "link": "https://news.yahoo.co.jp/pickup/6600214?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T18:47:14+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
-    {
-      "source": "NHK",
-      "title": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64932",
-      "description": "台風30号は東シナ海で温帯低気圧に変わりました。 前線に向かって低気圧周辺の暖かく湿った空気が流れ込むなどして西日本と東日本では大気の状態が非常に不安定になっています。 26日にかけて非常に激しい雨が…",
-      "pub_date": "2026-10-25T22:47:39+09:00"
-    },
     {
       "source": "NHK",
       "title": "那覇市長選挙 現職の知念覚氏 2回目の当選",
@@ -97,10 +170,10 @@
     },
     {
       "source": "NHK",
-      "title": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
+      "title": "台風30号は温帯低気圧に 雨の範囲は東へ移動",
       "link": "https://news.web.nhk/newsweb/na/nd-20261026de65420",
-      "description": "台風30号は25日夜、温帯低気圧に変わりましたが、西日本と東日本では26日も大気の状態が非常に不安定になって、局地的に非常に激しい雨が降るおそれがあります。気象庁は土砂災害に警戒するとともに、低い土地…",
-      "pub_date": "2026-10-26T10:41:49+09:00"
+      "description": "台風30号から変わった温帯低気圧と前線の影響で、九州北部などで局地的に大雨となりましたが、雨の範囲は東へ移動し、大雨の峠は越えつつあります。 一方、前線が停滞する伊豆諸島を中心に27日の明け方にかけ…",
+      "pub_date": "2026-10-26T19:13:29+09:00"
     },
     {
       "source": "NHK",
@@ -149,14 +222,112 @@
       "title": "将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261026de65487",
       "description": "将棋の西山朋佳女流四冠は会見を開き、プロ棋士となる権利を行使する意向を表明しました。 史上初の女性プロ棋士が誕生することになります。",
-      "pub_date": "2026-10-26T10:37:00+09:00"
+      "pub_date": "2026-10-26T19:06:29+09:00"
     },
     {
-      "source": "Yahoo!ニュース",
-      "title": "台風30号は温帯低気圧に 大雨警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6600115?source=rss",
-      "description": "",
-      "pub_date": "2026-10-25T22:45:25+09:00"
+      "source": "NHK",
+      "title": "福岡 北九州 冠水した道路で車1台が立往生 けが人なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65565",
+      "description": "警察などによりますと、北九州市小倉南区では大雨の影響で道路が冠水したという通報が複数寄せられたということです。 このうち、小倉南区下曽根新町では、午前9時ごろ道路が冠水し車が立往生していると警察に通…",
+      "pub_date": "2026-10-26T12:09:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドクターイエローの後継「ドクターS」が初運行 JR東海",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65533",
+      "description": "去年引退したJR東海の「ドクターイエロー」に替わって新幹線の線路などの検査を行う車両「ドクターS」が、26日、初めて運行されました。",
+      "pub_date": "2026-10-26T11:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "政府 相次ぐ不正アクセス受け今夜関係閣僚会議開催へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65587",
+      "description": "不正アクセスによる情報漏えいが相次いでいることを受けて、政府は、26日夜、高市総理大臣が出席してサイバーセキュリティーの関係閣僚会議を開催し、今後の対策などを議論することになりました。",
+      "pub_date": "2026-10-26T11:59:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "天皇皇后両陛下 高知市内で「バリアフリー図書」を視察",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65571",
+      "description": "高知県を訪問している天皇皇后両陛下は26日、「バリアフリー図書」を提供している図書館を訪れ、利用者の盲学校の生徒たちと懇談されました。",
+      "pub_date": "2026-10-26T13:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "みらい“AI活用へ規制改革と「AI失業」対策を” 政府に提言",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65641",
+      "description": "チームみらいの安野党首は木原官房長官と面会し、AIの新たな技術の実用化に向けて規制改革を進める一方、普及によって仕事を失ういわゆる「AI失業」に備えた支援にも取り組むよう求める提言を行いました。",
+      "pub_date": "2026-10-26T13:18:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山口 美祢 強盗殺人事件 金庫には一定額の現金入っていたか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65672",
+      "description": "ことし8月、山口県美祢市で菓子店を営む男性が殺害され、金庫が奪われた強盗殺人事件で、金庫の中には一定額の現金が入っていたとみられることが捜査関係者への取材で分かりました。警察は逮捕された2人が店や家の…",
+      "pub_date": "2026-10-26T14:25:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相 消費税減税法案など早期成立に向け与党に協力求める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65662",
+      "description": "今の国会での法案審議をめぐり、高市総理大臣は、政府与党連絡会議で、食料品の消費税減税関連法案などの早期成立に向けて与党に協力を求めました。",
+      "pub_date": "2026-10-26T14:21:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65793",
+      "description": "カーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け運転免許証の画像データなどが漏えいした問題を受けて、集団訴訟に向けた準備を進めている弁護士が会見を開き、今後運営会社などに対して1…",
+      "pub_date": "2026-10-26T18:01:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広島 氏名が誤認識された被爆男性の遺骨 来月遺族のもとに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65767",
+      "description": "広島に投下された原爆で犠牲となり、これまで氏名が誤って認識され、引き取る親族が見つからなかった男性の遺骨が、来月、遺族のもとに返ることになりました。 遺族は「骨のかけらでも戻ってくるのがうれしい」と…",
+      "pub_date": "2026-10-26T17:44:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本・フィンランド防衛相会談 防衛協力と交流深化で一致",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65997",
+      "description": "小泉防衛大臣は、フィンランドのハッカネン国防相と会談し、ヨーロッパ大西洋とインド太平洋の安全保障は不可分だとして、緊密に連携し、防衛協力や交流を深めていくことで一致しました。",
+      "pub_date": "2026-10-26T20:19:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民合同会議 ガソリン補助基準価格引き上げなど求める提言案",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65961",
+      "description": "中東情勢を受けて実施しているガソリン価格などの激変緩和措置について、自民党の合同会議は、持続可能な制度に移行すべきだとして、基準となる価格の段階的な引き上げなどを求める提言案をまとめました。",
+      "pub_date": "2026-10-26T20:11:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京国際映画祭始まる 雨天も人気俳優らが登場",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65966",
+      "description": "アジア最大規模の映画祭、「東京国際映画祭」が26日から始まり、国内外の人気俳優や映画監督らがレッドカーペットに登場し、開幕を彩りました。",
+      "pub_date": "2026-10-26T20:50:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "巨人 松井秀喜新監督に元監督の堀内恒夫さん「長期政権を」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65951",
+      "description": "プロ野球、巨人の監督に松井秀喜氏が就任したことについて、自身もかつて巨人の監督を務めた堀内恒夫さんが取材に応じ「長期政権で松井秀喜の野球を貫いてほしい」とエールを送りました。",
+      "pub_date": "2026-10-26T20:28:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ネタニヤフ首相 トランプ大統領に総選挙への支持強化を要請か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66004",
+      "description": "イスラエルで27日に行われる総選挙を前に、アメリカのトランプ大統領はSNSで、ネタニヤフ首相への2度目の支持を表明しました。ネタニヤフ首相の苦戦が伝えられるなか、アメリカメディアは首相がトランプ大統領…",
+      "pub_date": "2026-10-26T21:08:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本シリーズ第3戦を前にソフトバンク DeNA 両投手陣が調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65963",
+      "description": "27日に行われるプロ野球の日本シリーズ第3戦を前に、ソフトバンクとDeNAの投手陣が26日、福岡市のみずほPayPayドームで調整しました。",
+      "pub_date": "2026-10-26T21:01:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -360,6 +531,272 @@
       "link": "https://news.yahoo.co.jp/pickup/6600154?source=rss",
       "description": "",
       "pub_date": "2026-10-26T10:31:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東 低気圧と前線で27日にかけ雨",
+      "link": "https://news.yahoo.co.jp/pickup/6600164?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T11:50:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カスハラ対策 企業の3割は未着手",
+      "link": "https://news.yahoo.co.jp/pickup/6600159?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T11:07:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマに庭先で襲われ 93歳が足骨折",
+      "link": "https://news.yahoo.co.jp/pickup/6600165?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T11:56:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドトール なぜ安いのに過去最高益",
+      "link": "https://news.yahoo.co.jp/pickup/6600163?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T11:48:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦力外通告に秋広 覚悟はしていた",
+      "link": "https://news.yahoo.co.jp/pickup/6600168?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T12:01:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元AKB横山由依 第1子出産を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600172?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T12:25:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "退職倒産が最多 中小企業どう対応",
+      "link": "https://news.yahoo.co.jp/pickup/6600166?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T12:49:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Netflix会員 アプリ利用頻度低下",
+      "link": "https://news.yahoo.co.jp/pickup/6600167?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T12:26:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリックス 5投手に戦力外通告",
+      "link": "https://news.yahoo.co.jp/pickup/6600171?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T12:23:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "セルビア 14年ぶり政権交代へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600182?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T14:21:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "武田薬品 胃がん新薬を来年申請へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600169?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T12:31:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドクターイエロー後継 客乗せ走行",
+      "link": "https://news.yahoo.co.jp/pickup/6600178?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T13:29:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西武 糸川ら7選手に戦力外通告",
+      "link": "https://news.yahoo.co.jp/pickup/6600177?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T13:17:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "50歳でパパに アンガ田中の育児",
+      "link": "https://news.yahoo.co.jp/pickup/6600179?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T14:10:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SHEIN 米FTCと1億ドルで和解へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600173?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T12:46:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福田元首相が死去 中国でも速報",
+      "link": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T14:26:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヤクルト 茂木栄五郎ら3人戦力外",
+      "link": "https://news.yahoo.co.jp/pickup/6600186?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T15:18:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "炎鵬 一度はプロポーズを断られる",
+      "link": "https://news.yahoo.co.jp/pickup/6600185?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T15:10:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福田元首相が死去 高市首相が談話",
+      "link": "https://news.yahoo.co.jp/pickup/6600189?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T15:24:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "温泉「無断持ち帰り」 若旦那困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6600187?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T15:19:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神2軍コーチに就任 的場氏が涙",
+      "link": "https://news.yahoo.co.jp/pickup/6600190?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T15:49:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フーシ派 サウジ石油施設など攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6600192?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T16:23:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国紙「VIVANT」批判記事を掲載",
+      "link": "https://news.yahoo.co.jp/pickup/6600197?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T17:14:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソフトB 大量14選手に戦力外通告",
+      "link": "https://news.yahoo.co.jp/pickup/6600191?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T16:39:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "永野芽郁 約1年半ぶり公の場",
+      "link": "https://news.yahoo.co.jp/pickup/6600195?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T17:13:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福田元首相が死去 中国が哀悼の意",
+      "link": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T17:50:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米軍嘉手納基地 中国BYD車を禁止",
+      "link": "https://news.yahoo.co.jp/pickup/6600210?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T18:00:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3ピンプラグに2穴 10代感電し入院",
+      "link": "https://news.yahoo.co.jp/pickup/6600207?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T17:46:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "職場で同僚が心肺停止 6人で救命",
+      "link": "https://news.yahoo.co.jp/pickup/6600198?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T17:18:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神・高橋遥人が沢村賞を初受賞",
+      "link": "https://news.yahoo.co.jp/pickup/6600206?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T17:44:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神・藤川監督 29年まで契約延長",
+      "link": "https://news.yahoo.co.jp/pickup/6600216?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T18:52:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバー攻撃に緊急対策 首相方針",
+      "link": "https://news.yahoo.co.jp/pickup/6600219?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T19:11:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMOに攻撃 当初は約80億円要求",
+      "link": "https://news.yahoo.co.jp/pickup/6600222?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T19:28:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国媒体の「VIVANT」批判 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T19:07:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木村拓哉 千葉県に義援金2000万円",
+      "link": "https://news.yahoo.co.jp/pickup/6600224?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T19:51:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ユミルリンク 延べ5162万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6600228?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T20:29:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ギフティ ギフト券不正発行される",
+      "link": "https://news.yahoo.co.jp/pickup/6600229?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T21:18:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3カ月の付き添い入院 心身は限界",
+      "link": "https://news.yahoo.co.jp/pickup/6600212?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T18:39:41+09:00"
     }
   ]
 }
