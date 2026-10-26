@@ -1,0 +1,365 @@
+{
+  "date": "2026-10-26",
+  "matched_at": "2026-10-26T11:45:48.692747+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65416",
+          "description": "南米ブラジルの大統領選挙は決選投票が行われ、左派で現職のルーラ大統領が右派のフラビオ・ボルソナロ上院議員を破って再選を決めました。 南米の各国で左派から右派の政権への転換が相次ぐ中、経済や人口規模が…",
+          "pub_date": "2026-10-26T11:18:02+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ブラジル大統領に現職ルラ氏再選",
+          "link": "https://news.yahoo.co.jp/pickup/6600147?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T09:35:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ノーベル平和賞受賞者のマチャド氏 ベネズエラに帰国",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65452",
+          "description": "南米ベネズエラの野党指導者で、去年、ノーベル平和賞の受賞が決まったあと秘密裏に出国したマリア・コリナ・マチャド氏が帰国していたことが明らかになりました。 ベネズエラでは、アメリカに拘束されたマドゥーロ…",
+          "pub_date": "2026-10-26T08:45:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "平和賞マチャド氏 ベネズエラ帰国",
+          "link": "https://news.yahoo.co.jp/pickup/6600141?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T08:22:57+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64932",
+      "description": "台風30号は東シナ海で温帯低気圧に変わりました。 前線に向かって低気圧周辺の暖かく湿った空気が流れ込むなどして西日本と東日本では大気の状態が非常に不安定になっています。 26日にかけて非常に激しい雨が…",
+      "pub_date": "2026-10-25T22:47:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "那覇市長選挙 現職の知念覚氏 2回目の当選",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65105",
+      "description": "25日に投票が行われた那覇市長選挙は、無所属で現職の知念覚氏（63）が2回目の当選を果たしました。",
+      "pub_date": "2026-10-26T01:14:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65213",
+      "description": "プロ野球の日本シリーズ第2戦はソフトバンクがDeNAに延長10回、4対3で競り勝ち、対戦成績を2勝0敗としました。 試合はDeNAが8回に筒香嘉智選手のスリーランで逆転しましたが、ソフトバンクが直後…",
+      "pub_date": "2026-10-26T04:52:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65086",
+      "description": "10月25日に投票が行われた福島県知事選挙は、現職の内堀雅雄氏が新人6人を大差で抑えて4回目の当選を果たしました。",
+      "pub_date": "2026-10-26T05:16:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新潟市長選挙 現職の中原八一氏 3回目の当選",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65104",
+      "description": "25日に投票が行われた新潟市長選挙は、無所属で現職の中原八一氏（67）が3回目の当選を果たしました。",
+      "pub_date": "2026-10-26T01:02:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65362",
+      "description": "GMOインターネットグループの熊谷正寿社長は、不正アクセスの問題を受けて「能動的サイバー防御」を政府に要請したことについて、自身のブログで「国民生活への影響に照らして適用可能性を検討してもらいたい」と…",
+      "pub_date": "2026-10-25T22:07:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "体操世界選手権 種目別鉄棒で岡慎之助が銀メダル",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65415",
+      "description": "オランダで開かれている体操の世界選手権は最終日の25日、男女の種目別の決勝が行われ、「鉄棒」で岡慎之助選手が銀メダルを獲得しました。",
+      "pub_date": "2026-10-26T02:29:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65420",
+      "description": "台風30号は25日夜、温帯低気圧に変わりましたが、西日本と東日本では26日も大気の状態が非常に不安定になって、局地的に非常に激しい雨が降るおそれがあります。気象庁は土砂災害に警戒するとともに、低い土地…",
+      "pub_date": "2026-10-26T10:41:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大相撲九州場所 番付発表 33歳の美ノ海が新三役",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65392",
+      "description": "来月8日に初日を迎える大相撲九州場所の番付が発表され、33歳の美ノ海が新三役となる小結に昇進しました。",
+      "pub_date": "2026-10-26T06:04:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65348",
+      "description": "イスラエルの総選挙が日本時間の27日に行われます。ネタニヤフ首相は3年前、イスラム組織ハマスの奇襲攻撃を防げなかった責任を野党陣営から追及され苦戦を強いられていて、中東情勢に大きな影響を与えてきたネタ…",
+      "pub_date": "2026-10-26T05:49:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 与党 通過時期探る 野党 支援金対象明示を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65353",
+      "description": "国会では今週、食料品の消費税減税関連法案の審議が続きます。 与党側は、野党の主張も丁寧に聞きながら、衆議院通過の時期を探りたいとしているのに対し、野党側は、所得に応じた支援金の対象などを示すよう重ね…",
+      "pub_date": "2026-10-26T05:46:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゼレンスキー大統領「領土問題は首脳同士で協議すべき」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65459",
+      "description": "ウクライナのゼレンスキー大統領は、ロシアとの和平案をめぐる協議の動きが出ていることに関連して「領土に関する問題は首脳レベルでのみ協議すべきだ」と述べました。 11月にも実現する可能性のあるアメリカも…",
+      "pub_date": "2026-10-26T08:53:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "混乱広がるフランス 極右政党ルペン氏 来年春の大統領選に意欲",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65466",
+      "description": "フランスでは、デモに乗じた暴動が起こるなど混乱が広がる中、極右政党のルペン氏は社会の秩序を回復する必要があると強調した上で、来年春の大統領選挙に意欲を示しました。",
+      "pub_date": "2026-10-26T09:04:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領がオバマ元大統領に続き接戦のミシガン州に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65474",
+      "description": "アメリカの中間選挙まで1週間あまりとなるなか、トランプ大統領は上院議員選挙で接戦が伝えられる中西部ミシガン州で集会を開き、イスラム教徒の民主党候補を一方的にテロリストと結びつけて非難し、共和党候補への…",
+      "pub_date": "2026-10-26T10:15:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65487",
+      "description": "将棋の西山朋佳女流四冠は会見を開き、プロ棋士となる権利を行使する意向を表明しました。 史上初の女性プロ棋士が誕生することになります。",
+      "pub_date": "2026-10-26T10:37:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風30号は温帯低気圧に 大雨警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6600115?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T22:45:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドコモ 「エリアメール」完全再開",
+      "link": "https://news.yahoo.co.jp/pickup/6600114?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T22:21:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不正アクセス GMO代表が謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600119?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T23:05:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "張本智和が快挙 アジア選手権連覇",
+      "link": "https://news.yahoo.co.jp/pickup/6600120?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T23:22:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "代打・山川が同点弾 打球は場外へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600118?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T22:56:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ブルアカ 日本向け運営全面移管へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600117?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T22:48:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI投資に巨額マネー 実態と展望",
+      "link": "https://news.yahoo.co.jp/pickup/6600116?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T22:45:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伊東純也 ゴールの内側からゴール",
+      "link": "https://news.yahoo.co.jp/pickup/6600123?source=rss",
+      "description": "",
+      "pub_date": "2026-10-25T23:44:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東-九州激しい雨 夜にピークも",
+      "link": "https://news.yahoo.co.jp/pickup/6600128?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T06:45:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "次の首相「高市氏」27% 毎日調査",
+      "link": "https://news.yahoo.co.jp/pickup/6600130?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T06:58:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "和菓子店主殺害 逮捕知り遺族号泣",
+      "link": "https://news.yahoo.co.jp/pickup/6600132?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T07:26:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "チャイルドシートの義務拡大 検討",
+      "link": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T06:26:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTにダイアン津田 設計の妙",
+      "link": "https://news.yahoo.co.jp/pickup/6600129?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T06:51:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "男性死亡 台風接近前に船を見に",
+      "link": "https://news.yahoo.co.jp/pickup/6600133?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T07:36:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性殺害 米兵関与一部ほのめかす",
+      "link": "https://news.yahoo.co.jp/pickup/6600136?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T07:57:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コニカミノルタ「社内副業」狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6600138?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T08:02:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソフトバンク秋広優人 来季構想外",
+      "link": "https://news.yahoo.co.jp/pickup/6600135?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T07:34:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTにダイアン津田登場 話題",
+      "link": "https://news.yahoo.co.jp/pickup/6600137?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T07:49:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "民間金融機関に資金供給拡大 方針",
+      "link": "https://news.yahoo.co.jp/pickup/6600143?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T08:42:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電車が駅で140m過ぎて停車 戻らず",
+      "link": "https://news.yahoo.co.jp/pickup/6600144?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T08:50:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本地震 液状化地点の96%で再発",
+      "link": "https://news.yahoo.co.jp/pickup/6600146?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T09:29:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新局面 漏洩被害者に迫る「脅威」",
+      "link": "https://news.yahoo.co.jp/pickup/6600145?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T09:27:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プロ野球観客動員が史上最多 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6600155?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T10:22:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "霜降り・せいや復帰「初の肺炎」",
+      "link": "https://news.yahoo.co.jp/pickup/6600153?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T10:06:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT高視聴率 日本S中継影響か",
+      "link": "https://news.yahoo.co.jp/pickup/6600152?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T09:59:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "暴行され7歳死亡 母に懲役8年求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6600161?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T11:20:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英ジャガイモ生産 害虫被害が拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6600162?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T11:14:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プロ野球観客動員最多 球場で何が",
+      "link": "https://news.yahoo.co.jp/pickup/6600158?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T10:48:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例 広島が編成部門に小川淳司氏",
+      "link": "https://news.yahoo.co.jp/pickup/6600160?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T11:23:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サンクチュアリ シーズン2制作へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600154?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T10:31:39+09:00"
+    }
+  ]
+}
