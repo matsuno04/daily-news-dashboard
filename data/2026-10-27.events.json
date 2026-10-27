@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-27",
+  "matched_at": "2026-10-27T11:45:52.075987+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de66041",
+          "description": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、外務省は26日、記者との「領事面会」を行ったと発表しました。記者の健康状態に問題はないとしています。",
+          "pub_date": "2026-10-27T11:27:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露拘束の記者 大使館員が領事面会",
+          "link": "https://news.yahoo.co.jp/pickup/6600239?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T23:20:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福田康夫元首相が死去 90歳",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65501",
+          "description": "福田康夫元総理大臣が今月22日に亡くなりました。90歳でした。",
+          "pub_date": "2026-10-26T23:20:24+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "福田康夫さん死去 親子2代で首相",
+          "link": "https://news.yahoo.co.jp/pickup/6600231?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T21:40:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de66040",
+          "description": "楽天グループは、運営する旅行予約サービス「楽天トラベル」の海外ホテル予約サイトで先月、不正アクセスの可能性を検知し、その後の調査でログインした利用者の氏名やメールアドレス、電話番号など最大およそ260…",
+          "pub_date": "2026-10-27T00:32:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "楽天トラベル 約260万件が流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6600238?source=rss",
+          "description": "",
+          "pub_date": "2026-10-26T23:08:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+          "description": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…",
+          "pub_date": "2026-10-27T04:54:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMOに予告 正午に顧客情報公開",
+          "link": "https://news.yahoo.co.jp/pickup/6600241?source=rss",
+          "description": "",
+          "pub_date": "2026-10-27T06:08:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "イスラエルきょう総選挙 野党側やや優勢 ネタニヤフ氏続投焦点",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66052",
+          "description": "イスラエルの総選挙が日本時間の27日、行われます。最新の世論調査ではネタニヤフ首相の与党陣営が過半数を割り込み、野党陣営がやや優勢と予測されていて、中東情勢に大きな影響を与えてきたネタニヤフ首相が政権…",
+          "pub_date": "2026-10-27T06:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "イスラエル総選挙 政権維持が焦点",
+          "link": "https://news.yahoo.co.jp/pickup/6600247?source=rss",
+          "description": "",
+          "pub_date": "2026-10-27T07:20:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "元検事正 部下への性的暴行の起訴内容を否認 無罪を主張",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66127",
+          "description": "大阪地方検察庁の元検事正が、酒に酔って抵抗できない状態の部下に性的暴行を加えた罪に問われている裁判が、大阪地方裁判所で開かれ、元検事正は、当時、部下が抵抗できなかったという起訴内容について「否認し、争…",
+          "pub_date": "2026-10-27T10:51:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "元検事正が無罪主張 性的暴行事件",
+          "link": "https://news.yahoo.co.jp/pickup/6600270?source=rss",
+          "description": "",
+          "pub_date": "2026-10-27T10:40:56+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "マイクロソフトが希望退職を募集 対象は6万人規模か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
+          "description": "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。 アメリカのメディアは、対象が従業員全体の27％にあたる…",
+          "pub_date": "2026-10-27T10:56:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米MS 6万人に退職パッケージ提示",
+          "link": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
+          "description": "",
+          "pub_date": "2026-10-27T07:27:23+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
+      "description": "電子ギフトを手がける「ギフティグループ」は、子会社が運用するシステムが不正アクセスを受け、およそ5億5000万円分の電子ギフトが不正に発行されたと発表しました。",
+      "pub_date": "2026-10-26T22:50:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米IT大手メタ 株式発行で最大15兆円調達 AI巨額設備投資の方針",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66071",
+      "description": "アメリカのIT大手「メタ」は株式の発行によって最大で950億ドル、日本円にしておよそ15兆円の資金を調達する計画を発表しました。 AI開発に必要な巨額の設備投資にあてる方針です。",
+      "pub_date": "2026-10-27T04:26:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "衆議院議員定数 31削減案できょう政党間協議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66067",
+      "description": "衆議院議員の定数削減をめぐり、自民党の実務者が示した比例代表で31議席を削減するなどとした案について、与野党は27日、改めて協議を行うことにしています。比例代表での削減を容認する声がある一方、削減幅の…",
+      "pub_date": "2026-10-27T04:56:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "韓国でAI悪用し800万超の個人情報入手か グループ検挙",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de66026",
+      "description": "韓国で企業などのシステムに不正にアクセスし、800万件を超える個人情報を入手した上で、企業側を脅して金銭を要求していたとして国内のグループが検挙されました。韓国メディアは生成AIを悪用した大規模なハッ…",
+      "pub_date": "2026-10-27T00:53:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山口 美祢 菓子店強盗殺人事件“便利屋”仕事通じ接点か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66072",
+      "description": "ことし8月、山口県美祢市で菓子店を営む男性を殺害し金庫を奪ったとして、いわゆる「便利屋」と呼ばれる自営業の容疑者ら2人が強盗殺人などの疑いで逮捕された事件で、容疑者は事件前に仕事を通して被害者と接点を…",
+      "pub_date": "2026-10-27T06:53:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "元検事正 部下への性的暴行の罪について きょう無罪主張へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66054",
+      "description": "大阪地方検察庁の元検事正が、酒に酔って抵抗できない状態の部下に性的暴行を加えた罪に問われている事件の裁判が、初公判から2年を経て27日、大阪地方裁判所で開かれます。元検事正は、初公判で起訴内容を認めた…",
+      "pub_date": "2026-10-27T06:00:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66070",
+      "description": "アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。",
+      "pub_date": "2026-10-27T05:29:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】宮城 福島で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261026de65556",
+      "description": "27日午前9時25分ごろ、宮城県と福島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。 各地の震度は 震度3が宮城県の岩沼市、福島県のいわき市、天栄村、玉川村、…",
+      "pub_date": "2026-10-27T09:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "衆財金委 与党“30日の質疑を” 野党“支援金対象など明示を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66122",
+      "description": "食料品の消費税減税関連法案の審議日程をめぐり、衆議院財務金融委員会の理事会で、与党側が今週30日に質疑を行いたいと提案したのに対し、野党側は所得に応じた支援金の対象などを示すよう重ねて求め、引き続き協…",
+      "pub_date": "2026-10-27T11:09:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フランス マクロン大統領 秩序維持を強調 高校生はデモ継続へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66082",
+      "description": "フランスのマクロン大統領は今月24日のデモへの対応について「秩序を維持している」と述べ、警備の強化の成果が出たと強調しました。一方、教育環境の問題を訴えてきた高校生たちは、政府から改善策の提示を受けた…",
+      "pub_date": "2026-10-27T08:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台湾 統一地方選挙に向け 台北などで激しい争い",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66088",
+      "description": "台湾総統選挙の前哨戦とされる統一地方選挙まで1か月余りとなる中、大きな焦点となっている台北市長選挙に向けて候補者が相次いで大規模な集会を開き、激しい争いとなっています。",
+      "pub_date": "2026-10-27T08:51:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新幹線予約の個人情報17万件流出",
+      "link": "https://news.yahoo.co.jp/pickup/6600235?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T23:07:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豪生保 第一ライフによる買収拒否",
+      "link": "https://news.yahoo.co.jp/pickup/6600234?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T22:03:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「弁当男子」増 力入れる食品業界",
+      "link": "https://news.yahoo.co.jp/pickup/6600237?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T22:59:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米Anthropic IPO申請書類を公開",
+      "link": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T00:02:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "氏名誤記の原爆死没者 遺骨返還へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600233?source=rss",
+      "description": "",
+      "pub_date": "2026-10-26T22:03:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "iPhone Duo画面不具合 交換対応",
+      "link": "https://news.yahoo.co.jp/pickup/6600246?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T06:58:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリ 今季引退西野がコーチ就任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600249?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T07:27:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アニメ・BLEACH 22年の歴史に幕",
+      "link": "https://news.yahoo.co.jp/pickup/6600242?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T06:20:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 ブラジル大統領選は不正",
+      "link": "https://news.yahoo.co.jp/pickup/6600251?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T07:43:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "油圧ショベルにひかれ作業員死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600253?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T07:55:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "立ち飲み 若者中心に新たなブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6600257?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T08:14:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウイスキー1本4億円超で落札 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6600250?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T07:34:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プリキュア 新作は不穏な雰囲気",
+      "link": "https://news.yahoo.co.jp/pickup/6600254?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T08:08:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "茨城県教委 国に誤った情報伝達",
+      "link": "https://news.yahoo.co.jp/pickup/6600260?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T08:34:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ながら運転で子奪われ10年 父は今",
+      "link": "https://news.yahoo.co.jp/pickup/6600256?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T08:21:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新iPad mini発表 防水を初搭載",
+      "link": "https://news.yahoo.co.jp/pickup/6600262?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T09:01:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バズは狙わない「ちふれ」の工夫",
+      "link": "https://news.yahoo.co.jp/pickup/6600259?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T08:38:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケイン 念願のバロンドール初受賞",
+      "link": "https://news.yahoo.co.jp/pickup/6600258?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T08:28:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 下院は民主党優勢か",
+      "link": "https://news.yahoo.co.jp/pickup/6600255?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T08:25:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 賞ならずノルウェー罵倒",
+      "link": "https://news.yahoo.co.jp/pickup/6600266?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T09:45:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小学生 漫画「読まない」3割弱",
+      "link": "https://news.yahoo.co.jp/pickup/6600268?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T09:46:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "乳がん 人間ドック2年空き悔しさ",
+      "link": "https://news.yahoo.co.jp/pickup/6600264?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T09:35:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米俳優 W・ケーニッヒさん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6600267?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T09:44:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大手生保 国債の入れ替え加速",
+      "link": "https://news.yahoo.co.jp/pickup/6600265?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T09:38:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO 利用者に「PC電源切って」",
+      "link": "https://news.yahoo.co.jp/pickup/6600274?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T11:02:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千代田区 マンション転売巡り要請",
+      "link": "https://news.yahoo.co.jp/pickup/6600275?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T11:08:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北九州で女性を殺害未遂疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600276?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T11:13:44+09:00"
+    }
+  ]
+}
