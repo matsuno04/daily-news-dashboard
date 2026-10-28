@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-28",
+  "matched_at": "2026-10-28T11:45:50.927371+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカー エムバペ選手が謝罪声明 「中国の独裁者」SNS発言で",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66664",
+          "description": "中国の大手企業がサッカー・フランス代表のエムバペ選手と結んでいたスポンサー契約を相次いで解除しました。エムバペ選手が自身の顔を合成した画像や動画について「中国の独裁者」などと発言したことが原因で、エム…",
+          "pub_date": "2026-10-27T22:04:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "エムバペ選手が謝罪 中国巡り騒動",
+          "link": "https://news.yahoo.co.jp/pickup/6600358?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T06:34:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "熊本地震3か月 住まいの確保と在宅避難者への継続支援が課題",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de66706",
+          "description": "ことし7月の熊本地震から28日で3か月です。 被災地では避難生活が長期化し、依然として1000人余りが避難所に身を寄せているほか、壊れた自宅で生活をおくる人も数多くいます。 これから冬を迎えるため…",
+          "pub_date": "2026-10-28T05:28:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "熊本地震3カ月 千人超なお避難所",
+          "link": "https://news.yahoo.co.jp/pickup/6600367?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T08:03:19+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66670",
+      "description": "りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。",
+      "pub_date": "2026-10-27T22:29:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66660",
+      "description": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題について、会社は27日、ぜい弱性があるか社内で診断を行っていなかった外部のソフトウエアが悪用されたことが原因だったと明…",
+      "pub_date": "2026-10-27T21:45:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66339",
+      "description": "イスラエルの総選挙の投票が27日、始まりました。 ネタニヤフ首相は3年前、イスラム組織ハマスの奇襲攻撃を防げなかった責任を野党陣営から追及され苦戦を強いられていて、中東情勢に大きな影響を与えてきたネ…",
+      "pub_date": "2026-10-28T00:34:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヨルダン“シリアのIS拠点を空爆”民間犠牲者も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66713",
+      "description": "中東のヨルダンでキリスト教の教会で起きた銃の乱射事件を受けてヨルダンは26日、事件に関与したとして隣国シリアにある過激派組織IS＝イスラミックステートの拠点を空爆し、過激派メンバー20人以上を殺害した…",
+      "pub_date": "2026-10-28T02:37:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "安保3文書の有識者会議“増税も選択肢として排除せず”の意見",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66665",
+      "description": "安全保障関連の3文書の改定に向けた政府の有識者会議が開かれ、複数の出席者が防衛費について十分な水準を確保していく必要があると主張しました。 また、歳出の見直しなどを行った上で財源が不足する場合は、増…",
+      "pub_date": "2026-10-27T22:05:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "英基地テロ計画　外国情報機関支援の罪で2人起訴",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66717",
+      "description": "イギリスの空軍基地の近くでテロの計画があったとされる事件で、検察当局はロンドン在住の男2人を外国の情報機関を支援した罪などで起訴しました。 警察はイランとのつながりを指摘しています。",
+      "pub_date": "2026-10-28T03:54:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日商の小林会頭がインド訪問　中小企業の進出を後押し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66715",
+      "description": "経済成長が続くインドに中小企業が多く加盟する日本商工会議所の代表団が訪れ、小林会頭は人口14億のインド市場への、中小企業の進出を後押ししていく姿勢を強調しました。",
+      "pub_date": "2026-10-28T03:59:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+      "description": "GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。 会社は不正アクセスに関与した人物の特定に…",
+      "pub_date": "2026-10-28T05:07:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "西高東低の冬型の気圧配置で風強まる 北日本で暴風や高波警戒",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66726",
+      "description": "冬型の気圧配置の影響で全国的に風が強まり、北日本では非常に強い風が吹いていて、気象庁は暴風や高波に警戒するよう呼びかけています。 札幌市や青森市などでは初雪を観測したほか、全国的に27日よりも気温が低…",
+      "pub_date": "2026-10-28T10:33:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フラビオ・ボルソナロ氏 ブラジル出国し米到着か 複数メディア",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66719",
+      "description": "ブラジルの大統領選挙の決選投票で敗れた右派のフラビオ・ボルソナロ上院議員について、複数の地元メディアは27日、ブラジルを出国し、アメリカに到着したと伝えました。",
+      "pub_date": "2026-10-28T10:11:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "定数31議席削減案 各党が賛否表明へ 国民 総合的に判断へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66708",
+      "description": "衆議院議員の定数削減をめぐり、自民党の実務者が示した比例代表で31議席を削減するなどとした案について与野党は28日の協議で賛否を表明する見通しです。 国民民主党内からはこれまで求めてきた選挙制度の見…",
+      "pub_date": "2026-10-28T05:09:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山梨の女性死亡事件　台湾で夫を拘束　高額保険か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66734",
+      "description": "山梨県でツアーに参加していた台湾出身の女性が刃物で刺され死亡した事件で、台湾の当局は女性の夫を拘束し、女性と偽装結婚して高額の保険をかけていた疑いがあるとして殺人などの容疑で調べています。",
+      "pub_date": "2026-10-28T07:15:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィンランドとノルウェーの首脳がプーチン大統領と電話会談",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66723",
+      "description": "北欧のフィンランドとノルウェーの首脳がロシアのプーチン大統領と電話で会談し、ロシアとウクライナの和平案に関する協議が11月に行われる見通しとなったことを踏まえ、戦闘の終結を求めました。",
+      "pub_date": "2026-10-28T06:58:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR京浜東北線 全線で運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66737",
+      "description": "JR京浜東北線は、東京・北区の田端駅と上中里駅の間で付近の木が架線に倒れかかった影響で、28日午前7時ごろから運転を見合わせていましたが、午前9時10分ごろ全線で運転を再開しました。",
+      "pub_date": "2026-10-28T09:32:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イスラエル総選挙開票始まる“与野党陣営 獲得議席きっ抗か”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66728",
+      "description": "イスラエルの総選挙は日本時間の28日午前5時から開票が始まり、イスラエルメディアは出口調査をもとに各党の予測獲得議席を一斉に伝えました。 それによりますとネタニヤフ首相が率いる与党陣営は過半数を割り…",
+      "pub_date": "2026-10-28T08:21:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "副首都 要件満たせば4道府県指定",
+      "link": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T21:56:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "農相の関連団体 計85万円の不記載",
+      "link": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T22:26:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO不正アクセス 警視庁が捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T23:14:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "25歳店長自殺 スマホに残した動画",
+      "link": "https://news.yahoo.co.jp/pickup/6600348?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T22:17:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA神里が負傷 担架で運ばれる",
+      "link": "https://news.yahoo.co.jp/pickup/6600344?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T21:45:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SBがサヨナラ勝ち 日本一へ王手",
+      "link": "https://news.yahoo.co.jp/pickup/6600345?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T21:30:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車横転し死亡 定員乗車に潜む危険",
+      "link": "https://news.yahoo.co.jp/pickup/6600347?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T22:22:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イオン熊本 一部再開意向を伝える",
+      "link": "https://news.yahoo.co.jp/pickup/6600353?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T23:36:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA神里 松葉づえで球場を後に",
+      "link": "https://news.yahoo.co.jp/pickup/6600354?source=rss",
+      "description": "",
+      "pub_date": "2026-10-27T23:51:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "安保3文書で「拒否力」防衛の柱に",
+      "link": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T07:04:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原付の男性死亡 高速道で車と衝突",
+      "link": "https://news.yahoo.co.jp/pickup/6600355?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T06:09:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ビルの窓の清掃中に転落か 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600362?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T07:14:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA監督「まだ終わっていない」",
+      "link": "https://news.yahoo.co.jp/pickup/6600360?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T06:53:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "草間リチャード舞台復帰 頭下げる",
+      "link": "https://news.yahoo.co.jp/pickup/6600359?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T07:22:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イスラエル総選挙 連立協議難航か",
+      "link": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T07:54:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO攻撃 被害者は「恐怖しか」",
+      "link": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T07:40:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "勾留の男性死亡 遺族が都など提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6600365?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T07:52:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "橋上秀樹氏がG残留 フロント入り",
+      "link": "https://news.yahoo.co.jp/pickup/6600369?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T08:15:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバー攻撃 サイト経由型が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T08:36:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ボルソナロ氏亡命か 米認める方針",
+      "link": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T08:16:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "線路を車走行 電車衝突し女性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600378?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T09:02:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "遺跡発掘中 土砂に埋もれ女性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600373?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T08:27:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英4部クラブ金星 アーセナル撃破",
+      "link": "https://news.yahoo.co.jp/pickup/6600380?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T09:23:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "おかやまはじめ「年の差婚」発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600374?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T08:40:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自民 衆院比例で「統一名簿」提案",
+      "link": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T09:09:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領「AI」名称禁止する方針",
+      "link": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T08:49:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報WS ブルワーズ勝てば世界一",
+      "link": "https://news.yahoo.co.jp/pickup/6600388?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T10:20:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大金星 英4部がアーセナルを撃破",
+      "link": "https://news.yahoo.co.jp/pickup/6600383?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T09:33:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米とキューバ 国連で怒声の応酬",
+      "link": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T09:45:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "auメール障害 全国で利用しづらく",
+      "link": "https://news.yahoo.co.jp/pickup/6600391?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T11:04:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木刀で夫を十数回殴打疑い 女逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600393?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T11:18:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドラフト117番目に指名 涙の18歳",
+      "link": "https://news.yahoo.co.jp/pickup/6600389?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T10:35:45+09:00"
+    }
+  ]
+}
