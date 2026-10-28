@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "matched_at": "2026-10-28T11:45:50.927371+09:00",
+  "matched_at": "2026-10-28T21:46:15.124347+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -30,6 +30,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de66726",
+          "description": "冬型の気圧配置と上空の寒気の影響で北日本を中心に雪が降り、札幌市や青森市などで初雪が観測されました。 各地で風も強まり、気象庁は午前11時に東京と近畿で「木枯らし1号が吹いた」と発表しました。 北日本…",
+          "pub_date": "2026-10-28T12:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東京・近畿で木枯らし1号 気象庁",
+          "link": "https://news.yahoo.co.jp/pickup/6600406?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T12:43:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "熊本地震3か月 住まいの確保と在宅避難者への継続支援が課題",
           "link": "https://news.web.nhk/newsweb/na/nd-20261028de66706",
           "description": "ことし7月の熊本地震から28日で3か月です。 被災地では避難生活が長期化し、依然として1000人余りが避難所に身を寄せているほか、壊れた自宅で生活をおくる人も数多くいます。 これから冬を迎えるため…",
@@ -41,6 +61,146 @@
           "link": "https://news.yahoo.co.jp/pickup/6600367?source=rss",
           "description": "",
           "pub_date": "2026-10-28T08:03:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMO“個人情報が掲載されたサイトのドメイン停止を確認”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de66765",
+          "description": "GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認したと発表しました。会社は、27日…",
+          "pub_date": "2026-10-28T20:59:49+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMOを攻撃した集団のサイト停止",
+          "link": "https://news.yahoo.co.jp/pickup/6600397?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T11:34:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "KDDI メール障害が復旧 不正アクセスは現時点で確認されず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de66791",
+          "description": "KDDIは展開する「au」や「UQモバイル」で、28日午前6時ごろから、メールのサービスが利用できなかったり、利用しづらくなったりする障害が発生していましたが、午後1時40分に復旧したということです。",
+          "pub_date": "2026-10-28T14:47:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "KDDIメールサービス通信障害 復旧",
+          "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T15:32:56+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "衆院定数31削減案 維新 国民が賛成 自民“3党で法案作成を”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de67035",
+          "description": "衆議院議員の定数削減をめぐる与野党の協議が行われ、自民党の実務者が示した比例代表で31議席を削減するなどとした案をもとに検討を進めていくことに、日本維新の会と国民民主党が賛成する意向を表明しました。 …",
+          "pub_date": "2026-10-28T18:19:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "衆院比例定数 31減案で自維国合意",
+          "link": "https://news.yahoo.co.jp/pickup/6600428?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T14:25:41+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de67231",
+          "description": "日本サッカー協会は、元日本代表監督の岡田武史副会長が、今回のワールドカップをめぐる一連の対応について、自身の信条との間に大きな隔たりがあるなどとして、副会長を辞任したと発表しました。",
+          "pub_date": "2026-10-28T18:15:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "JFA 岡田武史副会長の辞任を発表",
+          "link": "https://news.yahoo.co.jp/pickup/6600446?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T17:32:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【速報中】ソフトバンクが2年連続の日本一 DeNAに4連勝",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de67008",
+          "description": "プロ野球、日本シリーズの第4戦が福岡市で行われ、ソフトバンクがDeNAに4対2で勝って対戦成績を4勝0敗とし、2年連続の日本一に輝きました。ソフトバンクの日本一は、前身の南海、ダイエー時代を含めて13…",
+          "pub_date": "2026-10-28T20:41:42+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ソフトバンクが2年連続日本一",
+          "link": "https://news.yahoo.co.jp/pickup/6600472?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T20:43:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "スペイン 列車どうしの衝突事故 これまでに30人死亡 地元当局",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de67291",
+          "description": "スペインで28日、首都マドリードと南部の地域を結ぶ高速鉄道の路線で列車どうしが衝突する事故があり、ロイター通信はこれまでに30人が死亡したと伝えています。",
+          "pub_date": "2026-10-28T20:53:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スペインで列車衝突 30人死亡か",
+          "link": "https://news.yahoo.co.jp/pickup/6600470?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T20:23:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プルデンシャル生命 営業自粛の期間中も金銭詐取が発覚",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de67347",
+          "description": "プルデンシャル生命で社員が顧客から巨額の金銭をだまし取るなど不適切な金銭の受領が相次いだ問題で、会社は問題の発覚を受けて新規の保険販売を自粛したことし2月以降も営業社員が顧客から金銭を受け取っていたケ…",
+          "pub_date": "2026-10-28T20:58:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "プルデンシャル 新たな不正事案",
+          "link": "https://news.yahoo.co.jp/pickup/6600452?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T18:07:38+09:00"
         }
       }
     }
@@ -104,17 +264,10 @@
     },
     {
       "source": "NHK",
-      "title": "西高東低の冬型の気圧配置で風強まる 北日本で暴風や高波警戒",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66726",
-      "description": "冬型の気圧配置の影響で全国的に風が強まり、北日本では非常に強い風が吹いていて、気象庁は暴風や高波に警戒するよう呼びかけています。 札幌市や青森市などでは初雪を観測したほか、全国的に27日よりも気温が低…",
-      "pub_date": "2026-10-28T10:33:53+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "フラビオ・ボルソナロ氏 ブラジル出国し米到着か 複数メディア",
       "link": "https://news.web.nhk/newsweb/na/nd-20261028de66719",
       "description": "ブラジルの大統領選挙の決選投票で敗れた右派のフラビオ・ボルソナロ上院議員について、複数の地元メディアは27日、ブラジルを出国し、アメリカに到着したと伝えました。",
-      "pub_date": "2026-10-28T10:11:32+09:00"
+      "pub_date": "2026-10-28T10:11:00+09:00"
     },
     {
       "source": "NHK",
@@ -146,10 +299,122 @@
     },
     {
       "source": "NHK",
-      "title": "イスラエル総選挙開票始まる“与野党陣営 獲得議席きっ抗か”",
+      "title": "イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”",
       "link": "https://news.web.nhk/newsweb/na/nd-20261028de66728",
-      "description": "イスラエルの総選挙は日本時間の28日午前5時から開票が始まり、イスラエルメディアは出口調査をもとに各党の予測獲得議席を一斉に伝えました。 それによりますとネタニヤフ首相が率いる与党陣営は過半数を割り…",
-      "pub_date": "2026-10-28T08:21:00+09:00"
+      "description": "イスラエルの総選挙は開票が続いていて、地元メディアが開票状況などをもとに伝えた予測獲得議席はネタニヤフ首相が率いる与党陣営が過半数を割り込むものの野党陣営ときっ抗しています。 与野党双方の陣営は次の連…",
+      "pub_date": "2026-10-28T12:37:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「高度専門職」で中国人を不正入国させたか 会社役員ら逮捕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66764",
+      "description": "うその内容で「高度専門職」と呼ばれる在留資格の申請を行い、中国人を不正に入国させたとして、39歳の会社役員らが逮捕されました。 警視庁は日本への移住を希望する中国人富裕層を中心に、これまでにおよそ40…",
+      "pub_date": "2026-10-28T11:58:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 “重要州”テキサスで支持訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66787",
+      "description": "アメリカの中間選挙が来週に迫るなか、トランプ大統領は上院選挙で接戦が伝えられている南部テキサス州で集会を開き、民主党の新星として注目される候補を「共産主義者」と呼んで批判しました。 長年、共和党の牙城…",
+      "pub_date": "2026-10-28T11:48:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "衆院定数削減 国民 31議席削減案に賛成方針を決定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66792",
+      "description": "衆議院議員の定数削減をめぐり、国民民主党は、自民党の実務者が示した比例代表で31議席を削減するなどとした案について、党が主張した削減幅とは異なるものの、あわせて求めてきた選挙制度の見直しが追加で盛り込…",
+      "pub_date": "2026-10-28T12:29:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "車中泊など“見えない避難者” 人流や赤外線活用し把握へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66761",
+      "description": "ことし7月の熊本地震では、車中泊など公的な避難所以外で避難生活を送るいわゆる“見えない避難者”も多く、実態の把握が課題となりました。こうした中、デジタル技術を活用して、いち早い支援につなげようという研…",
+      "pub_date": "2026-10-28T13:37:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67023",
+      "description": "家庭用ゲームなどを展開する「バンダイナムコエンターテインメント」は、メール配信を委託している「ユミルリンク」が不正アクセスを受けた影響で、ポイントサービスに会員登録していた顧客のメールアドレスなど34…",
+      "pub_date": "2026-10-28T14:46:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“納屋”で生活を続ける女性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de66757",
+      "description": "「うちだけじゃないので。知り合いも倉庫で暮らしているからですね」 そう話してくれたのは、全壊した自宅の横にある「納屋」で生活を続けている女性です。 今、被災地では、さまざまな事情を抱え、壊れた自宅…",
+      "pub_date": "2026-10-28T16:12:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "小泉防衛相 米国防長官に3文書改定説明「拒否する防衛力」も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67044",
+      "description": "小泉防衛大臣は、訪問先のフィリピンでアメリカのヘグセス国防長官と会談し、安全保障関連の3文書の改定に向けた取り組みを説明し、日本への侵攻を阻む能力を持つことによって相手に目的を達成させない「拒否する防…",
+      "pub_date": "2026-10-28T15:34:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山梨で刺され死亡の女性 “日本渡航前に身の危険感じていた”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67089",
+      "description": "山梨県でツアーに参加していた台湾出身の女性が刃物で刺され死亡した事件で、台湾のメディアは、女性が夫に高額の保険をかけられるなどしたことから、日本に渡航する前から身の危険を感じていたと伝えました。保険金…",
+      "pub_date": "2026-10-28T16:23:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67114",
+      "description": "大手コーヒーチェーンの「ドトールコーヒー」は、会社のシステムが不正アクセスを受け、従業員と退職者の個人情報951件が漏えいした可能性があると明らかにしました。 漏えいの可能性があるのは都内の4店舗で…",
+      "pub_date": "2026-10-28T16:51:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "武部農相「事実関係確認中」 選挙運動費“二重計上”報道に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67099",
+      "description": "武部農林水産大臣は、過去の衆議院選挙に要した選挙運動の費用を、陣営と後援会の収支報告書に二重に計上した疑いがあるなどと一部で報じられたことについて、28日の国会で「事実関係の詳細を確認中だ」と述べた上…",
+      "pub_date": "2026-10-28T16:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「花キューピット」会員情報漏えいの可能性 最大423万件余",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67215",
+      "description": "花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。",
+      "pub_date": "2026-10-28T17:54:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67238",
+      "description": "ディスカウントストアの「ドン・キホーテ」やスーパーの「長崎屋」などは、商品の修理を依頼している会社に不正アクセスがあり、顧客の氏名などの個人情報が外部に漏えいした可能性があると発表しました。",
+      "pub_date": "2026-10-28T18:48:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "恋愛装い男性から多額詐欺事件で再逮捕 被害総額は1億円か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67251",
+      "description": "60代の男性に恋愛感情を抱かせて多額の現金をだまし取ったとして、先月逮捕された36歳の女の容疑者が別の男性からも現金をだまし取っていたとして再逮捕されました。警視庁は、SNS上で「頂き女子りりちゃん」…",
+      "pub_date": "2026-10-28T18:29:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "予防的メンテナンスで連絡アプリ使えず 対応に追われる小学校",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67164",
+      "description": "不正アクセスに備えて企業では、予防的なメンテナンスを行う動きも出ています。こうしたメンテナンスの影響で、都内の小学校では、保護者とのやりとりを行うためのサービスが使用できず、対応に追われています。",
+      "pub_date": "2026-10-28T19:08:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本航空 予約システムに不正アクセス 9万人超の情報漏えいか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67365",
+      "description": "日本航空は、航空券の予約や発券などを行うシステムが不正アクセスを受け、およそ9万2000人の乗客の氏名や予約に関する情報が漏えいしたおそれがあると発表しました。このうちおよそ2000人については電話番…",
+      "pub_date": "2026-10-28T20:12:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北日本で強風 季節が進み初雪も あす朝は各地で冷え込み",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67321",
+      "description": "冬型の気圧配置と上空の寒気の影響で28日は札幌市や青森市などで初雪となったほか、北日本で非常に強い風が吹きました。29日朝は各地で冷え込み、最低気温が0度を下回るところもある見込みで、路面の凍結などに…",
+      "pub_date": "2026-10-28T20:50:26+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -374,6 +639,286 @@
       "link": "https://news.yahoo.co.jp/pickup/6600389?source=rss",
       "description": "",
       "pub_date": "2026-10-28T10:35:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「東京アプリ」巡り 13人が都提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6600408?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T12:01:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "1600日超通う客も 名古屋発・大黒",
+      "link": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T11:59:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山本里菜アナ TBS退社のきっかけ",
+      "link": "https://news.yahoo.co.jp/pickup/6600394?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T11:27:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪維新代表 無投票で吉村氏3選",
+      "link": "https://news.yahoo.co.jp/pickup/6600400?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T11:47:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NHKがIP活用などに注力へ 中計案",
+      "link": "https://news.yahoo.co.jp/pickup/6600409?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T12:51:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "増える正社員の副業 実状とリスク",
+      "link": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T13:11:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報ワールドシリーズ 延長戦突入",
+      "link": "https://news.yahoo.co.jp/pickup/6600412?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T12:34:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "俳優・河内大和 むしろ「早咲き」",
+      "link": "https://news.yahoo.co.jp/pickup/6600411?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T12:30:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ボルソナロ氏の入国 米が許可",
+      "link": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T12:19:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "沖縄遺体発見1週間 住民「怖い」",
+      "link": "https://news.yahoo.co.jp/pickup/6600423?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T14:04:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国 シャインマスカット価格急落",
+      "link": "https://news.yahoo.co.jp/pickup/6600418?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T13:59:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例 放鳥ツルが単独で「越夏」",
+      "link": "https://news.yahoo.co.jp/pickup/6600416?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T13:46:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神ドラ3常深 珍しい名字に悩み",
+      "link": "https://news.yahoo.co.jp/pickup/6600422?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T13:58:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "レイズ 延長12回逆転サヨナラ勝ち",
+      "link": "https://news.yahoo.co.jp/pickup/6600421?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T13:39:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不正アクセス GMOの急成長に影",
+      "link": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T10:33:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ヒョウ襲撃 オランダで飼育員死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600426?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T14:27:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMOへの「劇場型」攻撃 狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T14:14:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自ら車のタイヤ交換 走行中に脱落",
+      "link": "https://news.yahoo.co.jp/pickup/6600433?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T15:58:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生田斗真 ディズニー新作で声優に",
+      "link": "https://news.yahoo.co.jp/pickup/6600430?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T15:33:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "青森で初雪 八戸市民「早すぎ」",
+      "link": "https://news.yahoo.co.jp/pickup/6600436?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T16:32:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "呼吸器具抜き妻を殺害疑い 夫逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600442?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T16:55:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "つるされた鉄の棒が直撃 意識不明",
+      "link": "https://news.yahoo.co.jp/pickup/6600437?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T16:27:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "キッチンタイマーを回収 TDR運営",
+      "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T17:11:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Bプレミア 大阪が初の降格決定",
+      "link": "https://news.yahoo.co.jp/pickup/6600443?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T17:20:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本ハム 森本稀哲氏が2軍監督に",
+      "link": "https://news.yahoo.co.jp/pickup/6600441?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T16:41:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日米防衛相 中国抑止へ協力で一致",
+      "link": "https://news.yahoo.co.jp/pickup/6600438?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T16:41:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本で被災のサウナ 救った常連客",
+      "link": "https://news.yahoo.co.jp/pickup/6600456?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T18:04:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "利根川で14歳流され行方不明 群馬",
+      "link": "https://news.yahoo.co.jp/pickup/6600459?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T18:25:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本S速報 ソフトバンクvs.DeNA",
+      "link": "https://news.yahoo.co.jp/pickup/6600432?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T17:56:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岡田武史氏 JFA副会長を電撃辞任",
+      "link": "https://news.yahoo.co.jp/pickup/6600455?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T17:54:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国紙のVIVANT批判 TBSが言及",
+      "link": "https://news.yahoo.co.jp/pickup/6600451?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T18:02:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "29日朝 各地で今季一番の冷え込み",
+      "link": "https://news.yahoo.co.jp/pickup/6600461?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T18:51:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スペインで列車衝突 10人死亡か",
+      "link": "https://news.yahoo.co.jp/pickup/6600464?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T19:20:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "水卜アナ 気象予報士試験に合格",
+      "link": "https://news.yahoo.co.jp/pickup/6600462?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T19:02:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性殺害疑い 死亡の男を書類送検",
+      "link": "https://news.yahoo.co.jp/pickup/6600450?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T18:01:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小型恐竜の骨格標本 75億円で落札",
+      "link": "https://news.yahoo.co.jp/pickup/6600458?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T18:15:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本S速報 SBがDeNAを2点リード",
+      "link": "https://news.yahoo.co.jp/pickup/6600469?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T20:11:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SB牧原とDeNA牧 交錯し球場騒然",
+      "link": "https://news.yahoo.co.jp/pickup/6600468?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T20:07:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「千鳥饅頭」千鳥屋本家が破産へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T21:24:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本田紗来 姉・望結と同居で安心感",
+      "link": "https://news.yahoo.co.jp/pickup/6600449?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T17:53:01+09:00"
     }
   ]
 }
