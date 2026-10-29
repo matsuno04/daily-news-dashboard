@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "matched_at": "2026-10-29T11:46:11.743434+09:00",
+  "matched_at": "2026-10-29T21:46:20.818681+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -50,10 +50,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "スペイン高速鉄道衝突事故“乗客名簿に日本人2人か”外務省",
+          "title": "スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261029de67453",
-          "description": "スペイン中部で28日、高速鉄道の列車どうしが衝突し60人以上が死亡した事故で、先行する列車が停止していたところ後続の列車が進入して追突していたことがわかり、当局は詳しい状況を調べています。 また、外…",
-          "pub_date": "2026-10-29T11:14:22+09:00"
+          "description": "スペイン中部で28日、高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、日本の外務省によりますと、スペイン政府から乗客名簿に日本人2人の名前が記載されていたと連絡があったということです。政…",
+          "pub_date": "2026-10-29T19:26:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -90,10 +90,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "各地で今季一番の冷え込み 路面凍結などに注意を",
+          "title": "今季いちばんの冷え込み 肌寒い一日に 31日にかけ大気不安定",
           "link": "https://news.web.nhk/newsweb/na/nd-20261029de67465",
-          "description": "上空の寒気などの影響で29日は各地で今シーズン一番の冷え込みとなり氷点下になっているところもあります。 北日本ではところによって雪が積もっていて、路面の凍結などに注意してください。",
-          "pub_date": "2026-10-29T06:47:00+09:00"
+          "description": "29日朝は広い範囲で今シーズンいちばんの冷え込みとなり、日中も気温があまり上がらず肌寒い一日となりました。一方、これから31日にかけては、大気の状態が不安定になる見込みで、気象庁は急な強い雨や落雷、竜…",
+          "pub_date": "2026-10-29T18:50:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -101,6 +101,246 @@
           "link": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
           "description": "",
           "pub_date": "2026-10-29T08:20:43+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67553",
+          "description": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、会社は、「懸賞金」を設けて行っている情報提供の呼びかけや社内のホワイトハッカーのチームの…",
+          "pub_date": "2026-10-29T19:14:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMO社長「犯人特定の有力情報」",
+          "link": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T12:58:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "自民 維新 国民 衆議院の定数 比例31議席削減で正式合意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67540",
+          "description": "衆議院議員の定数削減をめぐり、自民党、日本維新の会、国民民主党の3党の幹事長が会談し、比例代表で31議席を削減することなどで正式に合意しました。今の国会に共同で法案を提出して成立を期すとしています。",
+          "pub_date": "2026-10-29T12:35:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "衆院比例議席減 自維国が正式合意",
+          "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T12:01:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大リーグ ブルワーズがレイズに勝利 ワールドシリーズ初制覇",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67619",
+          "description": "大リーグのワールドシリーズは28日、第5戦が行われ、ブルワーズが4対1でレイズに勝って対戦成績を4勝1敗とし、ワールドシリーズ初制覇を果たしました。",
+          "pub_date": "2026-10-29T12:21:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ブルワーズ 球団史上初のWS制覇",
+          "link": "https://news.yahoo.co.jp/pickup/6600528?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T12:21:10+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北朝鮮が弾道ミサイルの可能性あるもの発射 海保“被害なし”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67629",
+          "description": "防衛省は29日昼過ぎ、北朝鮮から弾道ミサイルの可能性のあるものが発射されたと発表しました。海上保安庁によりますとこれまでのところ船舶への被害は確認されていないということです。",
+          "pub_date": "2026-10-29T13:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北発射のミサイルEEZ外に落下か",
+          "link": "https://news.yahoo.co.jp/pickup/6600542?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T13:29:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "横浜 強盗致死事件など 実行役の2人に無期懲役求刑",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67598",
+          "description": "おととし、闇バイトを実行役に首都圏で相次いだ強盗事件のうち横浜市の住宅で75歳の男性が死亡した事件などに実行役として関わったとして、強盗致死などの罪に問われている20代の被告2人の裁判で、検察は「残虐…",
+          "pub_date": "2026-10-29T14:07:06+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首都圏強盗 実行役2人に無期求刑",
+          "link": "https://news.yahoo.co.jp/pickup/6600564?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T16:47:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ピアニスト反田恭平被告 道交法違反で執行猶予付き有罪判決",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67762",
+          "description": "ピアニストの反田恭平被告が、首都高速道路で制限速度を84キロ上回る時速144キロで車を運転したとして道路交通法違反の罪に問われた裁判で、東京地方裁判所は執行猶予の付いた有罪判決を言い渡しました。",
+          "pub_date": "2026-10-29T14:52:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ピアニスト反田恭平被告 有罪判決",
+          "link": "https://news.yahoo.co.jp/pickup/6600546?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T13:52:38+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67786",
+          "description": "芥川賞を受賞した作家の李琴峰さんが、甲府市の市議会議員にSNSの投稿でトランスジェンダーであることを暴露されたと訴えた裁判で、東京地方裁判所は「プライバシーを違法に侵害した」として、議員に対して110…",
+          "pub_date": "2026-10-29T15:21:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "性別変更を暴露 市議に賠償命令",
+          "link": "https://news.yahoo.co.jp/pickup/6600525?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T12:24:26+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "愛知 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67843",
+          "description": "29日午後、愛知県安城市の水道管の工事現場で、作業員2人が土砂に埋まり、これまでに1人が救出されましたが、搬送先の病院で死亡が確認されました。 消防などは、もう1人の救助活動を続けています。",
+          "pub_date": "2026-10-29T18:17:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "救助向かい土砂に埋まる 男性死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6600579?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T17:54:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "滋賀銀行と池田泉州HD 経営統合へ合意 関西最大の地銀G誕生へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67884",
+          "description": "滋賀県の地方銀行、滋賀銀行と大阪市の池田泉州銀行の持ち株会社は、経営統合に向けた協議を進めることで基本合意したと発表しました。統合が実現すれば、総資産が14兆円を超える関西最大の地銀グループが誕生する…",
+          "pub_date": "2026-10-29T17:36:15+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "滋賀銀・池田泉州HD 統合へ合意",
+          "link": "https://news.yahoo.co.jp/pickup/6600584?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T18:21:04+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0015",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "電気料金 11月使用分が大手7社で過去最高を更新",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67703",
+          "description": "11月、使用する分の電気料金は、燃料費の上昇を反映して大手電力7社で値上がりし、2か月連続で過去最高を更新しました。",
+          "pub_date": "2026-10-29T18:30:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "11月電気代 大手7社で過去最高値",
+          "link": "https://news.yahoo.co.jp/pickup/6600589?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T19:04:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0016",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "松江 3校の児童ら300人近く体調不良 同じセンター提供の給食後",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de68105",
+          "description": "29日、松江市の3つの小学校で提供された給食を食べた児童など300人近くが体調不良を訴え、このうち、10人が病院に搬送されました。 松江市教育委員会によりますと、同じ給食センターから提供されたというこ…",
+          "pub_date": "2026-10-29T21:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "3小学校293人 給食後嘔吐など発症",
+          "link": "https://news.yahoo.co.jp/pickup/6600605?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T21:16:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0017",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロ野球 広島元投手 池谷公二郎さん死去 広島の黄金期支える",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67535",
+          "description": "プロ野球、広島でピッチャーとして活躍し、1975年に18勝を挙げてリーグ初優勝に貢献するなど、黄金期を支えた池谷公二郎さんが亡くなりました。74歳でした。",
+          "pub_date": "2026-10-29T17:23:35+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "広島初V貢献 池谷公二郎さん死去",
+          "link": "https://news.yahoo.co.jp/pickup/6600527?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T12:07:35+09:00"
         }
       }
     }
@@ -182,6 +422,83 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261029de67449",
       "description": "ブラジルの大統領選挙で敗れたフラビオ・ボルソナロ上院議員は28日、アメリカに到着したあと声明を発表し、政治的迫害から逃れるため国を離れたと主張した上で、政権と対じしていく考えを示しました。",
       "pub_date": "2026-10-29T11:08:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "欧州天然ガス先物価格 2022年以来の高値 冬前に供給懸念強まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67466",
+      "description": "ヨーロッパのエネルギー市場では、中東情勢を受けた天然ガスの安定供給への懸念が冬を前に強まり、先物価格がロシアによるウクライナ侵攻後の2022年以来となる高い水準まで上昇しました。",
+      "pub_date": "2026-10-29T08:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67594",
+      "description": "クレジットカード会社のライフカードは、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けた影響で、顧客の氏名やメールアドレスなど33万9000件あまりが漏えいした可能性…",
+      "pub_date": "2026-10-29T12:30:58+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "西武有楽町線 運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67471",
+      "description": "西武有楽町線は、西武池袋線で起きた人身事故の影響で運転を見合わせていましたが、先ほど午後1時10分ごろ、運転を再開しました。",
+      "pub_date": "2026-10-29T13:27:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 非上場株式の新評価方法“容認できず”緊急決議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67627",
+      "description": "国税庁が示した非上場企業の株式の新たな評価方法の案について、自民党の「日本成長戦略本部」は企業の税負担の増加が懸念される上、国内投資などの抑制も招き容認できないとして、十分な時間をかけて議論をするよう…",
+      "pub_date": "2026-10-29T13:56:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "クレジットカードの情報2800人分漏えいか フィギュア販売企業",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67768",
+      "description": "フィギュアなどの販売を手がける「グッドスマイルカンパニー」は、自社の通販サイトに不正なアクセスがあり、利用者のクレジットカードの名義人の名前や番号すべて、それにセキュリティコードなどが2800人分、漏…",
+      "pub_date": "2026-10-29T15:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "松屋フーズ 不正アクセス検知 HPとアプリを停止",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67623",
+      "description": "大手牛丼チェーンの「松屋フーズホールディングス」は、28日夜9時ごろ不正アクセスが検知されたため、ホームページとアプリのサービスを停止し、現在利用できなくなっています。 テイクアウトの事前予約やクー…",
+      "pub_date": "2026-10-29T14:33:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67852",
+      "description": "中部電力は、浜岡原子力発電所の3、4号機の再稼働に向けた国の審査で地震の想定に関するデータを改ざんしていた問題に関連し、ことし4月から先月までの中間決算で、3700億円あまりの特別損失を計上したと発表…",
+      "pub_date": "2026-10-29T21:29:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "参院自民 消費税減税法案“特別委設置なら自民が委員長を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67850",
+      "description": "食料品の消費税減税関連法案の参議院での審議をめぐり、自民党は立憲民主党に対し、野党側が求める特別委員会の設置に応じる条件として、自民党の議員が委員長を務めることなどを提示し、引き続き協議することになり…",
+      "pub_date": "2026-10-29T16:28:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "衆院財務金融委 消費税減税法案 来月4日も質疑で与野党合意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67854",
+      "description": "食料品の消費税減税関連法案をめぐり、衆議院財務金融委員会は理事懇談会を開き、30日に続いて、来月4日も質疑を行うことで与野党が合意しました。一方、野党側が高市総理大臣の出席を重ねて求めたのに対して与党…",
+      "pub_date": "2026-10-29T16:50:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙 激戦オハイオ州 バンス副大統領の地元で接戦",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67800",
+      "description": "アメリカの中間選挙が来週に迫るなか、各地を遊説しているトランプ大統領は28日、中西部のオハイオ州で選挙集会に参加しました。",
+      "pub_date": "2026-10-29T19:08:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "メール配信会社「アララ」 不正アクセスで300万件のメアド流出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67976",
+      "description": "企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。 会社では現在、メールの配信を停止し調査を進め…",
+      "pub_date": "2026-10-29T17:52:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -378,6 +695,216 @@
       "link": "https://news.yahoo.co.jp/pickup/6600521?source=rss",
       "description": "",
       "pub_date": "2026-10-29T10:59:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "竹中工務店元社員 起訴内容認める",
+      "link": "https://news.yahoo.co.jp/pickup/6600523?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T11:25:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "餃子の王将社長射殺 検察側が控訴",
+      "link": "https://news.yahoo.co.jp/pickup/6600537?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T13:10:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "杉谷拳士氏 米エンタメ野球選手に",
+      "link": "https://news.yahoo.co.jp/pickup/6600530?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T12:53:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「VIVANT」巡りサンリオ中国謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600529?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T12:34:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原口一博元議員に賠償命令 地裁",
+      "link": "https://news.yahoo.co.jp/pickup/6600547?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T14:07:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "浅田真央さん りくりゅう婚約祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6600544?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T13:51:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMOサイバー攻撃 捜査の焦点は",
+      "link": "https://news.yahoo.co.jp/pickup/6600531?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T13:56:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "銀座の異臭騒ぎ 傷害疑いで男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600551?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T14:52:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ANA AIRDOなど完全子会社化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600561?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T16:08:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元検事正に保釈許可 性的暴行事件",
+      "link": "https://news.yahoo.co.jp/pickup/6600562?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T16:18:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新型パジェロ予約受注 年度目標超",
+      "link": "https://news.yahoo.co.jp/pickup/6600522?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T11:18:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ふぉ〜ゆ〜 単独FCの発足を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600563?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T16:25:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元フジ・永島優美アナ 第2子妊娠",
+      "link": "https://news.yahoo.co.jp/pickup/6600558?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T16:03:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スペイン事故 邦人2人連絡つかず",
+      "link": "https://news.yahoo.co.jp/pickup/6600571?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T17:20:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国・尹前大統領に再び死刑求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T16:58:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G橋上氏 松井秀喜新体制にエール",
+      "link": "https://news.yahoo.co.jp/pickup/6600567?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T17:06:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国で日本人女性殺害疑い 男拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T18:04:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本一翌日 SB緒方理貢が戦力外",
+      "link": "https://news.yahoo.co.jp/pickup/6600576?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T17:47:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "上半期世界販売 スズキが国内2位",
+      "link": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T18:21:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "作家の如月美樹さん 今年9月死去",
+      "link": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T18:41:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "死んだ園ライオン 熱中症の可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6600588?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T18:50:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "槙野監督に2試合出場停止と罰金",
+      "link": "https://news.yahoo.co.jp/pickup/6600586?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T18:31:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スペインの列車事故 死者69人に",
+      "link": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T20:03:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中部電 27年3月期の特損3800億円",
+      "link": "https://news.yahoo.co.jp/pickup/6600594?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T19:39:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高校サッカー穴あき誤審 判定覆る",
+      "link": "https://news.yahoo.co.jp/pickup/6600592?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T19:28:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今夏大雨3件は温暖化が影響 分析",
+      "link": "https://news.yahoo.co.jp/pickup/6600581?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T18:13:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "無免許で169人に医療行為 懲役5年",
+      "link": "https://news.yahoo.co.jp/pickup/6600597?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T20:48:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大坂なおみ 世界144位18歳に完敗",
+      "link": "https://news.yahoo.co.jp/pickup/6600575?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T17:42:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天 高卒1年目の大栄を戦力外",
+      "link": "https://news.yahoo.co.jp/pickup/6600596?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T20:36:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Superfly越智志帆 第2子出産報告",
+      "link": "https://news.yahoo.co.jp/pickup/6600600?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T21:02:49+09:00"
     }
   ]
 }
