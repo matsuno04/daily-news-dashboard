@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-29",
+  "matched_at": "2026-10-29T11:46:11.743434+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【地震情報】千葉県北東部で震度5弱 津波の心配なし",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67425",
+          "description": "29日未明、千葉県北東部を震源とする地震が起き、千葉県で震度5弱の揺れを観測しました。気象庁は、揺れの強かった地域では今後1週間ほどは最大震度5弱程度の地震に注意するよう呼びかけています。",
+          "pub_date": "2026-10-29T06:51:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "千葉県で震度5弱 津波の心配なし",
+          "link": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T00:19:26+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "スペイン 列車どうしの衝突事故“これまでに64人死亡”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261028de67291",
+          "description": "スペインで28日、首都マドリードと南部の地域を結ぶ高速鉄道の路線で列車どうしが衝突する事故があり、ロイター通信はこれまでに64人が死亡したと伝えています。現地の日本大使館によりますと、これまでのところ…",
+          "pub_date": "2026-10-28T23:50:06+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スペインで列車衝突 64人死亡か",
+          "link": "https://news.yahoo.co.jp/pickup/6600486?source=rss",
+          "description": "",
+          "pub_date": "2026-10-28T22:57:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "スペイン高速鉄道衝突事故“乗客名簿に日本人2人か”外務省",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67453",
+          "description": "スペイン中部で28日、高速鉄道の列車どうしが衝突し60人以上が死亡した事故で、先行する列車が停止していたところ後続の列車が進入して追突していたことがわかり、当局は詳しい状況を調べています。 また、外…",
+          "pub_date": "2026-10-29T11:14:22+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スペイン事故 乗客名簿に邦人2人",
+          "link": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T10:10:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "FRB 政策金利据え置き 12月会合で追加利上げ踏み切るかが焦点",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67441",
+          "description": "アメリカのFRB＝連邦準備制度理事会は28日まで開いた会合で政策金利を据え置くことを決めました。金融市場では想定どおりだとして次回、12月の会合で追加利上げに踏み切るという見方が多くなっていて、FRB…",
+          "pub_date": "2026-10-29T10:43:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米FRBが政策金利を据え置き",
+          "link": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T09:13:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "各地で今季一番の冷え込み 路面凍結などに注意を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67465",
+          "description": "上空の寒気などの影響で29日は各地で今シーズン一番の冷え込みとなり氷点下になっているところもあります。 北日本ではところによって雪が積もっていて、路面の凍結などに注意してください。",
+          "pub_date": "2026-10-29T06:47:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "多くで今季一冷え込み 東京10℃台",
+          "link": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
+          "description": "",
+          "pub_date": "2026-10-29T08:20:43+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "武部農相 二重計上「担当者の誤解」陳謝も“裏金”否定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028dw67396",
+      "description": "武部農林水産大臣は過去の衆議院選挙で要した選挙運動の費用を陣営と後援会の収支報告書に二重に計上した疑いがあるなどと一部で報じられたことについて、28日、記者団に対し「担当者の誤解と確認不足で重複して記…",
+      "pub_date": "2026-10-28T22:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮IPアドレスから韓国金融機関に接触 440万件以上",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028dw67395",
+      "description": "金融機関などを狙ったサイバー攻撃が相次ぐ韓国で、北朝鮮のIPアドレスからアクセスを試みた形跡が合わせて440万件以上検知されたことが明らかになりました。実際の被害につながったという情報は確認されていま…",
+      "pub_date": "2026-10-28T22:22:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新幹線と活断層の交差 全国79か所 ズレで被害のおそれ 対策を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67015",
+      "description": "ことし7月の熊本地震では、活断層の「ズレ」が地表に現れ、真上にあった九州新幹線の線路などに被害が相次ぎました。復旧工事を終えて、9月に運転を再開しましたが、地震から3か月たった今も、橋桁と橋桁の間には…",
+      "pub_date": "2026-10-28T22:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震】千葉県警“被害情報なし 引き続き情報収集”（0:45)",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67427",
+      "description": "千葉県警察本部によりますと、29日午前0時45分時点で今回の地震による被害の情報は寄せられていないということで、引き続き情報を収集しているということです。",
+      "pub_date": "2026-10-29T01:02:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“高速道 地震による通行止めなし”日本道路交通情報センター",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67430",
+      "description": "日本道路交通情報センターによりますと、これまでのところ、首都圏の高速道路では、この地震で通行止めになった区間はないということです。",
+      "pub_date": "2026-10-29T00:44:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震】茨城 東海第二原発 異常なし 長期間運転停止中",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67433",
+      "description": "日本原子力発電によりますと、震度3の揺れを観測した茨城県東海村にある東海第二原子力発電所は長期間運転を停止していますが、これまでのところ、地震による異常は確認されていないということです。 また、原発…",
+      "pub_date": "2026-10-29T00:49:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261028de67231",
+      "description": "日本サッカー協会は、元日本代表監督の岡田武史副会長が、今回のワールドカップをめぐる一連の対応について、自身の信条との間に大きな隔たりがあるなどとして、副会長を辞任したと発表しました。",
+      "pub_date": "2026-10-29T01:10:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ホンダと日産 EV用バッテリーの協業へ具体的な交渉",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67424",
+      "description": "去年、経営統合の協議を打ち切ったホンダと日産自動車が、EV用のバッテリーをめぐって協業に向けた具体的な交渉を進めていることが明らかになりました。EVの性能のカギを握る中核分野での協業に踏み込み、国内で…",
+      "pub_date": "2026-10-29T01:05:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO 攻撃者に関する情報精査 被害拡大防止で緊急の対応続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67431",
+      "description": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、会社は28日、関係事業者とともにこのサイトを閲覧できないようにする対応をとりました。会社…",
+      "pub_date": "2026-10-29T01:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イスラエル総選挙“首相のSNS投稿が功を奏した”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67458",
+      "description": "イスラエルの総選挙は開票率85％を超え、地元メディアが開票状況などをもとに伝えた政党別の予測獲得議席は、ネタニヤフ首相の右派政党が事前の世論調査の予測を覆し第1党の座を守るとみられています。この要因に…",
+      "pub_date": "2026-10-29T04:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米到着のボルソナロ氏“政治的迫害逃れるため国離れた”と主張",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de67449",
+      "description": "ブラジルの大統領選挙で敗れたフラビオ・ボルソナロ上院議員は28日、アメリカに到着したあと声明を発表し、政治的迫害から逃れるため国を離れたと主張した上で、政権と対じしていく考えを示しました。",
+      "pub_date": "2026-10-29T11:08:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日独首脳会談 経済安保で共同宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6600479?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T22:06:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中道代表 政党交付金の使途を回答",
+      "link": "https://news.yahoo.co.jp/pickup/6600480?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T22:25:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO懸賞金 6hで113件の情報提供",
+      "link": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T22:44:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "古巣撃破のSB山本祐大 本音語る",
+      "link": "https://news.yahoo.co.jp/pickup/6600485?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T22:56:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "痛恨4連敗 DeNA相川監督ぼうぜん",
+      "link": "https://news.yahoo.co.jp/pickup/6600478?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T21:39:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上龍さん死去 番組Pが語る素顔",
+      "link": "https://news.yahoo.co.jp/pickup/6600481?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T22:28:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "検察側が異例の求刑訂正 地検謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600477?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T21:44:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "医療用麻薬紛失と発表 水戸の病院",
+      "link": "https://news.yahoo.co.jp/pickup/6600487?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T23:35:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA球団社長 筒香&牧の去就言及",
+      "link": "https://news.yahoo.co.jp/pickup/6600488?source=rss",
+      "description": "",
+      "pub_date": "2026-10-28T23:44:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO脅迫サイト 国が遮断を要請",
+      "link": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T06:55:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "他県警でも失効免許不正流用 証言",
+      "link": "https://news.yahoo.co.jp/pickup/6600493?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T06:39:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "解体作業中に鉄板が落下 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600496?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T07:18:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人ヘッドCに高橋由伸氏決定",
+      "link": "https://news.yahoo.co.jp/pickup/6600491?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T06:09:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天 小笠原道大氏をコーチ招へい",
+      "link": "https://news.yahoo.co.jp/pickup/6600495?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T07:19:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スペイン 衝突列車に誤った指示か",
+      "link": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T08:03:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA筒香 海外FA権行使を検討",
+      "link": "https://news.yahoo.co.jp/pickup/6600497?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T07:37:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "水卜アナ 気象予報士合格を生報告",
+      "link": "https://news.yahoo.co.jp/pickup/6600501?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T07:58:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "教員「特別免許」の基準明確化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T08:39:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プーチン氏 マスク氏は本物の天才",
+      "link": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T08:46:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本や雑誌発売日 大阪も1日遅れに",
+      "link": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T08:34:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タッチ対応「MacBook Pro」発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T09:12:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷 選手会選出のMVP受賞ならず",
+      "link": "https://news.yahoo.co.jp/pickup/6600508?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T09:06:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "盗撮「カメレオンカメラ」巧妙化",
+      "link": "https://news.yahoo.co.jp/pickup/6600512?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T09:35:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FW塩貝が2発&後藤も2発 ドイツ杯",
+      "link": "https://news.yahoo.co.jp/pickup/6600513?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T09:35:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保氏 アジア杯延期なら年内勇退",
+      "link": "https://news.yahoo.co.jp/pickup/6600519?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T10:31:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "燃料油補助 予算累計10兆円超に",
+      "link": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T10:13:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本近海で初記録のウミグモ発見",
+      "link": "https://news.yahoo.co.jp/pickup/6600515?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T09:51:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報WS レイズvs.ブリュワーズ",
+      "link": "https://news.yahoo.co.jp/pickup/6600521?source=rss",
+      "description": "",
+      "pub_date": "2026-10-29T10:59:57+09:00"
+    }
+  ]
+}
