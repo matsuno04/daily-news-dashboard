@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "matched_at": "2026-10-30T11:46:24.204675+09:00",
+  "matched_at": "2026-10-30T21:46:21.539433+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -61,6 +61,126 @@
           "link": "https://news.yahoo.co.jp/pickup/6600649?source=rss",
           "description": "",
           "pub_date": "2026-10-30T09:05:52+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+          "description": "日銀は金融政策決定会合で、現在1.25％程度としている政策金利を据え置くことを決めました。また、あわせて公表した経済・物価の最新の見通しでは、基調的な物価上昇率について「物価安定の目標とおおむね整合的…",
+          "pub_date": "2026-10-30T19:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日銀 政策金利1.25%に据え置き",
+          "link": "https://news.yahoo.co.jp/pickup/6600670?source=rss",
+          "description": "",
+          "pub_date": "2026-10-30T12:37:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "沖縄 宮古島沖でタグボート火災 男性機関長が死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68347",
+          "description": "30日朝、沖縄県宮古島市の沖合を航行していたタグボートで火事があり、海上保安部によりますと、船の中で見つかった男性1人が死亡しました。",
+          "pub_date": "2026-10-30T21:17:52+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "宮古島沖で船火災 発見の男性死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6600720?source=rss",
+          "description": "",
+          "pub_date": "2026-10-30T20:43:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+          "description": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし…",
+          "pub_date": "2026-10-30T17:54:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "暗号資産交換所大手に不正侵入か",
+          "link": "https://news.yahoo.co.jp/pickup/6600684?source=rss",
+          "description": "",
+          "pub_date": "2026-10-30T14:57:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "巨人 キャッチャー 甲斐拓也が楽天に移籍 金銭トレードで",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68377",
+          "description": "プロ野球、巨人は昨シーズン、FA＝フリーエージェントの権利を行使して加入した強肩が持ち味のキャッチャー、甲斐拓也選手が楽天に金銭トレードで移籍すると発表しました。",
+          "pub_date": "2026-10-30T13:27:29+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "G甲斐拓也 楽天に電撃トレード",
+          "link": "https://news.yahoo.co.jp/pickup/6600669?source=rss",
+          "description": "",
+          "pub_date": "2026-10-30T12:24:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "無印良品 不正アクセスで最大2726万件の個人情報 流出のおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68460",
+          "description": "「無印良品」を展開する良品計画は、不正アクセスを受けて会社の公式アプリから最大およそ2726万件の個人情報が流出したおそれがあると発表しました。 流出したおそれのある個人情報はメールアドレスと生年月…",
+          "pub_date": "2026-10-30T15:28:22+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "無印良品 最大2726万件情報流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6600686?source=rss",
+          "description": "",
+          "pub_date": "2026-10-30T15:30:41+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "都立六本木高 生徒が別生徒を包丁で刺したか 殺人未遂疑い逮捕",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68449",
+          "description": "30日昼すぎ、東京 港区の都立高校で、高校1年の女子生徒が脇腹など数か所を包丁で刺されて病院に搬送されました。警視庁は、同じ学年の女子生徒が事件に関わったとして、殺人未遂の疑いで逮捕し、詳しい状況を調…",
+          "pub_date": "2026-10-30T17:49:04+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "都立六本木高校 女子生徒刺される",
+          "link": "https://news.yahoo.co.jp/pickup/6600685?source=rss",
+          "description": "",
+          "pub_date": "2026-10-30T15:19:06+09:00"
         }
       }
     }
@@ -156,6 +276,132 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261030de68222",
       "description": "食料品の消費税減税関連法案をめぐり、30日朝の衆議院財務金融委員会の理事会で、与野党は来月4日に質疑を行うとともに、国民民主党が提出した対案も審議入りすることを改めて確認しました。",
       "pub_date": "2026-10-30T10:52:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高級時計窃盗事件 店頭には従業員1人 手薄な時間帯狙ったか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68314",
+      "description": "29日夜、東京 中野区の商業施設「中野ブロードウェイ」に入る時計店で男がおよそ4600万円相当の高級腕時計を試着したまま逃走した事件で、店頭には当時、従業員が1人しかいなかったことが捜査関係者への取材…",
+      "pub_date": "2026-10-30T11:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68323",
+      "description": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、地元メディアは事故に巻き込まれた外国人は50人以上で、このうち1人が死亡し、20人以上の安否を確認していると報じました。列車…",
+      "pub_date": "2026-10-30T19:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米制裁で入国困難なICC赤根所長 国連総会は動画で報告へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68271",
+      "description": "トランプ政権による制裁でアメリカへの入国が難しくなったICC＝国際刑事裁判所の赤根智子所長について、来週予定されている国連総会での報告を、事前収録した動画で行うことを認めるとする案が、アメリカなどが反…",
+      "pub_date": "2026-10-30T11:59:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【不正アクセス】30日も個人情報流出などの発表が相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "description": "30日も不正アクセスに伴う個人情報の漏えいなどに関する発表が相次いでいます。",
+      "pub_date": "2026-10-30T17:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広い範囲で雨 富士山では初冠雪 31日にかけ大気不安定続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68364",
+      "description": "上空の寒気などの影響で、30日は広い範囲で雨が降っていて、標高の高い山では雪となり、富士山では初冠雪が発表されました。北日本から西日本で、31日にかけて大気の非常に不安定な状態が続く見込みで、気象庁は…",
+      "pub_date": "2026-10-30T12:50:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "松江 約300人児童が体調不良 給食センターに立ち入り調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68361",
+      "description": "29日、松江市の3つの小学校で給食を食べた児童など300人近くが体調不良を訴え、10人が搬送されました。松江市保健所は給食センターに立ち入り、原因を調査しています。",
+      "pub_date": "2026-10-30T13:05:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大川原化工機えん罪事件 裁判官の責任問う裁判で国が反論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68388",
+      "description": "「大川原化工機」をめぐるえん罪事件で、保釈が認められずにがんで亡くなった会社の元顧問の遺族が国に損害賠償を求めている裁判が開かれ、国は保釈を認めなかった判断について「裁判官に違法・不当な目的があったと…",
+      "pub_date": "2026-10-30T13:44:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ガソリン価格などの抑制継続で 予備費1兆1481億円支出決定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68243",
+      "description": "政府は、30日の閣議で中東情勢を受けて実施しているガソリン価格などを抑える激変緩和措置を当面、継続するため、今年度予算の予備費から1兆1481億円を支出することを決めました。",
+      "pub_date": "2026-10-30T13:28:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "水道管工事現場で2人死亡 水と土砂に埋もれたか 愛知 安城",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68443",
+      "description": "29日、愛知県安城市の水道管の工事現場で作業していた親子2人が土砂に埋まり死亡した事故で、このうちの1人が3メートルほどの深さの場所で作業をしていたところ、水が吹き出したり土砂が崩れたりしたことが警察…",
+      "pub_date": "2026-10-30T15:09:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "巨人 松井秀喜新監督が始動「新たな強いジャイアンツを」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68262",
+      "description": "プロ野球、巨人は、松井秀喜新監督のもと30日、川崎市で秋のキャンプをスタートさせました。松井新監督は選手たちに「われわれが新たな強いジャイアンツを作っていかなければいけない」と呼びかけました。 記事…",
+      "pub_date": "2026-10-30T19:16:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "iPSパーキンソン病治療 承認後1例目の治療実施",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68495",
+      "description": "iPS細胞から作ったパーキンソン病の治療に使う再生医療製品「アムシェプリ」について、国に承認されてから1例目となる治療を、10月、京都大学医学部附属病院で実施したと開発した製薬会社が発表しました。患者…",
+      "pub_date": "2026-10-30T17:45:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "経団連 春闘方針原案“価格転嫁交渉 積極的に”【QAで詳しく】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68457",
+      "description": "2027年の春闘に向けて、経営側の指針となる経団連の基本方針の原案が明らかになりました。経団連の会員企業は大企業が中心ですが、今回の方針では中小企業でも高い水準の賃上げが実現することを目指し、大企業に…",
+      "pub_date": "2026-10-30T18:49:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "法人税の申告総額3兆円余増加し過去最高 源泉所得税も 国税庁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68515",
+      "description": "食料品の消費税減税の財源が国会で議論される中、2025年度、申告された法人税の総額は、企業の業績が好調なことを背景に前の年度から3兆円余り増えて21兆9000億円余りとなり、2年連続で過去最高を更新し…",
+      "pub_date": "2026-10-30T16:58:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "110番で「ショウリンジ」と叫ぶ 小中学生4人補導 広島県警",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68510",
+      "description": "110番通報をして「ショウリンジ」と叫ぶ行為が広島県内で60件ほど相次ぎ、警察がこのうち2件で小学生と中学生あわせて4人を補導していたことが分かりました。警察はこうした行為をしないよう呼びかけています…",
+      "pub_date": "2026-10-30T16:28:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "使わないで！ハロウィーン仮装ナース服などに「赤十字マーク」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68476",
+      "description": "31日のハロウィーンを前に各地でイベントが開かれていますが、日本赤十字社は、ナース服などを着て仮装をする際には、白地に赤い十字の「赤十字マーク」を使わないよう注意を呼びかけています。",
+      "pub_date": "2026-10-30T17:43:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高級時計窃盗事件 男が事前に施設内うろつく様子 防犯カメラに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68647",
+      "description": "29日夜、東京 中野区の商業施設「中野ブロードウェイ」に入る時計店で、男がおよそ4600万円相当の高級腕時計を試着したまま逃走した事件で、この男とみられる人物が事件の1時間ほど前から施設内をうろつく様…",
+      "pub_date": "2026-10-30T19:23:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北日本と東日本 31日にかけて大気不安定 北海道は荒天のおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68703",
+      "description": "上空の寒気などの影響で、広い範囲で大気の状態が非常に不安定になり、近畿などで雨が強く降っています。西日本では30日夜遅くにかけて、東日本と北日本では31日にかけて大気の不安定な状態が続く見込みで、気象…",
+      "pub_date": "2026-10-30T19:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "部下への性的暴行の罪で無罪主張の元検事正 裁判所保釈認める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68711",
+      "description": "酒に酔って抵抗できない状態の部下に性的暴行を加えた罪に問われ、無罪を主張している大阪地方検察庁の元検事正について、裁判所が保釈を認める決定を出しました。 保釈金を納めれば、逮捕・起訴から2年余りを経…",
+      "pub_date": "2026-10-30T20:29:30+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -373,6 +619,265 @@
       "link": "https://news.yahoo.co.jp/pickup/6600654?source=rss",
       "description": "",
       "pub_date": "2026-10-30T11:05:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中部電の改善命令手続きへ 経産省",
+      "link": "https://news.yahoo.co.jp/pickup/6600663?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T11:48:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "香港高層住宅火災 政府トップ謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600642?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T08:35:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ICC所長 米圧力屈しない構え強調",
+      "link": "https://news.yahoo.co.jp/pickup/6600658?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T10:45:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宮古島沖で船火災 1人不明5人救助",
+      "link": "https://news.yahoo.co.jp/pickup/6600667?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T12:21:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ねこまんま」覆す工夫で商品に",
+      "link": "https://news.yahoo.co.jp/pickup/6600671?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T12:42:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ビックリ 電撃トレードに甲斐拓也",
+      "link": "https://news.yahoo.co.jp/pickup/6600673?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T13:10:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "きゃりー 妊娠期間は活動に不安",
+      "link": "https://news.yahoo.co.jp/pickup/6600668?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T12:26:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "物価上昇目標2%に到達 日銀見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T13:03:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西日本でクマ出没急増 餌不足深刻",
+      "link": "https://news.yahoo.co.jp/pickup/6600680?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T14:07:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "土曜ハロウィン前に渋谷厳戒態勢",
+      "link": "https://news.yahoo.co.jp/pickup/6600661?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T11:26:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "リースバック 悪質取引に規制強化",
+      "link": "https://news.yahoo.co.jp/pickup/6600675?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T13:51:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "暗号資産取引大手に不正侵入か",
+      "link": "https://news.yahoo.co.jp/pickup/6600689?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T15:43:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "衆院定数削減 法案成立にハードル",
+      "link": "https://news.yahoo.co.jp/pickup/6600681?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T16:07:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジャングリア苦戦 資金繰りも悪化",
+      "link": "https://news.yahoo.co.jp/pickup/6600688?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T15:38:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリ本田仁海が現役引退を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600691?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T16:25:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G甲斐を放出 編成本部長が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6600692?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T16:21:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "辺野古転覆 同志社理事長が謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600695?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T16:58:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT×サンリオ中止 なぜ今?",
+      "link": "https://news.yahoo.co.jp/pickup/6600690?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T15:53:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NPBがFA補償変更へ 人的補償撤廃",
+      "link": "https://news.yahoo.co.jp/pickup/6600694?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T17:19:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウが日本に迎撃弾の供与を要望",
+      "link": "https://news.yahoo.co.jp/pickup/6600698?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T17:05:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "外務省 3600件の個人情報漏えいか",
+      "link": "https://news.yahoo.co.jp/pickup/6600703?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T17:53:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "給食のハマチで中毒か 児童搬送",
+      "link": "https://news.yahoo.co.jp/pickup/6600702?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T18:00:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤森慎吾 第2子の誕生を報告",
+      "link": "https://news.yahoo.co.jp/pickup/6600707?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T18:13:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宮古島沖で船火災 船内で1人発見",
+      "link": "https://news.yahoo.co.jp/pickup/6600700?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T17:38:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トヨタ 無人タクシー来年運行開始",
+      "link": "https://news.yahoo.co.jp/pickup/6600696?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T17:23:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京メトロ「QR乗車券」導入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600705?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T18:26:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "USJや太秦映画村 なぜR-18企画",
+      "link": "https://news.yahoo.co.jp/pickup/6600706?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T18:34:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "連続勤務を最長13日で検討 厚労省",
+      "link": "https://news.yahoo.co.jp/pickup/6600713?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T19:59:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "キオクシア 4-12月純利益24倍予想",
+      "link": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T19:46:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バイナンス被害 北朝鮮が関与か",
+      "link": "https://news.yahoo.co.jp/pickup/6600708?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T19:10:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛知小1暴行死 母親に実刑判決",
+      "link": "https://news.yahoo.co.jp/pickup/6600710?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T19:38:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MLBで焦点の年俸上限導入 NPBは",
+      "link": "https://news.yahoo.co.jp/pickup/6600704?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T18:09:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "31日関東-北海道で天気急変に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6600723?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T21:08:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "六本木高校生徒 複数回刺され重傷",
+      "link": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T20:44:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "13階から転落し作業員死亡 丸の内",
+      "link": "https://news.yahoo.co.jp/pickup/6600722?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T20:49:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国産オクラ 相次ぎ基準超え農薬",
+      "link": "https://news.yahoo.co.jp/pickup/6600721?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T20:41:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI生成曲検知 JASRACが導入検討",
+      "link": "https://news.yahoo.co.jp/pickup/6600711?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T19:41:11+09:00"
     }
   ]
 }
