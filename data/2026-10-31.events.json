@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "matched_at": "2026-10-31T11:46:20.970935+09:00",
+  "matched_at": "2026-10-31T21:46:27.129102+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -13,7 +13,7 @@
           "title": "5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請",
           "link": "https://news.web.nhk/newsweb/na/nd-20261031de68824",
           "description": "茂木外務大臣は訪問先のアメリカでロシアのラブロフ外相と会談しました。日ロの外相が対面で正式に会談するのはおよそ5年ぶりで、茂木大臣は拘束されている北海道新聞の記者の即時解放などを強く要請しました。",
-          "pub_date": "2026-10-31T06:59:22+09:00"
+          "pub_date": "2026-10-31T06:59:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -50,10 +50,30 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず",
+          "title": "スペイン高速列車事故 “後続列車に停止措置とらず 信号も青”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68821",
+          "description": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、先行の列車が運転を再開できないことを把握しながら、運転指令センターが後続の列車に停止させるなどの措置をとっていなかったことがわ…",
+          "pub_date": "2026-10-31T17:42:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スペイン運輸相 追突列車は青信号",
+          "link": "https://news.yahoo.co.jp/pickup/6600855?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T19:38:10+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北海道 JR宗谷線特急 ヒグマと衝突で脱線 あすも運転見合わせ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261031de68820",
-          "description": "30日夜遅く、北海道の稚内駅へ向かう特急列車がクマと衝突する事故がありました。 JR北海道によりますと、列車の下にクマを巻き込んでいる可能性があり、列車は30人余りの乗客を乗せて現場に停車したまま、…",
-          "pub_date": "2026-10-31T04:39:00+09:00"
+          "description": "30日夜、北海道のJR宗谷線で稚内駅へ向かう特急列車がヒグマと衝突し、先頭車両が脱線しました。乗客と乗員にけがはありませんでした。1987年にJR北海道が発足してから、ヒグマとの衝突による脱線事故は初…",
+          "pub_date": "2026-10-31T19:22:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -61,6 +81,86 @@
           "link": "https://news.yahoo.co.jp/pickup/6600754?source=rss",
           "description": "",
           "pub_date": "2026-10-31T08:20:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“捕獲後に山に放した個体” クマ再出没し駆除 神奈川 秦野",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68899",
+          "description": "神奈川県秦野市で一度捕獲して山奥に放したツキノワグマが再び人里近くに現れ、31日、捕獲されて駆除されました。",
+          "pub_date": "2026-10-31T19:16:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "山に放され戻ったクマ 今回は駆除",
+          "link": "https://news.yahoo.co.jp/pickup/6600818?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T14:52:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フィギュアGPシリーズ第2戦 中田璃士が首位発進 友野一希は3位",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68918",
+          "description": "フィギュアスケートのグランプリシリーズ第2戦、カナダ大会は30日、男子シングル前半のショートプログラムが行われ、シニアデビューの18歳、中田璃士選手が首位発進しました。",
+          "pub_date": "2026-10-31T14:46:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中田璃士 GPデビュー戦でSP首位",
+          "link": "https://news.yahoo.co.jp/pickup/6600799?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T12:33:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68862",
+          "description": "アメリカの中間選挙が選挙戦最終盤の攻防を迎えるなか、与党・共和党はトランプ大統領が接戦が伝えられる2つの州での選挙集会を取りやめると発表。 その後一転して、選挙集会は再び行われることになりました。 …",
+          "pub_date": "2026-10-31T17:55:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "トランプ氏 選挙遊説巡り二転三転",
+          "link": "https://news.yahoo.co.jp/pickup/6600759?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T08:56:19+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米海兵隊員を酒気帯び運転の疑いで逮捕 外出禁止措置の時間帯",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68988",
+          "description": "31日未明、沖縄県沖縄市の国道でアメリカ海兵隊の兵士が酒気帯びの状態で乗用車を運転したとして警察に逮捕されました。 逮捕されたのは、那覇市で発生した強盗殺人事件を受けて、沖縄駐留のアメリカ軍が沖縄のア…",
+          "pub_date": "2026-10-31T18:12:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米兵を逮捕 在沖米軍の外出禁止中",
+          "link": "https://news.yahoo.co.jp/pickup/6600823?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T15:27:16+09:00"
         }
       }
     }
@@ -131,13 +231,6 @@
     },
     {
       "source": "NHK",
-      "title": "スペイン高速鉄道事故 先行列車に何らかのトラブルか",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68821",
-      "description": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、プエンテ運輸相は、運転指令センターが事故の直前に先行の列車から運転を再開できないと報告を受けていたことを明らかにしました。当…",
-      "pub_date": "2026-10-31T05:25:35+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "ウクライナ情勢 局地停戦で住民退避も攻撃応酬続く",
       "link": "https://news.web.nhk/newsweb/na/nd-20261031de68816",
       "description": "戦闘の影響で人道状況が悪化しているウクライナ南部の都市オレシュキでは、ロシアとの間で局地的な停戦が維持されるなか、住民の退避が進められました。",
@@ -148,7 +241,7 @@
       "title": "トランプ政権 ウクライナに迎撃ミサイルなど売却へ 21億ドル",
       "link": "https://news.web.nhk/newsweb/na/nd-20261031de68846",
       "description": "ロシアによる軍事侵攻が続くウクライナに対し、アメリカのトランプ政権は、迎撃ミサイルなど、あわせて3300億円ほどの武器の売却を承認したと発表しました。",
-      "pub_date": "2026-10-31T09:19:06+09:00"
+      "pub_date": "2026-10-31T09:19:00+09:00"
     },
     {
       "source": "NHK",
@@ -163,6 +256,69 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261031de68857",
       "description": "日米韓3か国の外相が、G20＝主要20か国の外相会合が開かれているアメリカ・アトランタで会談し、3か国の結束は地域の平和と安定の要だとして、協力のすそ野をさらに広げていく方針を確認しました。",
       "pub_date": "2026-10-31T10:38:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "安保3文書改定「防衛と経済の好循環」を重視 新法人設立も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68872",
+      "description": "政府は年内に改定する安全保障関連の3文書で「防衛と経済の好循環」を重視する柱の1つに位置づける方針です。防衛装備品の生産力強化や移転推進などを担う新たな法人を設立するとしていて、防衛産業基盤の抜本的な…",
+      "pub_date": "2026-10-31T11:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "NBA 八村塁 2試合ぶりに先発し12得点 チームは4連敗",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68904",
+      "description": "NBA＝アメリカプロバスケットボール、クリッパーズの八村塁選手がティンバーウルブズ戦で2試合ぶりに先発出場し、12得点を挙げましたがチームは敗れて4連敗です。",
+      "pub_date": "2026-10-31T13:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国 製造業の景況感指数PMI 「50」下回る 内需の弱さを反映",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68892",
+      "description": "中国の10月の製造業の景況感を示す指数は、2か月ぶりに景気判断の節目となる「50」を下回り、個人消費や不動産投資などの内需の弱さが反映される結果となりました。",
+      "pub_date": "2026-10-31T13:19:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米西部の商業施設で銃撃 1人死亡 少なくとも3人大けが",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68949",
+      "description": "アメリカ西部、カリフォルニア州にある商業施設で30日、銃撃事件があり、現地の警察によりますとこれまでに1人が死亡、少なくとも3人が大けがをしたということです。 警察が目撃者から話を聞くなどして容疑者…",
+      "pub_date": "2026-10-31T16:30:58+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "NTTデータ委託先に不正アクセス 社債購入者情報漏えいの可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68967",
+      "description": "NTTデータは、社債購入者向けの特典付与サービスの委託先が不正アクセスを受けたと発表しました。このサービスを利用している近鉄グループホールディングスは、自社の社債を購入した人の氏名や購入金額の情報26…",
+      "pub_date": "2026-10-31T17:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関東甲信や東海 西日本は晴天 北海道はあすにかけ荒天に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de69005",
+      "description": "寒気を伴った気圧の谷の影響で北日本と北陸などでは雨となった一方、そのほかの地域では晴れて気温が上がり、夏日になったところもありました。 一方、北海道では発達する低気圧の影響で、これから1日にかけて雨や…",
+      "pub_date": "2026-10-31T18:58:01+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ハロウィーン 各地で催し 渋谷や新宿ではトラブル防ごうと対策",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68859",
+      "description": "10月31日はハロウィーンです。各地で催しが開かれたほか、大勢の人が集まると予想される東京 新宿区では、路上飲酒によるトラブルなどを防ぐため、夕方から区の職員などがパトロールを行っています。",
+      "pub_date": "2026-10-31T19:46:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北方領土の元島民 6年ぶり「上空慰霊」 飛行機から供養",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68863",
+      "description": "北方領土の元島民などが北海道上空から故郷の島々を望み先祖を供養する「上空慰霊」が31日、6年ぶりに行われました。",
+      "pub_date": "2026-10-31T19:45:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
+      "description": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業からシステムのぜい弱性を指摘されていたことが関係者への…",
+      "pub_date": "2026-10-31T20:55:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -257,13 +413,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "トランプ氏 選挙遊説巡り二転三転",
-      "link": "https://news.yahoo.co.jp/pickup/6600759?source=rss",
-      "description": "",
-      "pub_date": "2026-10-31T08:56:19+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "児童の絵にAI使用と中傷 公開中止",
       "link": "https://news.yahoo.co.jp/pickup/6600762?source=rss",
       "description": "",
@@ -352,6 +501,286 @@
       "link": "https://news.yahoo.co.jp/pickup/6600785?source=rss",
       "description": "",
       "pub_date": "2026-10-31T11:04:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "消費減税と定数削減 水面下の交渉",
+      "link": "https://news.yahoo.co.jp/pickup/6600756?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:31:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "母娘襲われ重傷 逃走の男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600797?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T12:13:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "刑執行失敗の米死刑囚 心境明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6600791?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T11:42:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "列車脱線 衝突のクマ300kgほどか",
+      "link": "https://news.yahoo.co.jp/pickup/6600790?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T11:53:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪桐蔭 エース14四死球で敗退",
+      "link": "https://news.yahoo.co.jp/pickup/6600798?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T12:22:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府 デフレ脱却宣言は慎重に判断",
+      "link": "https://news.yahoo.co.jp/pickup/6600778?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T10:33:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露とウ 侵攻後初の共同人道支援",
+      "link": "https://news.yahoo.co.jp/pickup/6600787?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T11:29:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "半導体大手インテル 株価29%急落",
+      "link": "https://news.yahoo.co.jp/pickup/6600804?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T13:17:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "部下性的暴行事件 元検事正を保釈",
+      "link": "https://news.yahoo.co.jp/pickup/6600802?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T13:03:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風31号 11/4～小笠原諸島接近か",
+      "link": "https://news.yahoo.co.jp/pickup/6600811?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T14:10:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマ衝突 列車で一夜「長かった」",
+      "link": "https://news.yahoo.co.jp/pickup/6600806?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T13:48:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大企業出身のシニア採用 落とし穴",
+      "link": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T14:01:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "幾田りら Hey!Say!JUMPへ曲提供",
+      "link": "https://news.yahoo.co.jp/pickup/6600775?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T10:22:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "復帰のサンド伊達 後遺症を告白",
+      "link": "https://news.yahoo.co.jp/pickup/6600810?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T14:07:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "1日早朝 関東などISS観測好条件",
+      "link": "https://news.yahoo.co.jp/pickup/6600812?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T14:34:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪桐蔭 エース14四死球で敗戦",
+      "link": "https://news.yahoo.co.jp/pickup/6600820?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T15:04:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "第2青函トンネル構想浮上 国交省",
+      "link": "https://news.yahoo.co.jp/pickup/6600828?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T16:10:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "開かずの踏切廃止に住民反発 横浜",
+      "link": "https://news.yahoo.co.jp/pickup/6600824?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T15:43:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G松井監督 2日連続「指導なし」",
+      "link": "https://news.yahoo.co.jp/pickup/6600830?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T16:19:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "馬場ふみか 14年所属の事務所退所",
+      "link": "https://news.yahoo.co.jp/pickup/6600829?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T16:10:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中間選挙 アメリカ政治にどう影響",
+      "link": "https://news.yahoo.co.jp/pickup/6600832?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T16:35:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハロウィン 注目を集める一軒家",
+      "link": "https://news.yahoo.co.jp/pickup/6600834?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T16:44:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハム西岡氏 将来のロッテ復帰宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6600837?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T17:18:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保監督 槙野監督の処分に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6600835?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T17:01:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日米韓外相 北極圏巡る協力覚書",
+      "link": "https://news.yahoo.co.jp/pickup/6600816?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T14:35:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "堀田真由 アミューズから独立",
+      "link": "https://news.yahoo.co.jp/pickup/6600838?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T17:30:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "工藤会会長にナンバー2が就任か",
+      "link": "https://news.yahoo.co.jp/pickup/6600842?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T18:04:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ブラックフライデー 先行セールも",
+      "link": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T17:56:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "投げ銭に計4億円 投げる側の心理",
+      "link": "https://news.yahoo.co.jp/pickup/6600831?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T17:00:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サンド伊達 報道陣前に元気な姿",
+      "link": "https://news.yahoo.co.jp/pickup/6600847?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T18:19:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市氏ら首相の予算委答弁数 比較",
+      "link": "https://news.yahoo.co.jp/pickup/6600843?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T18:04:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "身代金ウイルス 送金後追加要求も",
+      "link": "https://news.yahoo.co.jp/pickup/6600846?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T18:27:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元検事正の保釈金は1千万円 納付",
+      "link": "https://news.yahoo.co.jp/pickup/6600851?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T19:24:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カープ秋山残留 海外FA権使わず",
+      "link": "https://news.yahoo.co.jp/pickup/6600849?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T18:52:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "芸能界 事務所退所の報告相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6600857?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T19:56:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "参政・神谷氏 独AfD幹部と共鳴",
+      "link": "https://news.yahoo.co.jp/pickup/6600861?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T21:20:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "屋根の修理中に転落か 男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6600858?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T20:51:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨大キノコの新種「Dレックス」",
+      "link": "https://news.yahoo.co.jp/pickup/6600862?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T21:07:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サンド伊達 言えない言葉いくつか",
+      "link": "https://news.yahoo.co.jp/pickup/6600864?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T21:28:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新山千春 母の病判明時はショック",
+      "link": "https://news.yahoo.co.jp/pickup/6600863?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T21:08:27+09:00"
     }
   ]
 }
