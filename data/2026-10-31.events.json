@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-31",
+  "matched_at": "2026-10-31T11:46:20.970935+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68824",
+          "description": "茂木外務大臣は訪問先のアメリカでロシアのラブロフ外相と会談しました。日ロの外相が対面で正式に会談するのはおよそ5年ぶりで、茂木大臣は拘束されている北海道新聞の記者の即時解放などを強く要請しました。",
+          "pub_date": "2026-10-31T06:59:22+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "茂木外相 露外相に記者の解放要求",
+          "link": "https://news.yahoo.co.jp/pickup/6600743?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T07:29:41+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "辺野古沖転覆事故 同志社会見に遺族「説明責任真剣に考えて」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68798",
+          "description": "沖縄県の辺野古の沖合で研修旅行中の船が転覆し、女子生徒が亡くなった京都府の同志社国際高校を運営する学校法人が、30日、7か月半ぶりに行った記者会見について女子生徒の遺族がコメントを出し、「説明責任を果…",
+          "pub_date": "2026-10-31T05:30:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "転覆 同志社会見に遺族コメント",
+          "link": "https://news.yahoo.co.jp/pickup/6600752?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T08:15:38+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68820",
+          "description": "30日夜遅く、北海道の稚内駅へ向かう特急列車がクマと衝突する事故がありました。 JR北海道によりますと、列車の下にクマを巻き込んでいる可能性があり、列車は30人余りの乗客を乗せて現場に停車したまま、…",
+          "pub_date": "2026-10-31T04:39:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "列車とクマ衝突 乗客は車内で一夜",
+          "link": "https://news.yahoo.co.jp/pickup/6600754?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T08:20:02+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+      "description": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし…",
+      "pub_date": "2026-10-30T22:49:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東大総長選 選考会議が詳しい選考の経緯を公表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68783",
+      "description": "東京大学の次の総長の選考をめぐって、教職員の意向投票で2位だった藤垣裕子氏が、総長を決める選考会議では議長を除く15人中14人の承認を得て選ばれたなど、詳しい選考の経緯が公表されました。",
+      "pub_date": "2026-10-30T22:56:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "西武 平良海馬のポスティングシステムでの大リーグ移籍を容認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68501",
+      "description": "プロ野球・西武は大リーグへの挑戦を希望している平良海馬投手について、このオフにポスティングシステムを使った移籍を容認すると発表しました。",
+      "pub_date": "2026-10-30T21:38:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【不正アクセス】個人情報流出などの発表相次ぐ（10月30日）",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "description": "30日も不正アクセスに伴う個人情報の漏えいなどに関する発表が相次いでいます。",
+      "pub_date": "2026-10-30T23:41:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "松江 給食で約300人体調不良 焼き魚のヒスタミンによる食中毒",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68361",
+      "description": "29日、松江市の4つの小中学校で提供された給食を食べた児童などおよそ300人が体調不良を訴えた問題で、市の教育委員会は、保健所による原因調査の結果、給食の焼き魚に含まれた「ヒスタミン」による集団食中毒…",
+      "pub_date": "2026-10-30T22:59:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "キオクシアHD中間決算 最終利益は前年同期の37倍に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68433",
+      "description": "半導体大手のキオクシアホールディングスは、ことし4月からの半年間の決算について、AI関連の需要が大きく伸びていることなどから、最終的な利益が前の年の同じ時期の37倍にあたる2兆1900億円余りになった…",
+      "pub_date": "2026-10-30T22:37:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68827",
+      "description": "暗号資産の取引所として世界的な大手の「バイナンス」が、不正アクセスにより、デジタル資産の分野で過去最大級とも伝えられる被害を受けた問題で、会社は30日、システムに対する「複雑な攻撃」があったことを明ら…",
+      "pub_date": "2026-10-31T09:21:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68799",
+      "description": "日銀は基調的な物価上昇率が目標とする2％に達したという判断を初めて示し、今後はこの水準で定着させることに政策運営の軸足を移すことになりました。日銀は、物価が上振れるリスクがあるとして当面は利上げを進め…",
+      "pub_date": "2026-10-31T05:01:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "G20外相会合が開幕 茂木外相“G20各国が連携・協調を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68825",
+      "description": "G20＝主要20か国の外相会合がアメリカで開幕しました。茂木外務大臣は中東やウクライナ、北朝鮮などをめぐる日本の立場を主張したうえで、G20各国が連携・協調して多くの課題を抱える国際社会の取り組みをリ…",
+      "pub_date": "2026-10-31T06:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スペイン高速鉄道事故 先行列車に何らかのトラブルか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68821",
+      "description": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、プエンテ運輸相は、運転指令センターが事故の直前に先行の列車から運転を再開できないと報告を受けていたことを明らかにしました。当…",
+      "pub_date": "2026-10-31T05:25:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナ情勢 局地停戦で住民退避も攻撃応酬続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68816",
+      "description": "戦闘の影響で人道状況が悪化しているウクライナ南部の都市オレシュキでは、ロシアとの間で局地的な停戦が維持されるなか、住民の退避が進められました。",
+      "pub_date": "2026-10-31T06:06:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ政権 ウクライナに迎撃ミサイルなど売却へ 21億ドル",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68846",
+      "description": "ロシアによる軍事侵攻が続くウクライナに対し、アメリカのトランプ政権は、迎撃ミサイルなど、あわせて3300億円ほどの武器の売却を承認したと発表しました。",
+      "pub_date": "2026-10-31T09:19:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシア独立系新聞が編集部閉鎖へ ノーベル委員会「深く憂慮」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68828",
+      "description": "ロシアの独立系の新聞「ノーバヤ・ガゼータ」は、30年余り活動を続けてきた編集部を11月に閉鎖すると発表し、ウクライナ侵攻以降、プーチン政権下で厳しさを増す言論統制の象徴的な出来事として受け止められてい…",
+      "pub_date": "2026-10-31T06:37:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米韓外相“3か国の結束は地域の要” 協力のすそ野拡大へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68857",
+      "description": "日米韓3か国の外相が、G20＝主要20か国の外相会合が開かれているアメリカ・アトランタで会談し、3か国の結束は地域の平和と安定の要だとして、協力のすそ野をさらに広げていく方針を確認しました。",
+      "pub_date": "2026-10-31T10:38:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏 最終盤で選挙戦略転換",
+      "link": "https://news.yahoo.co.jp/pickup/6600727?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T21:59:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高級時計窃盗事件 防カメに男の姿",
+      "link": "https://news.yahoo.co.jp/pickup/6600731?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T22:44:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジャングリア 出資に数社が関心",
+      "link": "https://news.yahoo.co.jp/pickup/6600733?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T23:03:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体中にプラ片詰まった鳥 豪州の島",
+      "link": "https://news.yahoo.co.jp/pickup/6600732?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T22:33:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天・石井GM 甲斐獲得巡り説明",
+      "link": "https://news.yahoo.co.jp/pickup/6600735?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T23:17:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中間選挙 民主党「赤い州」で勢い",
+      "link": "https://news.yahoo.co.jp/pickup/6600736?source=rss",
+      "description": "",
+      "pub_date": "2026-10-30T23:38:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 オリ中川獲得へ大型契約準備",
+      "link": "https://news.yahoo.co.jp/pickup/6600738?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T07:12:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本田真凜&宇野昌磨組 今日出場へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600739?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T07:16:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "e-Taxかたる不審メール 相談急増",
+      "link": "https://news.yahoo.co.jp/pickup/6600745?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T07:39:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "教皇が米中間選挙に投票 史上初",
+      "link": "https://news.yahoo.co.jp/pickup/6600748?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:05:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "都内最古の「天下一品」閉店へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600740?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T07:25:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神木隆之介 ゴジラ実況に飛び入り",
+      "link": "https://news.yahoo.co.jp/pickup/6600749?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:02:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山川穂高 1カ月間「バット封印」",
+      "link": "https://news.yahoo.co.jp/pickup/6600742?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T07:32:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏 選挙遊説巡り二転三転",
+      "link": "https://news.yahoo.co.jp/pickup/6600759?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:56:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "児童の絵にAI使用と中傷 公開中止",
+      "link": "https://news.yahoo.co.jp/pickup/6600762?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:54:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTコラボ中止 サンリオ課題",
+      "link": "https://news.yahoo.co.jp/pickup/6600761?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:56:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北が関与か バイナンス巡り米調査",
+      "link": "https://news.yahoo.co.jp/pickup/6600772?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T10:10:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "発達障害増加 支援学校の教員不足",
+      "link": "https://news.yahoo.co.jp/pickup/6600753?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:11:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京メトロ 29年3月値上げ目指す",
+      "link": "https://news.yahoo.co.jp/pickup/6600770?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T09:54:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳妹殺害され 左耳聴力失った兄",
+      "link": "https://news.yahoo.co.jp/pickup/6600776?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T10:16:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神戸の「モザイク」全面改装へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600763?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T09:29:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "第2子誕生の藤森 ブランチ欠席",
+      "link": "https://news.yahoo.co.jp/pickup/6600773?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T10:09:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府「副首都」推進本部を設置",
+      "link": "https://news.yahoo.co.jp/pickup/6600780?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T10:44:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首里城火災7年 11月に正殿公開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600760?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T08:51:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "園に「死ね」と書かれた人形 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600786?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T11:15:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "重い記憶障害 自らを研究し修士号",
+      "link": "https://news.yahoo.co.jp/pickup/6600782?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T11:04:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "しょまりん公式戦 スタンド超満員",
+      "link": "https://news.yahoo.co.jp/pickup/6600785?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T11:04:57+09:00"
+    }
+  ]
+}
