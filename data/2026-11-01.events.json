@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-01",
+  "matched_at": "2026-11-01T11:46:15.464475+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "クラブツーリズム 不正アクセスで約432万件の個人情報漏えいか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69034",
+          "description": "旅行会社の「クラブツーリズム」は、サーバーが不正アクセスを受け、インターネットの予約システムに登録しているインターネット会員の個人情報およそ432万件が漏えいした可能性があると発表しました。 漏えいし…",
+          "pub_date": "2026-10-31T22:55:26+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "クラブツーリズム 432万件流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6600875?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T23:04:30+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMOの被害者情報集める不審サイト ハッカー側と関連か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69043",
+          "description": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、被害者に情報共有を呼びかける不審なサイトが公開されていたことがセキュリティー会社の調べで分かりました。 被害が公表されるより前に開…",
+          "pub_date": "2026-11-01T00:08:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMO攻撃者 被害者サイト開設か",
+          "link": "https://news.yahoo.co.jp/pickup/6600897?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T08:55:13+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "クアッド外相 中国念頭に経済的威圧へ懸念共有 首脳会合へ連携",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69039",
+          "description": "日米豪印4か国でつくるクアッドの外相会合がアメリカで開かれ、中国を念頭に恣意的（しいてき）な輸出規制などの経済的威圧に対する深刻な懸念を表明したうえで、自由で開かれたインド太平洋の実現に向けて具体的な…",
+          "pub_date": "2026-11-01T06:17:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日米豪印外相会談 AIなど協力確認",
+          "link": "https://news.yahoo.co.jp/pickup/6600886?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T07:50:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69037",
+          "description": "GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材でわかりました。 熊谷正寿社…",
+          "pub_date": "2026-11-01T05:09:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMOが11/2に記者会見 社長出席",
+          "link": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
+          "description": "",
+          "pub_date": "2026-10-31T23:53:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ハロウィーン 東京 渋谷は混雑も“大きなトラブルなし”警視庁",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69057",
+          "description": "週末と重なったことしのハロウィーンで10月31日から11月1日未明にかけて東京 渋谷区は多くの人で混雑したものの、警視庁によりますと、これまでのところ大きなトラブルは確認されていないということです。",
+          "pub_date": "2026-11-01T06:15:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ハロウィン 渋谷に集まった人の声",
+          "link": "https://news.yahoo.co.jp/pickup/6600887?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T07:37:12+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "【地震情報】福島県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69068",
+      "description": "1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。",
+      "pub_date": "2026-11-01T07:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69054",
+      "description": "アメリカの中間選挙は11月3日の投票日を前に各州で期日前投票が行われていて、フロリダ大学の研究グループによりますと、投票を済ませた人の数は前回・2022年の中間選挙をすでに上回っています。",
+      "pub_date": "2026-11-01T05:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "茂木外相 ロシア外相と率直な意見交換 記者解放へ働きかけ継続",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69063",
+      "description": "茂木外務大臣は31日におよそ5年ぶりに行われたロシアのラブロフ外相との会談について「率直な意見交換ができた」と振り返ったうえで、拘束されている北海道新聞の記者の解放に向けて粘り強く働きかけを続ける考え…",
+      "pub_date": "2026-11-01T06:51:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィギュアGPシリーズ 島田麻央が今季世界最高得点で首位発進",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69087",
+      "description": "フィギュアスケートのグランプリシリーズ第2戦、カナダ大会は女子シングル前半のショートプログラムが行われ、18歳の島田麻央選手が今シーズンの世界最高得点をマークして首位に立ちました。",
+      "pub_date": "2026-11-01T10:52:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スミソニアン博物館に杉本博司さん設計の彫刻庭園がオープン",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69077",
+      "description": "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。",
+      "pub_date": "2026-11-01T10:38:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "政府が力を入れるべき政策「物価対策」4年連続最多 内閣府調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69083",
+      "description": "国民生活に関する内閣府の世論調査の速報値が公表され、政府に力を入れて取り組んでほしいこととして「物価対策」が4年連続で最も多くなりました。",
+      "pub_date": "2026-11-01T10:33:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "事業承継の相続税節税で評価方法検討 自民党内から反対論も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69080",
+      "description": "来年度の税制改正に向けて政府・与党は、事業を相続する際に非上場企業が株式の評価を意図的に圧縮して相続税の節税を図るケースが指摘されていることを踏まえ、評価方法のあり方を議論することにしています。 一方…",
+      "pub_date": "2026-11-01T10:22:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウが製油所攻撃再開 ロシア副首相",
+      "link": "https://news.yahoo.co.jp/pickup/6600866?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T21:40:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "古着「オールドユニクロ」とは",
+      "link": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T22:00:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マック 商品そろう前でも客呼ぶ訳",
+      "link": "https://news.yahoo.co.jp/pickup/6600877?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T22:56:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "路上プロレス一転中止 天心が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6600876?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T23:02:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ボンネットに人乗せ走行疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600880?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T07:18:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新田真剣佑が改名 前田真剣佑に",
+      "link": "https://news.yahoo.co.jp/pickup/6600884?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T07:26:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "モスクワでテロ計画 米が露に警告",
+      "link": "https://news.yahoo.co.jp/pickup/6600883?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T07:41:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国版凱旋門 建設中止求め提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6600891?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T08:09:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フォーエバーヤング 連覇ならず",
+      "link": "https://news.yahoo.co.jp/pickup/6600893?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T08:18:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「DOWNTOWN+」1年 今後の期待",
+      "link": "https://news.yahoo.co.jp/pickup/6600892?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T08:15:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 造反・不祥事議員を称賛",
+      "link": "https://news.yahoo.co.jp/pickup/6600898?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T09:08:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "学校で突然言葉出ず 悩んだ吃音",
+      "link": "https://news.yahoo.co.jp/pickup/6600899?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T09:08:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DOWNTOWN+ 1周年で迎える関門",
+      "link": "https://news.yahoo.co.jp/pickup/6600896?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T08:37:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国 台湾周辺海底ケーブル探査か",
+      "link": "https://news.yahoo.co.jp/pickup/6600895?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T08:34:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリ 三木・前楽天監督がHC就任",
+      "link": "https://news.yahoo.co.jp/pickup/6600909?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T10:09:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "仲野太賀 大河撮了「奇跡の連続」",
+      "link": "https://news.yahoo.co.jp/pickup/6600910?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T10:01:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大学駅伝 GPS機器トラブルで謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600912?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T10:26:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GK鈴木彩艶 痛恨のオウンゴール",
+      "link": "https://news.yahoo.co.jp/pickup/6600913?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T10:25:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バイナンス被害 北朝鮮関与とFBI",
+      "link": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T09:56:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "共和党 トランプ氏から離反相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6600904?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T09:58:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡市長選 政令市最多13人立候補",
+      "link": "https://news.yahoo.co.jp/pickup/6600918?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T11:00:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長すぎベルト「落ち感」引き出す",
+      "link": "https://news.yahoo.co.jp/pickup/6600919?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T11:12:42+09:00"
+    }
+  ]
+}
