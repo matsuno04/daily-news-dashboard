@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "matched_at": "2026-11-01T11:46:15.464475+09:00",
+  "matched_at": "2026-11-01T21:45:25.631528+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -70,17 +70,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69037",
-          "description": "GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材でわかりました。 熊谷正寿社…",
-          "pub_date": "2026-11-01T05:09:00+09:00"
+          "title": "アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69054",
+          "description": "アメリカの中間選挙は11月3日の投票日を前に各州で期日前投票が行われていて、フロリダ大学の研究グループによりますと、投票を済ませた人の数は前回・2022年の中間選挙をすでに上回っています。",
+          "pub_date": "2026-11-01T14:03:44+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "GMOが11/2に記者会見 社長出席",
-          "link": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
+          "title": "米中間選挙 事前投票が過去最多",
+          "link": "https://news.yahoo.co.jp/pickup/6600955?source=rss",
           "description": "",
-          "pub_date": "2026-10-31T23:53:29+09:00"
+          "pub_date": "2026-11-01T16:06:17+09:00"
         }
       }
     },
@@ -103,6 +103,126 @@
           "pub_date": "2026-11-01T07:37:12+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "紅葉の名所「鳴子峡」近くで車が歩行者はねる 5人けが 宮城",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69105",
+          "description": "紅葉の名所として知られる宮城県大崎市の鳴子峡近くの国道で、1日午前、乗用車が歩道に乗り上げて歩行者をはね、5人がけがをしました。",
+          "pub_date": "2026-11-01T20:38:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "歩行者5人はねられ1人重傷 宮城",
+          "link": "https://news.yahoo.co.jp/pickup/6600926?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T12:20:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69102",
+          "description": "暗号資産の取引所として世界的な大手の「バイナンス」が、サイバー攻撃を受けた問題で、アメリカのFBI＝連邦捜査局は北朝鮮が関与していたと発表しました。",
+          "pub_date": "2026-11-01T11:56:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "バイナンス被害 北朝鮮関与とFBI",
+          "link": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T09:56:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "競馬 秋の天皇賞 ダノンデサイルが優勝 G1レース3勝目",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69198",
+          "description": "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。",
+          "pub_date": "2026-11-01T17:24:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "天皇賞秋 ダノンデサイルがV",
+          "link": "https://news.yahoo.co.jp/pickup/6600957?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T16:07:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロ野球 日本ハム 伊藤大海がポスティングで大リーグ挑戦へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69210",
+          "description": "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。",
+          "pub_date": "2026-11-01T17:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "伊藤大海 ポスティング申請へ",
+          "link": "https://news.yahoo.co.jp/pickup/6600950?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T15:35:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "外国人旅行者向け免税制度 1日から「リファンド方式」導入",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69141",
+          "description": "外国人旅行者は土産物などを買う際に店頭で消費税が免税されてきましたが、制度が悪用されるケースが後を絶たないことから、1日から「リファンド方式」という新たな免税制度が導入されました。",
+          "pub_date": "2026-11-01T19:21:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "出国時に返金 新免税制度が開始",
+          "link": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T09:08:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロ野球 巨人の松井秀喜新監督 子どもたちの野球教室で指導",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69246",
+          "description": "プロ野球、巨人の松井秀喜新監督は1日、子どもたちの野球教室に参加してボールの投げ方やバッティングなどを指導しました。",
+          "pub_date": "2026-11-01T19:20:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "松井監督 野球教室で豪快アーチ",
+          "link": "https://news.yahoo.co.jp/pickup/6600959?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T16:37:38+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
@@ -115,10 +235,10 @@
     },
     {
       "source": "NHK",
-      "title": "アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69054",
-      "description": "アメリカの中間選挙は11月3日の投票日を前に各州で期日前投票が行われていて、フロリダ大学の研究グループによりますと、投票を済ませた人の数は前回・2022年の中間選挙をすでに上回っています。",
-      "pub_date": "2026-11-01T05:52:00+09:00"
+      "title": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de69037",
+      "description": "GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材でわかりました。 熊谷正寿社…",
+      "pub_date": "2026-11-01T05:09:00+09:00"
     },
     {
       "source": "NHK",
@@ -132,21 +252,21 @@
       "title": "フィギュアGPシリーズ 島田麻央が今季世界最高得点で首位発進",
       "link": "https://news.web.nhk/newsweb/na/nd-20261101de69087",
       "description": "フィギュアスケートのグランプリシリーズ第2戦、カナダ大会は女子シングル前半のショートプログラムが行われ、18歳の島田麻央選手が今シーズンの世界最高得点をマークして首位に立ちました。",
-      "pub_date": "2026-11-01T10:52:51+09:00"
+      "pub_date": "2026-11-01T12:10:02+09:00"
     },
     {
       "source": "NHK",
       "title": "スミソニアン博物館に杉本博司さん設計の彫刻庭園がオープン",
       "link": "https://news.web.nhk/newsweb/na/nd-20261101de69077",
       "description": "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。",
-      "pub_date": "2026-11-01T10:38:20+09:00"
+      "pub_date": "2026-11-01T10:38:00+09:00"
     },
     {
       "source": "NHK",
       "title": "政府が力を入れるべき政策「物価対策」4年連続最多 内閣府調査",
       "link": "https://news.web.nhk/newsweb/na/nd-20261101de69083",
       "description": "国民生活に関する内閣府の世論調査の速報値が公表され、政府に力を入れて取り組んでほしいこととして「物価対策」が4年連続で最も多くなりました。",
-      "pub_date": "2026-11-01T10:33:15+09:00"
+      "pub_date": "2026-11-01T10:33:00+09:00"
     },
     {
       "source": "NHK",
@@ -154,6 +274,90 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261101de69080",
       "description": "来年度の税制改正に向けて政府・与党は、事業を相続する際に非上場企業が株式の評価を意図的に圧縮して相続税の節税を図るケースが指摘されていることを踏まえ、評価方法のあり方を議論することにしています。 一方…",
       "pub_date": "2026-11-01T10:22:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“クラスター弾の評価試験実施”と伝える 北朝鮮メディア",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69103",
+      "description": "北朝鮮のメディアは、10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。",
+      "pub_date": "2026-11-01T11:57:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "全日本大学駅伝は早稲田大が16年ぶり優勝 今シーズン2冠",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69096",
+      "description": "大学三大駅伝の1つ「全日本大学駅伝」が行われ、早稲田大が大会記録を3分以上更新して16年ぶり6回目の優勝を果たしました。 早稲田大は10月の「出雲全日本大学選抜駅伝」に続く優勝で、今シーズン2冠を達成…",
+      "pub_date": "2026-11-01T16:41:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 宮沢前税調会長“消費税減税より給付”も法案には賛成",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69134",
+      "description": "食料品の消費税減税関連法案をめぐって、自民党の宮沢前税制調査会長は、中低所得者への対策としては減税ではなく給付が望ましいという考えを示す一方で、法案は党として決めたことだとして国会で採決が行われれば賛…",
+      "pub_date": "2026-11-01T12:59:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "EEZ内で活動の中国の海洋調査船が海域離れる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69168",
+      "description": "沖縄県竹富町の波照間島の沖合、日本のEEZ＝排他的経済水域で10月30日から活動していた中国の海洋調査船が31日午後、海域を離れたことが確認されました。",
+      "pub_date": "2026-11-01T15:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 小林政調会長 消費税減税法案“成立向け野党に働きかけ”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69181",
+      "description": "食料品の消費税減税関連法案について、自民党の小林政務調査会長は高松市で記者団に対し、物価高対策としての意義は大きいと改めて強調したうえで、成立に向けて野党への働きかけを続ける考えを示しました。",
+      "pub_date": "2026-11-01T17:21:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "茨城 鹿嶋 男性4人が海に転落 1人重体 1人捜索続ける",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69207",
+      "description": "1日午後、茨城県鹿嶋市の堤防で、インドネシア国籍の男性4人が波にさらわれて海に転落しました。 このうち2人は救助されて無事でしたが、1人が意識不明の重体となり、海上保安署などが残る1人の捜索を続けて…",
+      "pub_date": "2026-11-01T21:07:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "知床沖観光船の沈没事故 家族らが「想いの駅」設置",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69224",
+      "description": "4年前に北海道の知床半島沖で観光船が沈没した事故の死者・行方不明者に思いをはせようと、「想いの駅」という施設が設置されました。",
+      "pub_date": "2026-11-01T18:20:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "十勝岳噴火警戒レベルの引き下げ受け宿泊施設が営業再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69223",
+      "description": "大雪山系の十勝岳の噴火警戒レベルが火口周辺規制を示す「2」に引き下げられたことを受けて、北海道上富良野町の吹上温泉地区で宿泊施設が営業を再開しました。",
+      "pub_date": "2026-11-01T18:18:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大衆車の代表格「カローラ」 発売60年で式典 トヨタ自動車",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69214",
+      "description": "日本の大衆車の代表格で、世界的なロングセラーとなったトヨタ自動車の「カローラ」が、2026年で発売から60年となり、愛知県の生産工場で歴代のモデルを展示して記念の式典が開かれました。",
+      "pub_date": "2026-11-01T18:39:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "あすにかけて広い範囲で雨 北海道は積雪のおそれも 注意を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69264",
+      "description": "発達した低気圧の影響で北海道では1日、風が強く吹いた一方、東日本と西日本では各地で秋晴れとなりました。 2日にかけて広い範囲で雨が降り、北海道では太平洋側を中心に雪となって山沿いでは積もるところもある…",
+      "pub_date": "2026-11-01T19:06:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米中間選挙 世論調査の信頼揺らぎ“予測市場”が拡大 課題は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69104",
+      "description": "選挙の情勢を占ううえで欠かせない世論調査ですが、アメリカでは、近年、その信頼性をめぐる議論が続いています。 こうした中、注目されているのが、選挙やスポーツの結果などあらゆる事象を「賭け」の対象とする…",
+      "pub_date": "2026-11-01T19:03:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヒグマ衝突で特急脱線のJR宗谷線 11月3日に運転再開へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69260",
+      "description": "10月30日に特急列車がヒグマと衝突して先頭車両が脱線し、一部区間で運休となっているJR宗谷線について、JR北海道は11月3日の始発から運転を再開すると発表しました。",
+      "pub_date": "2026-11-01T19:29:20+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -182,6 +386,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6600876?source=rss",
       "description": "",
       "pub_date": "2026-10-31T23:02:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMOが11/2に記者会見 社長出席",
+      "link": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
+      "description": "",
+      "pub_date": "2026-10-31T23:53:29+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -283,13 +494,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "バイナンス被害 北朝鮮関与とFBI",
-      "link": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
-      "description": "",
-      "pub_date": "2026-11-01T09:56:58+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "共和党 トランプ氏から離反相次ぐ",
       "link": "https://news.yahoo.co.jp/pickup/6600904?source=rss",
       "description": "",
@@ -308,6 +512,265 @@
       "link": "https://news.yahoo.co.jp/pickup/6600919?source=rss",
       "description": "",
       "pub_date": "2026-11-01T11:12:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマ放獣3日で出戻り 秦野市驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6600922?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T11:45:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「しょまりん」デビュー戦は4位",
+      "link": "https://news.yahoo.co.jp/pickup/6600925?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T12:10:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・松井監督「初指導」は知念",
+      "link": "https://news.yahoo.co.jp/pickup/6600923?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T11:55:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英首相 奴隷貿易で正式謝罪を検討",
+      "link": "https://news.yahoo.co.jp/pickup/6600907?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T09:59:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "兄の遺体遺棄疑い妹逮捕 父関与か",
+      "link": "https://news.yahoo.co.jp/pickup/6600930?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T13:16:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラヴ上等「ワッサー」使った思い",
+      "link": "https://news.yahoo.co.jp/pickup/6600931?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T13:05:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平山祐介 VIVANT反響「予想外」",
+      "link": "https://news.yahoo.co.jp/pickup/6600927?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T12:48:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "消費減税 首相の質疑出席が焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6600914?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T10:36:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人情報は必要? 企業の漏洩対策",
+      "link": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T13:32:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "槙野監督処分 判定巡りJ2藤枝声明",
+      "link": "https://news.yahoo.co.jp/pickup/6600937?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T13:53:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐伯俊氏 集英社との専属契約満了",
+      "link": "https://news.yahoo.co.jp/pickup/6600929?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T14:19:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SUPER BEAVER配信巡りフジ謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6600939?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T14:18:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国産ジャガイモ 国会論点に浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6600947?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T15:10:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 小笠原諸島は影響長引く恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6600944?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T14:46:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ネットに熱中する「ドパ親」背景",
+      "link": "https://news.yahoo.co.jp/pickup/6600949?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T15:19:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "芦田愛菜ドラマ Netflixで快挙",
+      "link": "https://news.yahoo.co.jp/pickup/6600941?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T14:22:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アマゾン奥地で相次ぐ 子の異変",
+      "link": "https://news.yahoo.co.jp/pickup/6600956?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T16:00:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ドパ親」に頭を抱える家族 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6600953?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T15:29:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "船減便で生徒を「積み残し」困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6600952?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T16:30:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "羽田美智子 母の介護で感じた限界",
+      "link": "https://news.yahoo.co.jp/pickup/6600960?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T17:10:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緊急事態条項の創設巡り賛否 見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600935?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T14:04:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岩手で熊出没急減 ブナ豊作影響か",
+      "link": "https://news.yahoo.co.jp/pickup/6600940?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T14:10:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "すみれ 父への「怒り」手放すまで",
+      "link": "https://news.yahoo.co.jp/pickup/6600963?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T17:55:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人でライブ主催 吉本が契約終了",
+      "link": "https://news.yahoo.co.jp/pickup/6600962?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T17:27:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市政権「脱リフレ」するか注目",
+      "link": "https://news.yahoo.co.jp/pickup/6600965?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T17:55:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "堤防で釣りの4人海に転落 2人不明",
+      "link": "https://news.yahoo.co.jp/pickup/6600974?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T19:04:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "渋滞最大で3時間 いろは坂で実験",
+      "link": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T18:10:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO攻撃者は何者か 識者の指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6600977?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T19:30:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「家族系」配信 相次ぐ収益化停止",
+      "link": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T20:07:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エムバペとキティ謝罪 中国の怒り",
+      "link": "https://news.yahoo.co.jp/pickup/6600978?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T19:33:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大学駅伝 8区で12チーム繰り上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6600976?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T19:26:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO攻撃 北朝鮮系のハッカーか",
+      "link": "https://news.yahoo.co.jp/pickup/6600991?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T21:18:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国の10月輸出額 前年比ほぼ倍増",
+      "link": "https://news.yahoo.co.jp/pickup/6600964?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T17:38:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "堤防から海に転落 1人死亡確認",
+      "link": "https://news.yahoo.co.jp/pickup/6600988?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T20:58:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "吉本の許可得ずライブ なぜ問題視",
+      "link": "https://news.yahoo.co.jp/pickup/6600979?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T19:49:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "青学・原監督 早大は「過去最強」",
+      "link": "https://news.yahoo.co.jp/pickup/6600987?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T21:02:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "谷村新司ものまね芸人 本人の一言",
+      "link": "https://news.yahoo.co.jp/pickup/6600986?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T20:52:18+09:00"
     }
   ]
 }
