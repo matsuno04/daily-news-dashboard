@@ -1,0 +1,400 @@
+{
+  "date": "2026-11-02",
+  "matched_at": "2026-11-02T11:45:26.863262+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "茨城 鹿嶋 男性4人が海に転落 1人死亡 1人不明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69207",
+          "description": "1日午後、茨城県鹿嶋市の防波堤で、インドネシア国籍の20代の男性4人が波にさらわれて海に転落しました。このうち2人は救助されてけがはありませんでしたが、1人が死亡し、海上保安署などが残る1人の捜索を続…",
+          "pub_date": "2026-11-01T23:43:32+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "釣り人が海に転落 1人死亡1人不明",
+          "link": "https://news.yahoo.co.jp/pickup/6600994?source=rss",
+          "description": "",
+          "pub_date": "2026-11-01T21:37:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69323",
+          "description": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。 最終盤、トランプ大統領は異例の接戦が伝えられる中西部のカンザス州などで演説する予定で、激しい…",
+          "pub_date": "2026-11-02T05:09:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米大統領 接戦州集会で最後の訴え",
+          "link": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T08:58:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "滋賀 甲賀市の住宅火災 3人遺体で見つかる 家族と連絡取れず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69325",
+          "description": "2日未明、滋賀県甲賀市の木造住宅で火事があり、焼け跡から3人が遺体で見つかりました。 この家に住む家族3人と連絡が取れなくなっていて、警察が身元の確認を進めるとともに詳しい状況を調べています。",
+          "pub_date": "2026-11-02T08:36:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "住宅火災 焼け跡から3人の遺体",
+          "link": "https://news.yahoo.co.jp/pickup/6601022?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T08:48:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69327",
+          "description": "アメリカ南部フロリダ州で1日、小型のビジネスジェット機が高速のまま住宅地近くの道路脇に墜落し、乗っていた9人全員が死亡しました。",
+          "pub_date": "2026-11-02T10:01:32+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米でジェット機墜落 9人全員死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6601012?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T07:22:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "災害対策司令塔の「防災庁」が発足 体制の抜本的強化へ 政府",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69293",
+          "description": "災害対策の司令塔となる防災庁が2日、発足しました。事前防災に加え、発災から復旧・復興までの一貫した災害対応にあたる組織で政府は、防災体制の抜本的な強化を図ることにしています。",
+          "pub_date": "2026-11-02T04:39:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "防災庁発足 防災・災害時の司令塔",
+          "link": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T07:21:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69346",
+          "description": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。",
+          "pub_date": "2026-11-02T10:48:32+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スペイン事故 邦人1人の死亡確認",
+          "link": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T08:45:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69369",
+          "description": "国の災害対応の司令塔の役割を果たす防災庁が2日、発足しました。 発足にあわせて防災庁は、大規模な災害による被害を減らすため対策を加速させる必要があるとして「緊急要請」を発表し、食料などの備蓄や住宅の…",
+          "pub_date": "2026-11-02T11:27:11+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "防災庁 事前防災の徹底を緊急要請",
+          "link": "https://news.yahoo.co.jp/pickup/6601031?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T10:22:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "愛知 東海 住宅に立てこもりか 刃物のようなもの所持の男 確保",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69371",
+          "description": "警察によりますと、2日午前6時すぎ、愛知県東海市の2階建ての住宅で男性から110番通報が入りました。 警察官が現場に駆けつけたところ、この住宅のベランダに、50代から60代くらいとみられる2人の姿が…",
+          "pub_date": "2026-11-02T11:05:07+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "住宅に立てこもった男を確保 愛知",
+          "link": "https://news.yahoo.co.jp/pickup/6601036?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T11:06:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フィギュア 島田麻央が初出場で優勝 今季世界最高得点 GP第2戦",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69385",
+          "description": "フィギュアスケートのグランプリシリーズ第2戦、カナダ大会は女子シングル後半のフリーが行われ、18歳の島田麻央選手が前半に続いて今シーズンの世界最高得点を記録して、このシリーズ初出場で優勝を果たしました…",
+          "pub_date": "2026-11-02T11:08:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "島田麻央 GPデビュー戦で優勝",
+          "link": "https://news.yahoo.co.jp/pickup/6601010?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T07:20:33+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "GMO傘下 顧客情報漏えい 9年近く外部から取得可能な状態",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69281",
+      "description": "顧客企業の社員のIDを管理するサービスを手がけている、GMOインターネットグループの傘下の会社でおよそ4万5000人分の顧客情報が漏えいしたことが明らかになりました。 顧客の個人情報を含むファイルが…",
+      "pub_date": "2026-11-01T22:27:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フェンシング全日本選手権 男子フルーレ 飯村一輝が初優勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69285",
+      "description": "フェンシングの全日本選手権、男子フルーレで、パリオリンピックの団体で金メダルを獲得した22歳の飯村一輝選手が初優勝を果たしました。",
+      "pub_date": "2026-11-01T22:57:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
+      "description": "GMOインターネットグループのサービスが不正アクセスを受けた問題で2日、熊谷正寿社長らが記者会見を開きます。 これまでの経緯や被害拡大の防止策などについて説明するとみられ、利用者の不安を抑えられるの…",
+      "pub_date": "2026-11-02T04:42:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゆうちょ銀行の貯金利子上限 撤廃めぐる議論進む",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69279",
+      "description": "ゆうちょ銀行は貯金の利子がつく範囲を1300万円までとしている上限の撤廃を政府の郵政民営化委員会に求めています。 金融機関で作る団体からは競争が激しくなるとして懸念の声があがっていて、委員会がどのよ…",
+      "pub_date": "2026-11-02T04:34:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ABU総会始まる NHK番組受賞",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69303",
+      "description": "アジア・太平洋地域の放送機関などが加盟するABU＝アジア太平洋放送連合の総会がスリランカのコロンボで始まり、NHKスペシャル「それからの、風の電話」などが部門最優秀賞にあたる「ABU賞」を受賞しました…",
+      "pub_date": "2026-11-02T04:26:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "接戦ミシガン州上院選 民主議員が異例の共和候補支持表明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69344",
+      "description": "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。上院の多数派奪還を目指す民主党にとって打撃とな…",
+      "pub_date": "2026-11-02T11:25:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "闇サイトで高まる 日本への関心",
+      "link": "https://news.yahoo.co.jp/pickup/6600998?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T22:01:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "望月衣塑子記者の対談本 回収へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600996?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T21:59:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT話題 珠城りょう「幸せ」",
+      "link": "https://news.yahoo.co.jp/pickup/6600997?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T22:30:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事務所許可なくライブ なぜ問題視",
+      "link": "https://news.yahoo.co.jp/pickup/6600995?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T21:31:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "農相政治団体 寄付3000万円不記載",
+      "link": "https://news.yahoo.co.jp/pickup/6601002?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T23:25:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生命起源巡る理論 定説覆る可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6600999?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T23:44:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "38歳で余命宣告 子への優しいうそ",
+      "link": "https://news.yahoo.co.jp/pickup/6601003?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T23:53:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ぼざろ」新作映画制作 来年公開",
+      "link": "https://news.yahoo.co.jp/pickup/6601000?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T23:14:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "早期流産で仕事中涙 有休取り崩し",
+      "link": "https://news.yahoo.co.jp/pickup/6601009?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T07:08:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウクライナ南部の局地停戦が終了",
+      "link": "https://news.yahoo.co.jp/pickup/6601014?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T07:43:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "内閣の支持率64.9%に上昇 JNN",
+      "link": "https://news.yahoo.co.jp/pickup/6601017?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T07:58:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "金型の無償保管 公取委勧告が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6601015?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T07:44:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "芦田愛菜ドラマ ネトフリ快挙背景",
+      "link": "https://news.yahoo.co.jp/pickup/6601013?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T07:37:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北への武器 香港の密輸集団が暗躍",
+      "link": "https://news.yahoo.co.jp/pickup/6601016?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T07:56:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "私立高の学校納付金2倍 NGO調査",
+      "link": "https://news.yahoo.co.jp/pickup/6601019?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T08:21:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐藤輝ら交渉へ ポスティング公示",
+      "link": "https://news.yahoo.co.jp/pickup/6601021?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T08:34:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "刃物持った男が立てこもる 東海市",
+      "link": "https://news.yahoo.co.jp/pickup/6601029?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T10:02:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "結核上回る患者数 NTM症の対策",
+      "link": "https://news.yahoo.co.jp/pickup/6601026?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T09:40:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "内定者2年間入社しなくてOK 狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T09:21:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "知床沈没事故「海の電話」を設置",
+      "link": "https://news.yahoo.co.jp/pickup/6601020?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T08:32:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "情報漏洩で見舞金 おわびの正解は",
+      "link": "https://news.yahoo.co.jp/pickup/6601028?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T09:48:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハロウィン繁華街で銃撃相次ぐ 米",
+      "link": "https://news.yahoo.co.jp/pickup/6601027?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T09:50:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アントネッリがF1史上最年少王者",
+      "link": "https://news.yahoo.co.jp/pickup/6601033?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T10:43:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "杉浦太陽 結婚した頃より妻魅力的",
+      "link": "https://news.yahoo.co.jp/pickup/6601037?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T11:20:55+09:00"
+    }
+  ]
+}
