@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "matched_at": "2026-11-02T11:45:26.863262+09:00",
+  "matched_at": "2026-11-02T21:45:26.409606+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -10,42 +10,22 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "茨城 鹿嶋 男性4人が海に転落 1人死亡 1人不明",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69207",
-          "description": "1日午後、茨城県鹿嶋市の防波堤で、インドネシア国籍の20代の男性4人が波にさらわれて海に転落しました。このうち2人は救助されてけがはありませんでしたが、1人が死亡し、海上保安署などが残る1人の捜索を続…",
-          "pub_date": "2026-11-01T23:43:32+09:00"
+          "title": "GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に生かせず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
+          "description": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2日午後、熊谷正寿社長らが会見を開きました。この中で、熊谷社長は子会社からシステムのぜい弱性について指摘を受けていたことを改めて認め…",
+          "pub_date": "2026-11-02T21:25:31+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "釣り人が海に転落 1人死亡1人不明",
-          "link": "https://news.yahoo.co.jp/pickup/6600994?source=rss",
+          "title": "GMO社長「社内指摘を生かせず」",
+          "link": "https://news.yahoo.co.jp/pickup/6601069?source=rss",
           "description": "",
-          "pub_date": "2026-11-01T21:37:07+09:00"
+          "pub_date": "2026-11-02T17:27:10+09:00"
         }
       }
     },
     {
       "event_id": "evt-0002",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69323",
-          "description": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。 最終盤、トランプ大統領は異例の接戦が伝えられる中西部のカンザス州などで演説する予定で、激しい…",
-          "pub_date": "2026-11-02T05:09:57+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "米大統領 接戦州集会で最後の訴え",
-          "link": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
-          "description": "",
-          "pub_date": "2026-11-02T08:58:15+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0003",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -65,7 +45,7 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0003",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -85,7 +65,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0004",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,7 +85,7 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -125,7 +105,7 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -133,7 +113,7 @@
           "title": "防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める",
           "link": "https://news.web.nhk/newsweb/na/nd-20261102de69369",
           "description": "国の災害対応の司令塔の役割を果たす防災庁が2日、発足しました。 発足にあわせて防災庁は、大規模な災害による被害を減らすため対策を加速させる必要があるとして「緊急要請」を発表し、食料などの備蓄や住宅の…",
-          "pub_date": "2026-11-02T11:27:11+09:00"
+          "pub_date": "2026-11-02T20:18:33+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -145,7 +125,7 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -157,15 +137,15 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "住宅に立てこもった男を確保 愛知",
-          "link": "https://news.yahoo.co.jp/pickup/6601036?source=rss",
+          "title": "刃物持った男が立てこもる 東海市",
+          "link": "https://news.yahoo.co.jp/pickup/6601029?source=rss",
           "description": "",
-          "pub_date": "2026-11-02T11:06:57+09:00"
+          "pub_date": "2026-11-02T10:02:25+09:00"
         }
       }
     },
     {
-      "event_id": "evt-0009",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -181,6 +161,126 @@
           "link": "https://news.yahoo.co.jp/pickup/6601010?source=rss",
           "description": "",
           "pub_date": "2026-11-02T07:20:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「中野ブロードウェイ」高級腕時計窃盗事件 被害品が店に届く",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69446",
+          "description": "先月29日、東京 中野区の商業施設「中野ブロードウェイ」に入る時計店で男がおよそ4600万円相当の高級腕時計を試着したまま逃走した事件で、店に1日、盗まれた腕時計が宅配の荷物で送られてきたことが捜査関…",
+          "pub_date": "2026-11-02T12:01:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "盗まれた高級腕時計 宅配便で返却",
+          "link": "https://news.yahoo.co.jp/pickup/6601043?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T11:47:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ中間選挙 トランプ大統領が中西部で遊説締めくくる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69457",
+          "description": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日、投票が始まります。 トランプ大統領は投票日まであと2日となった1日、異例の接戦が伝えられる中西部のカンザス州な…",
+          "pub_date": "2026-11-02T18:29:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米大統領 接戦州集会で最後の訴え",
+          "link": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T08:58:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "特殊詐欺Gトップか 容疑者逮捕 22億円の一部 暴力団に流れたか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69403",
+          "description": "市役所などを装ううその電話で現金をだまし取ったなどとして特殊詐欺グループのトップとみられる30代の容疑者が警視庁に逮捕されたことが捜査関係者への取材でわかりました。被害総額は20億円を超え、一部は暴力…",
+          "pub_date": "2026-11-02T12:12:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "特殊詐欺Gのリーダーか 男を逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6601076?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T17:40:23+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69492",
+          "description": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2日午後3時半過ぎから、熊谷正寿社長や、今回不正アクセスを受けたサービスを手がける子会社、GMOインターネットの伊藤正社長らが初めて…",
+          "pub_date": "2026-11-02T19:48:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中継 GMO熊谷社長らが記者会見",
+          "link": "https://news.yahoo.co.jp/pickup/6601060?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T15:27:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "メール配信サービス「アララ」700万通超の不審メール確認",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69506",
+          "description": "企業向けにメール配信サービスなどを提供している「アララ」は、先月受けた不正アクセスの影響で、会社のサービスが何者かに悪用され、クレジットカード会社を装った不審なメールが、最大およそ713万通送信された…",
+          "pub_date": "2026-11-02T14:15:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「アララ」不審メール713万通確認",
+          "link": "https://news.yahoo.co.jp/pickup/6601070?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T17:03:42+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "佐藤 平良 伊藤のポスティング申請受理 大リーグ球団と交渉へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69574",
+          "description": "プロ野球からポスティングシステムを使って大リーグ移籍を目指している阪神の佐藤輝明選手、西武の平良海馬投手、それに日本ハムの伊藤大海投手の3人の選手について、大リーグ機構はポスティングの申請を受理し、全…",
+          "pub_date": "2026-11-02T16:07:32+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "佐藤輝ら交渉へ ポスティング公示",
+          "link": "https://news.yahoo.co.jp/pickup/6601021?source=rss",
+          "description": "",
+          "pub_date": "2026-11-02T08:34:23+09:00"
         }
       }
     }
@@ -202,10 +302,17 @@
     },
     {
       "source": "NHK",
-      "title": "GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
-      "description": "GMOインターネットグループのサービスが不正アクセスを受けた問題で2日、熊谷正寿社長らが記者会見を開きます。 これまでの経緯や被害拡大の防止策などについて説明するとみられ、利用者の不安を抑えられるの…",
-      "pub_date": "2026-11-02T04:42:00+09:00"
+      "title": "茨城 鹿嶋 男性4人が海に転落 1人死亡 1人不明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69207",
+      "description": "1日午後、茨城県鹿嶋市の防波堤で、インドネシア国籍の20代の男性4人が波にさらわれて海に転落しました。このうち2人は救助されてけがはありませんでしたが、1人が死亡し、海上保安署などが残る1人の捜索を続…",
+      "pub_date": "2026-11-01T23:43:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69323",
+      "description": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。 最終盤、トランプ大統領は異例の接戦が伝えられる中西部のカンザス州などで演説する予定で、激しい…",
+      "pub_date": "2026-11-02T05:09:57+09:00"
     },
     {
       "source": "NHK",
@@ -229,11 +336,95 @@
       "pub_date": "2026-11-02T11:25:21+09:00"
     },
     {
+      "source": "NHK",
+      "title": "ネタニヤフ首相 トランプ大統領に選挙後イラン攻撃要求か 報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69449",
+      "description": "アメリカのトランプ大統領とイスラエルのネタニヤフ首相がイラン情勢をめぐって電話で協議を行い、ネタニヤフ首相が中間選挙の直後にイランを攻撃するようトランプ大統領に強く求めたとアメリカメディアが報じました…",
+      "pub_date": "2026-11-02T12:13:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「年賀はがき」販売始まる 発行枚数は前年比25％減",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69493",
+      "description": "来年、令和9年用の年賀はがきの販売が2日から全国の郵便局で始まりました。日本郵便によりますと、SNSの普及などによる需要の減少を見込んで、当初の発行枚数は前の年より25％ほど減らしたということです。",
+      "pub_date": "2026-11-02T12:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関文科相 同志社理事長の会見“十分な説明なされていない”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69476",
+      "description": "沖縄県名護市辺野古の沖合で船が転覆し、京都府の同志社国際高校の女子生徒が死亡した事故を受け、運営する学校法人の理事長が先週、事故後初めて陳謝したことについて、関文部科学大臣は、十分な説明がなされていな…",
+      "pub_date": "2026-11-02T12:53:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「アットコスメ」不正アクセス 約300万人分漏えい 肌質 髪質も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69567",
+      "description": "化粧品の口コミサイト「アットコスメ」を手がける「アイスタイル」は、不正アクセスを受け、会員の個人情報、およそ300万人分が漏えいしたと発表しました。 漏えいしたのは名前、住所、電話番号、メールアドレ…",
+      "pub_date": "2026-11-02T15:04:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "防災庁発足 避難生活どう変わる？【QA解説】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69394",
+      "description": "災害が起きた際、誰しも経験する可能性があるのが避難生活です。",
+      "pub_date": "2026-11-02T14:27:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サントリーHD 不正アクセスで個人情報約10万人分が漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69622",
+      "description": "サントリーホールディングスは、業務で利用しているマイクロソフトのクラウドサービスが不正アクセスを受け、個人情報およそ10万人分が漏えいしたと発表しました。 会社によりますと、漏えいしたのは、サントリ…",
+      "pub_date": "2026-11-02T16:23:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中野ブロードウェイ 高級時計窃盗事件 男は新幹線で西に移動か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69776",
+      "description": "先週、東京 中野区の商業施設「中野ブロードウェイ」に入る時計店で男がおよそ4600万円相当の高級腕時計を試着したまま逃走した事件で、男が事件の後、東京駅から新幹線に乗って西へ向かったとみられることが捜…",
+      "pub_date": "2026-11-02T19:23:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ノジマ 不正アクセスで約700万件の個人情報漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69780",
+      "description": "大手家電量販店のノジマは、会社が運営するネット通販サイトの会員管理システムが不正アクセスを受け、会員の個人情報およそ700万件が漏えいしたと発表しました。",
+      "pub_date": "2026-11-02T19:16:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヒグマと衝突し脱線のJR宗谷線 3日も終日運転見合わせ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69766",
+      "description": "特急列車がヒグマと衝突して脱線したため一部区間で運行できなくなっているJR宗谷線について、JR北海道は、脱線した車両に不具合が見つかり現場から移動させることができないとして、3日も終日運転を見合わせる…",
+      "pub_date": "2026-11-02T19:27:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ネットマイル」 最大で約549万人分の個人情報漏えいの可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69784",
+      "description": "ネット上でためたポイントを電子マネーなどに交換できるサービス「ネットマイル」の運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しまし…",
+      "pub_date": "2026-11-02T20:47:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロードサービス利用者の個人情報 最大約550万件漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69807",
+      "description": "企業の業務を代行する事業を行う「プレステージ・インターナショナル」は2日、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表しました。",
+      "pub_date": "2026-11-02T20:46:20+09:00"
+    },
+    {
       "source": "Yahoo!ニュース",
       "title": "闇サイトで高まる 日本への関心",
       "link": "https://news.yahoo.co.jp/pickup/6600998?source=rss",
       "description": "",
       "pub_date": "2026-11-01T22:01:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "釣り人が海に転落 1人死亡1人不明",
+      "link": "https://news.yahoo.co.jp/pickup/6600994?source=rss",
+      "description": "",
+      "pub_date": "2026-11-01T21:37:07+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -335,20 +526,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "佐藤輝ら交渉へ ポスティング公示",
-      "link": "https://news.yahoo.co.jp/pickup/6601021?source=rss",
-      "description": "",
-      "pub_date": "2026-11-02T08:34:23+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "刃物持った男が立てこもる 東海市",
-      "link": "https://news.yahoo.co.jp/pickup/6601029?source=rss",
-      "description": "",
-      "pub_date": "2026-11-02T10:02:25+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "結核上回る患者数 NTM症の対策",
       "link": "https://news.yahoo.co.jp/pickup/6601026?source=rss",
       "description": "",
@@ -377,6 +554,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "住宅に立てこもった男を確保 愛知",
+      "link": "https://news.yahoo.co.jp/pickup/6601036?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T11:06:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "ハロウィン繁華街で銃撃相次ぐ 米",
       "link": "https://news.yahoo.co.jp/pickup/6601027?source=rss",
       "description": "",
@@ -395,6 +579,272 @@
       "link": "https://news.yahoo.co.jp/pickup/6601037?source=rss",
       "description": "",
       "pub_date": "2026-11-02T11:20:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "官邸襲撃事件 被告は全て争う方針",
+      "link": "https://news.yahoo.co.jp/pickup/6601039?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T11:29:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "人質をとり立てこもり疑い 男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6601041?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T11:38:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "同僚から盗撮被害 会社を訴えた訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T12:13:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイゼリヤ 中国で人気集める理由",
+      "link": "https://news.yahoo.co.jp/pickup/6601044?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T12:08:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防災相 世界一の防災大国を目指す",
+      "link": "https://news.yahoo.co.jp/pickup/6601050?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T13:11:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フラット35 金利3.81%で過去2番目",
+      "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T12:39:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラッコのキラ体調不良 鳥羽水族館",
+      "link": "https://news.yahoo.co.jp/pickup/6601047?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T12:30:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "提供精子で誕生 子どもにどう告知",
+      "link": "https://news.yahoo.co.jp/pickup/6601035?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T11:11:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「アララ」7700万件のメアド流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T13:54:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "釣り中に海転落 不明の1人も死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601051?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T13:13:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "盗難の高級腕時計戻る わび状同封",
+      "link": "https://news.yahoo.co.jp/pickup/6601058?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T14:25:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "永谷園「モコモコ」販売再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601055?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T13:41:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "八村塁 今季最多24得点の大暴れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601056?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T13:49:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科相 東大学長の選考理由不明確",
+      "link": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T13:32:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露首都テロ計画巡り 少年1人拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6601061?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T15:20:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田翔希 MLB球団と面談開始へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601059?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T14:47:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO社長 会見で情報流出を謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601065?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T16:14:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "窓の清掃中にビルから転落 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601064?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T15:51:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MAGA派を鼓舞 トランプ氏に焦り",
+      "link": "https://news.yahoo.co.jp/pickup/6601071?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T17:12:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "違法開発の動物園 今も220頭残る",
+      "link": "https://news.yahoo.co.jp/pickup/6601066?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T16:26:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田翔希にニキビ 監督が重圧心配",
+      "link": "https://news.yahoo.co.jp/pickup/6601067?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T16:33:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くるり岸田繁 ホルン奏者と結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6601073?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T17:22:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日・工藤監督 早くもイズム注入",
+      "link": "https://news.yahoo.co.jp/pickup/6601079?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T17:58:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "声優の仲木隆司さん死去 89歳",
+      "link": "https://news.yahoo.co.jp/pickup/6601075?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T17:36:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO熊谷社長ら 報酬を3カ月減額",
+      "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T18:24:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防衛費5年で70-80兆円案 政府与党",
+      "link": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T15:42:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO社長 自身のSNS投稿も謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601083?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T18:57:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SBIとフジHDが資本業務提携 発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601077?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T18:03:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日ハム・レイエス 来期年俸8億円",
+      "link": "https://news.yahoo.co.jp/pickup/6601085?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T19:12:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO攻撃 警視庁が捜査本部設置",
+      "link": "https://news.yahoo.co.jp/pickup/6601090?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T19:51:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO社長 自身のSNS休止に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601087?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T19:33:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日ハム・レイエス 来季年俸8億円",
+      "link": "https://news.yahoo.co.jp/pickup/6601091?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T20:10:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中間選挙 物価高で米大統領に批判",
+      "link": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T20:45:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10月気温 過去2番目の暑さだった",
+      "link": "https://news.yahoo.co.jp/pickup/6601084?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T19:03:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO熊谷社長会見 涙浮かべ陳謝",
+      "link": "https://news.yahoo.co.jp/pickup/6601094?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T20:50:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車と衝突 バイクの中学生が重体",
+      "link": "https://news.yahoo.co.jp/pickup/6601097?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T21:16:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "備蓄緊急要請 不安が広がる心理は",
+      "link": "https://news.yahoo.co.jp/pickup/6601096?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T20:59:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岡崎体育が活動再開へ 年明けから",
+      "link": "https://news.yahoo.co.jp/pickup/6601099?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T21:13:16+09:00"
     }
   ]
 }
