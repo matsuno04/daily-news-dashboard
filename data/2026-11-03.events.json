@@ -1,0 +1,368 @@
+{
+  "date": "2026-11-03",
+  "matched_at": "2026-11-03T11:45:27.750992+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69861",
+          "description": "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。2年前に子会社が指摘していたシステムのぜい弱性については対策が不十分だったという認識を示す一方…",
+          "pub_date": "2026-11-03T05:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GMO会見で「命の砂時計」 意味",
+          "link": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T07:33:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「秋の叙勲」受章者発表 各界で功労のあった計3861人が受章",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69860",
+          "description": "ことしの「秋の叙勲」の受章者が発表され、各界で功労のあったあわせて3861人が受章することになりました。",
+          "pub_date": "2026-11-03T06:39:49+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "秋の叙勲 松坂慶子さんら受章",
+          "link": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T08:06:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ中間選挙 日本時間の今夜から投票開始 焦点は",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69868",
+          "description": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は日本時間の3日夜に投票が始まります。トランプ大統領は首都ワシントンで演説し、みずからの成果を強調して共和党候補への投票を呼びかけま…",
+          "pub_date": "2026-11-03T10:16:33+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米中間選挙 今夜から全米で投票",
+          "link": "https://news.yahoo.co.jp/pickup/6601118?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T07:45:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69859",
+          "description": "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。",
+          "pub_date": "2026-11-03T10:14:44+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スペイン列車事故 邦人死亡2人に",
+          "link": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T07:06:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69878",
+          "description": "アメリカのウィトコフ特使は、ウクライナとロシアの和平をめぐるアメリカも交えた3か国の実務者協議を、11月、UAE＝アラブ首長国連邦で開催すると明らかにしました。",
+          "pub_date": "2026-11-03T11:26:01+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米・露・ウが10～11日に3者協議",
+          "link": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T10:07:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "世界的な暗号資産取引所へのサイバー攻撃　北朝鮮が関与否定",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69881",
+          "description": "世界的な暗号資産の取引所へのサイバー攻撃に北朝鮮が関与しているとアメリカの捜査当局が発表したことについて、キム・ジョンウン総書記の妹、キム・ヨジョン氏は談話で「荒唐無稽なデマだ」と否定しました。",
+          "pub_date": "2026-11-03T10:10:26+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北朝鮮 バイナンス巡り関与否定",
+          "link": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T07:40:52+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "ベルギーやスウェーデン スーパーにサイバー攻撃か 食品に被害",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69864",
+      "description": "ベルギーやスウェーデンなどヨーロッパの複数の国でスーパーマーケットのシステムにトラブルが起きて冷凍庫などの温度が上昇し、当局などはサイバー攻撃の可能性があるとして調べています。",
+      "pub_date": "2026-11-03T05:10:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
+      "description": "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。一方、AI開発に必要…",
+      "pub_date": "2026-11-03T05:43:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261102de69842",
+      "description": "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。中学生だった80年前の憲法公布から、施行までの時期につづった手記の全文が初め…",
+      "pub_date": "2026-11-03T05:30:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 イラン攻撃再開決定について「急がず」 米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69887",
+      "description": "アメリカのニュースサイトアクシオスは、トランプ大統領が電話取材に応じイランへの攻撃再開の決定について「急いでいない」と述べたと報じました。 バンス副大統領は交渉による解決の可能性があるとして進展を見…",
+      "pub_date": "2026-11-03T10:04:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ICC赤根所長 国連でアメリカの制裁批判 使命果たすと決意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69880",
+      "description": "戦争犯罪や人道に対する罪などを裁くICC＝国際刑事裁判所の赤根智子所長が国連で年次報告を行い、アメリカによる制裁を厳しく批判するとともに「あらゆる困難にかかわらず使命を果たし続ける」と述べ、決意を示し…",
+      "pub_date": "2026-11-03T10:19:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「バイナンス」へのサイバー攻撃 AI使った新たな手口か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69892",
+      "description": "日本円で9900億円が影響を受けた暗号資産の取引所「バイナンス」へのサイバー攻撃に関与したとされる北朝鮮の攻撃グループが、一連の攻撃にAIによる新たな手法を使っていたと見られることが、暗号資産の分析会…",
+      "pub_date": "2026-11-03T11:05:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMOが謝罪 利用者「響かない」",
+      "link": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T23:08:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ノジマ 700万人分の個人情報流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601104?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T22:26:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "徴収金の督促長年怠る 校長ら補填",
+      "link": "https://news.yahoo.co.jp/pickup/6601103?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T22:27:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TDL内に野良猫 運営会社の対応は",
+      "link": "https://news.yahoo.co.jp/pickup/6601105?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T22:43:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "20歳が握力計「破壊」新弟子検査",
+      "link": "https://news.yahoo.co.jp/pickup/6601106?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T22:54:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トンネルで2台正面衝突 30代死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601110?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T00:04:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "7歳虐待死 裁判でにじむ母の後悔",
+      "link": "https://news.yahoo.co.jp/pickup/6601108?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T23:38:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エムバペ選手発言 中国側強く反発",
+      "link": "https://news.yahoo.co.jp/pickup/6601109?source=rss",
+      "description": "",
+      "pub_date": "2026-11-02T23:52:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリ宗佑磨 国内FA権の行使表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601112?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T07:21:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で濃霧発生 車の運転など注意",
+      "link": "https://news.yahoo.co.jp/pickup/6601119?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T07:47:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "医療インバウンド 厚労省が検証へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601113?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T07:29:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "島田麻央 五輪巡り「苦しかった」",
+      "link": "https://news.yahoo.co.jp/pickup/6601120?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T07:44:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "転換期の憲法論議 発議見通せず",
+      "link": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T07:44:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神参戦 小島和哉に条件提示へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601121?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T08:07:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦力外の巨人・湯浅大が現役引退",
+      "link": "https://news.yahoo.co.jp/pickup/6601123?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T08:19:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ政権に「共感」日本で23%",
+      "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T09:06:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "公布80年 初改正へ改憲派前のめり",
+      "link": "https://news.yahoo.co.jp/pickup/6601124?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T08:35:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露軍がウの学校に空爆 26人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601125?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T08:33:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鳥山明さん仕事場解体へ 惜しむ声",
+      "link": "https://news.yahoo.co.jp/pickup/6601126?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T09:01:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷 4年連続MVPへ最終候補入り",
+      "link": "https://news.yahoo.co.jp/pickup/6601128?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T08:46:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏 演説で「口約束」連発",
+      "link": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T09:09:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子どものセルフレジ操作 SNS賛否",
+      "link": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T09:47:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上宗隆 新人王最終候補入らず",
+      "link": "https://news.yahoo.co.jp/pickup/6601139?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T10:13:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "我が家・坪倉 相方の杉山巡り謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601138?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T10:02:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO 侵入から2カ月なぜ気付かず",
+      "link": "https://news.yahoo.co.jp/pickup/6601132?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T09:06:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "反対車線はみ出し車衝突 1人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601144?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T10:46:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "親と縁切る「家族じまい」相談増",
+      "link": "https://news.yahoo.co.jp/pickup/6601143?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T10:44:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カブス 鈴木誠也に単年36億円提示",
+      "link": "https://news.yahoo.co.jp/pickup/6601142?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T10:35:48+09:00"
+    }
+  ]
+}
