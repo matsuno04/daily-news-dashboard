@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "matched_at": "2026-11-03T11:45:27.750992+09:00",
+  "matched_at": "2026-11-03T21:45:46.371358+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -17,10 +17,10 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "GMO会見で「命の砂時計」 意味",
-          "link": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
+          "title": "GMOが謝罪 利用者「響かない」",
+          "link": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
           "description": "",
-          "pub_date": "2026-11-03T07:33:34+09:00"
+          "pub_date": "2026-11-02T23:08:17+09:00"
         }
       }
     },
@@ -52,8 +52,8 @@
           "source": "NHK",
           "title": "アメリカ中間選挙 日本時間の今夜から投票開始 焦点は",
           "link": "https://news.web.nhk/newsweb/na/nd-20261103de69868",
-          "description": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は日本時間の3日夜に投票が始まります。トランプ大統領は首都ワシントンで演説し、みずからの成果を強調して共和党候補への投票を呼びかけま…",
-          "pub_date": "2026-11-03T10:16:33+09:00"
+          "description": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日夜、投票が始まります。トランプ大統領が首都ワシントンで演説し、みずからの成果を強調したのに対し、民主党は、オバマ元…",
+          "pub_date": "2026-11-03T12:26:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -73,7 +73,7 @@
           "title": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
           "link": "https://news.web.nhk/newsweb/na/nd-20261103de69859",
           "description": "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。",
-          "pub_date": "2026-11-03T10:14:44+09:00"
+          "pub_date": "2026-11-03T10:14:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -110,10 +110,30 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "ICC赤根所長 国連でアメリカの制裁批判 使命果たすと決意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69880",
+          "description": "戦争犯罪や人道に対する罪などを裁くICC＝国際刑事裁判所の赤根智子所長が国連で年次報告を行い、アメリカによる制裁を厳しく批判するとともに「あらゆる困難にかかわらず使命を果たし続ける」と述べ、決意を示し…",
+          "pub_date": "2026-11-03T10:19:27+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ICC赤根所長 米政権の制裁を批判",
+          "link": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T11:14:00+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "世界的な暗号資産取引所へのサイバー攻撃　北朝鮮が関与否定",
           "link": "https://news.web.nhk/newsweb/na/nd-20261103de69881",
           "description": "世界的な暗号資産の取引所へのサイバー攻撃に北朝鮮が関与しているとアメリカの捜査当局が発表したことについて、キム・ジョンウン総書記の妹、キム・ヨジョン氏は談話で「荒唐無稽なデマだ」と否定しました。",
-          "pub_date": "2026-11-03T10:10:26+09:00"
+          "pub_date": "2026-11-03T10:10:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -121,6 +141,126 @@
           "link": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
           "description": "",
           "pub_date": "2026-11-03T07:40:52+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "カブス 鈴木誠也に“クオリファイング・オファー” 1年36億円",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69908",
+          "description": "大リーグ、カブスとの5年契約を終えフリーエージェントとなった鈴木誠也選手は2日、すべての球団との交渉が可能となりました。 一方でカブスは鈴木選手に対して「クオリファイング・オファー」と呼ばれる日本円で…",
+          "pub_date": "2026-11-03T11:53:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "カブス 鈴木誠也に単年36億円提示",
+          "link": "https://news.yahoo.co.jp/pickup/6601142?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T10:35:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大リーグ 大谷翔平がMVP最終候補に 4年連続の受賞なるか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69910",
+          "description": "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。受賞すれば4年連続5回目となります。",
+          "pub_date": "2026-11-03T11:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大谷 4年連続MVPへ最終候補入り",
+          "link": "https://news.yahoo.co.jp/pickup/6601128?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T08:46:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69916",
+          "description": "人気ドラマ「北の国から」など多くのドラマや舞台の脚本を手がけ、ことし9月に91歳で亡くなった脚本家、倉本聰さんのお別れの会が3日、北海道 富良野市で開かれ、ドラマの出演者らゆかりの深い人たちが別れを告…",
+          "pub_date": "2026-11-03T12:13:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "竹下景子 倉本聰さんお別れ会で涙",
+          "link": "https://news.yahoo.co.jp/pickup/6601167?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T14:01:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカーアジア杯 開催を来年12月に延期 サウジ情勢の影響で",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69969",
+          "description": "AFC＝アジアサッカー連盟は来年1月からサウジアラビアで開催予定だったアジアカップについて、現地の情勢悪化を受けて、来年12月の開幕へ延期することを発表しました。 日本代表は森保一監督がこの大会を最後…",
+          "pub_date": "2026-11-03T17:37:04+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "サッカーアジア杯 1年延期へ",
+          "link": "https://news.yahoo.co.jp/pickup/6601189?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T16:24:04+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69983",
+          "description": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は、日本時間の3日夜8時から投票が始まりました。与党・共和党が上下両院で多数派を維持するのか、野党・民主党が多数派を奪還してトランプ大…",
+          "pub_date": "2026-11-03T20:33:43+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アメリカ 中間選挙の投票始まる",
+          "link": "https://news.yahoo.co.jp/pickup/6601217?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T20:29:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de70007",
+          "description": "韓国のイ・ジェミョン大統領や政府高官らのパスポート番号や生年月日など個人情報が流出し、およそ5か月にわたってインターネットの有料サイト上で閲覧できる状態だったことが明らかになりました。 イ大統領はパ…",
+          "pub_date": "2026-11-03T18:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "韓国 大統領や高官の個人情報流出",
+          "link": "https://news.yahoo.co.jp/pickup/6601155?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T12:31:09+09:00"
         }
       }
     }
@@ -156,24 +296,94 @@
     },
     {
       "source": "NHK",
-      "title": "ICC赤根所長 国連でアメリカの制裁批判 使命果たすと決意",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69880",
-      "description": "戦争犯罪や人道に対する罪などを裁くICC＝国際刑事裁判所の赤根智子所長が国連で年次報告を行い、アメリカによる制裁を厳しく批判するとともに「あらゆる困難にかかわらず使命を果たし続ける」と述べ、決意を示し…",
-      "pub_date": "2026-11-03T10:19:27+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "「バイナンス」へのサイバー攻撃 AI使った新たな手口か",
       "link": "https://news.web.nhk/newsweb/na/nd-20261103de69892",
       "description": "日本円で9900億円が影響を受けた暗号資産の取引所「バイナンス」へのサイバー攻撃に関与したとされる北朝鮮の攻撃グループが、一連の攻撃にAIによる新たな手法を使っていたと見られることが、暗号資産の分析会…",
       "pub_date": "2026-11-03T11:05:06+09:00"
     },
     {
-      "source": "Yahoo!ニュース",
-      "title": "GMOが謝罪 利用者「響かない」",
-      "link": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
-      "description": "",
-      "pub_date": "2026-11-02T23:08:17+09:00"
+      "source": "NHK",
+      "title": "韓国 イ大統領 セキュリティー対策の抜本強化を指示",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69936",
+      "description": "世界各地でサイバー攻撃による被害が相次ぐ中、韓国のイ・ジェミョン大統領は攻撃の兆候を事前に検知するシステムの構築などセキュリティー対策の抜本的な強化を指示しました。",
+      "pub_date": "2026-11-03T14:14:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】千葉県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69903",
+      "description": "3日午後2時40分ごろ、千葉県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。 震度3の揺れを観測したのは、千葉県の東金市、旭市、匝瑳市、山武市、多古町、九十九里町、…",
+      "pub_date": "2026-11-03T15:03:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮が巡航ミサイルの発射実験を実施",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69951",
+      "description": "北朝鮮で巡航ミサイルの能力向上を目的とした2つの実験が行われ、ミサイル総局のトップが実験の成果を強調しました。",
+      "pub_date": "2026-11-03T15:24:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米アップル主力スマートフォン好調で増益　半導体高騰の懸念も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69962",
+      "description": "アメリカのIT大手アップルの2026年9月までの3か月間の決算は、主力製品であるiPhoneの需要が堅調で増益となりました。",
+      "pub_date": "2026-11-03T15:43:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "皇居で文化勲章の親授式",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69927",
+      "description": "文化の日の3日、皇居で文化勲章の親授式が行われ、ことしのノーベル化学賞に選ばれた、そ※合憲三さんなどに天皇陛下から文化勲章が贈られました。",
+      "pub_date": "2026-11-03T14:40:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヒグマと衝突のJR宗谷線 4日から全区間で運転再開へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69986",
+      "description": "特急列車がヒグマと衝突し、一部の区間で運転を見合わせていたJR宗谷線について、JR北海道は復旧作業が終わったとして、4日からすべての区間で運転を再開すると発表しました。",
+      "pub_date": "2026-11-03T16:51:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70021",
+      "description": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。",
+      "pub_date": "2026-11-03T18:13:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "野球 日本代表 井口資仁監督が始動 宮崎で強化合宿",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70010",
+      "description": "野球の日本代表、井口資仁監督の初采配となる国際大会に向けた代表メンバーの強化合宿が、3日から宮崎市で始まりました。",
+      "pub_date": "2026-11-03T17:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "超党派議員連盟がオランダへ出発 ICC赤根所長と面会へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69943",
+      "description": "アメリカのトランプ政権がICC＝国際刑事裁判所のトップを務める赤根智子所長らを制裁対象とする中、超党派の議員連盟は3日、ICCの本部があるオランダに向けて出発しました。現地で赤根所長と面会し、直面する…",
+      "pub_date": "2026-11-03T14:29:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "細野防災相 “熊本地震の復旧・復興 防災庁が司令塔機能発揮”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70035",
+      "description": "細野防災大臣は、就任後初めての視察先として熊本地震の被災地を訪れ、新たに発足した防災庁が司令塔機能を発揮し、復旧・復興に取り組んでいく考えを強調しました。",
+      "pub_date": "2026-11-03T19:12:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "剣道全日本選手権 男子は中田竜之介 女子は末永真理が優勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70038",
+      "description": "剣道の全日本選手権が日本武道館で行われ、男子は中田竜之介選手が、女子は末永真理選手がそれぞれ優勝しました。",
+      "pub_date": "2026-11-03T19:19:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "小泉防衛相 防衛省のAI活用に関する基本方針見直す考え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70050",
+      "description": "小泉防衛大臣は、安全保障分野でAIをはじめとした先端技術の領域が急速に進んでいるとして、防衛省が定めたAIの活用に関する基本方針を見直す考えを示しました。",
+      "pub_date": "2026-11-03T20:14:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -247,6 +457,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "GMO会見で「命の砂時計」 意味",
+      "link": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T07:33:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "島田麻央 五輪巡り「苦しかった」",
       "link": "https://news.yahoo.co.jp/pickup/6601120?source=rss",
       "description": "",
@@ -303,13 +520,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "大谷 4年連続MVPへ最終候補入り",
-      "link": "https://news.yahoo.co.jp/pickup/6601128?source=rss",
-      "description": "",
-      "pub_date": "2026-11-03T08:46:34+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "トランプ氏 演説で「口約束」連発",
       "link": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
       "description": "",
@@ -359,10 +569,290 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "カブス 鈴木誠也に単年36億円提示",
-      "link": "https://news.yahoo.co.jp/pickup/6601142?source=rss",
+      "title": "米中間選挙「MAGA」の動向焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6601145?source=rss",
       "description": "",
-      "pub_date": "2026-11-03T10:35:48+09:00"
+      "pub_date": "2026-11-03T10:59:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神高速でトラック横転 単独か",
+      "link": "https://news.yahoo.co.jp/pickup/6601149?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T11:17:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "28年かけ世界一周 英冒険家が帰郷",
+      "link": "https://news.yahoo.co.jp/pickup/6601152?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T11:44:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐野勇斗&髙石あかり 今年の顔に",
+      "link": "https://news.yahoo.co.jp/pickup/6601150?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T11:40:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「白米千枚田」イノシシが荒らす",
+      "link": "https://news.yahoo.co.jp/pickup/6601156?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T12:21:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車と地面の間に挟まれる 女性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601157?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T12:44:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "きのこの山イヤホン 再販時の配慮",
+      "link": "https://news.yahoo.co.jp/pickup/6601151?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T11:47:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例 カープ広報職員がコーチ転身",
+      "link": "https://news.yahoo.co.jp/pickup/6601158?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T12:54:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐野勇斗 音声トラブルに地声対応",
+      "link": "https://news.yahoo.co.jp/pickup/6601159?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T13:06:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 イランとの合意あり得る",
+      "link": "https://news.yahoo.co.jp/pickup/6601160?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T13:28:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車が男性はね海へ転落 運転手死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601161?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T13:22:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FAのオリ宗「心熱くなるほうへ」",
+      "link": "https://news.yahoo.co.jp/pickup/6601166?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T14:06:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・松井監督が本格指導解禁",
+      "link": "https://news.yahoo.co.jp/pickup/6601162?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T13:28:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ政権に審判 民主優勢保つ",
+      "link": "https://news.yahoo.co.jp/pickup/6601173?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T14:58:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪市行政システム 情報漏えいか",
+      "link": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T13:50:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米巨大IT5社とも増収 7～9月期",
+      "link": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T14:46:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "詐欺G摘発 金が工藤会に渡ったか",
+      "link": "https://news.yahoo.co.jp/pickup/6601169?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T14:21:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天入団の甲斐 勝ちに飢えている",
+      "link": "https://news.yahoo.co.jp/pickup/6601171?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T14:58:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "離婚後極貧 50歳で教員免許を取得",
+      "link": "https://news.yahoo.co.jp/pickup/6601175?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T15:29:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "夫より高学歴・高収入 妻の悩み",
+      "link": "https://news.yahoo.co.jp/pickup/6601184?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T15:46:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本ハム カストロらの退団発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601188?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T16:21:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 民主勝利ならどうなる",
+      "link": "https://news.yahoo.co.jp/pickup/6601194?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T17:12:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "教員確保へ働き方改革推進 文科相",
+      "link": "https://news.yahoo.co.jp/pickup/6601170?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T14:35:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダークウェブ 日本人の情報流出増",
+      "link": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T15:51:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小園海斗 去就「話せることない」",
+      "link": "https://news.yahoo.co.jp/pickup/6601195?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T17:27:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "長澤まさみ 汚されるシーンは好き",
+      "link": "https://news.yahoo.co.jp/pickup/6601191?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T16:44:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SNS巡る問題 揺らぐ表現の自由",
+      "link": "https://news.yahoo.co.jp/pickup/6601198?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T17:53:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "旧統一総裁の保釈取り消し 韓国",
+      "link": "https://news.yahoo.co.jp/pickup/6601202?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T18:14:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "盤上に虫 藤井竜王思わず席を立つ",
+      "link": "https://news.yahoo.co.jp/pickup/6601201?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T18:09:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アジア杯延期 JFA会長がコメント",
+      "link": "https://news.yahoo.co.jp/pickup/6601200?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T18:00:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "是枝氏 倉本作品は「教科書です」",
+      "link": "https://news.yahoo.co.jp/pickup/6601192?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T16:47:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "簗氏の出陣式で鉢巻きを無償配布",
+      "link": "https://news.yahoo.co.jp/pickup/6601203?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T18:32:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMOのサーバー「設計上の不備」",
+      "link": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T18:50:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "朝倉未来 大みそかのRIZIN参戦",
+      "link": "https://news.yahoo.co.jp/pickup/6601210?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T19:03:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鳥山明さんの仕事場 なぜ残せない",
+      "link": "https://news.yahoo.co.jp/pickup/6601204?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T18:32:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴルフカートにひかれ 女性重傷",
+      "link": "https://news.yahoo.co.jp/pickup/6601211?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T19:38:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井秀喜監督「擬音語」で指導",
+      "link": "https://news.yahoo.co.jp/pickup/6601215?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T20:02:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪 ナンバーワン副首都目指す",
+      "link": "https://news.yahoo.co.jp/pickup/6601214?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T20:22:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東 4日夜-5日に激しい雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601216?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T20:26:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海に新生児とみられる遺体 事件か",
+      "link": "https://news.yahoo.co.jp/pickup/6601218?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T21:04:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豪が追加利上げ 18年ぶり高水準",
+      "link": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T19:23:11+09:00"
     }
   ]
 }
