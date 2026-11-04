@@ -1,0 +1,423 @@
+{
+  "date": "2026-11-04",
+  "matched_at": "2026-11-04T11:45:49.330263+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカーアジア杯 開催を来年12月に延期 サウジ情勢の影響で",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69969",
+          "description": "AFC＝アジアサッカー連盟は来年1月からサウジアラビアで開催予定だったアジアカップについて、現地の情勢悪化を受けて、来年12月の開幕へ延期することを発表しました。日本代表は森保一監督がこの大会を最後に…",
+          "pub_date": "2026-11-03T22:34:51+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アジア杯延期 森保氏去就どうなる",
+          "link": "https://news.yahoo.co.jp/pickup/6601225?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T22:45:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカースペイン2部の試合で選手どうしが激突 1人死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de70067",
+          "description": "今月2日に行われたサッカーのスペイン2部の試合で、パスに反応して走り込んだ選手が飛び出してきた相手のゴールキーパーと激しくぶつかって倒れ、その後、死亡しました。",
+          "pub_date": "2026-11-03T23:15:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "スペイン2部 試合中搬送のFW死去",
+          "link": "https://news.yahoo.co.jp/pickup/6601220?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T21:45:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JR山手線 外回りで始発から運転見合わせ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70098",
+          "description": "JR東日本によりますと、山手線は巣鴨駅の線路内で煙が確認されたとして、外回りの全線で始発から運転を見合わせています。運転再開の見込みは立っていないということです。内回りは始発から運転しているということ…",
+          "pub_date": "2026-11-04T04:50:44+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "山手線外回り 始発から見合わせ",
+          "link": "https://news.yahoo.co.jp/pickup/6601236?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T05:19:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+          "description": "サイバー攻撃によって、日本円でおよそ1兆円相当の資産が被害を受けた暗号資産の世界的な取引所「バイナンス」は、ハッカーが偽の求人面接やAIツールなどを駆使して犯行に及んだとする報告書を公表しました。",
+          "pub_date": "2026-11-04T08:18:48+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "1兆円盗難 バイナンスが手口公表",
+          "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T09:49:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“北朝鮮が飛しょう体を発射”韓国軍発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70141",
+          "description": "韓国軍の合同参謀本部は、北朝鮮が日本海に向けて飛しょう体を発射したと、4日午前9時50分すぎに発表しました。",
+          "pub_date": "2026-11-04T10:00:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北朝鮮が日本海に向け飛翔体発射",
+          "link": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T10:16:27+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "株価 一時2000円超値下がり 半導体などの銘柄に売り注文広がる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70160",
+          "description": "祝日明けの4日の東京株式市場、日経平均株価は一時、2000円以上値下がりしています。 アメリカの中間選挙の開票が進む中、AI関連投資の先行きの不透明感が意識され、半導体などの銘柄に売り注文が広がって…",
+          "pub_date": "2026-11-04T10:58:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日経平均株価 一時2000円超下落",
+          "link": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T11:10:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アソビュー 会員情報1582万件余流出 「アララ」不正アクセスで",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70170",
+          "description": "レジャー施設などの予約サービスを提供する「アソビュー」は、メール配信に利用していたサービスが不正アクセスを受けた影響で、会員の情報1582万件余りが流出したと発表しました。",
+          "pub_date": "2026-11-04T11:21:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アソビュー 1580万件が流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6601228?source=rss",
+          "description": "",
+          "pub_date": "2026-11-03T23:08:40+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "ウクライナ南部で31人死亡 東部で70人余けが ロシアの攻撃で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70056",
+      "description": "ウクライナでは南部の都市でロシアとウクライナの局地的な停戦が終了しましたが、2日から3日にかけて各地でロシア軍による攻撃があり、南部ザポリージャ州で31人が死亡したほか、東部でも70人余りのけが人が出…",
+      "pub_date": "2026-11-03T21:49:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "旧統一教会 ハン・ハクチャ総裁 指定の病院離れ保釈取り消し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70061",
+      "description": "韓国で政治資金法違反などの罪で実刑判決を受けた旧統一教会のトップ、ハン・ハクチャ（韓鶴子）総裁が、治療を理由に保釈されていたにもかかわらず指定された病院を離れて教団施設を訪れていたとして、裁判所は3日…",
+      "pub_date": "2026-11-03T22:12:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69983",
+      "description": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は全米各地で投票が行われていて、一部の州では日本時間の午前8時から開票が始まります。与党・共和党が上下両院で多数派を維持するのか、野党…",
+      "pub_date": "2026-11-04T05:54:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スペイン列車事故 AI導入し異常検知など再発防止策",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70092",
+      "description": "スペイン中部で高速鉄道の列車が別の列車に追突し、69人が死亡した事故で、スペイン政府は再発防止に向けて、運転指令センターと運転士のやりとりの監視や異常事態の検知のためAIを使った技術を導入する方針を示…",
+      "pub_date": "2026-11-04T05:05:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風31号の影響 あすは関東・伊豆諸島で大雨のおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70112",
+      "description": "強い台風31号の周辺から湿った空気が流れ込む影響で、関東と伊豆諸島では5日、大雨のおそれがあります。気象庁は、土砂災害や低い土地の浸水などに十分注意するよう呼びかけています。",
+      "pub_date": "2026-11-04T07:06:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スペインの運輸相 辞任の意向を表明 列車事故を受けて",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70111",
+      "description": "スペインのプエンテ運輸相は3日、議会で「スペインのような国で1年足らずのうちにこれほど深刻な事故が2度も起きていながら、この職にとどまることはできない」と述べ、辞任する意向を明らかにしました。 プエ…",
+      "pub_date": "2026-11-04T06:50:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 採決時期などめぐり与野党の調整本格化へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70058",
+      "description": "食料品の消費税減税関連法案は4日も衆議院の委員会で審議が続くとともに、与野党の日程協議が行われる見通しです。与党側が衆議院の通過に向けて採決の時期を探ることにしているのに対し、野党側は高市総理大臣の委…",
+      "pub_date": "2026-11-04T05:37:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "APEC閣僚会議開催 オンライン形式は異例",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70103",
+      "description": "中国・※深センで今月開かれるAPEC＝アジア太平洋経済協力会議の首脳会議を前に、外相・貿易担当相の会議が3日夜、オンライン形式で開かれました。閣僚会議は通常、首脳会議の前に対面で行われていて、オンライ…",
+      "pub_date": "2026-11-04T06:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JA全農 来春向け肥料値上げへ 中東情勢が主因",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70060",
+      "description": "来年春の農作業向けの肥料価格について、JA全農＝全国農業協同組合連合会は基準となるタイプで15％余り値上げすると発表しました。中東情勢の緊迫化に伴う原料の調達コストの増加が主な要因です。",
+      "pub_date": "2026-11-04T06:45:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "インフラや防衛分野に向け国産AIの開発進む",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+      "description": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。",
+      "pub_date": "2026-11-04T07:19:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙 上院 民主11 共和5 当選確実【随時更新】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
+      "description": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は各地で開票が始まっていて、連邦議会上院ではこれまでに与党・共和党が5つの州で、野党・民主党が11の州で当選を確実にしました。 上院で…",
+      "pub_date": "2026-11-04T11:28:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナ・ドイツ首脳会談 3か国協議で具体的な進展に期待",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70105",
+      "description": "ウクライナのゼレンスキー大統領は、来週予定されるウクライナとロシアの和平を巡るアメリカを交えた3か国の高官協議について、首脳レベルの会談に向けた具体的な進展に期待を示しました。",
+      "pub_date": "2026-11-04T07:49:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領「私には究極の権限“拒否権”がある」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70148",
+      "description": "アメリカのトランプ大統領は、中間選挙の投票が終了する前にCBSテレビの電話インタビューに応じ「私には究極の権限がある。それは“拒否権”と呼ばれるものだ」と述べ、仮に連邦議会で民主党が主導権を握ったとし…",
+      "pub_date": "2026-11-04T10:36:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
+      "description": "食料品の消費税減税関連法案をめぐり、4日朝の衆議院財務金融委員会の理事会で与党側は、審議時間は積み上がってきているとして6日に採決したいと提案しました。これに対し野党側は、高市総理大臣が質疑に出席する…",
+      "pub_date": "2026-11-04T11:15:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 集計長期化の可能性も",
+      "link": "https://news.yahoo.co.jp/pickup/6601226?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T23:02:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "武部農相 献金巡り新たな疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T21:53:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台湾の九份 日本人男性が行方不明",
+      "link": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T21:38:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緊急要請 備蓄1週間分並べてみた",
+      "link": "https://news.yahoo.co.jp/pickup/6601223?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T22:31:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アソビュー 1500万件超の情報流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601234?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T23:59:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイ 輸入EVの物品税引き上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6601233?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T23:40:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カワラボ メンバーの個人Xを休止",
+      "link": "https://news.yahoo.co.jp/pickup/6601231?source=rss",
+      "description": "",
+      "pub_date": "2026-11-03T23:14:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "路上に血を流した女性 搬送も重体",
+      "link": "https://news.yahoo.co.jp/pickup/6601239?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T06:21:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島・森下がFA決断 争奪戦確実",
+      "link": "https://news.yahoo.co.jp/pickup/6601241?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T06:44:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保J 集大成の場なく年内に幕か",
+      "link": "https://news.yahoo.co.jp/pickup/6601242?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T06:55:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アメリカ中間選挙の開票始まる",
+      "link": "https://news.yahoo.co.jp/pickup/6601254?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T08:28:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 予測市場が試練に直面",
+      "link": "https://news.yahoo.co.jp/pickup/6601252?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T08:11:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "欧州で旅客機への爆破予告相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6601246?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T07:30:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 イスラエル支援終了発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601244?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T07:30:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パーソナルトレ トラブル急増",
+      "link": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T08:16:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンホールカード人気 トラブルも",
+      "link": "https://news.yahoo.co.jp/pickup/6601247?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T07:43:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「アンメット」続編決定 来年放送",
+      "link": "https://news.yahoo.co.jp/pickup/6601245?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T07:32:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米 イスラエル年40億ドル支援終了",
+      "link": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T09:15:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東一部 5日朝に警報級大雨恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T08:23:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例抜擢 マリナーズ新監督に36歳",
+      "link": "https://news.yahoo.co.jp/pickup/6601251?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T08:37:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中継 米中間選挙の開票速報",
+      "link": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T10:01:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自治体システム移行費巡り調査へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T09:20:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米津「Lemon」MV10億回再生突破",
+      "link": "https://news.yahoo.co.jp/pickup/6601261?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T09:39:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アメリカ中間選挙 注目の激戦州は",
+      "link": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T10:54:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フードデリバリー業界に淘汰の波",
+      "link": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T10:25:19+09:00"
+    }
+  ]
+}
