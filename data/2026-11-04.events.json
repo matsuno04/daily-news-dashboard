@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "matched_at": "2026-11-04T11:45:49.330263+09:00",
+  "matched_at": "2026-11-04T21:45:49.465828+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -70,17 +70,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
-          "description": "サイバー攻撃によって、日本円でおよそ1兆円相当の資産が被害を受けた暗号資産の世界的な取引所「バイナンス」は、ハッカーが偽の求人面接やAIツールなどを駆使して犯行に及んだとする報告書を公表しました。",
-          "pub_date": "2026-11-04T08:18:48+09:00"
+          "title": "アメリカ中間選挙 民主党 上下両院で多数派奪還へ【最新情報】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
+          "description": "アメリカの中間選挙は、野党・民主党が連邦議会の上下両院で多数派を奪還することが確実になり、予想を上回る大きな勝利となりました。 トランプ政権に対し、有権者の厳しい評価が示されたかたちです。",
+          "pub_date": "2026-11-04T20:32:13+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "1兆円盗難 バイナンスが手口公表",
-          "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+          "title": "米民主党が両院で過半数確実 報道",
+          "link": "https://news.yahoo.co.jp/pickup/6601295?source=rss",
           "description": "",
-          "pub_date": "2026-11-04T09:49:15+09:00"
+          "pub_date": "2026-11-04T13:52:02+09:00"
         }
       }
     },
@@ -110,17 +110,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "株価 一時2000円超値下がり 半導体などの銘柄に売り注文広がる",
+          "title": "株価 値下がり アメリカ中間選挙でAI関連投資に不透明感",
           "link": "https://news.web.nhk/newsweb/na/nd-20261104de70160",
-          "description": "祝日明けの4日の東京株式市場、日経平均株価は一時、2000円以上値下がりしています。 アメリカの中間選挙の開票が進む中、AI関連投資の先行きの不透明感が意識され、半導体などの銘柄に売り注文が広がって…",
-          "pub_date": "2026-11-04T10:58:00+09:00"
+          "description": "祝日明けの4日の東京株式市場、アメリカの中間選挙の開票作業が進む中でAI関連投資の先行きに対する不透明感が意識され、日経平均株価は値下がりしました。",
+          "pub_date": "2026-11-04T16:26:26+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "日経平均株価 一時2000円超下落",
-          "link": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
+          "title": "東証続落 米選挙懸念でAI株売り",
+          "link": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
           "description": "",
-          "pub_date": "2026-11-04T11:10:16+09:00"
+          "pub_date": "2026-11-04T16:59:18+09:00"
         }
       }
     },
@@ -141,6 +141,146 @@
           "link": "https://news.yahoo.co.jp/pickup/6601228?source=rss",
           "description": "",
           "pub_date": "2026-11-03T23:08:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領「結果を受け入れるつもり」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70306",
+          "description": "中間選挙の開票が進む中、ニューヨーク・タイムズは、トランプ大統領が取材に応じ「結果を受け入れるつもりだ」と述べたと報じました。 その上で、トランプ大統領は「われわれは民主党と協力していく。彼らととも…",
+          "pub_date": "2026-11-04T16:09:56+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "トランプ氏 選挙結果受け入れ表明",
+          "link": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T14:14:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70251",
+          "description": "三菱UFJフィナンシャル・グループは、2027年冬に開業を予定している新たなネット銀行ではキャッシュカードを発行しない方針を固めました。ATMからの入出金はスマートフォンのアプリに一本化し、コスト削減…",
+          "pub_date": "2026-11-04T13:28:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "UFJ新銀行 キャッシュカードなし",
+          "link": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T12:00:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70370",
+          "description": "アメリカの複数のメディアは、南部ジョージア州の州知事選挙でキーシャ・ボトムズ氏の当選が確実になったと伝え、アメリカで史上初の黒人の女性知事が誕生する見通しとなりました。 人口1130万あまりのジョー…",
+          "pub_date": "2026-11-04T16:38:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "黒人女性が州知事に当確 米中間選",
+          "link": "https://news.yahoo.co.jp/pickup/6601305?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T16:10:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
+          "description": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。",
+          "pub_date": "2026-11-04T19:14:45+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "無印良品 クレカ番号など流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6601331?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T18:32:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカー日本代表 強化試合のメンバー28人発表 南野拓実が復帰",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70319",
+          "description": "今月、ブラジル、パラグアイとの強化試合に臨むサッカー日本代表のメンバー28人が発表され、左ひざ前十字じん帯断裂の大けがから復帰した南野拓実選手がおよそ1年ぶりに代表入りしました。",
+          "pub_date": "2026-11-04T18:19:24+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "サッカー日本代表 南野拓実が復帰",
+          "link": "https://news.yahoo.co.jp/pickup/6601300?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T14:33:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+          "description": "サイバー攻撃によって、日本円でおよそ1兆円相当の資産が被害を受けた暗号資産の世界的な取引所「バイナンス」は、ハッカーが偽の求人面接やAIツールなどを駆使して犯行に及んだとする報告書を公表しました。",
+          "pub_date": "2026-11-04T08:18:48+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "1兆円盗難 バイナンスが手口公表",
+          "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T09:49:15+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "自治体のシステム委託先企業が高額請求 公取委が実態調査へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70554",
+          "description": "各地の自治体が、行政事務に関するシステムの委託先を切り替えようとした際、委託先からデータの移行料などとして高額な費用を請求されるケースが報告されているとして、公正取引委員会は、独占禁止法で禁止する「取…",
+          "pub_date": "2026-11-04T18:43:26+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "自治体システム移行費巡り調査へ",
+          "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T09:20:10+09:00"
         }
       }
     }
@@ -176,10 +316,10 @@
     },
     {
       "source": "NHK",
-      "title": "台風31号の影響 あすは関東・伊豆諸島で大雨のおそれ",
+      "title": "台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261104de70112",
-      "description": "強い台風31号の周辺から湿った空気が流れ込む影響で、関東と伊豆諸島では5日、大雨のおそれがあります。気象庁は、土砂災害や低い土地の浸水などに十分注意するよう呼びかけています。",
-      "pub_date": "2026-11-04T07:06:00+09:00"
+      "description": "台風周辺の暖かく湿った空気が流れ込む影響などで、関東と伊豆諸島では4日夜から5日昼ごろにかけて局地的に非常に激しい雨が降り、大雨になるおそれがあります。気象庁は土砂災害や低い土地の浸水などに十分注意す…",
+      "pub_date": "2026-11-04T19:27:29+09:00"
     },
     {
       "source": "NHK",
@@ -218,13 +358,6 @@
     },
     {
       "source": "NHK",
-      "title": "アメリカ中間選挙 上院 民主11 共和5 当選確実【随時更新】",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
-      "description": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は各地で開票が始まっていて、連邦議会上院ではこれまでに与党・共和党が5つの州で、野党・民主党が11の州で当選を確実にしました。 上院で…",
-      "pub_date": "2026-11-04T11:28:20+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "ウクライナ・ドイツ首脳会談 3か国協議で具体的な進展に期待",
       "link": "https://news.web.nhk/newsweb/na/nd-20261104de70105",
       "description": "ウクライナのゼレンスキー大統領は、来週予定されるウクライナとロシアの和平を巡るアメリカを交えた3か国の高官協議について、首脳レベルの会談に向けた具体的な進展に期待を示しました。",
@@ -241,8 +374,85 @@
       "source": "NHK",
       "title": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
       "link": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
-      "description": "食料品の消費税減税関連法案をめぐり、4日朝の衆議院財務金融委員会の理事会で与党側は、審議時間は積み上がってきているとして6日に採決したいと提案しました。これに対し野党側は、高市総理大臣が質疑に出席する…",
-      "pub_date": "2026-11-04T11:15:57+09:00"
+      "description": "食料品の消費税減税関連法案をめぐり、与野党は、6日の衆議院財務金融委員会で高市総理大臣に出席を求めて質疑を行うことで合意し、質疑時間の配分などについて引き続き協議することになりました。 また与党側は…",
+      "pub_date": "2026-11-04T21:02:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "民主党の「ブルーウェーブに乗っている」ポリティコ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70271",
+      "description": "中間選挙の開票が進むなか、アメリカの政治専門サイト、ポリティコは、民主党のシンボルカラーの青色にちなんで「ブルーウェーブに乗っている」と報じ、民主党がこれまでのところ順調に議席を伸ばしている状況を伝え…",
+      "pub_date": "2026-11-04T13:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "川崎市部長を逮捕 公共施設工事の入札前に情報漏らしたか 警察",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70263",
+      "description": "川崎市の59歳の部長が2024年、市が発注した公共施設の塗装防水工事をめぐり入札に関する情報を市内の業界団体に漏らしたとして、官製談合防止法違反などの疑いで逮捕されたことが捜査関係者への取材で分かりま…",
+      "pub_date": "2026-11-04T13:18:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "パチンコ関連団体で1億円超を水増し請求か 元代表理事逮捕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70274",
+      "description": "パチンコ店に設置する機器の代金を水増しさせるなどして関連する一般社団法人に1億7000万円あまりの損害を与えたとして、この団体の元代表理事が警視庁に逮捕されました。",
+      "pub_date": "2026-11-04T12:56:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "食料品などの高騰「懸念」80％以上 アメリカ有権者の意識は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70229",
+      "description": "アメリカの中間選挙で、投票を終えた有権者を対象にAP通信やABCなどが行った調査の結果をまとめました。",
+      "pub_date": "2026-11-04T14:35:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東武日光線4人死亡事故 第三者委員会が初会合",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70307",
+      "description": "ことし8月に栃木県の東武日光線の駅で除草作業中の4人が死亡した事故を受けて、東武鉄道は、事故の背景を検証するための第三者委員会を設置し、4日に初会合を開きました。",
+      "pub_date": "2026-11-04T14:36:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広島 氏名が誤って認識された被爆者の遺骨 遺族に返還",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70266",
+      "description": "広島に投下された原爆で犠牲となり、これまで氏名が誤って認識され引き取り手が見つからなかった男性の遺骨が、4日に戦後81年を経て遺族のもとに返還されました。",
+      "pub_date": "2026-11-04T16:05:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "埼玉県警 巡査部長が警察官から拳銃奪い自分に発砲",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70462",
+      "description": "埼玉県警の30代の巡査部長が、うその110番通報をして駆けつけた警察官から拳銃を奪いみずからの頭に向けて発砲しました。警察は、巡査部長は自殺を図ったとみて、拳銃が奪われた状況についても詳しく調べていま…",
+      "pub_date": "2026-11-04T18:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70482",
+      "description": "不正アクセスによる情報漏えいが相次ぐ中、民間の調査会社が調べたところ、先月1か月間だけでサイバー攻撃によって漏えいした可能性がある情報の件数が1億8500万件あまりにのぼることがわかりました。去年1年…",
+      "pub_date": "2026-11-04T18:13:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "非上場企業株式の新評価方式“与党の税制調査会で”片山財務相",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70412",
+      "description": "国税庁の有識者会議で検討されている非上場企業の株式の新たな評価方法をめぐり、片山財務大臣は、この有識者会議での議論をいったん停止し、与党の税制調査会に委ねる考えを示しました。",
+      "pub_date": "2026-11-04T18:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "参政 都議補選で子宮けいがんめぐる発言のボードメンバー 交代",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70569",
+      "description": "参政党の神谷代表は党の執行部にあたるボードメンバーの都議会議員が街頭演説で「子宮けいがんはかぜの一部だ」などと発言したのは不適切だったとした上で、4日付けでボードメンバーを交代したことを明らかにしまし…",
+      "pub_date": "2026-11-04T18:50:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙 各国の受け止めは？【特派員解説】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70587",
+      "description": "アメリカの中間選挙は、野党・民主党が連邦議会の上下両院で多数派を奪還することが確実になり、予想を上回る大きな勝利となりました。",
+      "pub_date": "2026-11-04T20:19:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -393,13 +603,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "自治体システム移行費巡り調査へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
-      "description": "",
-      "pub_date": "2026-11-04T09:20:10+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "米津「Lemon」MV10億回再生突破",
       "link": "https://news.yahoo.co.jp/pickup/6601261?source=rss",
       "description": "",
@@ -414,10 +617,269 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "日経平均株価 一時2000円超下落",
+      "link": "https://news.yahoo.co.jp/pickup/6601272?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T11:10:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "フードデリバリー業界に淘汰の波",
       "link": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
       "description": "",
       "pub_date": "2026-11-04T10:25:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米民主党が下院で過半数確実 CNN",
+      "link": "https://news.yahoo.co.jp/pickup/6601287?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T12:25:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "珍しい名字「井」さん100人超集合",
+      "link": "https://news.yahoo.co.jp/pickup/6601282?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T12:06:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MLB 総年俸制限導入先送りを提案",
+      "link": "https://news.yahoo.co.jp/pickup/6601280?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T11:43:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マッシュル実写映画化 来年に公開",
+      "link": "https://news.yahoo.co.jp/pickup/6601275?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T11:33:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領痛手 民主が下院奪還確実",
+      "link": "https://news.yahoo.co.jp/pickup/6601291?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T13:20:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "担任が生徒と「交際」裁判長断罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601289?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T12:45:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島・森下がFA行使 胸中明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6601290?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T12:59:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "テキサス州上院 38年ぶり民主勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6601292?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T13:36:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日経平均 一時3000円超値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6601297?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T13:59:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体臭トラウマ 根っこにあるもの",
+      "link": "https://news.yahoo.co.jp/pickup/6601301?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T14:23:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジュース1本50円 利益ない自販機",
+      "link": "https://news.yahoo.co.jp/pickup/6601284?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T12:02:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井巨人vs工藤中日 開幕戦で実現",
+      "link": "https://news.yahoo.co.jp/pickup/6601293?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T14:50:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "BYD海外販売が倍増 中国車に明暗",
+      "link": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T15:23:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保監督 アジア杯の延期に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601303?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T15:35:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 敗因巡りイラン攻撃言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T17:00:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "黒人女性が州知事に当選確実 米",
+      "link": "https://news.yahoo.co.jp/pickup/6601313?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T16:53:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "津市の火災 死亡の4人は4～13歳",
+      "link": "https://news.yahoo.co.jp/pickup/6601309?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T16:50:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鉄板の下敷きに 解体作業員が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601307?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T16:32:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラッコ見学を全面中止 鳥羽水族館",
+      "link": "https://news.yahoo.co.jp/pickup/6601310?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T16:49:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "キャンパスノート 15年ぶり刷新",
+      "link": "https://news.yahoo.co.jp/pickup/6601311?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T16:47:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 民主党に「おめでとう」",
+      "link": "https://news.yahoo.co.jp/pickup/6601327?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T18:09:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "重機が倒れ頭挟まれる 作業員死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601321?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T18:01:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カスハラ対策 線引きに迷う現場",
+      "link": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T12:06:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G松井監督 育成指名の中学生言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601318?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T17:36:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴジラ-0.0初日興収が実写歴代1位",
+      "link": "https://news.yahoo.co.jp/pickup/6601317?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T17:35:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米民主党が躍進 支持者は喜び爆発",
+      "link": "https://news.yahoo.co.jp/pickup/6601332?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T18:52:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "すし店の休廃業・解散が急増 25年",
+      "link": "https://news.yahoo.co.jp/pickup/6601334?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T19:10:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G育成指名の14歳 入団意思を表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601329?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T18:39:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田翔希 レンジャーズ幹部ら面談",
+      "link": "https://news.yahoo.co.jp/pickup/6601320?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T17:39:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "列車事故で死亡の邦人 20代男女か",
+      "link": "https://news.yahoo.co.jp/pickup/6601338?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T19:59:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "養殖カンパチ大量死 26万8000匹",
+      "link": "https://news.yahoo.co.jp/pickup/6601336?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T19:28:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日テレ忽滑谷こころアナ 休職発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601339?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T20:11:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 日本経済への影響は",
+      "link": "https://news.yahoo.co.jp/pickup/6601343?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T20:49:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ISSの米宇宙飛行士も中間選挙投票",
+      "link": "https://news.yahoo.co.jp/pickup/6601302?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T15:25:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "警官の拳銃奪い自らに発砲 重体",
+      "link": "https://news.yahoo.co.jp/pickup/6601342?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T20:34:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "本多灯に連盟処分 ロス五輪絶望的",
+      "link": "https://news.yahoo.co.jp/pickup/6601341?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T20:34:44+09:00"
     }
   ]
 }
