@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "matched_at": "2026-11-05T11:45:44.353071+09:00",
+  "matched_at": "2026-11-05T21:45:46.433268+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -32,8 +32,8 @@
           "source": "NHK",
           "title": "「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告",
           "link": "https://news.web.nhk/newsweb/na/nd-20261105de70701",
-          "description": "日本がユネスコの無形文化遺産への登録を目指す「書道」について、ユネスコの評価機関は登録がふさわしいとする勧告をまとめました。 近く正式に登録される見通しです。",
-          "pub_date": "2026-11-05T07:04:00+09:00"
+          "description": "日本がユネスコの無形文化遺産への登録を目指す「書道」について、ユネスコの評価機関は登録がふさわしいとする勧告をまとめました。近く正式に登録される見通しです。",
+          "pub_date": "2026-11-05T19:32:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -90,10 +90,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "消費税減税法案 与党“あす衆院通過”野党“首相答弁で判断”",
+          "title": "消費税減税法案 与党“あす衆院通過” 野党“首相答弁で判断”",
           "link": "https://news.web.nhk/newsweb/na/nd-20261105de70693",
-          "description": "食料品の消費税減税関連法案をめぐり、与党側は十分に審議してきたとして、6日、委員会と本会議で採決を行い衆議院を通過させたい考えです。 これに対して野党側は、高市総理大臣の答弁を聞いた上で採決に応じる…",
-          "pub_date": "2026-11-05T06:00:51+09:00"
+          "description": "食料品の消費税減税関連法案をめぐり、与党側は十分に審議してきたとして、6日、委員会と本会議で採決を行い衆議院を通過させたい考えです。これに対して野党側は、高市総理大臣の答弁を聞いたうえで採決に応じるか…",
+          "pub_date": "2026-11-05T13:17:18+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -130,10 +130,30 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "エボラ出血熱 WHO 新たなワクチン2種類の臨床試験へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70744",
+          "description": "アフリカ中部のコンゴ民主共和国で1万人以上に感染が拡大しているエボラ出血熱を食い止めようと、WHO＝世界保健機関は、現在流行しているウイルスに対応する2種類の新しいワクチンの臨床試験を現地で始めます。",
+          "pub_date": "2026-11-05T09:02:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "エボラ巡り新ワクチン治験 WHO",
+          "link": "https://news.yahoo.co.jp/pickup/6601378?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T08:10:49+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "国税庁「e-Tax」不審な通信検知でメンテナンスも再開",
           "link": "https://news.web.nhk/newsweb/na/nd-20261105de70796",
           "description": "税金の電子申告や納税ができる国税庁のシステム「e-Tax」が、不審な通信を検知したとして、緊急メンテナンスが行われ、4日から利用できなくなりましたが、5日10時半すぎに再開しました。 納税者の個人情…",
-          "pub_date": "2026-11-05T11:14:00+09:00"
+          "pub_date": "2026-11-05T12:04:21+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -145,7 +165,7 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0009",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -161,6 +181,86 @@
           "link": "https://news.yahoo.co.jp/pickup/6601387?source=rss",
           "description": "",
           "pub_date": "2026-11-05T10:14:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ドコモ 通話やデータ通信しにくい状況 不正アクセス確認されず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70883",
+          "description": "NTTドコモでは、5日午前11時すぎから一部の利用者の間で携帯電話のサービスが利用しにくい状況が続いています。 会社では原因について調査を進めていますが、今のところ不正アクセスによるものではないとし…",
+          "pub_date": "2026-11-05T16:40:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ドコモ携帯 全国で障害が発生",
+          "link": "https://news.yahoo.co.jp/pickup/6601414?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T13:13:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "20年前の大雨取材で行方不明の記者 骨の一部見つかる 広島",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70937",
+          "description": "20年前の2006年、広島市で大雨被害の取材に向かったまま行方不明となった中国新聞社の記者の骨の一部が、ことし8月に市内の川で見つかっていたことが分かりました。",
+          "pub_date": "2026-11-05T15:20:32+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "06年豪雨で不明 記者の遺骨発見",
+          "link": "https://news.yahoo.co.jp/pickup/6601406?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T12:27:00+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "三重 鳥羽水族館のラッコ「キラ」死ぬ 国内飼育は1頭のみに",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71090",
+          "description": "三重県の鳥羽水族館で飼育されていたラッコ「キラ」が5日死にました。これで国内で飼育されているラッコはこの水族館の1頭のみとなりました。",
+          "pub_date": "2026-11-05T17:45:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ラッコのキラ死ぬ 国内飼育1頭に",
+          "link": "https://news.yahoo.co.jp/pickup/6601455?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T19:09:27+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "時事通信社カメラマンがプロ球団の練習球持ち帰りフリマで売却",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71103",
+          "description": "時事通信社の20代のカメラマンが2026年2月、プロ野球のキャンプを取材中に練習球を無断で持ち帰り、フリマサイトで売却していたことが分かり、時事通信社は球団側に謝罪したことを明らかにしました。",
+          "pub_date": "2026-11-05T18:05:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "プロ野球取材で球を集め売却 謝罪",
+          "link": "https://news.yahoo.co.jp/pickup/6601440?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T17:12:18+09:00"
         }
       }
     }
@@ -203,17 +303,17 @@
     },
     {
       "source": "NHK",
-      "title": "アメリカ中間選挙 民主党大勝 “トランプ氏に拒絶反応”米報道",
+      "title": "アメリカ中間選挙 共和党大敗 トランプ大統領の対応は【詳報】",
       "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
-      "description": "アメリカの中間選挙は、野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の強固な地盤でも議席を獲得するなど、予想を上回る大きな勝利となりました。地元メディアは「トランプ氏への衝撃的な拒絶反…",
-      "pub_date": "2026-11-05T11:08:34+09:00"
+      "description": "アメリカの中間選挙は野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の強固な地盤でも議席を獲得するなど予想を上回る大きな勝利となりました。 トランプ大統領とバンス副大統領はイランへの軍…",
+      "pub_date": "2026-11-05T20:56:00+09:00"
     },
     {
       "source": "NHK",
       "title": "スペイン列車事故 日本人2人の死亡確認 外務省幹部",
       "link": "https://news.web.nhk/newsweb/na/nd-20261105de70726",
       "description": "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。",
-      "pub_date": "2026-11-05T10:41:07+09:00"
+      "pub_date": "2026-11-05T11:52:34+09:00"
     },
     {
       "source": "NHK",
@@ -231,17 +331,10 @@
     },
     {
       "source": "NHK",
-      "title": "エボラ出血熱 WHO 新たなワクチン2種類の臨床試験へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70744",
-      "description": "アフリカ中部のコンゴ民主共和国で1万人以上に感染が拡大しているエボラ出血熱を食い止めようと、WHO＝世界保健機関は、現在流行しているウイルスに対応する2種類の新しいワクチンの臨床試験を現地で始めます。",
-      "pub_date": "2026-11-05T09:02:13+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "ドコモに不正アクセスの可能性 オンラインサービス停止",
+      "title": "ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出",
       "link": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
-      "description": "NTTドコモは、自社のサーバーが不正アクセスを受けた可能性が高いとして、インターネット上で料金プランの変更などができる「My docomo」と、スマートフォンなどを購入できるオンラインショップのサービ…",
-      "pub_date": "2026-11-05T10:54:24+09:00"
+      "description": "NTTドコモは、外部から不正アクセスを受け、最大でおよそ30万件の顧客情報が流出したと発表しました。",
+      "pub_date": "2026-11-05T19:31:41+09:00"
     },
     {
       "source": "NHK",
@@ -249,6 +342,69 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261105de70783",
       "description": "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…",
       "pub_date": "2026-11-05T11:27:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "特殊詐欺対策 警察庁 送金先口座情報を全国の金融機関と共有へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70890",
+      "description": "特殊詐欺の被害に歯止めが掛からない中、都道府県の警察が把握した被害金の振込先の口座情報を警察庁が一元的に集約し、全国800あまりの金融機関と共有することで次の送金などを食い止める新たな取り組みが始まり…",
+      "pub_date": "2026-11-05T13:07:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙 トランプ大統領の「ゲリマンダー」不発に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70892",
+      "description": "今回のアメリカ中間選挙では、議会下院の選挙区で、与野党ともにみずからの党が有利になるよう恣意的に区割りを変更する「ゲリマンダー」が行われました。",
+      "pub_date": "2026-11-05T12:43:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "description": "ことしの「新語・流行語大賞」の候補が5日発表され、「AI暴走」や「酷暑日」、「りくりゅう」など話題となった30のことばがノミネートされました。 （記事後半で30のことばの意味や関連記事へのリンクを掲載…",
+      "pub_date": "2026-11-05T17:03:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トヨタ元社長 奥田碩氏をしのぶ「感謝の会」 約1000人が参列",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70932",
+      "description": "トヨタ自動車の社長や経団連の初代会長などを務め、ことし8月に亡くなった奥田碩氏をしのぶ「感謝の会」が都内で開かれ、親交のあった人などが別れを惜しみました。",
+      "pub_date": "2026-11-05T14:15:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "財務局長会議 景気判断「緩やかに回復しつつある」据え置き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70864",
+      "description": "財務省は、全国の景気の現状について最新の見方をまとめ「緩やかに回復しつつあるが、中東情勢の影響を注視する必要がある」とした基調判断を据え置きました。",
+      "pub_date": "2026-11-05T13:28:17+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
+      "description": "カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…",
+      "pub_date": "2026-11-05T17:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "宝くじサイト 利用者パスワード意図せず変更される 一時停止に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71154",
+      "description": "宝くじの公式サイトで利用者のパスワードが意図せず変更される事象が確認されたということで、5日午前からホームページの利用を一時的に停止する措置がとられています。",
+      "pub_date": "2026-11-05T18:09:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "木原官房長官 COP31\"高市首相出席せず笹川環境相が参加予定\"",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71230",
+      "description": "トルコで来週、開幕する国連の気候変動対策の会議、COP31について、木原官房長官は、高市総理大臣は出席せず、笹川環境大臣が政府代表として参加を予定していると明らかにしました。",
+      "pub_date": "2026-11-05T20:16:01+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "総務省消防庁 「安否情報システム」への不正アクセス確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71235",
+      "description": "総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。 不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるとい…",
+      "pub_date": "2026-11-05T20:20:56+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -424,6 +580,251 @@
       "link": "https://news.yahoo.co.jp/pickup/6601398?source=rss",
       "description": "",
       "pub_date": "2026-11-05T11:29:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「e-Tax」の運用を再開 国税庁",
+      "link": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T12:03:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "蔵内前議長 現金受け取っていない",
+      "link": "https://news.yahoo.co.jp/pickup/6601408?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T12:18:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海に新生児らしき遺体 死因が判明",
+      "link": "https://news.yahoo.co.jp/pickup/6601397?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T11:36:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田に大量の「まきびし」農家苦慮",
+      "link": "https://news.yahoo.co.jp/pickup/6601400?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T11:49:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米共和党 大敗の責任押し付け合い",
+      "link": "https://news.yahoo.co.jp/pickup/6601407?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T12:32:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カープ・坂倉将吾 FA権行使へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601412?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T12:36:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横綱・豊昇龍が九州場所で復帰",
+      "link": "https://news.yahoo.co.jp/pickup/6601417?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T13:45:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フジ 全ドラマに生成AI導入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601418?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T14:11:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "黒字リストラ 日本にも広がるか",
+      "link": "https://news.yahoo.co.jp/pickup/6601409?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T14:37:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英語版DBZ作曲家 州司法長官に",
+      "link": "https://news.yahoo.co.jp/pickup/6601402?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T11:56:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドコモ オンラインサービス停止",
+      "link": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T12:52:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「フレネミー」26年流行語候補に",
+      "link": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T15:14:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラッコの「キラ」死ぬ 鳥羽水族館",
+      "link": "https://news.yahoo.co.jp/pickup/6601422?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T15:20:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トヨタ中間決算 3年ぶり営業増益",
+      "link": "https://news.yahoo.co.jp/pickup/6601424?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T15:43:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バンス氏 米大統領と距離置く姿勢",
+      "link": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T15:33:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米共和党大敗 宣伝頼り示した限界",
+      "link": "https://news.yahoo.co.jp/pickup/6601411?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T16:51:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドコモ障害「5G SA」のみで発生",
+      "link": "https://news.yahoo.co.jp/pickup/6601432?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T16:35:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "伊勢崎3人死亡事故 2審も懲役20年",
+      "link": "https://news.yahoo.co.jp/pickup/6601433?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T16:38:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "学級写真の廃止 市立小1校が撤回",
+      "link": "https://news.yahoo.co.jp/pickup/6601434?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T16:52:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西川遥輝 日ハムへの残留を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601431?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T16:29:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京ロマンチカ 鶴岡雅義さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6601438?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T17:00:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米右派動揺「トランプ後」を模索",
+      "link": "https://news.yahoo.co.jp/pickup/6601435?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T17:01:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバー攻撃 10月は国内4億件超",
+      "link": "https://news.yahoo.co.jp/pickup/6601439?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T17:12:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "改姓巡り婚約解消 訴えた女性敗訴",
+      "link": "https://news.yahoo.co.jp/pickup/6601441?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T17:21:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "シヤチハタ 化粧品事業に参入へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T17:29:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "電撃辞任の岡田氏 JFA会長が言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601449?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T18:03:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画監督の榊英雄被告 実刑確定へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601450?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T18:14:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10月就任の横浜市長が療養 過労か",
+      "link": "https://news.yahoo.co.jp/pickup/6601452?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T18:41:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "加藤茶 目標は「茶寿」まで長生き",
+      "link": "https://news.yahoo.co.jp/pickup/6601457?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T19:17:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "6日 全国的に気温高く夏日予想も",
+      "link": "https://news.yahoo.co.jp/pickup/6601453?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T18:42:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "税の無駄など1445億円 検査院報告",
+      "link": "https://news.yahoo.co.jp/pickup/6601446?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T17:46:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Cロナウド ポルトガル代表を引退",
+      "link": "https://news.yahoo.co.jp/pickup/6601461?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T20:03:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 米大統領と協力していきたい",
+      "link": "https://news.yahoo.co.jp/pickup/6601463?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T20:52:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サントリー 酒類364品目値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T18:03:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保一監督 年内での勇退が確実に",
+      "link": "https://news.yahoo.co.jp/pickup/6601465?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T20:58:21+09:00"
     }
   ]
 }
