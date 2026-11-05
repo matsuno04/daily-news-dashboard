@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-05",
+  "matched_at": "2026-11-05T11:45:44.353071+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70112",
+          "description": "台風周辺の暖かく湿った空気の影響などで、伊豆諸島では激しい雨の降っているところがあり、新島村に「レベル4土砂災害危険警報」が発表されています。5日昼ごろにかけて関東や伊豆諸島では局地的に非常に激しい雨…",
+          "pub_date": "2026-11-04T22:13:07+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "関東や伊豆諸島 大雨災害に警戒",
+          "link": "https://news.yahoo.co.jp/pickup/6601367?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T06:30:41+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70701",
+          "description": "日本がユネスコの無形文化遺産への登録を目指す「書道」について、ユネスコの評価機関は登録がふさわしいとする勧告をまとめました。 近く正式に登録される見通しです。",
+          "pub_date": "2026-11-05T07:04:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「書道」無形文化遺産に登録へ",
+          "link": "https://news.yahoo.co.jp/pickup/6601371?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T07:19:22+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "NYダウ平均株価 一時1500ドル超上昇 米政治混乱の懸念後退",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70666",
+          "description": "4日のニューヨーク株式市場では買い注文が先行する展開となり、ダウ平均株価は一時、前日の終値と比べて1500ドルを超える大幅な値上がりとなりました。 アメリカの中間選挙で民主党が上下両院の多数派を奪還…",
+          "pub_date": "2026-11-05T02:33:58+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ダウ一時1500ドル高 選挙から一夜",
+          "link": "https://news.yahoo.co.jp/pickup/6601373?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T07:35:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ゆうちょ銀行 松井証券に約2割出資を発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261104de70640",
+          "description": "ゆうちょ銀行はネット証券大手「松井証券」の株式のおよそ20％を取得すると発表しました。資産運用への関心が高まる中、銀行口座の利用者が株式を売買できるサービスなどを提供する方針です。",
+          "pub_date": "2026-11-04T22:07:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ゆうちょ銀 松井証券に20%出資",
+          "link": "https://news.yahoo.co.jp/pickup/6601352?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T22:23:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "消費税減税法案 与党“あす衆院通過”野党“首相答弁で判断”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70693",
+          "description": "食料品の消費税減税関連法案をめぐり、与党側は十分に審議してきたとして、6日、委員会と本会議で採決を行い衆議院を通過させたい考えです。 これに対して野党側は、高市総理大臣の答弁を聞いた上で採決に応じる…",
+          "pub_date": "2026-11-05T06:00:51+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "消費税減税 あすにも衆院通過へ",
+          "link": "https://news.yahoo.co.jp/pickup/6601376?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T08:01:06+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“サイバー攻撃で新チーム運用” 対策パッケージで政府調整",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70695",
+          "description": "不正アクセスによる情報漏えいが相次ぐ中、政府は、今週中をめどにとりまとめる緊急対策パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に開始することなどを盛り込む方向で調整しています…",
+          "pub_date": "2026-11-05T06:23:49+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "サイバー救援隊を創設へ 政府案",
+          "link": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T07:41:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "国税庁「e-Tax」不審な通信検知でメンテナンスも再開",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70796",
+          "description": "税金の電子申告や納税ができる国税庁のシステム「e-Tax」が、不審な通信を検知したとして、緊急メンテナンスが行われ、4日から利用できなくなりましたが、5日10時半すぎに再開しました。 納税者の個人情…",
+          "pub_date": "2026-11-05T11:14:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "e-Taxに不審な通信 緊急メンテ",
+          "link": "https://news.yahoo.co.jp/pickup/6601361?source=rss",
+          "description": "",
+          "pub_date": "2026-11-04T23:08:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フランスの銀行にサイバー攻撃 資金流出の可能性",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de70718",
+          "description": "フランスの銀行がサイバー攻撃を受け、地元メディアは日本円で200億円以上が不正に送金された可能性があると伝えました。フランスでは、11月に入って血液製剤を供給する公的機関でも保管設備でトラブルが起きる…",
+          "pub_date": "2026-11-05T10:15:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "仏銀行サイバー攻撃 177億円流出",
+          "link": "https://news.yahoo.co.jp/pickup/6601387?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T10:14:21+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "有罪判決の競泳 本多灯選手に1年9か月の資格停止処分",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70644",
+      "description": "危険運転傷害の罪で有罪判決を受けた東京オリンピックの競泳の銀メダリスト、本多灯選手について、日本水泳連盟は1年9か月の資格停止処分とすることを決めました。",
+      "pub_date": "2026-11-04T22:33:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "武部農相 公共事業受注企業の寄付「事実確認の上 適切に処理」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70639",
+      "description": "武部農林水産大臣は、過去の衆議院選挙で、公職選挙法で禁じられている国の公共事業を請け負った企業からの寄付を受けた疑いがあると報じられたことについて、寄付をした会社が公共事業を受注していることを知らなか…",
+      "pub_date": "2026-11-04T21:46:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“共和党大敗”受け 専門家「日本は民主側とも太いパイプを」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70619",
+      "description": "アメリカ政治に詳しい早稲田大学の中林美恵子教授は、中間選挙で民主党が予想を上回る勝利となったことを受け、日本は民主党側のリーダーらとも太いパイプを築く必要があると指摘しました。",
+      "pub_date": "2026-11-04T22:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70691",
+      "description": "日本郵便は、出資先の会社が提供するシステムがサイバー攻撃を受け、海外宛ての配送サービス「UGX」で、一部利用ができなくなっていると発表しました。",
+      "pub_date": "2026-11-05T02:20:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "伊豆諸島 雨で地盤緩んでいるところも 土砂災害などに注意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70681",
+      "description": "前線や低気圧の影響で、伊豆諸島や関東南部では5日朝にかけて、非常に激しい雨が降ったところもありました。大雨のピークは過ぎましたが、これまでの雨で、地盤が緩んでいるところもあり、気象庁は引き続き、土砂災…",
+      "pub_date": "2026-11-05T10:51:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ中間選挙 民主党大勝 “トランプ氏に拒絶反応”米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
+      "description": "アメリカの中間選挙は、野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の強固な地盤でも議席を獲得するなど、予想を上回る大きな勝利となりました。地元メディアは「トランプ氏への衝撃的な拒絶反…",
+      "pub_date": "2026-11-05T11:08:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スペイン列車事故 日本人2人の死亡確認 外務省幹部",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70726",
+      "description": "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。",
+      "pub_date": "2026-11-05T10:41:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR内房線 大雨で運転見合わせ 館山駅と千倉駅の間の上下線",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70729",
+      "description": "JR内房線は、大雨のため、千葉県館山市の館山駅と南房総市の千倉駅の間の上下線で運転を見合わせています。",
+      "pub_date": "2026-11-05T06:49:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 敗北理由はイラン “でもまた同じ決断する”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70714",
+      "description": "アメリカの中間選挙は、野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の強固な地盤でも議席を獲得するなど、予想を上回る大きな勝利となりました。 トランプ大統領は、共和党が大敗した中間選…",
+      "pub_date": "2026-11-05T05:57:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "エボラ出血熱 WHO 新たなワクチン2種類の臨床試験へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70744",
+      "description": "アフリカ中部のコンゴ民主共和国で1万人以上に感染が拡大しているエボラ出血熱を食い止めようと、WHO＝世界保健機関は、現在流行しているウイルスに対応する2種類の新しいワクチンの臨床試験を現地で始めます。",
+      "pub_date": "2026-11-05T09:02:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドコモに不正アクセスの可能性 オンラインサービス停止",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
+      "description": "NTTドコモは、自社のサーバーが不正アクセスを受けた可能性が高いとして、インターネット上で料金プランの変更などができる「My docomo」と、スマートフォンなどを購入できるオンラインショップのサービ…",
+      "pub_date": "2026-11-05T10:54:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "グーグル 学校向け学習サービスのAI機能を制限",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70783",
+      "description": "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…",
+      "pub_date": "2026-11-05T11:27:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 日本政府は動向注視",
+      "link": "https://news.yahoo.co.jp/pickup/6601362?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T23:20:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東 5日は滝のような雨降る所も",
+      "link": "https://news.yahoo.co.jp/pickup/6601351?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T22:03:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "塩貝健人 因縁ブラジル戦で招集外",
+      "link": "https://news.yahoo.co.jp/pickup/6601360?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T22:59:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "忽滑谷アナ 夫の海外赴任に帯同",
+      "link": "https://news.yahoo.co.jp/pickup/6601350?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T22:08:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "リニア工事費 再び増額へ検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601365?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T23:54:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "竜王戦でカメムシ出没 僧侶が捕獲",
+      "link": "https://news.yahoo.co.jp/pickup/6601363?source=rss",
+      "description": "",
+      "pub_date": "2026-11-04T23:35:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 25歳右腕ブラロック獲りへ",
+      "link": "https://news.yahoo.co.jp/pickup/6601368?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T06:46:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高校サッカー応援マネに堀口真帆",
+      "link": "https://news.yahoo.co.jp/pickup/6601369?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T06:58:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米民主党 トランプ政権監視強化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601374?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T07:35:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "幹部逮捕 川崎市役所を家宅捜索",
+      "link": "https://news.yahoo.co.jp/pickup/6601377?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T08:22:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "城福浩氏 J1福岡の新監督に就任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601379?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T08:17:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AS代表候補 異例の主将が辞退",
+      "link": "https://news.yahoo.co.jp/pickup/6601375?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T07:42:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「哲代おばあちゃん」死去 106歳",
+      "link": "https://news.yahoo.co.jp/pickup/6601381?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T08:56:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G指名の14歳 周囲の変化に戸惑い",
+      "link": "https://news.yahoo.co.jp/pickup/6601384?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T09:14:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "前田真剣佑 実写版マッシュル主演",
+      "link": "https://news.yahoo.co.jp/pickup/6601380?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T08:24:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米民主党 次のリーダー不在課題",
+      "link": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T09:45:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダイアモンドユカイ娘AS代表入り",
+      "link": "https://news.yahoo.co.jp/pickup/6601385?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T10:04:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "14歳 巨人から指名で周囲は激変",
+      "link": "https://news.yahoo.co.jp/pickup/6601389?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T09:44:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新名神6人死亡 拘禁刑7年が確定",
+      "link": "https://news.yahoo.co.jp/pickup/6601390?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T10:22:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イラン 大敗のトランプ氏を嘲笑",
+      "link": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T10:49:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "香取慎吾が首相 ポリティカルパン",
+      "link": "https://news.yahoo.co.jp/pickup/6601393?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T10:57:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 スピードアップし日本の東へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601396?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T11:27:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "議員辞職から2カ月 蔵内氏が会見",
+      "link": "https://news.yahoo.co.jp/pickup/6601399?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T11:32:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "料理の負担減「メンパ食材」注目",
+      "link": "https://news.yahoo.co.jp/pickup/6601391?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T10:50:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "あいの里シーズン3 なぜ「傑作」",
+      "link": "https://news.yahoo.co.jp/pickup/6601398?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T11:29:03+09:00"
+    }
+  ]
+}
