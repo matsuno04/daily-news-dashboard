@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-06",
+  "matched_at": "2026-11-06T11:45:54.298718+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+          "description": "ロシアのプーチン大統領は5日、JT＝日本たばこ産業の海外の子会社がロシア国内に保有する4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名しました。",
+          "pub_date": "2026-11-06T10:51:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露 JT資産を同国企業の管理下に",
+          "link": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
+          "description": "",
+          "pub_date": "2026-11-05T21:57:53+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "取り調べ拒否が増加 検察が「マニュアル」作成し対応",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71266",
+          "description": "逮捕された容疑者が留置場から出ずに取り調べを拒否する、「出房拒否」と呼ばれるケースが全国で相次いでいます。こうした取り組みを進めている弁護士グループは、捜査機関による取り調べでは黙秘権が十分に保障され…",
+          "pub_date": "2026-11-05T22:15:23+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "取り調べ拒否24年以降158件 調査",
+          "link": "https://news.yahoo.co.jp/pickup/6601499?source=rss",
+          "description": "",
+          "pub_date": "2026-11-06T09:59:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "経済産業省 中部電力に業務改善命令 浜岡原発データ改ざん受け",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71336",
+          "description": "中部電力の浜岡原子力発電所で地震に関するデータを改ざんするなど不祥事が相次いだことを受けて、経済産業省は、6日、中部電力に対し、再発防止に向けた取り組みを進めるよう求める業務改善命令を出しました。",
+          "pub_date": "2026-11-06T10:42:27+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "経産省 中部電力に業務改善命令",
+          "link": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
+          "description": "",
+          "pub_date": "2026-11-06T08:22:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "日経平均株価6万円割れ ことし5月以来 一時4000円超下落",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71341",
+          "description": "6日の東京株式市場は日経平均株価は一時、4000円以上値下がりしています。 アメリカの中間選挙で民主党が大勝し、AIやデータセンターに対する規制が強化されるのではないかという見方からAIや半導体の業…",
+          "pub_date": "2026-11-06T10:53:33+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日経平均が大幅下落 6万円割れ",
+          "link": "https://news.yahoo.co.jp/pickup/6601495?source=rss",
+          "description": "",
+          "pub_date": "2026-11-06T09:17:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71260",
+          "description": "アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。一方、有力紙ニューヨーク・タイムズは本人が辞任を否定したと…",
+          "pub_date": "2026-11-06T11:38:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ルビオ国務長官が辞任検討か 報道",
+          "link": "https://news.yahoo.co.jp/pickup/6601475?source=rss",
+          "description": "",
+          "pub_date": "2026-11-06T06:04:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "9月の実質賃金9か月連続プラス　夏のボーナスも5年連続増",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71108",
+          "description": "物価の変動分を反映したことし9月の実質賃金は、前の年の同じ月と比べて2.2％増えて、9か月連続のプラスとなりました。 厚生労働省は「物価の伸び幅が去年と比べて縮小していることが、継続したプラスにつな…",
+          "pub_date": "2026-11-06T08:35:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "9月の実質賃金 9カ月連続プラス",
+          "link": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
+          "description": "",
+          "pub_date": "2026-11-06T08:53:08+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71360",
+          "description": "NTTドコモでは、5日午前11時すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、6日午前1時20分ごろ復旧したということ…",
+          "pub_date": "2026-11-06T11:03:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ドコモ通信障害が復旧 原因を公表",
+          "link": "https://news.yahoo.co.jp/pickup/6601482?source=rss",
+          "description": "",
+          "pub_date": "2026-11-06T07:25:22+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71262",
+      "description": "大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。",
+      "pub_date": "2026-11-05T21:40:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヨーロッパの旅客機に爆破予告相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71269",
+      "description": "ヨーロッパの複数のメディアによりますと、5日、ヨーロッパで運航している10機以上の旅客機に爆破予告が相次ぎ、一部が行き先を変更するなどの影響を受けました。 これまでのところ、爆発物は見つかっていない…",
+      "pub_date": "2026-11-05T22:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イギリス中銀が利上げ 中東情勢受けた物価抑制へ3年3か月ぶり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71304",
+      "description": "イギリスの中央銀行は0.25％の利上げを決めたと発表しました。 利上げは3年3か月ぶりで、中東情勢を受けた物価の上昇を抑え込むねらいです。",
+      "pub_date": "2026-11-06T01:20:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ナスダック一時5％下落 AI・データセンター規制強化を懸念",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71306",
+      "description": "5日のニューヨーク株式市場では、半導体をはじめ幅広い銘柄に売り注文が広がってハイテク株の比率が高いナスダックの株価指数は一時、前日と比べて5％を超える大幅な下落となり、節目となる2万5000を割り込み…",
+      "pub_date": "2026-11-06T01:37:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71298",
+      "description": "自転車の交通違反に対して反則金の納付を通告するいわゆる「青切符」による取り締まりは、ことし4月の制度導入から半年間でおよそ1万6000件にのぼり、このうち、スマートフォンを見ながらの運転が全体の4割を…",
+      "pub_date": "2026-11-06T00:29:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 与党きょう採決の構え 野党“具体像あいまい”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71308",
+      "description": "食料品の消費税減税関連法案をめぐって衆議院の委員会では、6日に高市総理大臣も出席して質疑が行われます。野党側は「支援金制度の具体像があいまいなままだ」などとしているのに対し、与党側は議論は深まってきた…",
+      "pub_date": "2026-11-06T04:54:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関心高まる「サイバーBCP」 攻撃された後も事業継続へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71299",
+      "description": "不正アクセスによる情報流出の被害が相次ぐ中、サイバー攻撃を受けた場合に影響を最小限にとどめて事業を継続するための計画「サイバーBCP」への関心が企業や団体の間で高まっています。",
+      "pub_date": "2026-11-06T05:05:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フランスで再び大規模デモ 高校で火災など混乱も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71327",
+      "description": "フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。",
+      "pub_date": "2026-11-06T05:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71316",
+      "description": "ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…",
+      "pub_date": "2026-11-06T06:01:03+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "原発賠償で国から東電への支援15兆円余 回収に最長39年と試算",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71317",
+      "description": "福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。",
+      "pub_date": "2026-11-06T05:23:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "不正アクセス対策 政府が予備費100億円の支出を決定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71363",
+      "description": "不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。",
+      "pub_date": "2026-11-06T11:18:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 衆議院財務金融委員会で可決",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
+      "description": "食料品の消費税率を来年4月から2年間、1％に引き下げることなどを盛り込んだ消費税減税関連法案は、衆議院財務金融委員会で採決が行われ、自民・維新両党の賛成多数で可決されました。",
+      "pub_date": "2026-11-06T11:34:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "武部農相 公共事業受注企業から選挙中に受けた寄付を返金へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71388",
+      "description": "武部農林水産大臣は、過去の衆議院選挙で公職選挙法で禁じられている国の公共事業を請け負った企業からの寄付を受けたことが確認されたとして、その分を返金する方針を示しました。 その上で、過去の政治資金収支…",
+      "pub_date": "2026-11-06T11:33:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本製紙 八代工場の紙生産断念へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T22:52:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ドンキ流トイザらス」が始動",
+      "link": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T22:36:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市場で1匹10万円の高級魚 養殖へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601469?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T22:25:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田嶋幸三氏 FIFA会長選へ出馬表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601466?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T22:12:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "蔵内前議長 条件尽くしの異例会見",
+      "link": "https://news.yahoo.co.jp/pickup/6601474?source=rss",
+      "description": "",
+      "pub_date": "2026-11-05T23:40:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NYダウ急落 一時1800ドル超安",
+      "link": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T06:25:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山梨ダルク代表 1.1億円私的流用",
+      "link": "https://news.yahoo.co.jp/pickup/6601479?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T06:56:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "通算76勝のSB東浜巨 広島移籍へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601476?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T06:12:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ZIP!でドラマ復活へ 橋本環奈主演",
+      "link": "https://news.yahoo.co.jp/pickup/6601480?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T07:20:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北沖で「ひずみ」蓄積再開 研究",
+      "link": "https://news.yahoo.co.jp/pickup/6601481?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T07:30:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プルデンシャル報告書に低評価",
+      "link": "https://news.yahoo.co.jp/pickup/6601484?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T07:41:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サイバー攻撃で強制遮断検討 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6601490?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T08:27:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪で物議「排除アート」問題は",
+      "link": "https://news.yahoo.co.jp/pickup/6601488?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T08:36:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MF鎌田大地 終了間際に劇的同点G",
+      "link": "https://news.yahoo.co.jp/pickup/6601492?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T08:52:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島・床田FA行使へ 主力流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6601483?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T07:42:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ルビオ長官 辞任検討の報道否定",
+      "link": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T08:49:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日経平均 一時4000円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T09:32:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米加州 死刑囚548人を終身刑に",
+      "link": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T10:04:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パラグアイ大統領が辞任表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T09:36:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Suicaペンギンのバッグ 販売休止",
+      "link": "https://news.yahoo.co.jp/pickup/6601502?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T10:42:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "南野拓実が1A 完全復活アピール",
+      "link": "https://news.yahoo.co.jp/pickup/6601501?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T10:22:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "流行語候補 芸人ギャグがない背景",
+      "link": "https://news.yahoo.co.jp/pickup/6601500?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T10:15:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "解体現場 10人が体調不良訴え搬送",
+      "link": "https://news.yahoo.co.jp/pickup/6601506?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T11:32:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT 世界市場で苦戦する理由",
+      "link": "https://news.yahoo.co.jp/pickup/6601503?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T11:32:05+09:00"
+    }
+  ]
+}
