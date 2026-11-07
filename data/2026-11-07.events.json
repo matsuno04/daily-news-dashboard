@@ -1,0 +1,405 @@
+{
+  "date": "2026-11-07",
+  "matched_at": "2026-11-07T11:45:50.876109+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "アメリカ就業者数 市場予想上回る 来週の物価動向焦点",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71979",
+          "description": "円相場や株価に影響を及ぼすアメリカの雇用統計が発表され、10月の農業分野以外の就業者は、16万5000人増加し、市場の予想を大きく上回りました。 FRB＝連邦準備制度理事会の金融政策を見通す上で、来…",
+          "pub_date": "2026-11-07T00:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米10月雇用16.5万人増 予想上回る",
+          "link": "https://news.yahoo.co.jp/pickup/6601587?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T00:03:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JESSE コカイン使用の疑いで逮捕 ロックバンドRIZEのボーカル",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71989",
+          "description": "「JESSE」の名前でロックバンドのボーカルとして活動している46歳の男のミュージシャンが、今月、コカインを使用したとして警視庁に逮捕されたことが捜査関係者への取材で分かりました。",
+          "pub_date": "2026-11-07T02:31:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "RIZEボーカル JESSE容疑者逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6601588?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T00:43:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72003",
+          "description": "アメリカのトランプ大統領は、スーザン・ワイルズ大統領首席補佐官が退任し、後任に、スティーブン・ミラー次席補佐官を起用すると明らかにしました。中間選挙で与党・共和党が大敗して以来、トランプ政権では最初の…",
+          "pub_date": "2026-11-07T11:22:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米大統領首席補佐官 ミラー氏昇格",
+          "link": "https://news.yahoo.co.jp/pickup/6601592?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T07:35:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72009",
+          "description": "強い冬型の気圧配置の影響で、北日本では8日にかけ雪や雨を伴って非常に強い風が吹き、北海道の日本海側では大雪となるおそれがあります。暴風や高波に警戒するとともに、大雪による交通への影響に十分注意が必要で…",
+          "pub_date": "2026-11-07T06:14:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "強い寒気 北海道と東北は暴風警戒",
+          "link": "https://news.yahoo.co.jp/pickup/6601620?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T10:39:39+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "NTTドコモ 最大29万件余の顧客情報流出で社長陳謝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71859",
+      "description": "NTTドコモが外部から不正アクセスを受け顧客の情報が流出した問題で、会社は6日に記者会見を開き、前田義晃社長が陳謝しました。",
+      "pub_date": "2026-11-06T21:53:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "相次いで空き巣被害にあった男性が状況語る 愛知 岡崎",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71943",
+      "description": "2026年に入って自宅や会社が相次いで空き巣の被害にあった愛知県内の経営者の男性がNHKの取材に応じ、防犯カメラの映像や自宅の隣の建物で不審なカメラが見つかったことなどから、被害以外にも複数回、狙われ…",
+      "pub_date": "2026-11-06T22:36:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "人口戦略策定で有識者会議初会合 副大臣会議と連携し具体化へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71964",
+      "description": "総合的な人口戦略の策定に向けた政府の有識者会議の初会合が開かれ、関係副大臣らによる会議と連携しながら、戦略の具体化を進めていくことを確認しました。",
+      "pub_date": "2026-11-06T22:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71963",
+      "description": "政府はサイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討します。現在の法律では認められていない、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。",
+      "pub_date": "2026-11-06T22:42:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71861",
+      "description": "いわゆる「台湾有事」をめぐる国会答弁から7日で1年となることについて、高市総理大臣は、中国との間で意思疎通を図り、建設的で安定的な関係を構築していく考えを重ねて示しました。",
+      "pub_date": "2026-11-06T23:42:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "訪問介護 厚生労働省が新たな支援方針 サービス維持への課題は",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71869",
+      "description": "自宅で介護を受けられる訪問介護。高齢化社会に欠かせない制度ですが、経営が厳しい事業者も出ています。 6日、厚生労働省は新たな支援策の案を示しました。訪問介護サービスは維持されるのでしょうか。",
+      "pub_date": "2026-11-06T23:50:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィギュアGP中国大会 男子前半は三浦が首位 佐藤が2位",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71982",
+      "description": "フィギュアスケートのグランプリシリーズ第3戦、中国大会は男子シングル前半のショートプログラムが行われ、三浦佳生選手が首位、佐藤駿選手が2位と日本勢が好スタートを切りました。",
+      "pub_date": "2026-11-07T00:51:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大分 陸上自衛隊戦車3人死亡事故 前の砲弾の破片が原因か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71984",
+      "description": "ことし4月、大分県にある陸上自衛隊の演習場で訓練中の戦車内で砲弾が破裂し隊員3人が死亡した事故で、前の砲弾の破片が異物として装填する場所に残っていたことが原因とみられることがわかりました。 この異物…",
+      "pub_date": "2026-11-07T04:56:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国税庁装う偽メールが急増「メールで還付手続き案内しない」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71902",
+      "description": "国税庁を装って個人情報や金銭をだまし取ろうとする偽メールが急増しています。国税庁は「メールで還付手続きを案内したり納税を求めたりすることはない」として、ホームページで偽メールの特徴を詳しく紹介し、注意…",
+      "pub_date": "2026-11-07T05:05:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "三菱自動車 今年度の業績見通しを下方修正",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71983",
+      "description": "三菱自動車工業は今年度1年間の業績見通しについて、中東情勢の影響で電動車へのシフトが急速に進み、販売台数の減少が見込まれるとして、最終利益を250億円から100億円に下方修正しました。",
+      "pub_date": "2026-11-07T05:06:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71985",
+      "description": "食料品の消費税減税関連法案は自民・維新両党などの賛成多数で衆議院を通過し、参議院に送られました。 参議院では与党が少数となる中、政府・与党は衆議院で反対した野党の賛同も取り付けて成立させたい考えで、…",
+      "pub_date": "2026-11-07T05:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71993",
+      "description": "ロシアのプーチン大統領がJT＝日本たばこ産業の子会社の生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名したことを受けて、外務省の幹部がロシア外務省を訪問し、今回の措置に抗議するとともに直ちに…",
+      "pub_date": "2026-11-07T06:53:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヨーロッパ旅客機にまた爆破予告 テレビ局も標的に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71996",
+      "description": "スペインなどヨーロッパで11月に入って旅客機への爆破予告が相次ぐなか6日、再びチェコなどで爆破予告があり、スペインの外相は、ヨーロッパの弱体化を狙ったハイブリッド攻撃だという見方を示しました。 6日…",
+      "pub_date": "2026-11-07T05:52:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台湾有事発言1年 関係改善には時間も 対話の糸口探る 日本政府",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261106de71967",
+      "description": "いわゆる「台湾有事」をめぐる高市総理大臣の国会答弁から7日で1年になります。 日本政府内では冷え込んでいる中国との関係改善には依然時間がかかるという見方が多くあり、今後の国際会議の機会などを通じて対…",
+      "pub_date": "2026-11-07T05:50:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米カリフォルニア州知事 すべての死刑囚548人を終身刑に減刑",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71997",
+      "description": "アメリカ西部カリフォルニア州のニューサム知事は、州内のすべての死刑囚500人あまりの刑を仮釈放のない終身刑に減刑すると発表しました。",
+      "pub_date": "2026-11-07T06:36:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米欧など10か国 香港民主活動家 黄之鋒氏への判決を非難",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72008",
+      "description": "香港の著名な民主活動家、黄之鋒氏が香港の裁判所から懲役10年の判決を言い渡されたことについて、日本や欧米などの10か国は判決を非難し、「起訴された人への不当な追及を直ちに中止するよう求める」などとする…",
+      "pub_date": "2026-11-07T08:19:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "超党派議員連盟がICC訪問し赤根所長と面会「支援を強化」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72010",
+      "description": "アメリカのトランプ政権がICC＝国際刑事裁判所のトップを務める赤根智子所長らを制裁対象とする中、超党派の議員連盟がオランダにあるICCを訪れ、日本として支援を強化できるよう政府に働きかけていく考えを示…",
+      "pub_date": "2026-11-07T07:20:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ベッセント財務長官と何副首相 貿易摩擦“休戦”の状況を協議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72007",
+      "description": "アメリカのベッセント財務長官は6日、中国の何立峰副首相と電話で会談しました。 トランプ大統領と習近平国家主席の首脳会談を前に、貿易摩擦の「休戦」の実施状況などについて協議したということです。",
+      "pub_date": "2026-11-07T08:46:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イラン「外交の再開には米が具体的行動を」妥協しない姿勢強調",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71998",
+      "description": "アメリカのトランプ大統領がイランへさらなる攻撃を行うか、近く判断するという考えを示す中、イラン政府の高官は6日、外交交渉を再開するにはまずアメリカの具体的な行動が必要だとして妥協しない姿勢を強調しまし…",
+      "pub_date": "2026-11-07T09:04:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "COP前に北極観測の科学者 温暖化の速さに危機感訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72044",
+      "description": "気候変動対策を話し合う国連の会議「COP31」が今月9日から始まるのを前に、北極海を漂流する観測拠点で調査を続ける科学者が国連の事務総長と対談し、北極では急速に温暖化が進んでいると危機感を訴えました。",
+      "pub_date": "2026-11-07T10:38:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "被害訴える元検事 検察は上意下達",
+      "link": "https://news.yahoo.co.jp/pickup/6601578?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T22:27:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "KDDI社長 決算会見で2つのおわび",
+      "link": "https://news.yahoo.co.jp/pickup/6601580?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T22:44:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "池袋女性刺殺 容疑者死亡で不起訴",
+      "link": "https://news.yahoo.co.jp/pickup/6601583?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T23:17:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "久邇邦昭氏死去 上皇さまのいとこ",
+      "link": "https://news.yahoo.co.jp/pickup/6601584?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T23:17:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウルフアロン 72歳の藤波と初対決",
+      "link": "https://news.yahoo.co.jp/pickup/6601577?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T22:37:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "無償トレードの東浜 素直に驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6601576?source=rss",
+      "description": "",
+      "pub_date": "2026-11-06T22:21:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日・上林誠知 国内FA行使決断",
+      "link": "https://news.yahoo.co.jp/pickup/6601590?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T07:26:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ボクシング寺地拳四朗が結婚へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601591?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T07:27:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市首相「中国は重要な隣国」",
+      "link": "https://news.yahoo.co.jp/pickup/6601599?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T08:10:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メーガン妃父 ポルノ所持疑い逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6601596?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T07:52:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「警察が幅寄せ」警官に反則切符",
+      "link": "https://news.yahoo.co.jp/pickup/6601594?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T07:50:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "花ざかりの君たちへ 新ドラマ化",
+      "link": "https://news.yahoo.co.jp/pickup/6601604?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T08:19:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西川貴教 NHK紅白に出場決定",
+      "link": "https://news.yahoo.co.jp/pickup/6601600?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T07:59:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "寂しい 地震被災で工場の復旧断念",
+      "link": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T08:41:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "迷惑行為ショウリンジ 7歳も補導",
+      "link": "https://news.yahoo.co.jp/pickup/6601602?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T08:53:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 FA3人獲りへ24億円超を用意",
+      "link": "https://news.yahoo.co.jp/pickup/6601605?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T08:50:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "RIZEのJESSE フェス出演見合わせ",
+      "link": "https://news.yahoo.co.jp/pickup/6601608?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T09:08:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米民主党 AI規制法案を多数提出へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601606?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T08:49:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中学生4割が外国人増否定的 調査",
+      "link": "https://news.yahoo.co.jp/pickup/6601609?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T09:24:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦力外の藤浪 もう一回頑張りたい",
+      "link": "https://news.yahoo.co.jp/pickup/6601615?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T10:03:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリラジ藤森 第2子誕生を生報告",
+      "link": "https://news.yahoo.co.jp/pickup/6601618?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T10:05:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "岸田氏 国債NISAは慎重な検討必要",
+      "link": "https://news.yahoo.co.jp/pickup/6601610?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T09:22:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "テスラ サイバートラック生産縮小",
+      "link": "https://news.yahoo.co.jp/pickup/6601614?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T09:59:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "故障車修理中 車突っ込み1人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601623?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T10:58:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子宮頸がん死50年に4割増 米大学",
+      "link": "https://news.yahoo.co.jp/pickup/6601617?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T10:39:39+09:00"
+    }
+  ]
+}
