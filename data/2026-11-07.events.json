@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "matched_at": "2026-11-07T11:45:50.876109+09:00",
+  "matched_at": "2026-11-07T21:45:41.763420+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -50,10 +50,30 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "北日本で大荒れの天気 あすにかけ暴風高波に警戒 大雪に注意を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72009",
+          "description": "強い冬型の気圧配置の影響で、北日本では雪を伴って非常に強い風が吹き、大荒れの天気となっています。 8日にかけて風の強い状態が続いて北海道の日本海側では大雪となるおそれがあり、暴風や高波に警戒するとと…",
+          "pub_date": "2026-11-07T20:40:31+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "強い寒気 北海道と東北は暴風警戒",
+          "link": "https://news.yahoo.co.jp/pickup/6601620?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T10:39:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261107de72003",
           "description": "アメリカのトランプ大統領は、スーザン・ワイルズ大統領首席補佐官が退任し、後任に、スティーブン・ミラー次席補佐官を起用すると明らかにしました。中間選挙で与党・共和党が大敗して以来、トランプ政権では最初の…",
-          "pub_date": "2026-11-07T11:22:10+09:00"
+          "pub_date": "2026-11-07T11:22:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -65,22 +85,142 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72009",
-          "description": "強い冬型の気圧配置の影響で、北日本では8日にかけ雪や雨を伴って非常に強い風が吹き、北海道の日本海側では大雪となるおそれがあります。暴風や高波に警戒するとともに、大雪による交通への影響に十分注意が必要で…",
-          "pub_date": "2026-11-07T06:14:00+09:00"
+          "title": "ヨーロッパ旅客機にまた爆破予告 テレビ局も標的に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71996",
+          "description": "スペインなどヨーロッパで11月に入って旅客機への爆破予告が相次ぐなか6日、再びチェコなどで爆破予告があり、スペインの外相は、ヨーロッパの弱体化を狙ったハイブリッド攻撃だという見方を示しました。 6日…",
+          "pub_date": "2026-11-07T05:52:13+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "強い寒気 北海道と東北は暴風警戒",
-          "link": "https://news.yahoo.co.jp/pickup/6601620?source=rss",
+          "title": "欧州各地で爆破予告 報道機関にも",
+          "link": "https://news.yahoo.co.jp/pickup/6601622?source=rss",
           "description": "",
-          "pub_date": "2026-11-07T10:39:39+09:00"
+          "pub_date": "2026-11-07T10:58:58+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "超党派議員連盟がICC訪問し赤根所長と面会「支援を強化」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72010",
+          "description": "アメリカのトランプ政権がICC＝国際刑事裁判所のトップを務める赤根智子所長らを制裁対象とする中、超党派の議員連盟がオランダにあるICCを訪れ、日本として支援を強化できるよう政府に働きかけていく考えを示…",
+          "pub_date": "2026-11-07T07:20:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "超党派議連 ICC赤根所長らを激励",
+          "link": "https://news.yahoo.co.jp/pickup/6601612?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T09:44:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北茨城の海岸で漁船座礁 乗っていた親子3人搬送 2人は意識不明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72072",
+          "description": "7日、茨城県北茨城市で漁船が座礁し、乗っていた親子3人が海に投げ出されるなどして病院に搬送されました。 搬送時、2人は意識不明の状態だったということです。",
+          "pub_date": "2026-11-07T12:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "海岸で漁船が座礁 2人心肺停止",
+          "link": "https://news.yahoo.co.jp/pickup/6601629?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T12:19:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "台風32号が発生 年間発生数は1994年以来の多さに",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72096",
+          "description": "7日正午、日本のはるか南で台風32号が発生しました。 年間の台風発生数としては、32年前の1994年以来の多さです。 気象庁は今後の情報に注意するよう呼びかけています。",
+          "pub_date": "2026-11-07T13:44:34+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "32年ぶりに「台風32号」発生",
+          "link": "https://news.yahoo.co.jp/pickup/6601638?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T14:02:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "プロボウラーの中山律子さんが死去 一大ブームをけん引 84歳",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72117",
+          "description": "「さわやか律子さん」の愛称で人気を集め、ボウリングの一大ブームをけん引したプロボウラーの中山律子さんが亡くなりました。 84歳でした。",
+          "pub_date": "2026-11-07T19:48:45+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中山律子さん死去 元プロボウラー",
+          "link": "https://news.yahoo.co.jp/pickup/6601654?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T15:53:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "自民党執行部 石破氏らに文書で説明要請 消費税法案採決退席で",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72136",
+          "description": "食料品の消費税減税関連法案をめぐって、6日、衆議院本会議での採決を前に、自民党の石破前総理大臣ら4人が退席したことを受けて、党の執行部が「看過できるものではない」などとして、文書での説明を求めているこ…",
+          "pub_date": "2026-11-07T16:21:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "自民 採決前退席の4氏に説明要求",
+          "link": "https://news.yahoo.co.jp/pickup/6601664?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T17:23:17+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシア JTの資産を追加で一時管理下に置く大統領令に署名",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72211",
+          "description": "ロシアのプーチン大統領は6日、JT＝日本たばこ産業がロシア国内に保有する資産を追加で、一時的に、ロシア企業の管理下に置く大統領令に署名しました。",
+          "pub_date": "2026-11-07T21:20:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露がJT資産管理 制裁緩和狙いか",
+          "link": "https://news.yahoo.co.jp/pickup/6601634?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T13:34:08+09:00"
         }
       }
     }
@@ -168,21 +308,14 @@
       "title": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
       "link": "https://news.web.nhk/newsweb/na/nd-20261107de71993",
       "description": "ロシアのプーチン大統領がJT＝日本たばこ産業の子会社の生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名したことを受けて、外務省の幹部がロシア外務省を訪問し、今回の措置に抗議するとともに直ちに…",
-      "pub_date": "2026-11-07T06:53:06+09:00"
+      "pub_date": "2026-11-07T06:53:00+09:00"
     },
     {
       "source": "NHK",
-      "title": "ヨーロッパ旅客機にまた爆破予告 テレビ局も標的に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261107de71996",
-      "description": "スペインなどヨーロッパで11月に入って旅客機への爆破予告が相次ぐなか6日、再びチェコなどで爆破予告があり、スペインの外相は、ヨーロッパの弱体化を狙ったハイブリッド攻撃だという見方を示しました。 6日…",
-      "pub_date": "2026-11-07T05:52:13+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "台湾有事発言1年 関係改善には時間も 対話の糸口探る 日本政府",
+      "title": "台湾有事発言1年 対話の糸口探る日本政府 日中の影響は?",
       "link": "https://news.web.nhk/newsweb/na/nd-20261106de71967",
-      "description": "いわゆる「台湾有事」をめぐる高市総理大臣の国会答弁から7日で1年になります。 日本政府内では冷え込んでいる中国との関係改善には依然時間がかかるという見方が多くあり、今後の国際会議の機会などを通じて対…",
-      "pub_date": "2026-11-07T05:50:00+09:00"
+      "description": "いわゆる「台湾有事」をめぐる高市総理大臣の国会答弁から7日で1年になります。日本政府内では冷え込んでいる中国との関係改善には依然時間がかかるという見方が多くあり、今後の国際会議の機会などを通じて対話の…",
+      "pub_date": "2026-11-07T18:12:33+09:00"
     },
     {
       "source": "NHK",
@@ -197,13 +330,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261107de72008",
       "description": "香港の著名な民主活動家、黄之鋒氏が香港の裁判所から懲役10年の判決を言い渡されたことについて、日本や欧米などの10か国は判決を非難し、「起訴された人への不当な追及を直ちに中止するよう求める」などとする…",
       "pub_date": "2026-11-07T08:19:41+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "超党派議員連盟がICC訪問し赤根所長と面会「支援を強化」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72010",
-      "description": "アメリカのトランプ政権がICC＝国際刑事裁判所のトップを務める赤根智子所長らを制裁対象とする中、超党派の議員連盟がオランダにあるICCを訪れ、日本として支援を強化できるよう政府に働きかけていく考えを示…",
-      "pub_date": "2026-11-07T07:20:00+09:00"
     },
     {
       "source": "NHK",
@@ -225,6 +351,34 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261107de72044",
       "description": "気候変動対策を話し合う国連の会議「COP31」が今月9日から始まるのを前に、北極海を漂流する観測拠点で調査を続ける科学者が国連の事務総長と対談し、北極では急速に温暖化が進んでいると危機感を訴えました。",
       "pub_date": "2026-11-07T10:38:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
+      "description": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…",
+      "pub_date": "2026-11-07T11:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大手金融機関破綻の南米パラグアイで大統領が罷免され混乱続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72104",
+      "description": "南米パラグアイで、人口の半数近くが口座を持つ大手金融機関が経営破綻したことをめぐって、大統領が不正を行っていたとして議会で罷免されるなど混乱が続いています。",
+      "pub_date": "2026-11-07T15:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "介護現場のカスハラの実態は? 厚労省は対策強化へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72045",
+      "description": "介護現場でのカスタマーハラスメント、いわゆるカスハラへの対策を強化するため、厚生労働省は、利用者や家族からの迷惑行為で事業者が介護サービスの提供の継続が難しいと判断する際の基準や、対応方法などを具体的…",
+      "pub_date": "2026-11-07T19:42:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】福島県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72217",
+      "description": "7日午後8時7分ごろ、福島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。 震度3の揺れを観測したのは、福島県郡山市、田村市でした。 このほか、震度2や1の揺…",
+      "pub_date": "2026-11-07T20:33:11+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -400,6 +554,272 @@
       "link": "https://news.yahoo.co.jp/pickup/6601617?source=rss",
       "description": "",
       "pub_date": "2026-11-07T10:39:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ?「有線イヤホン」が再流行",
+      "link": "https://news.yahoo.co.jp/pickup/6601625?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T11:37:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "かかと壊死し激痛 女性の緩和ケア",
+      "link": "https://news.yahoo.co.jp/pickup/6601624?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T11:25:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JESSE容疑者逮捕 バンドが謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601626?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T11:36:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "洗濯機やドライヤー「静音」続々",
+      "link": "https://news.yahoo.co.jp/pickup/6601619?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T10:45:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田中理恵さん 自分を嫌った思春期",
+      "link": "https://news.yahoo.co.jp/pickup/6601631?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T13:09:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンション建築現場で転落 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601640?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T14:07:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "不正アクセス ゲーセンにも影響",
+      "link": "https://news.yahoo.co.jp/pickup/6601633?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T13:31:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "英メーガン妃の父 訴追され出廷",
+      "link": "https://news.yahoo.co.jp/pickup/6601627?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T12:40:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "置き配トラブル責任 国指針公表へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601645?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T14:39:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スーパーの衣料品売れない? 今後",
+      "link": "https://news.yahoo.co.jp/pickup/6601643?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T14:49:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木村拓哉から花 きむらバンド歓喜",
+      "link": "https://news.yahoo.co.jp/pickup/6601650?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T15:13:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米首席補佐官交代 強硬路線進むか",
+      "link": "https://news.yahoo.co.jp/pickup/6601647?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T14:51:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性船長の廃業巡り 市長が謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601652?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T15:34:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "父は元巨人 15歳の逸材女子GK",
+      "link": "https://news.yahoo.co.jp/pickup/6601648?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T15:17:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国の大学など 日本語学ぶ学生減",
+      "link": "https://news.yahoo.co.jp/pickup/6601663?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T16:57:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "障害者と性 問題提起の投稿真意",
+      "link": "https://news.yahoo.co.jp/pickup/6601665?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T17:08:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "購買力高い大学生 なぜ存在する",
+      "link": "https://news.yahoo.co.jp/pickup/6601656?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T16:19:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カズJ3今季初登場 最年長出場更新",
+      "link": "https://news.yahoo.co.jp/pickup/6601662?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T16:57:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "筧美和子 夫と喧嘩中わかった妊娠",
+      "link": "https://news.yahoo.co.jp/pickup/6601667?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T17:05:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "恐竜の化石から赤血球の痕跡か",
+      "link": "https://news.yahoo.co.jp/pickup/6601657?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T16:24:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東大野球部 独自のAIで打球予測",
+      "link": "https://news.yahoo.co.jp/pickup/6601651?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T15:35:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画ドラえもん初上映 印での熱量",
+      "link": "https://news.yahoo.co.jp/pickup/6601666?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T17:18:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SNS中傷 スポーツ・芸能界の対策",
+      "link": "https://news.yahoo.co.jp/pickup/6601649?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T15:05:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "受験生困惑?県の図書館長期休館",
+      "link": "https://news.yahoo.co.jp/pickup/6601668?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T17:27:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中山律子さん死去 収録中に300点",
+      "link": "https://news.yahoo.co.jp/pickup/6601676?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T18:10:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事故漁船に親子3人 転落し2人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601680?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T18:54:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "8日朝 東京など冷え込み今季一番",
+      "link": "https://news.yahoo.co.jp/pickup/6601681?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T19:03:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小嶋陽菜 結婚と第1子出産を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601684?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T19:16:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "親子3人が乗る漁船 転落の2人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601686?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T20:02:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "銭湯の混浴制限 悩む親たちの本音",
+      "link": "https://news.yahoo.co.jp/pickup/6601661?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T16:52:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ブッダボット 仏教界でAI活用模索",
+      "link": "https://news.yahoo.co.jp/pickup/6601670?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T17:45:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "1日に「3連単100万円超」3回 福島",
+      "link": "https://news.yahoo.co.jp/pickup/6601688?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T20:13:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G田中将大 来季に向け悲壮な決意",
+      "link": "https://news.yahoo.co.jp/pickup/6601682?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T19:30:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソマリア海賊問題が再燃 今年15件",
+      "link": "https://news.yahoo.co.jp/pickup/6601675?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T18:29:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国拘束の邦人 満期服役で出所へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601692?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T20:51:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダイビング中の70代女性 行方不明",
+      "link": "https://news.yahoo.co.jp/pickup/6601693?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T21:10:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "こじはる結婚 ノースリーブス祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6601699?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T21:18:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松田龍平の妻・茉愛羅 独立を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601690?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T20:32:36+09:00"
     }
   ]
 }
