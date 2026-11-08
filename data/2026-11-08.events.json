@@ -1,0 +1,478 @@
+{
+  "date": "2026-11-08",
+  "matched_at": "2026-11-08T11:45:46.211331+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フィギュア 千葉百音が優勝 グランプリシリーズ第3戦 中国大会",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72221",
+          "description": "フィギュアスケートのグランプリシリーズ第3戦、中国大会は女子シングル後半のフリーが行われ、前半首位の千葉百音選手が安定感のある演技を見せて、優勝を果たしました。",
+          "pub_date": "2026-11-07T23:56:35+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "千葉百音 捻挫を乗り越えGP3勝目",
+          "link": "https://news.yahoo.co.jp/pickup/6601710?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T22:34:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシア JTの資産を追加で一時管理下に置く大統領令に署名",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72211",
+          "description": "ロシアのプーチン大統領は6日、JT＝日本たばこ産業グループのロシア国内にある3つの現地法人を一時的にロシア企業の管理下に置くとする大統領令に署名しました。5日にもロシア国内にあるJT関連の生産拠点を一…",
+          "pub_date": "2026-11-08T08:13:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露 JT法人3社を一時管理下に追加",
+          "link": "https://news.yahoo.co.jp/pickup/6601707?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T22:27:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "震度5強 愛知で観測約30年ぶり 南海トラフとメカニズム異なる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+          "description": "8日未明、愛知県知多市で震度5強の強い揺れを観測する地震がありました。気象庁は、地震のメカニズムや規模などから、南海トラフのプレート境界の状態に特段の影響は及ぼさないとみられるとした上で、今後1週間程…",
+          "pub_date": "2026-11-08T08:17:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "愛知県で震度5強観測 約30年ぶり",
+          "link": "https://news.yahoo.co.jp/pickup/6601732?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T07:51:32+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東北新幹線 東京～盛岡 上下線運転見合わせ 午前9時再開見込み",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72358",
+          "description": "JR東日本によりますと、東北新幹線は8日午前6時40分ごろに郡山駅と福島駅の間の下り線で架線につるのような植物が付着した影響で、東京駅と盛岡駅の間の上下線で運転を見合わせています。 JRによりますと…",
+          "pub_date": "2026-11-08T08:10:51+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東北新幹線 東京-盛岡で見合わせ",
+          "link": "https://news.yahoo.co.jp/pickup/6601731?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T07:38:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【鉄道影響】東海道新幹線 上下線遅れ 在来線一部運転見合わせ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72329",
+          "description": "JR東海によりますと、東海道新幹線は地震の影響で、静岡駅と岐阜羽島駅の間で速度を落として運転しているため、上下線で最大60分程度の遅れが出ているということです。 在来線は東海道本線、中央本線、武豊線…",
+          "pub_date": "2026-11-08T06:44:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東海道新幹線 地震で最大60分遅れ",
+          "link": "https://news.yahoo.co.jp/pickup/6601728?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T07:52:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ポーランド南部のクラクフで銃撃事件 6人死亡 容疑者は拘束",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72373",
+          "description": "ポーランド南部の都市、クラクフで銃撃事件があり、警察などによりますと、これまでに6人が死亡し、15人がけがをしました。警察は発砲した男の容疑者を拘束し詳しい状況を調べています。",
+          "pub_date": "2026-11-08T08:28:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ポーランドで銃乱射事件 6人死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6601729?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T07:54:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【地震情報】熊本県で震度4 津波の心配なし",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72403",
+          "description": "8日午前10時53分ごろ、熊本県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "pub_date": "2026-11-08T11:21:38+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "熊本県で震度4 津波の心配なし",
+          "link": "https://news.yahoo.co.jp/pickup/6601758?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T11:01:38+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福井の山林に女性遺体 監禁疑いの容疑者の関与捜査",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
+          "description": "石川県内に住む20代の女性を車内に監禁したとして逮捕された40代の男の容疑者が知人の女性を殺害し、遺体を遺棄したという趣旨の説明をしたことから、警察が7日、福井県内の山林を捜索したところ、成人の女性と…",
+          "pub_date": "2026-11-08T11:22:55+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "女性を監禁疑い 供述後に遺体発見",
+          "link": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
+          "description": "",
+          "pub_date": "2026-11-07T21:32:34+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "北茨城で親子3人乗った漁船座礁 50代の息子と娘が死亡",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72072",
+      "description": "7日、茨城県北茨城市で漁船が座礁し、乗っていた親子3人が海に投げ出されるなどして病院に搬送され、このうち、50代の息子と娘の死亡が確認されました。",
+      "pub_date": "2026-11-07T22:12:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ラグビー日本代表×ウェールズ【速報予定】欧州遠征の初戦",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72220",
+      "description": "ラグビー日本代表が“仮想ワールドカップ”と位置づけるイギリス遠征の初戦、国際大会「ネーションズチャンピオンシップ」のウェールズ戦がこのあと日本時間午前1時40分から行われます。会場はウェールズ代表の聖…",
+      "pub_date": "2026-11-07T23:13:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "J1 第14節 首位のFC東京 J1記録タイ9試合連続無失点で3連勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72248",
+      "description": "サッカーJ1は第14節の6試合が行われ、首位のFC東京が鹿島アントラーズに2対0で勝ち、J1記録に並ぶ9試合連続無失点で3連勝です。",
+      "pub_date": "2026-11-08T00:22:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "気象庁記者会見 “同程度の地震に注意”【会見詳細】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72259",
+      "description": "震度5強の揺れを観測した地震について気象庁は、8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明しました。",
+      "pub_date": "2026-11-08T05:28:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知県で震度5強 県内で少なくとも8人けが（午前3時時点）",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72295",
+      "description": "愛知県内の各地の消防によりますと、8日午前3時時点で、この地震で県内では少なくとも8人がけがをしたということです。",
+      "pub_date": "2026-11-08T03:26:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72297",
+      "description": "震度4の揺れを観測した愛知県豊橋市内の自動車販売店ではショーウィンドウのガラスが大きく割れ、窓枠だけが残っているような状態になっています。 割れたガラスの破片が店内だけでなく店舗に面した道路にも散乱…",
+      "pub_date": "2026-11-08T03:33:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知県の高速 5つの道路で全線通行止め",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72280",
+      "description": "愛知県警察の高速道路交通警察隊によりますと現在、地震の影響で▽南知多道路▽知多半島道路▽知多横断道路▽中部空港連絡道路、▽名古屋瀬戸道路のあわせて5つの道路でいずれも上下線の全線が通行止めとなっていま…",
+      "pub_date": "2026-11-08T02:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震】寝台特急「サンライズ瀬戸・出雲」浜松市内で停車",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72298",
+      "description": "JR東海によりますと、午前2時半現在、地震の安全確認を行っている影響で、寝台特急の「サンライズ瀬戸・出雲」が静岡県浜松市の高塚駅と舞阪駅の間の下り線で停車しているということです。 乗客は車内で待機し…",
+      "pub_date": "2026-11-08T03:18:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知県 一宮警察署 “複数の踏切の遮断機がおりたまま”の情報",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72290",
+      "description": "愛知県の一宮警察署によりますと、管轄する地域では「複数の踏切の遮断機がおりたままになっている」という情報があり、確認を進めているということです。",
+      "pub_date": "2026-11-08T02:49:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知で震度5強 12人けが 各地の被害状況",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72310",
+      "description": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。",
+      "pub_date": "2026-11-08T11:27:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国で拘束 服役の大手製薬会社社員 来月刑期終え出所の見通し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72316",
+      "description": "中国で「スパイ活動を行った」として懲役3年6か月の判決を受け服役している大手製薬会社の日本人男性社員が、来月中旬に刑期を終えて出所する見通しとなりました。",
+      "pub_date": "2026-11-08T06:19:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東海道新幹線 運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72365",
+      "description": "JR東海によりますと、東海道新幹線は東京駅から新横浜駅の間の上下線で運転を見合わせていましたが、午前7時40分に再開しました。",
+      "pub_date": "2026-11-08T07:55:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イタリア外相 個人情報が闇サイトに ウクライナ支援で標的か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72338",
+      "description": "イタリアのタヤーニ外相は自身の個人情報がハッカー集団によってインターネット上の闇サイトに公開されたと明らかにしました。イタリアがウクライナへの支援を行ってきたことが自身が標的となった理由だという見方を…",
+      "pub_date": "2026-11-08T06:39:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR内房線 きょう全線で運転再開へ 復旧作業が予定より前倒し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72318",
+      "description": "台風25号の影響で一部区間で運休している千葉県のJR内房線は、8日から全線で運転が再開されます。",
+      "pub_date": "2026-11-08T06:04:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イスラエル 第2党アイゼンコット氏に組閣要請へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72392",
+      "description": "イスラエルでは先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る推薦を集めたアイゼンコット氏が次の政権の組閣を要請される見通しになりました。一方、ネタニヤフ首相は続投を目指して野党勢力の切…",
+      "pub_date": "2026-11-08T09:50:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 総合格闘技団体代表に報道官打診",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72412",
+      "description": "アメリカのトランプ大統領は、空席となっているホワイトハウスの報道官について総合格闘技団体UFCの代表に就任を打診したと明らかにしました。",
+      "pub_date": "2026-11-08T11:03:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「継戦能力」強化を明記 政府検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601705?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T22:06:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "基地交付金 打ち切り恐れに町反発",
+      "link": "https://news.yahoo.co.jp/pickup/6601709?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T22:13:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山本モナさん 50歳で司法修習生に",
+      "link": "https://news.yahoo.co.jp/pickup/6601706?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T22:17:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中間選挙 共和党大敗の舞台裏",
+      "link": "https://news.yahoo.co.jp/pickup/6601716?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T23:18:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大阪維新の会「吉村体制」3期目に",
+      "link": "https://news.yahoo.co.jp/pickup/6601718?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T23:37:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FA宣言 15年ぶり「2ケタ」現実味",
+      "link": "https://news.yahoo.co.jp/pickup/6601712?source=rss",
+      "description": "",
+      "pub_date": "2026-11-07T22:46:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛知県で震度5強 津波の心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6601719?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T01:13:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "愛知県で震度5強 20人超がけが",
+      "link": "https://news.yahoo.co.jp/pickup/6601724?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T07:25:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT最終回 二つのハードル",
+      "link": "https://news.yahoo.co.jp/pickup/6601722?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T07:19:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "住宅火災で2遺体 1人は子どもか",
+      "link": "https://news.yahoo.co.jp/pickup/6601733?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T07:59:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "リトルなでしこ W杯準優勝に涙",
+      "link": "https://news.yahoo.co.jp/pickup/6601726?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T07:35:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "芸能活動中の初代神7全員結婚経験",
+      "link": "https://news.yahoo.co.jp/pickup/6601725?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T07:45:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東北新幹線運転再開 ダイヤは乱れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601744?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T09:14:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "互いに譲らず 冷え切った日中関係",
+      "link": "https://news.yahoo.co.jp/pickup/6601734?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T08:12:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA戸柱恭孝 国内FA行使を決断",
+      "link": "https://news.yahoo.co.jp/pickup/6601735?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T08:39:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中山律子さん死去 桑田佳祐が追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6601745?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T09:24:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "あす都心11℃予想 12月下旬並み",
+      "link": "https://news.yahoo.co.jp/pickup/6601737?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T08:24:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "出火後に家に戻ったか 2遺体発見",
+      "link": "https://news.yahoo.co.jp/pickup/6601751?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T10:12:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アメ横周辺 路上営業巡り家宅捜索",
+      "link": "https://news.yahoo.co.jp/pickup/6601748?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T09:58:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京・調布 VIVANTファンで盛況",
+      "link": "https://news.yahoo.co.jp/pickup/6601742?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T09:20:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤浪晋太郎 イベントで柵越え連発",
+      "link": "https://news.yahoo.co.jp/pickup/6601750?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T10:06:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平野ノラ 娘3歳まで授乳した理由",
+      "link": "https://news.yahoo.co.jp/pickup/6601741?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T09:08:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露 ウのエネ施設に大規模攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6601740?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T08:57:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東大の新学部開設 学生有志猛反発",
+      "link": "https://news.yahoo.co.jp/pickup/6601752?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T10:22:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中間選挙 接戦2州結果に数週間か",
+      "link": "https://news.yahoo.co.jp/pickup/6601753?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T10:28:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "iPS細胞活用のがん治験 来年開始",
+      "link": "https://news.yahoo.co.jp/pickup/6601739?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T08:53:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA戸柱恭孝 FA権行使を表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601756?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T10:46:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Perfumeのっち 渋谷謙人と結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6601761?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T11:26:32+09:00"
+    }
+  ]
+}
