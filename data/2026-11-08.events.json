@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "matched_at": "2026-11-08T11:45:46.211331+09:00",
+  "matched_at": "2026-11-08T21:45:44.050536+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -50,10 +50,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "震度5強 愛知で観測約30年ぶり 南海トラフとメカニズム異なる",
+          "title": "震度5強 愛知で観測約30年ぶり 1週間ほど同程度の揺れに注意",
           "link": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
-          "description": "8日未明、愛知県知多市で震度5強の強い揺れを観測する地震がありました。気象庁は、地震のメカニズムや規模などから、南海トラフのプレート境界の状態に特段の影響は及ぼさないとみられるとした上で、今後1週間程…",
-          "pub_date": "2026-11-08T08:17:00+09:00"
+          "description": "8日未明、静岡県西部を震源とする地震があり、愛知県で震度5強、東海の各地や長野県で震度5弱の揺れを観測しました。気象庁は、地震のメカニズムや規模などから、南海トラフの巨大地震が起きるプレート境界に特段…",
+          "pub_date": "2026-11-08T12:06:27+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -130,6 +130,46 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "JR内房線 約1か月半ぶりに全線再開 利用者から喜びの声 千葉",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72318",
+          "description": "台風25号の影響で一部区間で運休していた千葉県の内房線が、8日午前、およそ1か月半ぶりに全線で運転が再開され、利用者から喜びの声が聞かれました。",
+          "pub_date": "2026-11-08T17:09:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "JR内房線 1カ月半ぶりに全線再開",
+          "link": "https://news.yahoo.co.jp/pickup/6601755?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T10:37:50+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 総合格闘技団体代表に報道官打診",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72412",
+          "description": "アメリカのトランプ大統領は、空席となっているホワイトハウスの報道官について総合格闘技団体UFCの代表に就任を打診したと明らかにしました。",
+          "pub_date": "2026-11-08T11:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "トランプ氏 UFC代表に報道官打診",
+          "link": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T11:16:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "【地震情報】熊本県で震度4 津波の心配なし",
           "link": "https://news.web.nhk/newsweb/na/nd-20261108de72403",
           "description": "8日午前10時53分ごろ、熊本県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
@@ -145,15 +185,15 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0010",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "福井の山林に女性遺体 監禁疑いの容疑者の関与捜査",
+          "title": "山林で女性遺体 女性が相談も警察は意向受け警告行わず",
           "link": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
-          "description": "石川県内に住む20代の女性を車内に監禁したとして逮捕された40代の男の容疑者が知人の女性を殺害し、遺体を遺棄したという趣旨の説明をしたことから、警察が7日、福井県内の山林を捜索したところ、成人の女性と…",
-          "pub_date": "2026-11-08T11:22:55+09:00"
+          "description": "石川県の20代の女性を監禁したとして逮捕された交際相手とみられる容疑者の話に基づき山林から遺体が見つかった事件で、警察がことし7月に女性から「関係を絶ちたい」と相談を受けた際、交際相手に対して警告など…",
+          "pub_date": "2026-11-08T19:37:39+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -161,6 +201,46 @@
           "link": "https://news.yahoo.co.jp/pickup/6601700?source=rss",
           "description": "",
           "pub_date": "2026-11-07T21:32:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72452",
+          "description": "サッカー女子の17歳以下のワールドカップで、日本は決勝でナイジェリアに1対2で敗れて、12年ぶりの優勝はなりませんでした。",
+          "pub_date": "2026-11-08T13:05:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "リトルなでしこ W杯準優勝に涙",
+          "link": "https://news.yahoo.co.jp/pickup/6601726?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T07:35:12+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "浦和レッズ 西川周作 J1最多出場試合記録を更新",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72566",
+          "description": "サッカーJ1、浦和レッズのゴールキーパー、西川周作選手が8日のリーグ戦でJ1での通算出場試合数を「673」として最多記録を更新しました。",
+          "pub_date": "2026-11-08T20:58:36+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "GK西川周作 J1最多出場の金字塔",
+          "link": "https://news.yahoo.co.jp/pickup/6601784?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T14:22:42+09:00"
         }
       }
     }
@@ -231,10 +311,10 @@
     },
     {
       "source": "NHK",
-      "title": "愛知で震度5強 12人けが 各地の被害状況",
+      "title": "愛知で震度5強 19人けが 各地の被害状況",
       "link": "https://news.web.nhk/newsweb/na/nd-20261108de72310",
-      "description": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。",
-      "pub_date": "2026-11-08T11:27:18+09:00"
+      "description": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。各地の被害状況です。",
+      "pub_date": "2026-11-08T11:56:00+09:00"
     },
     {
       "source": "NHK",
@@ -259,13 +339,6 @@
     },
     {
       "source": "NHK",
-      "title": "JR内房線 きょう全線で運転再開へ 復旧作業が予定より前倒し",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72318",
-      "description": "台風25号の影響で一部区間で運休している千葉県のJR内房線は、8日から全線で運転が再開されます。",
-      "pub_date": "2026-11-08T06:04:00+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "イスラエル 第2党アイゼンコット氏に組閣要請へ",
       "link": "https://news.web.nhk/newsweb/na/nd-20261108de72392",
       "description": "イスラエルでは先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る推薦を集めたアイゼンコット氏が次の政権の組閣を要請される見通しになりました。一方、ネタニヤフ首相は続投を目指して野党勢力の切…",
@@ -273,10 +346,31 @@
     },
     {
       "source": "NHK",
-      "title": "トランプ大統領 総合格闘技団体代表に報道官打診",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72412",
-      "description": "アメリカのトランプ大統領は、空席となっているホワイトハウスの報道官について総合格闘技団体UFCの代表に就任を打診したと明らかにしました。",
-      "pub_date": "2026-11-08T11:03:20+09:00"
+      "title": "小泉防衛相 陸海空自衛隊の垣根を越えた組織のあり方検討",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72476",
+      "description": "安全保障関連の3文書の改定をめぐり、小泉防衛大臣は、人口減少が進む中、必要な自衛隊員の数を確保していくことは容易でないとして、陸、海、空の自衛隊の垣根を越えた組織のあり方を検討し、防衛力の向上を図りた…",
+      "pub_date": "2026-11-08T15:18:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 自民 小林政調会長“制度イメージわく審議を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72482",
+      "description": "食料品の消費税減税関連法案について、自民党の小林政務調査会長は、参議院ではより具体的な制度のイメージがわくような審議が必要だとした上で、野党の賛同も得て成立を図りたいという考えを強調しました。",
+      "pub_date": "2026-11-08T15:40:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "拉致被害者家族らが大規模集会 政府の具体的な取り組み求める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72485",
+      "description": "北朝鮮による拉致被害者の家族と支援者が都内で大規模な集会を開き、高市総理大臣が参加する中、一刻も早いすべての被害者の帰国に向けた政府の具体的な取り組みを求めました。",
+      "pub_date": "2026-11-08T18:42:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72408",
+      "description": "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。世界各地で気候変動の影響とみられる災害が相次ぐ中、温室効果ガスの排出削減など、具体的な対策の実行に向けて、各国が足…",
+      "pub_date": "2026-11-08T19:37:06+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -347,13 +441,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6601733?source=rss",
       "description": "",
       "pub_date": "2026-11-08T07:59:13+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "リトルなでしこ W杯準優勝に涙",
-      "link": "https://news.yahoo.co.jp/pickup/6601726?source=rss",
-      "description": "",
-      "pub_date": "2026-11-08T07:35:12+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -473,6 +560,300 @@
       "link": "https://news.yahoo.co.jp/pickup/6601761?source=rss",
       "description": "",
       "pub_date": "2026-11-08T11:26:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "震度5強 南海トラフと関連性低い",
+      "link": "https://news.yahoo.co.jp/pickup/6601764?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T11:55:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「なりすまし電話」巧妙化 対策は",
+      "link": "https://news.yahoo.co.jp/pickup/6601743?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T09:33:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大幅な配置転換も SBが組閣発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601759?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T11:32:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "のっちと渋谷謙人が結婚 Xの反応",
+      "link": "https://news.yahoo.co.jp/pickup/6601763?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T12:01:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ガザで豪雨 避難民のテントが浸水",
+      "link": "https://news.yahoo.co.jp/pickup/6601775?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T13:03:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "持ち運び用歯ブラシ 交換の目安は",
+      "link": "https://news.yahoo.co.jp/pickup/6601749?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T10:00:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高橋塁 ゲイ公表に至るまでの思い",
+      "link": "https://news.yahoo.co.jp/pickup/6601774?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T13:14:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "のっちと結婚 渋谷謙人がコメント",
+      "link": "https://news.yahoo.co.jp/pickup/6601765?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T12:22:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露衛星の軍事利用開始か ウ警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T13:43:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "書店で男性切りつけられる 男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6601778?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T13:34:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人情報 企業に「手放す」動き",
+      "link": "https://news.yahoo.co.jp/pickup/6601781?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:05:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自民 消費減税採決棄権で処分検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601782?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:33:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人情報「手放す」企業が続々",
+      "link": "https://news.yahoo.co.jp/pickup/6601787?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:32:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "増える遺産相続トラブル 背景は",
+      "link": "https://news.yahoo.co.jp/pickup/6601783?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:34:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "迫る蛍光灯製造禁止 家庭も対応を",
+      "link": "https://news.yahoo.co.jp/pickup/6601786?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:58:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元ロッテ右腕 石川歩が現役引退",
+      "link": "https://news.yahoo.co.jp/pickup/6601789?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:42:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "のっちと結婚の渋谷 8歳から子役",
+      "link": "https://news.yahoo.co.jp/pickup/6601777?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T13:11:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "書店員刺される 男「社会に恨み」",
+      "link": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T15:59:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "倉庫には古米の山 赤字覚悟で販売",
+      "link": "https://news.yahoo.co.jp/pickup/6601793?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T15:42:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新庄監督 試合は挨拶優先じゃない",
+      "link": "https://news.yahoo.co.jp/pickup/6601800?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T16:20:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台風 強い勢力で小笠原諸島接近か",
+      "link": "https://news.yahoo.co.jp/pickup/6601792?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T15:51:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "仏全土で抗議デモ 360人拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:55:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事故で娘失う 病院で母「いやだ」",
+      "link": "https://news.yahoo.co.jp/pickup/6601812?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T17:25:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷ユニ 9270万円で入札も不成立",
+      "link": "https://news.yahoo.co.jp/pickup/6601805?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T16:36:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "競馬場どよめく 3連単1206万円",
+      "link": "https://news.yahoo.co.jp/pickup/6601802?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T16:29:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "のっち&渋谷謙人結婚 芸能界祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6601790?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T14:57:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カナリアの島に移民 緊急事態宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T17:23:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "埼玉の利根川に遺体 不明の14歳か",
+      "link": "https://news.yahoo.co.jp/pickup/6601818?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T17:59:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐々木希 子に伝えたい生きる力",
+      "link": "https://news.yahoo.co.jp/pickup/6601810?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T17:26:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラパルフェ VIVANT特需で仕事増",
+      "link": "https://news.yahoo.co.jp/pickup/6601817?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T18:08:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 金正恩氏との首脳会談に意欲",
+      "link": "https://news.yahoo.co.jp/pickup/6601806?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T17:02:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緑茶飲料に逆風 麦茶など存在感",
+      "link": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T18:43:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スズメバチ対策にロープ&クリップ",
+      "link": "https://news.yahoo.co.jp/pickup/6601825?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T18:56:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 織田翔希に10日指名あいさつ",
+      "link": "https://news.yahoo.co.jp/pickup/6601823?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T18:47:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "9日は冬の寒さ 都心は1月上旬並み",
+      "link": "https://news.yahoo.co.jp/pickup/6601822?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T18:50:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山でサーモン養殖 28年1万t生産へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601831?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T20:06:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "休部のパナ野球部 2/3の選手引退",
+      "link": "https://news.yahoo.co.jp/pickup/6601827?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T19:23:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "清貧であるべき? 議員語る違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T18:25:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "飛行中のパラグライダー墜落 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601832?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T20:40:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "誤審で敗北→覆り勝利 主将の本音",
+      "link": "https://news.yahoo.co.jp/pickup/6601839?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T21:09:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "結婚の炎鵬 無事に帰ってあげたい",
+      "link": "https://news.yahoo.co.jp/pickup/6601837?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T21:02:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「VIVANT」最終回 SNSの反応",
+      "link": "https://news.yahoo.co.jp/pickup/6601836?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T21:00:49+09:00"
     }
   ]
 }
