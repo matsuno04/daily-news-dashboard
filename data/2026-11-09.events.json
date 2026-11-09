@@ -1,0 +1,383 @@
+{
+  "date": "2026-11-09",
+  "matched_at": "2026-11-09T11:45:44.774780+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エジプトで列車衝突事故 7人死亡 112人けが",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72671",
+          "description": "エジプトで8日、列車どうしが衝突して一部の車両が脱線し、これまでに7人が死亡、110人以上がけがをしました。",
+          "pub_date": "2026-11-09T05:13:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "エジプトで列車同士衝突 7人死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T07:21:56+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72639",
+          "description": "石川県の20代の女性を監禁した疑いで逮捕された交際相手とみられる容疑者の話に基づき、山林から遺体が見つかった事件で、死亡したのは監禁されたとされる女性と確認されました。死因は首を圧迫されたことなどによ…",
+          "pub_date": "2026-11-09T08:42:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "福井の山林遺体 26歳女性と判明",
+          "link": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
+          "description": "",
+          "pub_date": "2026-11-08T21:33:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72659",
+          "description": "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。一方、ネタニヤ…",
+          "pub_date": "2026-11-09T05:48:50+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "イスラエル 野党党首に組閣指示",
+          "link": "https://news.yahoo.co.jp/pickup/6601869?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T08:31:59+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "7月30日の市場介入 7兆9756億円 円買い介入で過去最大",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72699",
+          "description": "政府・日銀がことし7月から8月にかけて断続的に市場介入を実施し、このうち7月30日に投じた資金は7兆9756億円と、1日のドル売り円買いの介入として過去最大の規模だったことがわかりました。",
+          "pub_date": "2026-11-09T09:05:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "7/30に過去最大円買い介入7.9兆円",
+          "link": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T09:51:51+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72697",
+          "description": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。一方、フアンCEOは女性との…",
+          "pub_date": "2026-11-09T09:21:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "CEOと工作員の関係 NVIDIA調査",
+          "link": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T08:28:44+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "佐賀 鳥栖 ブリヂストン工場で火事 3時間半後に消し止められる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72603",
+      "description": "8日夜、佐賀県鳥栖市にある大手タイヤメーカー「ブリヂストン」の工場で火事がありました。火はおよそ3時間半後にほぼ消し止められ、これまでのところけが人の情報は入っていないということです。",
+      "pub_date": "2026-11-09T00:14:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72609",
+      "description": "ウクライナでは、ロシア軍によるエネルギー施設を狙った攻撃が続いていて、東部の州では60万人以上が電力の供給を受けられなくなるなど、影響が広がっています。",
+      "pub_date": "2026-11-08T22:28:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "競馬 フォーエバーヤング ことしかぎりで引退へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72599",
+      "description": "競馬の海外G1レースで4勝をあげているフォーエバーヤングがことしかぎりで引退することがわかりました。",
+      "pub_date": "2026-11-08T21:43:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72633",
+      "description": "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…",
+      "pub_date": "2026-11-09T08:37:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR中央線快速電車 運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72687",
+      "description": "JR東日本によりますと、JR中央線の快速電車は、国分寺駅で起きた人身事故の影響で午前5時21分すぎから東京駅と高尾駅の間の上下線で運転を見合わせていましたが、午前6時46分ごろに再開しました。",
+      "pub_date": "2026-11-09T06:55:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震速報】岩手県 宮城県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72427",
+      "description": "9日午前5時16分ごろ、岩手県と宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+      "pub_date": "2026-11-09T05:35:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72622",
+      "description": "食料品の消費税減税関連法案は、11日に参議院で審議入りします。参議院で与党が少数となる中、政府・与党が野党の賛同も得て成立させたいとしているのに対し、野党はそれぞれの主張を受け入れるよう迫る構えで、活…",
+      "pub_date": "2026-11-09T08:46:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "きょう日越首脳会談 重要鉱物や原子力連携などで共同声明調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261108de72624",
+      "description": "高市総理大臣は9日、ベトナムの最高指導者のトー・ラム共産党書記長との首脳会談に臨みます。両首脳は会談の成果を共同声明として発表する方向で調整していて、重要鉱物のサプライチェーンの強じん化や原子力分野で…",
+      "pub_date": "2026-11-09T07:37:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR内房線が全線で運転再開 通勤・通学客からは安どの声",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72695",
+      "description": "台風25号の影響で一部区間で運休していた千葉県のJR内房線は8日、およそ1か月半ぶりに全線で運転が再開されました。9日からは本格的に通勤や通学で利用する人の姿が見られ、安どする声が聞かれました。",
+      "pub_date": "2026-11-09T08:26:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "欧州右派政党 トランプ氏離れ鮮明",
+      "link": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T22:13:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "死産の子に産着無償提供 広がる輪",
+      "link": "https://news.yahoo.co.jp/pickup/6601845?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T22:16:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "商品に個体差「不揃い」バズる訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601846?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T22:24:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "RIZINで日本勢の王者消滅 6年ぶり",
+      "link": "https://news.yahoo.co.jp/pickup/6601848?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T22:53:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SPY×FAMILY 4期&映画第2弾決定",
+      "link": "https://news.yahoo.co.jp/pickup/6601849?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T22:53:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日米外相会談 パリG7合わせ調整",
+      "link": "https://news.yahoo.co.jp/pickup/6601851?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T23:28:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福井の山中に女性遺体 死因は窒息",
+      "link": "https://news.yahoo.co.jp/pickup/6601853?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T23:39:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "J2磐田監督 一部サポに「怒り」",
+      "link": "https://news.yahoo.co.jp/pickup/6601854?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T23:57:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「VIVANT」映画化発表 12/4公開",
+      "link": "https://news.yahoo.co.jp/pickup/6601844?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T22:16:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "9日 関東-北海道で師走並みの寒さ",
+      "link": "https://news.yahoo.co.jp/pickup/6601858?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T06:44:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "迷惑行為ショウリンジ SNS模倣か",
+      "link": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T06:32:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SB牧原大成 海外FA権使わず残留",
+      "link": "https://news.yahoo.co.jp/pickup/6601859?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T07:18:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神・西純矢「二刀流」挑戦へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601856?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T06:18:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Aぇ!group NHK紅白に初出場へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601855?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T06:09:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パラグライダー 初心者イベで墜落",
+      "link": "https://news.yahoo.co.jp/pickup/6601861?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T07:31:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "舎人ライナー 資金不足陥る可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6601864?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T07:46:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Netflix 増収増益でリストラの訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T08:17:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "CUTIE STREET 初の紅白出場内定",
+      "link": "https://news.yahoo.co.jp/pickup/6601866?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T08:04:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画VIVANT スピード公開の狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6601863?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T07:34:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北朝鮮ハッカーのチャットか 入手",
+      "link": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T08:52:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "産休取得の八幡市長が職務復帰",
+      "link": "https://news.yahoo.co.jp/pickup/6601873?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T09:02:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT OPとEDで異例テロップ",
+      "link": "https://news.yahoo.co.jp/pickup/6601871?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T08:53:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国を「脅威」見送りへ 政府方針",
+      "link": "https://news.yahoo.co.jp/pickup/6601872?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T09:00:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パラグライダー落下か 72歳死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601876?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T09:46:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "焼き魚定食 外国人客に人気の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601879?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T10:26:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "目黒蓮 池井戸潤原案ドラマで主演",
+      "link": "https://news.yahoo.co.jp/pickup/6601878?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T10:09:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中村ゆり氏「119」続編で出向設定",
+      "link": "https://news.yahoo.co.jp/pickup/6601875?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T09:52:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 報道官にUFC代表は冗談",
+      "link": "https://news.yahoo.co.jp/pickup/6601883?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T11:08:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "赤ちゃんの名前 男の子1位「朔」",
+      "link": "https://news.yahoo.co.jp/pickup/6601885?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T11:13:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「VIVANT」最終回視聴率は21.8%",
+      "link": "https://news.yahoo.co.jp/pickup/6601884?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T11:12:27+09:00"
+    }
+  ]
+}
