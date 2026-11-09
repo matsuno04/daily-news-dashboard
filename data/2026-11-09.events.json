@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "matched_at": "2026-11-09T11:45:44.774780+09:00",
+  "matched_at": "2026-11-09T21:45:55.693812+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -37,10 +37,10 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "福井の山林遺体 26歳女性と判明",
-          "link": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
+          "title": "山林の遺体 監禁後まもなく死亡か",
+          "link": "https://news.yahoo.co.jp/pickup/6601904?source=rss",
           "description": "",
-          "pub_date": "2026-11-08T21:33:34+09:00"
+          "pub_date": "2026-11-09T13:19:57+09:00"
         }
       }
     },
@@ -101,6 +101,186 @@
           "link": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
           "description": "",
           "pub_date": "2026-11-09T08:28:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "産休取得の川田翔子市長が公務復帰「心機一転 仕事」京都 八幡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72721",
+          "description": "現職の市長として初めてとみられる産休を取得した京都府八幡市の川田翔子市長が、9日公務に復帰し、「心機一転、仕事に励めることがうれしい。きょうから改めて職員とともにチームワークで市政を前に進めていきたい…",
+          "pub_date": "2026-11-09T18:29:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "産休取得の八幡市長が職務復帰",
+          "link": "https://news.yahoo.co.jp/pickup/6601873?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T09:02:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "株価 一時2000円以上値上がり 先週末の急落から買い戻し進む",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72808",
+          "description": "週明けの9日の東京株式市場は、先週末の急落から一転して取引開始直後から全面高の展開となり、日経平均株価は一時、2000円以上値上がりしています。",
+          "pub_date": "2026-11-09T12:13:04+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日経平均 一時2000円以上値上がり",
+          "link": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T11:36:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "熊本 八代の90代女性 7月の熊本地震の災害関連死に初認定",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72717",
+          "description": "ことし7月の熊本地震のあとに亡くなった熊本県八代市の90代の女性について、八代市は災害関連死に認定したと発表しました。 熊本県によりますと、ことしの熊本地震による災害関連死の認定は初めてです。 こ…",
+          "pub_date": "2026-11-09T13:34:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "26年の熊本地震 初の災害関連死",
+          "link": "https://news.yahoo.co.jp/pickup/6601907?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T13:58:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 イランとの戦闘再開「必要性極めて低い」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72852",
+          "description": "アメリカのトランプ大統領は、8日、CNNテレビの電話インタビューに応じ、イランとの戦闘再開について「そうした措置を取る必要性は極めて低い。必要ならばそうするが、すでに彼らを非常に激しく攻撃した」と述べ…",
+          "pub_date": "2026-11-09T13:51:06+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米大統領 戦闘再開「可能性低い」",
+          "link": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T09:45:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73045",
+          "description": "家具日用品大手の「ニトリホールディングス」は自社のシステムが不正アクセスを受け、会員や商品を購入した人の個人情報など、最大で3762万件が流出した可能性があると発表しました。",
+          "pub_date": "2026-11-09T19:17:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ニトリ 最大3762万件の情報流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T17:58:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 米中ロ首脳会談開催に意欲“非核化”など議題",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72833",
+          "description": "アメリカのトランプ大統領は、来週、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国やロシアとの3か国による首脳会談が行われるという見通しを述べた上で非核化などについて協議した…",
+          "pub_date": "2026-11-09T19:01:23+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米大統領 中露首脳と会談の見通し",
+          "link": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T16:23:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "石破氏ら4人 消費税減税法案 退席理由を回答 執行部が対応検討",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72848",
+          "description": "食料品の消費税減税関連法案をめぐり、衆議院本会議での採決を前に退席した自民党の石破前総理大臣ら4人は、執行部の求めに応じ、理由について説明する文書を提出しました。執行部は内容を踏まえて対応を検討するこ…",
+          "pub_date": "2026-11-09T16:58:29+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "採決直前に退席 石破氏が理由説明",
+          "link": "https://news.yahoo.co.jp/pickup/6601906?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T13:48:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "自民 石破前首相ら4人を戒告処分 本会議退席で 元総裁処分は初",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73129",
+          "description": "食料品の消費税減税関連法案の採決を前に衆議院本会議を退席した自民党の石破前総理大臣ら4人について、鈴木幹事長は「党内結束の観点から看過できない」などとして、幹事長による戒告の処分にしたことを明らかにし…",
+          "pub_date": "2026-11-09T19:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "石破前首相ら4人を戒告処分 自民",
+          "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T17:44:45+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ジャニー喜多川氏性加害で当事者の会元副代表と会社側が和解",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73160",
+          "description": "ジャニー喜多川氏から性加害を受けたと訴える団体の元副代表が9日、補償を行っている「SMILEーUP．」と和解が成立したことを明らかにしました。",
+          "pub_date": "2026-11-09T20:38:47+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "SMILE-UP. 石丸志門氏と和解成立",
+          "link": "https://news.yahoo.co.jp/pickup/6601952?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T21:14:46+09:00"
         }
       }
     }
@@ -170,11 +350,151 @@
       "pub_date": "2026-11-09T08:26:29+09:00"
     },
     {
+      "source": "NHK",
+      "title": "各地で冬のような寒さ あすも北～東日本は寒い1日に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72716",
+      "description": "寒気の影響で9日は関東甲信や北日本を中心に気温があまり上がらず、東京の都心で日中の気温が9度前後と1月中旬から下旬並みとなるなど、各地で冬のような寒さになりました。 10日にかけても北日本と東日本を…",
+      "pub_date": "2026-11-09T19:00:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "コメ価格 向こう3か月の見通し 現在の水準で推移の見方増える",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72735",
+      "description": "向こう3か月のコメ価格の見通しを示す10月の指数は、前の月より上昇しました。調査した団体では、各地の長雨の影響で収量が減少することへの懸念から価格は現在の水準で推移するという見方が増えているとしていま…",
+      "pub_date": "2026-11-09T12:03:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "車から強力電波 周辺スマホ強制的に2Gに 詐欺メール送信狙いか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72718",
+      "description": "東京 銀座で、車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして中国籍の容疑者が電波法違反の疑いで逮捕されました。 警視庁は、影響が出たスマートフォン…",
+      "pub_date": "2026-11-09T19:20:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相“日韓連携かつてないほど重要 関係強化を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72781",
+      "description": "高市総理大臣は、日本と韓国の政財界の関係者らでつくる委員会の合同総会にメッセージを寄せ、両国の連携はかつてないほど重要になっており、経済安全保障分野などで協力を深めていく必要があるとして、いっそうの関…",
+      "pub_date": "2026-11-09T12:03:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震速報】福島 茨城 栃木で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72874",
+      "description": "9日午後1時52分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は茨城県沖で震源の深さは10キロ、地震の規模を示すマグニチュードは5.9と推定されます。 各市町村の震度は以下の…",
+      "pub_date": "2026-11-09T14:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ラクスル」に不正アクセス 印刷データなど漏えいおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72879",
+      "description": "インターネット上で印刷サービスを展開する「ラクスル」は、システムが不正アクセスを受け、顧客から預かった印刷データなどが漏えいしたおそれがあると発表しました。対象の件数や範囲は調査中だとしています。",
+      "pub_date": "2026-11-09T14:40:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "小学館 会員メールアドレスなど約199万件漏えいおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72824",
+      "description": "小学館は、メール配信サービスの委託先が不正アクセスを受けた影響で、会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表しました。",
+      "pub_date": "2026-11-09T14:57:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国で服役の製薬会社社員 出所見通し 木原長官“適切に対応”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72868",
+      "description": "中国で「スパイ活動を行った」として服役している大手製薬会社の日本人男性社員が、12月、出所する見通しとなったことについて、木原官房長官は、出所の日程などはプライバシー保護のため控えるとした上で、家族へ…",
+      "pub_date": "2026-11-09T14:48:01+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "セガ メールアドレス219万件余流出 アララ不正アクセスの影響",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72932",
+      "description": "ゲーム大手のセガは、メールマガジンの配信に使用していた委託先のサービスが不正アクセスを受け、メールアドレス219万6000件あまりが外部に流出したと発表しました。",
+      "pub_date": "2026-11-09T16:19:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "定数31議席削減 法案要綱が判明 統一名簿の具体的規定は見送り",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72715",
+      "description": "衆議院議員の定数削減をめぐり、自民党、日本維新の会、国民民主党の実務者は法案の要綱をまとめました。公職選挙法を改正し、比例代表で31議席を削減することを明記した一方、複数の政党による統一名簿の導入につ…",
+      "pub_date": "2026-11-09T19:12:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民・維新 消費税減税法案成立に向け 参議院審議でも緊密連携",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72949",
+      "description": "食料品の消費税減税関連法案の参議院での審議が始まるのを前に、自民・維新両党の幹事長らが会談し、参議院では与党が少数となっていることも踏まえ、成立に向けて緊密に連携していくことを確認しました。",
+      "pub_date": "2026-11-09T16:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "参院 野党6党 消費税減税法案“委員会審議入りは首相出席を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72947",
+      "description": "食料品の消費税減税関連法案をめぐり、参議院の野党6党は、特別委員会での審議入りにあたっては高市総理大臣が出席して質疑を行うよう、与党側に重ねて求めていく方針を確認しました。",
+      "pub_date": "2026-11-09T16:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "9月景気動向指数 前月比0.7ポイント上昇 2か月ぶり上昇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73001",
+      "description": "内閣府が発表したことし9月の景気動向指数は、景気の現状を示す「一致指数」が2020年を100として速報値で119.5となり、8月から0.7ポイント上昇しました。 上昇は2か月ぶりで、半導体製造装置の…",
+      "pub_date": "2026-11-09T17:13:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京 八王子 クマの出没相次ぐ 被害も 地元の中学校で警戒強化",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73076",
+      "description": "東京 八王子市の山あいの地域では、先月以降、クマの目撃や痕跡の情報が相次ぎ、柿の実を食い荒らされる被害も出ています。地元の中学校では、生徒に注意を呼びかけるなど対策を強化しています。",
+      "pub_date": "2026-11-09T18:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市内閣支持率53％ 不支持32％ NHK世論調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72711",
+      "description": "NHKの世論調査によりますと、高市内閣を「支持する」と答えた人は、10月の調査から2ポイント上がって53％だったのに対し、「支持しない」と答えた人は10月と変わらず、32％でした。",
+      "pub_date": "2026-11-09T19:00:16+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "COP31開幕 気候変動対策の実行へ 議長国が各国に協力呼びかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72895",
+      "description": "気候変動対策を話し合う国連の会議「COP31」がトルコで開幕しました。 世界各地で気候変動の影響とみられる災害が相次ぐなか、議長国トルコの代表はこれまでの合意を具体的な対策の実行に移すため各国に協力を…",
+      "pub_date": "2026-11-09T19:06:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JT ロシアの現地法人 一時管理対象も“現時点で事業継続”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73135",
+      "description": "JT＝日本たばこ産業は、ロシア国内にあるグループのすべての現地法人が大統領令によって一時的にロシア企業の管理下に置かれました。会社では、現地法人は現時点で事業を継続しているとする一方、グループの業績に…",
+      "pub_date": "2026-11-09T19:36:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山口県警 ミスでボーナスなど8000万円余が未払い 一部時効に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73131",
+      "description": "山口県警察本部で、給与などに関するシステムに誤った情報を入力したことが原因とみられるミスによって、500人余りの警察官のボーナスなどの一部、あわせて8000万円余りが未払いになっていることが、警察関係…",
+      "pub_date": "2026-11-09T19:22:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大阪 児童7人を車ではねた殺人未遂の罪 被告は黙秘 初公判で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73136",
+      "description": "小学生を無差別に殺害しようと、大阪 西成区で下校中の児童7人を車ではねたとして、殺人未遂の罪に問われている30歳の被告の初公判が開かれ、被告は「自分のことばが被害児童の精神にマイナスの影響が及ぶことを…",
+      "pub_date": "2026-11-09T20:06:00+09:00"
+    },
+    {
       "source": "Yahoo!ニュース",
       "title": "欧州右派政党 トランプ氏離れ鮮明",
       "link": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
       "description": "",
       "pub_date": "2026-11-08T22:13:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福井の山林遺体 26歳女性と判明",
+      "link": "https://news.yahoo.co.jp/pickup/6601841?source=rss",
+      "description": "",
+      "pub_date": "2026-11-08T21:33:34+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -311,13 +631,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "産休取得の八幡市長が職務復帰",
-      "link": "https://news.yahoo.co.jp/pickup/6601873?source=rss",
-      "description": "",
-      "pub_date": "2026-11-09T09:02:18+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "VIVANT OPとEDで異例テロップ",
       "link": "https://news.yahoo.co.jp/pickup/6601871?source=rss",
       "description": "",
@@ -378,6 +691,258 @@
       "link": "https://news.yahoo.co.jp/pickup/6601884?source=rss",
       "description": "",
       "pub_date": "2026-11-09T11:12:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "幼児死亡 足蹴りした疑いで男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6601902?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T12:20:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマに襲われ5回手術 後悔尽きず",
+      "link": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T11:45:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハンズ渋谷「THANKS」看板の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601889?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T11:46:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT映画化好感 なぜ炎上せず",
+      "link": "https://news.yahoo.co.jp/pickup/6601901?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T12:13:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "都心は真冬並みの寒さ 寒暖差注意",
+      "link": "https://news.yahoo.co.jp/pickup/6601903?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T12:32:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三井化学がJSR買収 1兆8400億円",
+      "link": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T12:05:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "10月サイバー攻撃233件 過去最多",
+      "link": "https://news.yahoo.co.jp/pickup/6601882?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T10:45:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "透析「しない」父 家族救ったケア",
+      "link": "https://news.yahoo.co.jp/pickup/6601898?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T12:14:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTで話題 露諜報員の実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T12:56:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "シントトロイデン日本3選手が得点",
+      "link": "https://news.yahoo.co.jp/pickup/6601890?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T11:51:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SB柳田が残留表明 真剣に悩んだ",
+      "link": "https://news.yahoo.co.jp/pickup/6601908?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T14:05:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アフリカ カルト教団が増える背景",
+      "link": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T14:00:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "十分生きた 透析拒んだ父への医療",
+      "link": "https://news.yahoo.co.jp/pickup/6601911?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T14:37:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "黒字リストラ 中高年が残る条件は",
+      "link": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T13:25:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "珍しい現象 二重の水上竜巻が発生",
+      "link": "https://news.yahoo.co.jp/pickup/6601913?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T15:08:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "吉田輝星「巨人志望報道」の真相",
+      "link": "https://news.yahoo.co.jp/pickup/6601909?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T14:26:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロバート秋山 広告会社設立を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601910?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T14:43:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G7会議前に首相飲酒せず 木原氏",
+      "link": "https://news.yahoo.co.jp/pickup/6601917?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T16:07:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性殺害 当時17歳に懲役18年判決",
+      "link": "https://news.yahoo.co.jp/pickup/6601918?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T16:12:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "労基法 女子保護規定の全廃検討へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601927?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T17:14:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MS&AD 漏えい計約101万1千件に",
+      "link": "https://news.yahoo.co.jp/pickup/6601922?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T16:44:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "死亡男児の腸に穴 傷害疑い男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6601920?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T16:27:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐久間朱莉 2年連続賞金2億円突破",
+      "link": "https://news.yahoo.co.jp/pickup/6601924?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T16:49:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "張本智和 10-2からゲーム失い驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6601923?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T17:01:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体調不良の横浜市長 公務に復帰",
+      "link": "https://news.yahoo.co.jp/pickup/6601929?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T17:28:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "津波巡り欧州のビール物議 謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6601926?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T17:13:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トライアウト 出場の46人を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601937?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T18:27:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井監督 織田との直接交渉に含み",
+      "link": "https://news.yahoo.co.jp/pickup/6601931?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T17:44:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MAGAから急進左派へ 揺らぐ米国",
+      "link": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T18:57:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コンロキャンセル界隈 なぜ拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T18:29:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドラクエ 新作スマホゲーム発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601936?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T18:23:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NTT 保有するNEC全株売却を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T19:07:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JT株 2営業日連続のストップ安",
+      "link": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T19:53:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "同僚踏みつけ死亡させた疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T20:10:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森圭介アナが休養「2週間ほど」",
+      "link": "https://news.yahoo.co.jp/pickup/6601945?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T19:37:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA筒香 海外FA権行使せず残留",
+      "link": "https://news.yahoo.co.jp/pickup/6601950?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T20:54:36+09:00"
     }
   ]
 }
