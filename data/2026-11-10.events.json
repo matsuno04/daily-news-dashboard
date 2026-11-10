@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-10",
+  "matched_at": "2026-11-10T11:45:50.718783+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東日本大震災震源域のプレート固着でひずみ蓄積が再開 東北大",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73183",
+          "description": "東日本大震災を引き起こした日本海溝沿いの震源域で、プレートどうしがくっつく「固着」が広い範囲で再開し、ひずみが蓄積しているという解析結果を、東北大学などの研究グループが発表しました。 研究グループは…",
+          "pub_date": "2026-11-09T22:40:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大地震エネルギー蓄積か 日本海溝",
+          "link": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T22:37:17+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73182",
+      "description": "8日未明、愛知県で震度5強の揺れを観測した地震について、気象庁は、データを詳しく精査した結果、震源の場所を静岡県西部から愛知県東部に変更しました。",
+      "pub_date": "2026-11-09T22:13:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ナスダック一時3％超上昇 AI規制の懸念後退や原油安で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73229",
+      "description": "週明け9日のニューヨーク株式市場では半導体や大手ITなど幅広い銘柄に買い注文が広がり、ハイテク株の比率が高いナスダックの株価指数は、先週末と比べて一時、3％を超える大幅な上昇となりました。 また、ダ…",
+      "pub_date": "2026-11-10T05:40:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 維新 安全保障3文書改定向けきょうから作業チームが協議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73179",
+      "description": "安全保障関連の3文書の改定に向けて、10日から自民・維新両党の作業チームが協議を始め、防衛力強化のあり方や防衛費の規模などをめぐって意見が交わされる見通しです。 また、両党がそれぞれ提出した政府への提…",
+      "pub_date": "2026-11-10T05:25:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシアの独立系新聞「最後の日」 30年余の歴史に幕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73218",
+      "description": "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。 ウクライナ侵攻以降、厳しさを増す言論統制の一環と受け止められていて、市民からは…",
+      "pub_date": "2026-11-10T05:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "防災庁 都道府県の窓口職員「地域防災連携推進員」に研修会",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de73178",
+      "description": "今月発足した防災庁は、災害対応の司令塔として、被災後の速やかな自治体の支援や、地域の防災力の向上を目指しています。9日は防災庁との窓口となる都道府県の職員を対象にした研修を行いました。",
+      "pub_date": "2026-11-09T22:19:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73227",
+      "description": "イランへの軍事作戦をめぐり、アメリカ連邦議会下院でヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。 軍事作戦に批判的な立場をとってきた与党・共和党の下院議員が提出していて、中間選挙の…",
+      "pub_date": "2026-11-10T10:38:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 移民政策「厳しすぎた」 民主と協力も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73230",
+      "description": "アメリカのトランプ大統領は、CBSテレビのインタビューで中間選挙での共和党の敗因について問われ、みずからの移民政策について「厳しすぎた」と述べ、今後、民主党との協力も模索する考えを示しました。 トラ…",
+      "pub_date": "2026-11-10T06:11:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北日本と東日本で冬の寒さ 体調管理に注意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73237",
+      "description": "寒気の影響で10日も北日本と東日本を中心に気温が低く冬のような寒さが続く見込みで、体調管理に注意してください。",
+      "pub_date": "2026-11-10T07:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "茂木外相 フランスとイタリアの外相にEV優遇措置の懸念伝達",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73244",
+      "description": "茂木外務大臣は訪問先のフランスでバロ外相やイタリアのタヤーニ外相と相次いで会談し、EU＝ヨーロッパ連合が域内で生産されたEV＝電気自動車への優遇措置を検討していることに強い懸念を伝え、適切な対応を求め…",
+      "pub_date": "2026-11-10T08:13:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "9月家計調査 実質の消費支出6.8％減 10か月連続の減少",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73268",
+      "description": "総務省が発表したことし9月の家計調査で、2人以上の世帯が消費に使った金額は、物価の変動を除いた実質で前の年の同じ月より6.8％減少しました。 減少は10か月連続です。 1世帯あたりの消費額は、28…",
+      "pub_date": "2026-11-10T10:25:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73265",
+      "description": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったとされる問題で、 トランプ大統領はFBI＝連邦捜査局が捜査に当たっていると明らかにし…",
+      "pub_date": "2026-11-10T10:15:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日経平均株価 一時6万円台回復 半導体関連銘柄中心に買い注文",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73262",
+      "description": "10日の東京株式市場、日経平均株価は一時、1700円以上値上がりし、6万円台を回復しています。 9日のニューヨーク株式市場で半導体や大手ITなどの幅広い銘柄が値上がりした流れを受けて、東京市場でも半…",
+      "pub_date": "2026-11-10T09:28:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "仏外相 冷蔵庫サイバー攻撃は「イランの革命防衛隊に責任」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73245",
+      "description": "フランス国内の700を超えるスーパーマーケットで冷凍庫や冷蔵庫の温度がサイバー攻撃で操作され、食品の大量廃棄につながった問題で、フランスのバロ外相は、攻撃はイランの革命防衛隊によるものだと述べました。…",
+      "pub_date": "2026-11-10T08:18:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "安保3文書改定へ 政府側が防衛力強化の方向性を示す",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73284",
+      "description": "安全保障関連の3文書の改定に向けて、自民・維新両党が実務者による作業チームの初会合を開き、政府側が防衛力強化の方向性を示しました。相手の目的達成を拒否する能力を持つことを基本的な考え方に掲げ「『新しい…",
+      "pub_date": "2026-11-10T11:04:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ネパール外相 COP31で「気候変動で未来が別物に」訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73269",
+      "description": "ことし8月の土石流で大きな被害が出たネパールの外相が気候変動対策を話し合う国連の会議「COP31」で演説し、山岳地域が気候変動のしわ寄せを受けているとして、対策の加速を呼びかけました。",
+      "pub_date": "2026-11-10T10:39:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "麻生コンクリ JIS認証取り消し",
+      "link": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T21:56:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山口県警 賞与など8千万円未払い",
+      "link": "https://news.yahoo.co.jp/pickup/6601960?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T22:08:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "270kgの巨大ヒグマ駆除 北海道",
+      "link": "https://news.yahoo.co.jp/pickup/6601965?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T23:12:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「低体温症」8割近くが屋内で発症",
+      "link": "https://news.yahoo.co.jp/pickup/6601956?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T21:43:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映像 270kgの巨大ヒグマを捕獲",
+      "link": "https://news.yahoo.co.jp/pickup/6601968?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T23:30:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自動運転バス運行初日に接触 運休",
+      "link": "https://news.yahoo.co.jp/pickup/6601972?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T00:44:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "残留のDeNA筒香「心を打たれた」",
+      "link": "https://news.yahoo.co.jp/pickup/6601967?source=rss",
+      "description": "",
+      "pub_date": "2026-11-09T23:28:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日テレ森圭介アナが休養 喉の治療",
+      "link": "https://news.yahoo.co.jp/pickup/6601971?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T00:12:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "石破前首相ら戒告処分 参院側不満",
+      "link": "https://news.yahoo.co.jp/pickup/6601976?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T06:48:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官の弾劾採決へ 米下院",
+      "link": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T07:27:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "100均パスワード管理ノート 品薄",
+      "link": "https://news.yahoo.co.jp/pickup/6601975?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T06:24:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA SB嶺井博希を獲得へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601974?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T06:11:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自衛官定員削減 安保3文書明記へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601979?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T07:35:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人向け国債人気 発行額8兆円超",
+      "link": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T07:43:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "仏大統領選 リネール氏が出馬表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T07:34:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "バスケ吉田亜沙美 がん公表の思い",
+      "link": "https://news.yahoo.co.jp/pickup/6601988?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T08:19:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "火葬料 公営と民間で大きな差",
+      "link": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T08:39:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "グルメイベントで準備不十分 波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6601993?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T09:20:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島 楽天・太田光の獲得調査へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601987?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T08:22:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SixTONESジェシー フジで初主演",
+      "link": "https://news.yahoo.co.jp/pickup/6601983?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T07:53:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「国内間通信」も監視対象に 検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T09:26:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンション敷地に倒れた2人 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601995?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T09:26:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンジャロで視力低下恐れ 米FDA",
+      "link": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T09:31:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ホワイトハッカー育成 授業を取材",
+      "link": "https://news.yahoo.co.jp/pickup/6601986?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T08:19:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "世界の氷河 1年で4000億t超が減少",
+      "link": "https://news.yahoo.co.jp/pickup/6602005?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T10:29:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "石破氏ら戒告の自民 引き締め躍起",
+      "link": "https://news.yahoo.co.jp/pickup/6601996?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T09:33:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北九州のド派手晴れ着 欧州初展示",
+      "link": "https://news.yahoo.co.jp/pickup/6602003?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T10:34:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田翔希 G指名あいさつ同席せず",
+      "link": "https://news.yahoo.co.jp/pickup/6602012?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T11:23:01+09:00"
+    }
+  ]
+}
