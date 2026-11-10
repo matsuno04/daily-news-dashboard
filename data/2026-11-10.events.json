@@ -1,11 +1,31 @@
 {
   "date": "2026-11-10",
-  "matched_at": "2026-11-10T11:45:50.718783+09:00",
+  "matched_at": "2026-11-10T21:45:57.613826+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
     {
       "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシアの独立系新聞「最後の日」 30年余の歴史に幕",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73218",
+          "description": "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。 ウクライナ侵攻以降、厳しさを増す言論統制の一環と受け止められていて、市民からは…",
+          "pub_date": "2026-11-10T05:44:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露政権批判の代表紙 編集部を閉鎖",
+          "link": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T10:09:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -21,6 +41,226 @@
           "link": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
           "description": "",
           "pub_date": "2026-11-09T22:37:17+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73265",
+          "description": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったとされる問題で、 トランプ大統領はFBI＝連邦捜査局が捜査に当たっていると明らかにし…",
+          "pub_date": "2026-11-10T10:15:28+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "NVIDIA巡る疑惑 米対応に注目",
+          "link": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T14:30:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "Xに「いいね」14回で有罪判決 ストーカー規制法違反の罪",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73342",
+          "description": "元交際相手の男性へのつきまといなどを禁止する命令を受けた女の被告が、男性のXの投稿に「いいね」のリアクションを繰り返したことがストーカー規制法違反の罪にあたるかが争われた裁判で、東京地方裁判所は「被害…",
+          "pub_date": "2026-11-10T11:51:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "元交際相手に「いいね」14回 有罪",
+          "link": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T12:32:12+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "自民 小渕氏 税調副会長の退任求められ受け入れ 古川氏は辞任",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73714",
+          "description": "衆議院本会議で食料品の消費税減税関連法案の採決を前に退席し戒告の処分を受けた自民党の小渕・元選挙対策委員長は、小野寺税制調査会長から税制調査会の副会長を退任するよう求められ、受け入れる意向を伝えたと明…",
+          "pub_date": "2026-11-10T18:54:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "自民・小渕氏ら 税調副会長を辞任",
+          "link": "https://news.yahoo.co.jp/pickup/6602083?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T20:44:04+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
+          "description": "実業家の前澤友作さんが、自身の名前や画像を無断で使用した偽広告をSNSに掲載され、肖像権を侵害されたとして、運営するアメリカのIT大手「メタ」側に賠償などを求めた裁判で、東京地方裁判所は「広告の投稿自…",
+          "pub_date": "2026-11-10T17:29:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "メタとの訴訟 前澤氏の請求を棄却",
+          "link": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T14:40:42+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ソフトバンクグループ中間決算 7680億円の赤字 DC計画変更で",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73545",
+          "description": "ソフトバンクグループのことし4月から9月までの中間決算は7680億円の最終赤字となりました。アメリカで進めているデータセンターの計画を変更したことに伴って、損失を計上したことなどが主な要因だということ…",
+          "pub_date": "2026-11-10T20:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "SBGが7680億円の赤字 中間決算",
+          "link": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T18:53:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JR東「ウォークスルー改札」山手線全駅など再来年春に導入へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73528",
+          "description": "JR東日本は、ICカードをタッチしたり切符を入れたりしなくても、改札を通過できる「ウォークスルー改札」を、再来年（2028年）春から山手線のすべての駅を含む首都圏にある40の駅で導入すると発表しました…",
+          "pub_date": "2026-11-10T16:19:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "JR東 タッチ不要の改札導入へ",
+          "link": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T16:55:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "徳島 阿波市長ら3人逮捕 事故の修理費を市から詐取した疑い",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73534",
+          "description": "徳島県阿波市の市長ら3人が市長が起こした物損事故の修理費用を市の工事代金に含めて水増しした請負契約を結ばせ、市から350万円をだまし取ったとして、詐欺の疑いで逮捕されました。",
+          "pub_date": "2026-11-10T15:57:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "徳島・阿波市長ら 詐欺疑いで逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6602024?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T12:17:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "巨人 ドラフト1位指名であいさつ 織田翔希投手は同席せず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73588",
+          "description": "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが、アメリカで野球を続けることを表明している織田投手は同席しませんでした。",
+          "pub_date": "2026-11-10T17:46:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "織田翔希 G指名あいさつ同席せず",
+          "link": "https://news.yahoo.co.jp/pickup/6602012?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T11:23:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ダルメシアンにかまれ女性が大けが 飼い主を逮捕 千葉",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73681",
+          "description": "ことし、千葉県御宿町で散歩中の80代の女性が犬にかまれて大けがをし警察は飼い主が犬をつなぎとめるなどの管理を怠ったとして重過失傷害の疑いで逮捕しました。",
+          "pub_date": "2026-11-10T18:08:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "脱走犬がかみ女性重傷 飼い主逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6602058?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T17:42:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JIS不適合生コン製造などで認証取り消し 麻生コンクリート工業",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73726",
+          "description": "計画と異なるセメントを使って生コンクリートを製造・出荷し、隠蔽のため記録を改ざんしていたとして、福岡県の生コンクリート製造会社「麻生コンクリート工業」が、JIS＝日本産業規格の認証を取り消されました。…",
+          "pub_date": "2026-11-10T18:39:27+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "麻生コンクリ JIS認証取り消し",
+          "link": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
+          "description": "",
+          "pub_date": "2026-11-09T21:56:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米FDA 糖尿病治療薬「マンジャロ」などに視力低下リスクを警告",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73780",
+          "description": "アメリカのFDA＝食品医薬品局は、肥満症や糖尿病の治療薬「GLP-1受容体作動薬」を使うことで、急激な視力低下などのリスクが高まる可能性があると発表しました。「GLP-1受容体作動薬」は日本では、糖尿…",
+          "pub_date": "2026-11-10T20:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "マンジャロで視力低下恐れ 米FDA",
+          "link": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T09:31:26+09:00"
         }
       }
     }
@@ -49,13 +289,6 @@
     },
     {
       "source": "NHK",
-      "title": "ロシアの独立系新聞「最後の日」 30年余の歴史に幕",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73218",
-      "description": "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。 ウクライナ侵攻以降、厳しさを増す言論統制の一環と受け止められていて、市民からは…",
-      "pub_date": "2026-11-10T05:44:00+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "防災庁 都道府県の窓口職員「地域防災連携推進員」に研修会",
       "link": "https://news.web.nhk/newsweb/na/nd-20261109de73178",
       "description": "今月発足した防災庁は、災害対応の司令塔として、被災後の速やかな自治体の支援や、地域の防災力の向上を目指しています。9日は防災庁との窓口となる都道府県の職員を対象にした研修を行いました。",
@@ -79,8 +312,8 @@
       "source": "NHK",
       "title": "北日本と東日本で冬の寒さ 体調管理に注意",
       "link": "https://news.web.nhk/newsweb/na/nd-20261110de73237",
-      "description": "寒気の影響で10日も北日本と東日本を中心に気温が低く冬のような寒さが続く見込みで、体調管理に注意してください。",
-      "pub_date": "2026-11-10T07:44:00+09:00"
+      "description": "寒気の影響で、10日も北日本や東日本で気温が低く、12月並みの寒さになっているところがあり、体調管理に注意してください。",
+      "pub_date": "2026-11-10T12:00:00+09:00"
     },
     {
       "source": "NHK",
@@ -93,15 +326,8 @@
       "source": "NHK",
       "title": "9月家計調査 実質の消費支出6.8％減 10か月連続の減少",
       "link": "https://news.web.nhk/newsweb/na/nd-20261110de73268",
-      "description": "総務省が発表したことし9月の家計調査で、2人以上の世帯が消費に使った金額は、物価の変動を除いた実質で前の年の同じ月より6.8％減少しました。 減少は10か月連続です。 1世帯あたりの消費額は、28…",
-      "pub_date": "2026-11-10T10:25:00+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73265",
-      "description": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったとされる問題で、 トランプ大統領はFBI＝連邦捜査局が捜査に当たっていると明らかにし…",
-      "pub_date": "2026-11-10T10:15:28+09:00"
+      "description": "ことし9月に2人以上の世帯が消費に使った金額は、物価の変動を除いた実質で前の年の同じ月と比べて6.8％減少しました。2020年9月以来の大幅な減少で、総務省は各地で雨の日が多かったことから、食料品や衣…",
+      "pub_date": "2026-11-10T11:31:00+09:00"
     },
     {
       "source": "NHK",
@@ -132,11 +358,116 @@
       "pub_date": "2026-11-10T10:39:00+09:00"
     },
     {
-      "source": "Yahoo!ニュース",
-      "title": "麻生コンクリ JIS認証取り消し",
-      "link": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
-      "description": "",
-      "pub_date": "2026-11-09T21:56:57+09:00"
+      "source": "NHK",
+      "title": "高市首相 高性能AI進展で\"国際社会連携を\" 仏政府主催の会合で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73220",
+      "description": "高市総理大臣は、9日夜、フランス政府が主催したAIに関する会合にオンラインで出席し、高性能AIの進展はサイバー攻撃への悪用など、安全保障上の新たな脅威ともなっているとして国際社会が連携して対応すること…",
+      "pub_date": "2026-11-10T11:43:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国内未確認の“おもちゃの拳銃”輸入か 自営業者を書類送検",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73397",
+      "description": "実弾を発射する能力を持つ“おもちゃの拳銃”を韓国から輸入したとして、40代の自営業者が銃刀法違反の疑いで書類送検されたことが捜査関係者への取材で分かりました。 国内でこれまでに確認されていた中国製と…",
+      "pub_date": "2026-11-10T12:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 柏夫婦殺人・放火事件初公判 被告が法廷で暴れ開始遅れ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73408",
+      "description": "おととし、千葉県柏市で知人の50代の夫婦を殺害し近くの住宅に放火して8棟を全焼させたとして殺人や放火などの罪に問われている79歳の被告の裁判員裁判は10日が初公判でしたが午前中、被告が法廷で暴れるなど…",
+      "pub_date": "2026-11-10T12:58:37+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 萩生田幹事長代行 迅速対応必要で石破氏ら処分と説明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73396",
+      "description": "衆議院本会議で食料品の消費税減税関連法案の採決を前に退席した自民党の石破前総理大臣ら4人を戒告の処分としたことについて、萩生田幹事長代行は参議院での審議を控え迅速な対応が必要だったと説明し、引き続き党…",
+      "pub_date": "2026-11-10T12:45:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「安全保障関連の3文書」とは? 改定の背景や方向性は?",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73330",
+      "description": "「安全保障関連の3文書」について、政府は年末までに改定するとして、検討が本格化しています。改定の背景や方向性などについて詳しくお伝えします。",
+      "pub_date": "2026-11-10T14:37:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "南米ペルー ケイコ・フジモリ大統領訪日へ 20日に首脳会談調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73461",
+      "description": "南米・ペルーの大統領府は、ケイコ・フジモリ大統領の日本訪問を正式に決め、議会上院に通知しました。 来週19日に来日し、20日には高市総理大臣との首脳会談が調整されているということです。",
+      "pub_date": "2026-11-10T15:01:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「トクリュウ」対策 通信内容を遠隔で把握する法案 衆院通過",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73482",
+      "description": "「トクリュウ」＝匿名・流動型犯罪グループへの対策として、指示役らのスマートフォンでの通信内容を遠隔で把握できるようにする法案が衆議院本会議で賛成多数で可決され、参議院に送られました。",
+      "pub_date": "2026-11-10T15:46:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "赤澤経産相“複数回抗議”ＪＴ現地法人 ロシア企業の管理下で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73530",
+      "description": "JT＝日本たばこ産業のロシア国内にあるグループのすべての現地法人が大統領令によってロシア企業の管理下に置かれたことについて、赤澤経済産業大臣は「複数回にわたり抗議した。企業の正当な利益が損なわれること…",
+      "pub_date": "2026-11-10T16:19:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "コメ取引で法令違反 19事業者を行政指導 新法施行で初めて",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73499",
+      "description": "農林水産省は、コメの事業者間の取引で一方的な価格の据え置きなど適正な取引が行われなかったとして、19の事業者に行政指導を行ったことを明らかにしました。ことし4月に適正な取引を定める食料システム法が施行…",
+      "pub_date": "2026-11-10T16:12:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "DV被害者などの住基情報漏えい 10年間で119件 総務省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73561",
+      "description": "藤井総務大臣は、閲覧などの制限がかかっているDV＝ドメスティック・バイオレンスなどの被害者の住民基本台帳の情報が漏えいした事案が、2025年度までの10年間で合わせて119件報告されていると明らかにし…",
+      "pub_date": "2026-11-10T16:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73517",
+      "description": "家電量販店大手のエディオンは、ネット通販サイトに不正なプログラムが組み込まれ、顧客が入力したクレジットカードの番号やセキュリティコードなどが最大で500件あまり漏えいしたおそれがあると発表しました。",
+      "pub_date": "2026-11-10T16:45:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "非核三原則“堅持”の地方議会意見書 高市内閣の発足後に急増",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73511",
+      "description": "安全保障関連の3文書の改定に向けた議論が進められるなか、高市内閣の発足後、全国の地方議会から国会に対し非核三原則の堅持などを求める意見書の送付が急増していることがわかりました。",
+      "pub_date": "2026-11-10T18:02:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国大使館侵入事件 元自衛官に拘禁刑１年６か月を求刑",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73701",
+      "description": "ことし3月、東京・港区の中国大使館に侵入し、大使館の職員を脅した罪などに問われている24歳の元陸上自衛官に対し、検察は「外交関係に深刻な影響を与えかねない犯行だ」として拘禁刑1年6か月を求刑しました。…",
+      "pub_date": "2026-11-10T18:25:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "四国電力子会社社員死亡 第三者委員会の設置を会社側が発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73742",
+      "description": "四国電力の子会社の男性社員が職場で暴言を吐かれたなどと記した文書を残して徳島県内の鉄塔から転落し、死亡したことを受けて、会社側はハラスメントの有無などを調べる第三者委員会を設置したと10日、発表しまし…",
+      "pub_date": "2026-11-10T19:03:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "子どものSNS利用 発達段階に応じた考え方提示 こども家庭庁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73287",
+      "description": "子どものSNS利用をめぐって、国内でも年齢制限の議論が大詰めを迎える中、こども家庭庁は、保護者が子どもの利用にどう関わるべきか、発達段階に応じた考え方を示しました。",
+      "pub_date": "2026-11-10T19:51:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "エルニーニョ現象 過去最大の強さに どんな影響が",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73297",
+      "description": "異常気象の要因の一つとされる「エルニーニョ現象」について、気象庁は、監視している南米・ペルー沖で海面水温の平年との差が先月は4.4度となり、統計開始以降最大となった9月の記録をさらに更新したと発表しま…",
+      "pub_date": "2026-11-10T19:48:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -287,13 +618,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "マンジャロで視力低下恐れ 米FDA",
-      "link": "https://news.yahoo.co.jp/pickup/6601997?source=rss",
-      "description": "",
-      "pub_date": "2026-11-10T09:31:26+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "ホワイトハッカー育成 授業を取材",
       "link": "https://news.yahoo.co.jp/pickup/6601986?source=rss",
       "description": "",
@@ -322,10 +646,262 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "織田翔希 G指名あいさつ同席せず",
-      "link": "https://news.yahoo.co.jp/pickup/6602012?source=rss",
+      "title": "室蘭殺人 男「騒音うるさかった」",
+      "link": "https://news.yahoo.co.jp/pickup/6602019?source=rss",
       "description": "",
-      "pub_date": "2026-11-10T11:23:01+09:00"
+      "pub_date": "2026-11-10T12:03:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンション2人死亡 7階から転落か",
+      "link": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T11:43:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G挨拶不在の織田 監督が胸中代弁",
+      "link": "https://news.yahoo.co.jp/pickup/6602023?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T12:04:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "内水氾濫の被害軽減へ 国が対応策",
+      "link": "https://news.yahoo.co.jp/pickup/6602029?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T12:49:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ホンダ 米オハイオ州に工場新設へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T09:50:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡うどんチェーン 関東人気理由",
+      "link": "https://news.yahoo.co.jp/pickup/6602028?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T12:41:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "加藤シゲアキ 第1子誕生を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6602031?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T13:08:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官に弾劾決議案 焦点は",
+      "link": "https://news.yahoo.co.jp/pickup/6602021?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T13:56:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イノシシか 女性に体当たりの映像",
+      "link": "https://news.yahoo.co.jp/pickup/6602018?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T11:53:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「薬屋のひとりごと」躍進の背景",
+      "link": "https://news.yahoo.co.jp/pickup/6602030?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T14:02:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官に弾劾決議案 何が問題",
+      "link": "https://news.yahoo.co.jp/pickup/6602042?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T15:01:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "素性隠し交流「仮面舞踏会」人気",
+      "link": "https://news.yahoo.co.jp/pickup/6602037?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T14:41:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "織田の育成方針作成中 巨人水野氏",
+      "link": "https://news.yahoo.co.jp/pickup/6602038?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T14:33:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "26年の熊本地震 関連死新たに5人",
+      "link": "https://news.yahoo.co.jp/pickup/6602047?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T16:11:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本 米中露会談巡り米に懸念伝達",
+      "link": "https://news.yahoo.co.jp/pickup/6602040?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T14:55:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "義母を窒息させ殺害疑い 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602046?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T15:49:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「仮面舞踏会」チケ即日完売 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T15:32:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラッコ「メイ」11日に展示再開",
+      "link": "https://news.yahoo.co.jp/pickup/6602048?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T16:20:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島森下ら10人FA権行使 NPB公示",
+      "link": "https://news.yahoo.co.jp/pickup/6602045?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T15:53:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日・工藤監督 根尾昂を熱血指導",
+      "link": "https://news.yahoo.co.jp/pickup/6602043?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T15:34:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阿波市長逮捕 事故修理費詐取疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6602049?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T16:35:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福島男児死亡 事件前に児相に情報",
+      "link": "https://news.yahoo.co.jp/pickup/6602041?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T15:00:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケンタ 一部メニュー画像にAI使用",
+      "link": "https://news.yahoo.co.jp/pickup/6602054?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T17:08:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原子力潜水艦 導入視野に検討へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602067?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T18:23:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "証明書のコンビニ交付 障害相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6602063?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T18:06:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "再婚相手の娘を殺害疑い 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602062?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T18:11:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パプア「三人っ子政策」導入検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T17:50:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G編成本部長 織田の1位指名謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6602059?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T17:45:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タカラトミー ロゴマーク変更へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602074?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T19:11:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緒方理貢 トライアウト不参加に",
+      "link": "https://news.yahoo.co.jp/pickup/6602064?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T18:06:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市長ら逮捕 阿波市役所に家宅捜索",
+      "link": "https://news.yahoo.co.jp/pickup/6602075?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T19:21:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日商簿記など 合否や得点が流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6602077?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T19:37:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米・露・ウの協議 9カ月ぶり再開",
+      "link": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T21:24:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "安保3文書 民間力強化を明記へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602079?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T20:01:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関電が作業服を刷新 ビームス監修",
+      "link": "https://news.yahoo.co.jp/pickup/6602078?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T19:57:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マック 新チキン商品の販売休止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602081?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T20:31:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "THE MODS苣木寛之さん死去 66歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602084?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T21:03:16+09:00"
     }
   ]
 }
