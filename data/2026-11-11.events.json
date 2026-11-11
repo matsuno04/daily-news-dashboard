@@ -1,0 +1,345 @@
+{
+  "date": "2026-11-11",
+  "matched_at": "2026-11-11T11:45:20.574838+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73843",
+          "description": "住宅メーカーのタマホームの社員が火災保険の保険金を不正に請求していた疑いがあるとして、損害保険各社が会社に対し、詳しい調査を求めていることが分かりました。",
+          "pub_date": "2026-11-11T04:56:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "タマホーム社員 保険金を不正請求",
+          "link": "https://news.yahoo.co.jp/pickup/6602099?source=rss",
+          "description": "",
+          "pub_date": "2026-11-10T23:38:31+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "米消費者物価指数 10月は前月比0.4％上昇 市場予想を上回る",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73820",
+      "description": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が発表され、10月は9月と比べて0.4％の上昇となりました。 伸び率は市場予想の0.3％を上回りました。 インフレ率が依然として高い水準にある中…",
+      "pub_date": "2026-11-10T22:57:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73840",
+      "description": "食料品の消費税減税関連法案は、11日、参議院本会議で審議入りします。参議院では与党が少数となる中、与党側が野党の主張を丁寧に聞いて成立を図る考えなのに対し、野党からは「今の法案には賛成できない」という…",
+      "pub_date": "2026-11-11T04:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73861",
+      "description": "ロシアとウクライナの和平をめぐるアメリカも交えた3か国の高官協議が10日、およそ9か月ぶりに行われ、ゼレンスキー大統領は「建設的かつ実質的な内容があった」と評価しました。協議は11日も行われ、和平の実…",
+      "pub_date": "2026-11-11T04:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風32号 小笠原最接近 暴風高波に警戒を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73756",
+      "description": "非常に強い台風32号はこの時間、小笠原諸島に最も近づいています。気象庁は、11日にかけて暴風や高波に警戒するよう呼びかけています。",
+      "pub_date": "2026-11-10T21:49:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“ルフィ”広域強盗事件 詐欺グループトップ きょう初公判",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73809",
+      "description": "「ルフィ」などと名乗る指示役らによる広域強盗事件で、強盗致死などの罪に問われている特殊詐欺グループのトップ、渡邉優樹被告の初公判が11日、東京地方裁判所で開かれます。一連の事件の経緯やグループの実態が…",
+      "pub_date": "2026-11-11T05:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "各地で厳しい冷え込み 台風32号は小笠原離れるも高波警戒",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73870",
+      "description": "上空の寒気の影響などで11日朝は各地で気温が下がり、関東でも10度を下回るなど冷え込んでいます。一方、強い台風32号は小笠原諸島から遠ざかっていますが波の高い状態が続く見込みです。",
+      "pub_date": "2026-11-11T06:05:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "逮捕の阿波市長ら 修理費用を機器の調達名目で請求か 徳島",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73872",
+      "description": "徳島県阿波市の市長らが市長の物損事故の修理費用を市が発注した工事の代金に含め、市から350万円をだまし取ったとして逮捕された事件で、水増し分の金額が工事に関係する機器を調達する名目で請求されていたこと…",
+      "pub_date": "2026-11-11T06:35:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73858",
+      "description": "“年内入試”と呼ばれる「総合型選抜」などの大学入試で生成AIを使って志望理由書などを作成する受験生が増えています。大学側の対応も分かれていて、「生成AIで必要以上に虚飾される懸念がある」として制限する…",
+      "pub_date": "2026-11-11T08:18:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "岐阜市のアパートで火事 1歳児含む12人搬送",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73892",
+      "description": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったというこ…",
+      "pub_date": "2026-11-11T10:20:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "文化庁の新たな顕彰制度「食の至宝」 8人が受賞",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73866",
+      "description": "文化庁は食に携わる職人らを対象とした新たな顕彰制度「食の至宝」の初めての受賞者として、ソムリエや和食料理人など8人を選びました。",
+      "pub_date": "2026-11-11T07:57:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米 ルビオ国務長官 G7各国に「イランへ大規模戦闘 必要ない」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73868",
+      "description": "イランへの対応をめぐり、アメリカのルビオ国務長官は経済制裁や海上封鎖措置が効果をあげているとして、現時点で大規模な戦闘を行う必要はないという考えをG7＝主要7か国に伝えたことを明らかにしました。",
+      "pub_date": "2026-11-11T06:39:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73895",
+      "description": "アメリカの新興クラウド企業、「コアウィーブ」が今年9月までの3か月間の決算を発表し、利息の支払いが膨らむなどして最終的な損益が日本円にして1100億円余りの赤字となりました。新興クラウド企業が抱える多…",
+      "pub_date": "2026-11-11T10:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73900",
+      "description": "イギリスの警察は、アメリカ陸軍の兵士を外国の情報機関を支援した疑いなどで逮捕したと発表しました。ロシアが関係し、スパイ活動が行われた疑いがあり、警察は関係先を捜索するなどして捜査を進めています。",
+      "pub_date": "2026-11-11T11:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ラグビー イングランド戦へ調整 齋藤「勝ちにいく戦術を取る」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73889",
+      "description": "イギリスに遠征中のラグビー日本代表は、国際大会「ネーションズチャンピオンシップ」のイングランド戦に向けて現地で調整し、共同キャプテンの齋藤直人選手は「今まで通りのプレーだとなかなか勝機を見いだせないの…",
+      "pub_date": "2026-11-11T11:20:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日中首脳会談 実現への調整不調",
+      "link": "https://news.yahoo.co.jp/pickup/6602093?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T22:42:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "万博のEVバス補助金 返還は半分",
+      "link": "https://news.yahoo.co.jp/pickup/6602091?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T22:32:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "5歳と4歳迷子 救った高校球児8人",
+      "link": "https://news.yahoo.co.jp/pickup/6602094?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T22:54:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "工藤監督 根尾は「伸びしろある」",
+      "link": "https://news.yahoo.co.jp/pickup/6602092?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T22:29:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "もう終わりやで 明石ダコ深刻不漁",
+      "link": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T23:12:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "集客5万人を掲げたイベ閑散 怒り",
+      "link": "https://news.yahoo.co.jp/pickup/6602098?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T23:30:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海自の59歳海将 保育士資格を取得",
+      "link": "https://news.yahoo.co.jp/pickup/6602100?source=rss",
+      "description": "",
+      "pub_date": "2026-11-10T23:56:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G7外相会合 ウ支援で声明公表へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T07:26:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小泉氏 首相総裁選出馬なら支える",
+      "link": "https://news.yahoo.co.jp/pickup/6602107?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T06:39:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "女性搬送の救急車事故 病院で死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6602106?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T06:27:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海ほたるで迷惑行為 閉鎖繰り返す",
+      "link": "https://news.yahoo.co.jp/pickup/6602108?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T06:53:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 元楽天監督の平石氏招へいへ",
+      "link": "https://news.yahoo.co.jp/pickup/6602110?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T07:25:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 森下暢仁に4年契約を準備",
+      "link": "https://news.yahoo.co.jp/pickup/6602105?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T06:08:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "亀梨和也&赤西仁 来年8月にライブ",
+      "link": "https://news.yahoo.co.jp/pickup/6602109?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T07:14:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官 自身への弾劾「茶番」",
+      "link": "https://news.yahoo.co.jp/pickup/6602114?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T07:58:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生徒乗る遊覧船定員1.7倍で航行か",
+      "link": "https://news.yahoo.co.jp/pickup/6602112?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T07:40:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イベ閑散 主催は集客「約束せず」",
+      "link": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T08:03:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本のエンタメを排除 きしむ日中",
+      "link": "https://news.yahoo.co.jp/pickup/6602115?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T08:01:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "障害者雇用ビジネス 登録制を検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602117?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T08:24:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「稼ぐ」マンション管理組合増加",
+      "link": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T08:41:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画「VIVANT」17人が続投決定",
+      "link": "https://news.yahoo.co.jp/pickup/6602119?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T08:37:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国際情勢は歴史的変革期 政府方針",
+      "link": "https://news.yahoo.co.jp/pickup/6602125?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T09:34:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北海道で史上最も早い-20℃以下",
+      "link": "https://news.yahoo.co.jp/pickup/6602121?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T09:05:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダンプカー衝突 自転車の男性重体",
+      "link": "https://news.yahoo.co.jp/pickup/6602128?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T09:52:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
+      "link": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T09:42:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トヨタ 軽トラックを米国で販売へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T09:46:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3文書改定 自民は「ブレーキ役」",
+      "link": "https://news.yahoo.co.jp/pickup/6602135?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T10:56:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "家庭向けの防犯ドローン発売へ 米",
+      "link": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T10:47:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高級スーツに外国人客 老舗逆転劇",
+      "link": "https://news.yahoo.co.jp/pickup/6602136?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T10:49:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ダンプカー衝突 自転車の15歳死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6602142?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T11:22:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井監督 就任前にヤ軍GMに報告",
+      "link": "https://news.yahoo.co.jp/pickup/6602140?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T11:12:13+09:00"
+    }
+  ]
+}
