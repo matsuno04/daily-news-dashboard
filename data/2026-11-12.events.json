@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-12",
+  "matched_at": "2026-11-12T11:45:22.823542+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米・ロ・ウクライナの高官協議終了 大規模な捕虜交換で合意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74517",
+          "description": "ロシアとウクライナの和平をめぐるアメリカも交えた3か国の高官協議がUAE＝アラブ首長国連邦で行われ、ロシアとウクライナが互いに大規模な捕虜の交換を実施することで合意するとともに戦後のウクライナの安全の…",
+          "pub_date": "2026-11-12T05:36:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露ウ 大規模な捕虜交換で合意",
+          "link": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
+          "description": "",
+          "pub_date": "2026-11-12T09:12:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "中野ブロードウェイ 時計窃盗事件 偽名でコンビニから返送か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74478",
+          "description": "先月、東京・中野区の商業施設「中野ブロードウェイ」に入る時計店でおよそ4600万円相当の高級腕時計を盗んだとして30歳の容疑者が逮捕された事件で、容疑者が事件の後、偽名を使って時計を名古屋市内のコンビ…",
+          "pub_date": "2026-11-12T05:12:02+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "腕時計窃盗疑い 気に入ってしまい",
+          "link": "https://news.yahoo.co.jp/pickup/6602236?source=rss",
+          "description": "",
+          "pub_date": "2026-11-12T06:19:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エヌビディア フアンCEO解任へ準備 米紙報道",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74529",
+          "description": "アメリカの有力紙、「ウォール・ストリート・ジャーナル」は11日、アメリカの半導体大手「エヌビディア」がジェンスン・フアンCEOを解任する準備を進めていると報じました。",
+          "pub_date": "2026-11-12T10:48:02+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "エヌビディアがCEO解任準備 報道",
+          "link": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
+          "description": "",
+          "pub_date": "2026-11-12T08:20:47+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "イタリアで6300校に爆破予告 イギリスの学校も標的に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74534",
+          "description": "ヨーロッパで今月に入り旅客機などへの爆破予告が相次ぐなか、イタリアではおよそ6300の学校に爆破予告があったことが分かりました。メローニ首相は「現時点では危険性を示す証拠はない」としています。",
+          "pub_date": "2026-11-12T09:13:49+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "約6300の学校に爆破予告メール 伊",
+          "link": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
+          "description": "",
+          "pub_date": "2026-11-11T23:55:23+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "ドコモ通信障害復旧 原因は機器の不具合",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73934",
+      "description": "NTTドコモでは、11日午前10時半すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、午後7時すぎに復旧したということです…",
+      "pub_date": "2026-11-11T21:47:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福島 いわき 男児死亡 母親が夏ごろ“県外に避難する”と説明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74482",
+      "description": "福島県いわき市で3歳の男の子が母親の交際相手から暴行を受け、その後、死亡した事件で、母親が交際相手からの暴力について相談したことし夏頃に一時、県外に避難すると警察に説明していたことが分かりました。事件…",
+      "pub_date": "2026-11-11T23:26:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "海水温上昇 イギリスでタコ大量発生 ロブスター ホタテ大幅減",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74426",
+      "description": "ことしの夏、記録的な猛暑が続いたヨーロッパでは、海水温も上昇していて生態系や漁業に大きな変化が出ている地域もあります。周辺の海水温が近年、平年より高くなっているイギリス南西部では、比較的温暖な海域に多…",
+      "pub_date": "2026-11-11T21:38:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ・ロシア・ウクライナ高官協議 大規模捕虜交換で合意",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73734",
+      "description": "ロシアとウクライナの和平をめぐるアメリカも交えた3か国の高官協議の2日目の協議が11日、UAE＝アラブ首長国連邦の首都アブダビで行われました。",
+      "pub_date": "2026-11-11T21:58:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広島 福山 2階建て住宅全焼 家族5人のうち3人と連絡取れず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74516",
+      "description": "11日夜、広島県福山市で住宅が全焼する火事がありました。この家に住む家族5人のうち3人と連絡が取れておらず、警察と消防が安否の確認を進めています。",
+      "pub_date": "2026-11-12T04:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "円相場1ドル＝159円台後半 FRBの追加利上げ観測で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74514",
+      "description": "11日の外国為替市場ではアメリカのFRB＝連邦準備制度理事会が来月の会合で追加の利上げに踏み切るとの観測から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝159円台後半まで値下がりしました。こ…",
+      "pub_date": "2026-11-12T10:39:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "G7外相会合共同声明発表 ウクライナ支援継続を再確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74519",
+      "description": "フランスのパリで開かれたG7＝主要7か国の外相会合は共同声明を発表し、ロシアによる軍事侵攻が続くウクライナへの揺るぎない支持を再確認するとともに、和平の実現に向けたアメリカの取り組みを支持する姿勢を示…",
+      "pub_date": "2026-11-12T06:06:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "COP31首脳級会合 国連事務総長“気候変動に対策追いつかず”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74479",
+      "description": "トルコで開かれている気候変動対策を話し合う国連の会議「COP31」で、11日、首脳級会合が始まり、国連のグテーレス事務総長は気候変動のスピードに対策が追いついていないとして、化石燃料への依存からの脱却…",
+      "pub_date": "2026-11-12T05:06:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 参院で審議入り 13日から特別委員会で質疑へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74498",
+      "description": "食料品の消費税減税関連法案は参議院で審議入りし、13日から特別委員会で質疑が行われます。与党側は、高市総理大臣の出席など野党側の求めに応じることで審議を円滑に進め、法案の成立を図りたいとしている一方、…",
+      "pub_date": "2026-11-12T06:26:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "人手不足解消へ ファミマがフィジカルAI導入",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74472",
+      "description": "コンビニ大手のファミリーマートは、店舗の人手不足の解消に向けて、飲料を自動で補充するフィジカルAIを活用したロボットを2027年1月から全国の店舗に本格導入する方針を固めました。",
+      "pub_date": "2026-11-12T06:58:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東北新幹線 運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74521",
+      "description": "JR東日本によりますと、東北新幹線は、夜間作業が遅れた影響で宮城県の古川駅と岩手県の水沢江刺駅の間の上下線で運転を見合わせていましたが、午前7時に運転を再開したということです。",
+      "pub_date": "2026-11-12T07:08:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国外相と米国務長官が電話会談 APECでの首脳会談向け調整か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74524",
+      "description": "中国の王毅外相は11日、アメリカのルビオ国務長官と電話会談を行いました。来週、中国で行われるAPEC＝アジア太平洋経済協力会議にあわせた両国の首脳会談に向け、調整を行ったものとみられます。",
+      "pub_date": "2026-11-12T07:28:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "京都 亀岡の養鶏場で今シーズン初 鳥インフルエンザ感染確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74535",
+      "description": "11日、京都府亀岡市の養鶏場でニワトリ14羽が死んでいるのが見つかったことをうけて、府が詳しい検査を進めた結果、高病原性の「H5型」の鳥インフルエンザウイルスが検出されたことがわかりました。 感染が確…",
+      "pub_date": "2026-11-12T10:49:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米 ニューヨークで建物の一部が倒壊 死者1人 けが人多数",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74557",
+      "description": "アメリカの複数のメディアによりますと、11日、ニューヨーク・ブルックリン地区で3階建ての建物の一部が倒壊し、少なくとも1人が死亡し、12人がけがをしたということです。がれきの中に取り残されている人がい…",
+      "pub_date": "2026-11-12T10:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "10月企業物価指数 前年同月比7.1％上昇 中東背景に伸び率拡大",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74538",
+      "description": "企業の間で取り引きされるモノの価格を示す先月の企業物価指数は、去年の同じ月と比べて7.1％上昇しました。 9月と比べて伸び率は拡大していて、中東情勢の影響による石油関連製品の値上がりを反映して高い水準…",
+      "pub_date": "2026-11-12T09:20:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日産自動車 中間決算 赤字幅縮小も2期連続の最終赤字",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74555",
+      "description": "経営再建中の日産自動車はことし4月から9月までのグループ全体の中間決算を発表し、最終的な損益は397億円の赤字と、コスト削減が進み為替が円安で推移したことなどで赤字幅は縮小したものの、中間決算として2…",
+      "pub_date": "2026-11-12T10:22:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Amazon「表示枠」公取なぜ問題視",
+      "link": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T22:26:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "月収5万円 受診遅れ死亡した男性",
+      "link": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T21:30:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "開発事業者がミラー設置断る 困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6602232?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T22:54:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "育成9位指名の18歳 SB入団を辞退",
+      "link": "https://news.yahoo.co.jp/pickup/6602228?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T22:00:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "板倉滉に第1子 可愛すぎてやばい",
+      "link": "https://news.yahoo.co.jp/pickup/6602227?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T21:35:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FA太田光 広島球団に手土産渡す",
+      "link": "https://news.yahoo.co.jp/pickup/6602233?source=rss",
+      "description": "",
+      "pub_date": "2026-11-11T23:34:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 FA獲得目指す3人に条件提示",
+      "link": "https://news.yahoo.co.jp/pickup/6602235?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T06:07:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Amazon出品者「安値強要された」",
+      "link": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T06:28:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マック 休止中の新チキン開発経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T06:42:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木梨憲武のスポーツ特番 1/2放送",
+      "link": "https://news.yahoo.co.jp/pickup/6602239?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T06:58:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "核「持ち込ませず」例外検討 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T07:55:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "厚労省 残業タクシー「半減」",
+      "link": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T07:26:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "誠也 カブスの単年36億円QO拒否",
+      "link": "https://news.yahoo.co.jp/pickup/6602247?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T07:59:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米俳優 ステイシー・キーチ氏死去",
+      "link": "https://news.yahoo.co.jp/pickup/6602245?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T07:47:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "違憲状態解決策見えず 合区に限界",
+      "link": "https://news.yahoo.co.jp/pickup/6602244?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T07:40:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "給食費を自腹で穴埋め 課題指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T08:20:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「毛沢東」中国若者の間でブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T08:39:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ ブラックフライデーが長期化",
+      "link": "https://news.yahoo.co.jp/pickup/6602255?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T08:59:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロッテ 落合英二氏が10年ぶり復帰",
+      "link": "https://news.yahoo.co.jp/pickup/6602253?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T08:50:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "減税法案 支援金対象は交渉切り札",
+      "link": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T09:24:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "EU「ダークパターン」禁止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T09:11:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イベ閑散波紋 出演料まだ払われず",
+      "link": "https://news.yahoo.co.jp/pickup/6602265?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T10:08:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "二重かわいい 女子大生の違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6602267?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T10:27:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "懸命に働くは美徳51% 読売調査",
+      "link": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T07:30:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "CEOの解任可否を決定へ NVIDIA",
+      "link": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T11:01:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "二重かわいい 女子大学生の違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T11:02:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「DOWNTOWN+」1年 制作の本音",
+      "link": "https://news.yahoo.co.jp/pickup/6602268?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T11:22:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "石原さとみ 子供に「大好き」習慣",
+      "link": "https://news.yahoo.co.jp/pickup/6602270?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T11:05:11+09:00"
+    }
+  ]
+}
