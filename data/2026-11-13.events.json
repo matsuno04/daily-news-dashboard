@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "matched_at": "2026-11-13T11:45:23.584872+09:00",
+  "matched_at": "2026-11-13T21:45:20.816321+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -30,10 +30,10 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "【速報中】マイクロソフトで接続障害 世界各地に影響のおそれ",
+          "title": "【更新中】マイクロソフトで接続障害 アジア太平洋一部 復旧",
           "link": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
-          "description": "アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。具体的な影響の範囲や程度は明らかになっていませ…",
-          "pub_date": "2026-11-13T11:03:00+09:00"
+          "description": "アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで発生した接続障害では、広い範囲でサービスが利用できない状況が現在も続いています。マイクロソフトは、アジア太平洋地域の設…",
+          "pub_date": "2026-11-13T20:59:44+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -123,6 +123,106 @@
           "pub_date": "2026-11-13T11:06:47+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "冬の電気・ガス料金支援など 予備費6500億円余支出決定 政府",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75208",
+          "description": "政府は、来月から3か月間、電気・ガス料金の支援を実施する費用などとして、今年度予算の予備費から6500億円余りを支出することを正式に決定しました。",
+          "pub_date": "2026-11-13T12:21:44+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "冬の電気・ガスなど支援 6500億円",
+          "link": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T11:50:29+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75147",
+          "description": "大みそか恒例のNHK紅白歌合戦のことしの出場歌手が13日発表され、紅組と白組、合わせて41組の出場が決まりました。ことしの初出場は、＝LOVEやモナキなど合わせて7組です。",
+          "pub_date": "2026-11-13T19:47:07+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "NHK紅白歌合戦 出場歌手が決定",
+          "link": "https://news.yahoo.co.jp/pickup/6602407?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T13:16:52+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "消費税減税法案 支援金“勤労者5割以上対象で検討”高市首相",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75159",
+          "description": "今の国会で最大の焦点となっている食料品の消費税減税関連法案は、参議院の特別委員会で審議が始まりました。 高市総理大臣は、減税にあわせて導入するとしている所得に応じた支援金について、これまで勤労者の3割…",
+          "pub_date": "2026-11-13T19:36:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "支援金 勤労者全体の5割以上検討",
+          "link": "https://news.yahoo.co.jp/pickup/6602431?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T17:08:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "2人死亡ひき逃げ 逃走したとみられるトラック 相模原で発見",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75522",
+          "description": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされて死亡しました。警察は現場から逃走したとみられるトラックを相模原市内で見つけ、関係者から話を聴いています。",
+          "pub_date": "2026-11-13T19:19:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "女性2人死亡 トラックひき逃げか",
+          "link": "https://news.yahoo.co.jp/pickup/6602432?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T17:07:42+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大手損保2社 タマホーム通じた火災保険販売停止へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75561",
+          "description": "住宅メーカー「タマホーム」で火災保険の保険金を不正に請求していた疑いが出ている問題で、大手損害保険2社がタマホームを通じた火災保険の新規の販売を取りやめる方針を決めました。もう1社も取りやめる方向で検…",
+          "pub_date": "2026-11-13T20:11:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "損保3社タマホーム保険販売停止へ",
+          "link": "https://news.yahoo.co.jp/pickup/6602444?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T18:19:53+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
@@ -173,7 +273,7 @@
       "title": "ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける",
       "link": "https://news.web.nhk/newsweb/na/nd-20261113de75109",
       "description": "ロシアの治安機関が北海道新聞の記者を拘束して13日で1か月となりました。日本側は即時解放などを求めてきましたが、ロシア側は応じる姿勢を示しておらず、日本側は今後も即時解放を強く求めるとともに、「領事面…",
-      "pub_date": "2026-11-13T05:22:00+09:00"
+      "pub_date": "2026-11-13T11:24:11+09:00"
     },
     {
       "source": "NHK",
@@ -186,8 +286,8 @@
       "source": "NHK",
       "title": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
       "link": "https://news.web.nhk/newsweb/na/nd-20261113de75122",
-      "description": "広島県福山市の住宅が全焼し、焼け跡から3人が遺体で見つかった火事で、警察は、家の中で火をつけたとしてこの家に住む32歳の長男を放火の疑いで逮捕しました。",
-      "pub_date": "2026-11-13T05:51:00+09:00"
+      "description": "広島県福山市の住宅が全焼し、焼け跡から3人が遺体で見つかった火事で、警察は、家の中に火をつけたと認めたことなどから、32歳の長男を放火の疑いで逮捕しました。出火直後には消防に「寝たばこで火が出た」とい…",
+      "pub_date": "2026-11-13T12:24:45+09:00"
     },
     {
       "source": "NHK",
@@ -230,6 +330,69 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261113de75174",
       "description": "ロシアとウクライナの和平に向けた協議をめぐり、ウクライナのゼレンスキー大統領と仲介にあたるアメリカのウィトコフ特使らがアイルランドで会談しました。ゼレンスキー大統領は会談後、次回以降の協議にヨーロッパ…",
       "pub_date": "2026-11-13T11:19:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "井林氏「党費含め費用まかなっている」会費超の景品提供疑いに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75215",
+      "description": "井林国土交通大臣は、自身が代表を務める自民党の支部が開いた催しで、会費を超える景品などが提供された疑いがあると一部で報じられたことについて、開催費用は、参加者である党員が支払った党費も含めてまかなって…",
+      "pub_date": "2026-11-13T12:12:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75212",
+      "description": "アメリカの半導体大手、「エヌビディア」は中国の情報機関の協力者とされる女性と親密な関係にあったなどと報じられたジェンスン・フアン氏がCEOを辞任したと発表しました。会社は暫定のCEOを任命しましたが、…",
+      "pub_date": "2026-11-13T18:53:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米財務省 日米協調介入時に“794億円分の円買い”FRB報告書",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75299",
+      "description": "歴史的な円安局面となり、日米が協調介入したことし7月末、アメリカ財務省は、794億円の円買いの介入を実施していたことがわかりました。",
+      "pub_date": "2026-11-13T12:34:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "南米チリとペルーの大統領が来週訪日 高市首相と首脳会談へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75242",
+      "description": "政府は、南米のチリとペルーの大統領が、来週それぞれ日本を訪問し、高市総理大臣と首脳会談を行うと発表しました。",
+      "pub_date": "2026-11-13T13:45:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "タマホーム 別の支店でも不審な請求見つかる 損保が確認求める",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75355",
+      "description": "住宅メーカー「タマホーム」で火災保険の保険金を不正に請求していた疑いが出ている問題で、損害保険各社が改めて確認したところ高松支店以外の複数の支店からの請求にも不審な点が見つかったことが分かりました。各…",
+      "pub_date": "2026-11-13T15:05:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大阪市 100万件超の市民らのメールアドレス漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75397",
+      "description": "大阪市は、住民票の写しの請求などをオンライン申請するシステムに関連する外部サービスが不正アクセスを受けた問題で、市民などのメールアドレス100万件余りが漏えいしたことを明らかにしました。",
+      "pub_date": "2026-11-13T16:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
+      "description": "アメリカのFBI＝連邦捜査局は、北朝鮮のハッカーたちが、オンライン会議を装って参加した人の顔の動画を録画し、この動画を悪用する「フェーススティーラー」＝顔泥棒と呼ばれる手口で、1年半の間に4億ドル相当…",
+      "pub_date": "2026-11-13T15:24:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "GMO不正アクセス問題 顧客補償費用などで約30億円想定と発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75297",
+      "description": "GMOインターネットグループは13日、FX＝外国為替証拠金取引の投資家向けのサービスが不正アクセスを受けた問題で、顧客への補償費用などとして現時点で30億5000万円を想定していると発表しました。 …",
+      "pub_date": "2026-11-13T16:06:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "外国人材運用方針の改正案「外食業」見直し　政府有識者会議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75696",
+      "description": "外国人材の受け入れをめぐって政府の有識者会議が開かれ、特定技能制度と、来年度から導入される育成就労制度の運用方針の改正案が大筋でまとまりました。 「外食業」の分野のうち、深刻な人手不足が指摘される病…",
+      "pub_date": "2026-11-13T20:51:58+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -440,6 +603,237 @@
       "link": "https://news.yahoo.co.jp/pickup/6602381?source=rss",
       "description": "",
       "pub_date": "2026-11-13T10:25:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エヌビディア 暫定CEOにクレス氏",
+      "link": "https://news.yahoo.co.jp/pickup/6602391?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T11:30:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "おでん店主殺害 娘夫婦が無罪主張",
+      "link": "https://news.yahoo.co.jp/pickup/6602394?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T11:38:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "土木職員 今春45都道府県定員割れ",
+      "link": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T11:42:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Microsoft365で障害 SNSの反応",
+      "link": "https://news.yahoo.co.jp/pickup/6602401?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T12:06:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元恋人にいいね14回押し有罪 解説",
+      "link": "https://news.yahoo.co.jp/pickup/6602405?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T12:49:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "磁気テープ再注目 流出リスク低く",
+      "link": "https://news.yahoo.co.jp/pickup/6602402?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T12:32:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市議兼業 売名と言われたアイドル",
+      "link": "https://news.yahoo.co.jp/pickup/6602404?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T12:30:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イラン側 バーレーンの米施設攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T12:57:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クレカのICチップすり替えに注意",
+      "link": "https://news.yahoo.co.jp/pickup/6602398?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T14:20:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ボビー被告 不同意性交を認める",
+      "link": "https://news.yahoo.co.jp/pickup/6602416?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T14:19:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "馬に物投げられる JRA「お願い」",
+      "link": "https://news.yahoo.co.jp/pickup/6602413?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T13:59:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "紅白で衝撃 白組に演歌歌手ゼロ",
+      "link": "https://news.yahoo.co.jp/pickup/6602415?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T14:04:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府 ロシアに首脳会談を打診",
+      "link": "https://news.yahoo.co.jp/pickup/6602418?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T14:37:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クレカ不正利用 新たな手口に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6602420?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T14:43:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メール障害で納期遅延 法的扱いは",
+      "link": "https://news.yahoo.co.jp/pickup/6602424?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T15:48:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "男児死亡のゼリー 包装に注意書き",
+      "link": "https://news.yahoo.co.jp/pickup/6602423?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T15:30:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保J 12月の強化試合を断念",
+      "link": "https://news.yahoo.co.jp/pickup/6602425?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T15:36:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三山紅白選外 けん玉挑戦どうなる",
+      "link": "https://news.yahoo.co.jp/pickup/6602417?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T14:37:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "紅白出場歌手 K-POP勢は減少",
+      "link": "https://news.yahoo.co.jp/pickup/6602412?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T14:18:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO攻撃 被害申告は29.9億円に",
+      "link": "https://news.yahoo.co.jp/pickup/6602430?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T16:52:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "両腕不自由なサル失踪騒動 生還",
+      "link": "https://news.yahoo.co.jp/pickup/6602421?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T15:21:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "紅白 堺雅人&二宮司会共演は偶然",
+      "link": "https://news.yahoo.co.jp/pickup/6602426?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T16:16:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳長女を殴り殺害疑い 父親逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602445?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T18:21:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "奈良県庁 シカ侵入でドア改修",
+      "link": "https://news.yahoo.co.jp/pickup/6602447?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T18:18:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保J 12月30日の親善試合中止",
+      "link": "https://news.yahoo.co.jp/pickup/6602437?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T17:40:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Microsoft障害 復旧の兆し",
+      "link": "https://news.yahoo.co.jp/pickup/6602451?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T19:14:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報アジアプロ野球 侍Jvs.韓国",
+      "link": "https://news.yahoo.co.jp/pickup/6602442?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T18:53:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人向け国債NISA化 見送りで調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602452?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T19:47:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ニデック 年内の臨時株主総会断念",
+      "link": "https://news.yahoo.co.jp/pickup/6602448?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T19:00:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報・侍J 韓国から逆転2ラン",
+      "link": "https://news.yahoo.co.jp/pickup/6602455?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T20:11:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "社内イベ「社員旅行」など大幅減",
+      "link": "https://news.yahoo.co.jp/pickup/6602453?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T20:09:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "社内イベ「忘新年会」など大幅減",
+      "link": "https://news.yahoo.co.jp/pickup/6602457?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T20:30:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "豊昇龍 逃げたと言われたくない",
+      "link": "https://news.yahoo.co.jp/pickup/6602459?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T21:06:43+09:00"
     }
   ]
 }
