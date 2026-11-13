@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-13",
+  "matched_at": "2026-11-13T11:45:23.584872+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エヌビディア フアンCEOが辞任 業界全体に影響も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de75078",
+          "description": "アメリカの半導体大手「エヌビディア」は12日、中国の情報機関の協力者とされる女性と親密な関係にあったなどと報じられた創業者のジェンスン・フアン氏がCEOを辞任したと発表しました。 AI向け半導体で圧…",
+          "pub_date": "2026-11-13T07:47:30+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "エヌビディアのフアンCEOが辞任",
+          "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
+          "description": "",
+          "pub_date": "2026-11-12T23:08:14+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【速報中】マイクロソフトで接続障害 世界各地に影響のおそれ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+          "description": "アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。具体的な影響の範囲や程度は明らかになっていませ…",
+          "pub_date": "2026-11-13T11:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「Microsoft 365」で大規模障害",
+          "link": "https://news.yahoo.co.jp/pickup/6602362?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T07:19:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "山形 寒河江 住宅火災で3人の遺体 3人居住 連絡とれず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75126",
+          "description": "13日未明、山形県寒河江市で住宅2棟が全焼する火事があり、火元とみられる住宅から3人が遺体で見つかりました。 この住宅には3人が暮らしていて、いずれも連絡がとれていないということで、警察が確認を進め…",
+          "pub_date": "2026-11-13T09:31:56+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "山形県で住宅全焼 3人の遺体",
+          "link": "https://news.yahoo.co.jp/pickup/6602365?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T07:42:21+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "山崎正昭元参議院議長が死去 84歳",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75154",
+          "description": "参議院議長を務めた自民党の山崎正昭参議院議員が13日に亡くなりました。84歳でした。",
+          "pub_date": "2026-11-13T10:42:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "参議院議員の山崎正昭氏が死去",
+          "link": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T10:00:12+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大リーグ 大谷翔平 4年連続5回目のMVP受賞ならず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75152",
+          "description": "大リーグで今シーズン最も活躍した選手に贈られるMVP＝最優秀選手が発表され、ドジャースの大谷翔平選手は4年連続5回目の受賞はなりませんでした。 MVPには今シーズン、ホームラン45本、41盗塁を記録…",
+          "pub_date": "2026-11-13T10:13:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大谷 4年連続のMVP受賞はならず",
+          "link": "https://news.yahoo.co.jp/pickup/6602387?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T10:37:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75168",
+          "description": "ドイツの大手自動車メーカー、メルセデス・ベンツグループは、中国メーカーとの競争の激化などを背景にコストの削減が急務だとして、ドイツ国内の工場の閉鎖を検討せざるを得ないとの認識を明らかにしました。",
+          "pub_date": "2026-11-13T11:16:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "メルセデス 独工場の一部閉鎖検討",
+          "link": "https://news.yahoo.co.jp/pickup/6602392?source=rss",
+          "description": "",
+          "pub_date": "2026-11-13T11:06:47+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "自民 石破前首相 定数31削減法案“考え方としてどうか”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75073",
+      "description": "自民党の石破前総理大臣は、党が日本維新の会、国民民主党とともに国会に提出した衆議院議員の定数を比例代表で31議席削減するなどとした法案について「少数意見を尊重するために入れた比例代表を削るというのは考…",
+      "pub_date": "2026-11-12T22:40:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ ウィトコフ特使らとプーチン大統領の会談始まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75057",
+      "description": "ロシアとウクライナの和平をめぐるアメリカも交えた3か国の高官協議に参加したアメリカのウィトコフ特使、トランプ大統領の娘の夫クシュナー氏と、プーチン大統領の会談が12日モスクワで始まりました。 今後3か…",
+      "pub_date": "2026-11-12T22:14:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費税減税法案 参院特別委で質疑へ 効果や支援金めぐり論戦",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75105",
+      "description": "食料品の消費税減税関連法案は、13日、参議院の特別委員会で高市総理大臣も出席して質疑が行われます。 衆議院に続き物価高対策としての効果や、所得に応じた支援金の対象などをめぐって論戦が交わされる見通し…",
+      "pub_date": "2026-11-13T04:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "円相場 一時1ドル＝160円台まで値下がり 約2か月ぶり円安水準",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75110",
+      "description": "12日のニューヨーク外国為替市場では、円を売ってドルを買う動きが進んで、円相場は一時、およそ2か月ぶりの円安水準となる1ドル＝160円台まで値下がりしました。",
+      "pub_date": "2026-11-13T10:16:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナ アメリカの衛星通信サービス再び制限",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75118",
+      "description": "ウクライナのゼレンスキー大統領は、ウクライナ軍が使用するアメリカの衛星通信サービスの利用が再び一部制限されたと明らかにし、ロシア軍の無人機の迎撃などに支障が出ていると訴えています。",
+      "pub_date": "2026-11-13T04:49:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "防衛研究所 中国にとって南シナ海はアメリカと対抗する基盤",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75106",
+      "description": "防衛省の防衛研究所は、中国の軍事動向に関することしの報告書をまとめました。 中国にとって、南シナ海は台湾の統一を目指すにあたりアメリカと対抗していく上での基盤になると分析し、海軍や海警局などを増強し…",
+      "pub_date": "2026-11-13T05:07:14+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75109",
+      "description": "ロシアの治安機関が北海道新聞の記者を拘束して13日で1か月となりました。日本側は即時解放などを求めてきましたが、ロシア側は応じる姿勢を示しておらず、日本側は今後も即時解放を強く求めるとともに、「領事面…",
+      "pub_date": "2026-11-13T05:22:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "プーチン大統領 米特使らと会談で局地停戦提案 ウクライナ警戒",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75124",
+      "description": "ロシアのプーチン大統領は、ウクライナとの和平を仲介するアメリカの特使らとモスクワで会談し、先にウクライナ南部の都市で実施された局地的な停戦と人道支援を東部の別の都市にも適用することを提案しました。 …",
+      "pub_date": "2026-11-13T06:51:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75122",
+      "description": "広島県福山市の住宅が全焼し、焼け跡から3人が遺体で見つかった火事で、警察は、家の中で火をつけたとしてこの家に住む32歳の長男を放火の疑いで逮捕しました。",
+      "pub_date": "2026-11-13T05:51:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "COP31首脳級会合 英首相が中東情勢念頭に脱化石燃料訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75130",
+      "description": "トルコで開かれている気候変動対策を話し合う国連の会議「COP31」で、2日間にわたり首脳級会合が開かれました。 イギリスのバーナム首相は、中東情勢などを念頭に燃料価格が急騰しているという見方を示し、…",
+      "pub_date": "2026-11-13T07:37:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 旭市の養鶏場 鳥インフルエンザ感染確認 全国で今季2例目",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75136",
+      "description": "千葉県によりますと、旭市の養鶏場で、死んだニワトリの遺伝子検査を行ったところ、高病原性の「H5型」の鳥インフルエンザウイルスが検出されたということです。 県は、13日午前8時からこの養鶏場のおよそ4…",
+      "pub_date": "2026-11-13T08:58:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米大統領「イラン合意は不要」 副大統領には国内対応を要請",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75140",
+      "description": "アメリカのトランプ大統領は、「イランとの合意は必要ない」とSNSに投稿し、これまで交渉にあたってきたバンス副大統領には、国内の野党・民主党への対応に集中するよう要請したと明らかにしました。 アメリカ…",
+      "pub_date": "2026-11-13T09:21:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】熊本県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75157",
+      "description": "13日午前10時52分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+      "pub_date": "2026-11-13T11:18:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "独防衛企業にサイバー攻撃　独軍が無人機を運用停止と報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75142",
+      "description": "無人機の製造などを手がけ、日本にも拠点を設けるドイツの防衛企業がサイバー攻撃を受けたことを明らかにし、納入を受けたドイツ軍が無人機の運用を停止したと報じられています。",
+      "pub_date": "2026-11-13T11:07:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゼレンスキー大統領 米特使らと会談「次回以降は欧州も参加」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75174",
+      "description": "ロシアとウクライナの和平に向けた協議をめぐり、ウクライナのゼレンスキー大統領と仲介にあたるアメリカのウィトコフ特使らがアイルランドで会談しました。ゼレンスキー大統領は会談後、次回以降の協議にヨーロッパ…",
+      "pub_date": "2026-11-13T11:19:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "石破氏 採決で退席の小渕氏を評価",
+      "link": "https://news.yahoo.co.jp/pickup/6602349?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T22:32:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "無印良品 クレカ番号流出巡る経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T22:02:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タマホーム 5年以上前から不正か",
+      "link": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T22:34:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "勤務先から21億円超横領疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T22:05:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "適応障害は風邪 生徒に副校長発言",
+      "link": "https://news.yahoo.co.jp/pickup/6602350?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T22:35:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍Jが台湾に5-0で勝利 正木が2HR",
+      "link": "https://news.yahoo.co.jp/pickup/6602344?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T21:44:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米ワシントンで銃撃事件 5人負傷",
+      "link": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T00:13:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "銭湯侵入疑い 男は国際的犯罪Gか",
+      "link": "https://news.yahoo.co.jp/pickup/6602352?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T23:10:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官ら 墓地で衛兵から叱責",
+      "link": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T23:26:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海岸にクジラの死骸 深海の希少種",
+      "link": "https://news.yahoo.co.jp/pickup/6602351?source=rss",
+      "description": "",
+      "pub_date": "2026-11-12T22:57:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マイクロソフト「365」大規模障害",
+      "link": "https://news.yahoo.co.jp/pickup/6602357?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T06:11:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "幾田りら 映画で本格俳優デビュー",
+      "link": "https://news.yahoo.co.jp/pickup/6602358?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T06:27:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エヌビディアCEO辞任 動揺広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T06:59:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "EBiDANが紅白初出場 節目に悲願",
+      "link": "https://news.yahoo.co.jp/pickup/6602360?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T06:45:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "幾田りら 髪染め本格俳優デビュー",
+      "link": "https://news.yahoo.co.jp/pickup/6602359?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T06:40:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米首都銃撃5人死傷 容疑者も死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T07:44:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "落語家の三遊亭鳳楽さん死去 79歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602363?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T07:33:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "思いやり予算 5年3兆円超を米要求",
+      "link": "https://news.yahoo.co.jp/pickup/6602377?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T09:02:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 防衛費巡る「大幅増税」慎重",
+      "link": "https://news.yahoo.co.jp/pickup/6602369?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T07:59:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イノシシに襲われ重傷 夫語る状況",
+      "link": "https://news.yahoo.co.jp/pickup/6602374?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T08:32:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "丸亀製麺の値下げ 「逆張り」真髄",
+      "link": "https://news.yahoo.co.jp/pickup/6602372?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T08:36:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 FAの上林誠知と直接交渉",
+      "link": "https://news.yahoo.co.jp/pickup/6602376?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T08:55:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Microsoft障害 全面復旧は未定",
+      "link": "https://news.yahoo.co.jp/pickup/6602382?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T10:01:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ワタミがMBO検討 きょう付議へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T09:40:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官 自身注意の衛兵に勲章",
+      "link": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T09:29:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "恋活婚活「リアル回帰」の訳 解説",
+      "link": "https://news.yahoo.co.jp/pickup/6602378?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T09:23:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画VIVANT チケット追加販売へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602384?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T10:10:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Microsoft障害 日本政府にも影響",
+      "link": "https://news.yahoo.co.jp/pickup/6602393?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T11:22:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "奈良で妻が行方不明 捜索続け12年",
+      "link": "https://news.yahoo.co.jp/pickup/6602389?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T11:04:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「歩けない現実」向き合う9歳少女",
+      "link": "https://news.yahoo.co.jp/pickup/6602381?source=rss",
+      "description": "",
+      "pub_date": "2026-11-13T10:25:17+09:00"
+    }
+  ]
+}
