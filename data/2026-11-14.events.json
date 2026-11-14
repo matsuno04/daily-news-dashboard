@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "matched_at": "2026-11-14T11:45:24.586774+09:00",
+  "matched_at": "2026-11-14T21:45:36.334417+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -30,6 +30,26 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "マイクロソフトの接続障害 全面復旧と発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
+          "description": "アメリカのIT大手、マイクロソフトのサービスで起きた大規模な接続障害について、会社は、14日午後、サービスが全面復旧したと発表しました。",
+          "pub_date": "2026-11-14T16:04:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "マイクロソフトの障害 全面復旧",
+          "link": "https://news.yahoo.co.jp/pickup/6602556?source=rss",
+          "description": "",
+          "pub_date": "2026-11-14T15:27:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "マネックス証券 本人確認の画像データ1592件漏えいか",
           "link": "https://news.web.nhk/newsweb/na/nd-20261113de75719",
           "description": "ネット証券大手のマネックス証券は、口座開設のシステムが不正アクセスを受け、1592件の本人確認のための画像データが漏えいした可能性があると発表しました。",
@@ -45,7 +65,7 @@
       }
     },
     {
-      "event_id": "evt-0003",
+      "event_id": "evt-0004",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -65,67 +85,7 @@
       }
     },
     {
-      "event_id": "evt-0004",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
-          "description": "アメリカのIT大手、マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について、日本時間の14日午前3時すぎ「広範囲にわたる復旧がみられる」とSNSに投稿しました。…",
-          "pub_date": "2026-11-14T05:48:54+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "MS「復旧が進み、安定した状態」",
-          "link": "https://news.yahoo.co.jp/pickup/6602492?source=rss",
-          "description": "",
-          "pub_date": "2026-11-14T07:37:15+09:00"
-        }
-      }
-    },
-    {
       "event_id": "evt-0005",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "大阪 枚方 女児死亡事件 踏み台の練習中に父親が立腹し暴行か",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75748",
-          "description": "大阪 枚方市で3歳の娘に暴行を加えて死亡させたなどとして両親が逮捕された事件で、当時の状況について父親が逮捕前の任意の調べに「娘には身体的な発達の遅れがあると思い、踏み台の上り下りをさせていた」と説明…",
-          "pub_date": "2026-11-14T04:52:00+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "3歳暴行死 虐待疑い通告5回あった",
-          "link": "https://news.yahoo.co.jp/pickup/6602507?source=rss",
-          "description": "",
-          "pub_date": "2026-11-14T08:47:27+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0006",
-      "adopted": true,
-      "sources": {
-        "NHK": {
-          "source": "NHK",
-          "title": "アメリカ全土の航空機の運航停止を解除 米航空当局",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75764",
-          "description": "アメリカのFAA＝連邦航空局は日本時間の14日朝、アメリカ全土の空港ですべての航空機の運航停止措置をとりました。 停止措置はおよそ4時間半後に解除され、国土安全保障省は、通信障害が原因で、今の段階では…",
-          "pub_date": "2026-11-14T11:30:41+09:00"
-        },
-        "Yahoo!ニュース": {
-          "source": "Yahoo!ニュース",
-          "title": "全米 航空機の地上待機命令を解除",
-          "link": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
-          "description": "",
-          "pub_date": "2026-11-14T10:50:35+09:00"
-        }
-      }
-    },
-    {
-      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -145,7 +105,27 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "全米の空港で運航停止措置 欠航1万便超 解除後も混乱続く",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75764",
+          "description": "アメリカ全土の空港では通信障害の影響で日本時間の14日朝からおよそ4時間半にわたってすべての航空機の運航を停止する措置がとられました。 この影響で欠航が1万便を超えるなど、措置が解除されたいまも混乱は…",
+          "pub_date": "2026-11-14T18:26:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "全米空港で地上待機命令 通信障害",
+          "link": "https://news.yahoo.co.jp/pickup/6602503?source=rss",
+          "description": "",
+          "pub_date": "2026-11-14T08:42:11+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -165,15 +145,15 @@
       }
     },
     {
-      "event_id": "evt-0009",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+          "title": "米中ロ3か国首脳会談 19日に初めての開催へ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75768",
-          "description": "アメリカのホワイトハウスは、今月19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領の3者での首脳会談を行うと明らかにしました。 この3人の首脳による正式な会談は初めて…",
-          "pub_date": "2026-11-14T10:51:52+09:00"
+          "description": "アメリカのホワイトハウスは、今月19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領の3者での首脳会談を行うと明らかにしました。 アメリカ・中国・ロシアの3か国の首脳に…",
+          "pub_date": "2026-11-14T17:26:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -181,6 +161,46 @@
           "link": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
           "description": "",
           "pub_date": "2026-11-14T09:02:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "タマホーム 不正請求疑いで保険代理業廃業へ 外部調査も検討",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75846",
+          "description": "住宅メーカーのタマホームは、火災保険の保険金を不正に請求していた疑いが出ている問題で、保険代理業を廃業する方針を損害保険各社に申し入れたことを明らかにしました。 また、全店舗を対象に進めている社内調…",
+          "pub_date": "2026-11-14T13:09:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "タマホーム 保険代理業を廃業へ",
+          "link": "https://news.yahoo.co.jp/pickup/6602519?source=rss",
+          "description": "",
+          "pub_date": "2026-11-14T10:20:08+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75990",
+          "description": "サッカー日本代表は14日夜、シンガポールで行われた強化試合でブラジルと対戦し、3対2で勝ちました。",
+          "pub_date": "2026-11-14T21:21:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "森保J 3-2でブラジル相手に勝利",
+          "link": "https://news.yahoo.co.jp/pickup/6602593?source=rss",
+          "description": "",
+          "pub_date": "2026-11-14T21:16:48+09:00"
         }
       }
     }
@@ -199,6 +219,13 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261113de75728",
       "description": "イランの革命防衛隊は13日、バーレーンにあるアメリカ軍の設備を攻撃したと発表しました。イラン南部にある通信設備をアメリカ軍が攻撃したことへの報復だとしていて、ホルムズ海峡周辺でのせめぎ合いが続いていま…",
       "pub_date": "2026-11-14T00:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大阪 枚方女児死亡 体に古いもの含め数10か所のあざ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75748",
+      "description": "ことし8月、大阪・枚方市で3歳の女の子が死亡し、両親が逮捕された事件で、全身には古いものも含めて数10か所のあざがあったことが警察への取材でわかりました。 「虐待の疑いがある」などと通報を受けていた枚…",
+      "pub_date": "2026-11-14T17:44:00+09:00"
     },
     {
       "source": "NHK",
@@ -227,6 +254,55 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261114de75745",
       "description": "ラグビー日本代表は、14日に行われる国際大会「ネーションズチャンピオンシップ」のイングランド戦を前に「ラグビーの聖地」と呼ばれるトゥイッケナムのスタジアムで最終調整を行い、スクラムハーフの藤原忍選手は…",
       "pub_date": "2026-11-14T01:23:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "小栗虫太郎の未発表原稿や創作メモが見つかる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75792",
+      "description": "「黒死館殺人事件」などの探偵小説で知られる昭和初期の小説家、小栗虫太郎の未発表とみられる10作以上の直筆の原稿や複数の創作メモが見つかりました。 専門家は「謎解きよりも情景描写に力を入れた作品もあり小…",
+      "pub_date": "2026-11-14T11:06:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "京成電鉄 予約システムに不正アクセス 最大337万件漏えいか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75830",
+      "description": "京成電鉄は成田空港と都内を結ぶ特急「スカイライナー」の座席予約システムが不正アクセスを受けて、利用者の氏名や電話番号メールアドレスなど、最大でおよそ337万件の情報が第三者によって取得された可能性があ…",
+      "pub_date": "2026-11-14T12:54:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「いつまでも仲よく」横田めぐみさんとの“約束”胸に再会待つ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75794",
+      "description": "横田めぐみさんが新潟市で北朝鮮に拉致されてから15日で49年です。 めぐみさんと仲がよかった2人の同級生は、「いつまでも仲よくしましょう」と、めぐみさんがノートに書き残した“約束”を胸に、「絶対帰って…",
+      "pub_date": "2026-11-14T14:40:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "JR北海道 新観光列車「赤い星」公開 ターゲットは富裕層",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75833",
+      "description": "JR北海道が、来年から運行を始める新たな観光列車が、14日に報道陣に公開されました。",
+      "pub_date": "2026-11-14T17:51:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ヤクルトと東京六大学の記念試合で大リーグの村上が始球式",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75935",
+      "description": "明治神宮外苑の100周年を記念してプロ野球・ヤクルトと東京六大学野球の選抜チームが対戦し、ヤクルトのOBで、大リーグのホワイトソックスでプレーする村上宗隆選手が始球式を行いました。",
+      "pub_date": "2026-11-14T17:48:27+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "横田めぐみさん拉致からあすで49年 新潟集会で家族が訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75866",
+      "description": "中学1年生だった横田めぐみさんが北朝鮮に拉致されてから15日で49年になります。 新潟市では被害者の帰国を願う大規模な集会が開かれ、母親の早紀江さんなど家族が一刻も早い救出に向け、日朝首脳会談の開催を…",
+      "pub_date": "2026-11-14T18:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大相撲九州場所7日目 横綱 豊昇龍が小結 義ノ富士を退け連勝",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75967",
+      "description": "大相撲九州場所は7日目。13日、連敗を3で止めた横綱・豊昇龍は、小結の義ノ富士に勝って2連勝とし、4勝3敗と白星が先行しました。",
+      "pub_date": "2026-11-14T19:17:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -321,6 +397,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "MS「復旧が進み、安定した状態」",
+      "link": "https://news.yahoo.co.jp/pickup/6602492?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T07:37:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "U21大岩ジャパン スペインに敗戦",
       "link": "https://news.yahoo.co.jp/pickup/6602495?source=rss",
       "description": "",
@@ -335,13 +418,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "全米空港で地上待機命令 通信障害",
-      "link": "https://news.yahoo.co.jp/pickup/6602503?source=rss",
-      "description": "",
-      "pub_date": "2026-11-14T08:42:11+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "バンス氏 米大統領選見送り検討か",
       "link": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
       "description": "",
@@ -353,6 +429,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6602508?source=rss",
       "description": "",
       "pub_date": "2026-11-14T08:55:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳暴行死 虐待疑い通告5回あった",
+      "link": "https://news.yahoo.co.jp/pickup/6602507?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T08:47:27+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -391,10 +474,10 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "タマホーム 保険代理業を廃業へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602519?source=rss",
+      "title": "全米 航空機の地上待機命令を解除",
+      "link": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
       "description": "",
-      "pub_date": "2026-11-14T10:20:08+09:00"
+      "pub_date": "2026-11-14T10:50:35+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -416,6 +499,286 @@
       "link": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
       "description": "",
       "pub_date": "2026-11-14T10:30:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中露会談 核兵器削減を協議へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T12:13:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米空港で混乱 原因はハードウエア",
+      "link": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T11:54:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳死亡 5回虐待通告もなぜ防げず",
+      "link": "https://news.yahoo.co.jp/pickup/6602526?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T11:26:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元阪神・井川慶「休養」の今",
+      "link": "https://news.yahoo.co.jp/pickup/6602527?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T11:31:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "壇蜜 夫からの手紙に見せた笑顔",
+      "link": "https://news.yahoo.co.jp/pickup/6602528?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T11:35:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "全米の空路混乱 150万人足止めか",
+      "link": "https://news.yahoo.co.jp/pickup/6602537?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T13:22:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「人生初FAX」MS障害で代替手段",
+      "link": "https://news.yahoo.co.jp/pickup/6602497?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T08:03:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報アジアプロ野球 侍Jvs.豪州",
+      "link": "https://news.yahoo.co.jp/pickup/6602534?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T12:42:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍J 初回に1死も取られず11得点",
+      "link": "https://news.yahoo.co.jp/pickup/6602536?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T13:08:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "いしだ壱成 今が全盛期と語る理由",
+      "link": "https://news.yahoo.co.jp/pickup/6602533?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T12:27:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大学お笑い日本一の名大生 進路は",
+      "link": "https://news.yahoo.co.jp/pickup/6602538?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T13:22:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横浜・織田翔希 ドジャースと面談",
+      "link": "https://news.yahoo.co.jp/pickup/6602541?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T13:55:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エビ中・中山莉子 当面活動休止",
+      "link": "https://news.yahoo.co.jp/pickup/6602540?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T13:44:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東15日は気温急降下 師走並みか",
+      "link": "https://news.yahoo.co.jp/pickup/6602551?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T15:06:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「夫を包丁で刺した」49歳女逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602547?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T14:50:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍Jが決勝進出 豪に16得点大勝",
+      "link": "https://news.yahoo.co.jp/pickup/6602549?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T14:49:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元AKB48 島崎遥香が独立を報告",
+      "link": "https://news.yahoo.co.jp/pickup/6602544?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T14:20:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "エヌビディアCEO 後任選定難航か",
+      "link": "https://news.yahoo.co.jp/pickup/6602554?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T15:24:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市営住宅236戸に別人が入居 伊賀",
+      "link": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T15:51:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "急逝したFWと衝突のGK処分 欧州",
+      "link": "https://news.yahoo.co.jp/pickup/6602553?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T15:53:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "舞台「THE BEE」当日中止を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6602557?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T16:10:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳死亡 歩行訓練で腹立てたと父",
+      "link": "https://news.yahoo.co.jp/pickup/6602559?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T16:49:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首都圏でクマ目撃増 神奈川や埼玉",
+      "link": "https://news.yahoo.co.jp/pickup/6602558?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T16:25:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "病気で90cmの14歳 一緒に泣いた母",
+      "link": "https://news.yahoo.co.jp/pickup/6602563?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T17:12:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米の航空混乱 途方に暮れる乗客",
+      "link": "https://news.yahoo.co.jp/pickup/6602568?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T17:45:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍ジャパンに大敗 豪の悪夢の40分",
+      "link": "https://news.yahoo.co.jp/pickup/6602564?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T17:30:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "印旛沼決壊 暮らしの再建進まず",
+      "link": "https://news.yahoo.co.jp/pickup/6602573?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T18:37:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "売れ残りを寄付 広がる一方問題も",
+      "link": "https://news.yahoo.co.jp/pickup/6602572?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T18:42:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "職場で電話苦手30代最多? 克服法",
+      "link": "https://news.yahoo.co.jp/pickup/6602565?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T17:23:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報 森保ジャパンvs.ブラジル",
+      "link": "https://news.yahoo.co.jp/pickup/6602574?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T19:14:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "侍J・西川 初回に代走送られ交代",
+      "link": "https://news.yahoo.co.jp/pickup/6602578?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T19:28:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報・森保J ブラジルに2点リード",
+      "link": "https://news.yahoo.co.jp/pickup/6602581?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T19:40:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "菓子屋の倒産最多へ 老舗でも低迷",
+      "link": "https://news.yahoo.co.jp/pickup/6602566?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T17:46:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報・森保J ブラジルに1点リード",
+      "link": "https://news.yahoo.co.jp/pickup/6602582?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T19:55:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "薬指にキス 先制ゴールの久保建英",
+      "link": "https://news.yahoo.co.jp/pickup/6602585?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T20:21:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中露の接近 日本政府は危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6602584?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T20:17:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "1.5℃目標もう無理? COPの意義は",
+      "link": "https://news.yahoo.co.jp/pickup/6602577?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T19:11:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宿泊増 鳥取県の「VIVANT」戦略",
+      "link": "https://news.yahoo.co.jp/pickup/6602569?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T18:05:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "力士の魁禅さん33歳で死去 胃がん",
+      "link": "https://news.yahoo.co.jp/pickup/6602587?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T20:50:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中村七之助 パパになりお酒やめた",
+      "link": "https://news.yahoo.co.jp/pickup/6602579?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T20:15:59+09:00"
     }
   ]
 }
