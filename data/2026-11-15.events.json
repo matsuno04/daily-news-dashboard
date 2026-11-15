@@ -1,0 +1,390 @@
+{
+  "date": "2026-11-15",
+  "matched_at": "2026-11-15T11:45:33.636536+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 東南アジアなどと「アジア版IEA」創設を提唱で調整",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de76011",
+          "description": "中東情勢を踏まえ、高市総理大臣は、17日に開かれる東南アジア各国などとの首脳会合で、石油備蓄の協調放出のルールづくりなどを検討する新たな枠組みの創設を提唱する方向で調整しています。アジア版のIEA＝国…",
+          "pub_date": "2026-11-15T00:46:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首相 「アジア版IEA」創設提唱へ",
+          "link": "https://news.yahoo.co.jp/pickup/6602615?source=rss",
+          "description": "",
+          "pub_date": "2026-11-15T07:36:41+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "枚方女児死亡 「以前から夫が娘殴るの見た」逮捕前に母親説明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de76000",
+          "description": "大阪 枚方市で、3歳の女の子が死亡し、両親が逮捕された事件で、母親が逮捕前の警察の任意の調べに「以前から夫が娘を殴るところを複数回、見たことがある」などと説明していたことが捜査関係者への取材で分かりま…",
+          "pub_date": "2026-11-15T06:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大阪3歳死亡 遺体に50カ所のあざ",
+          "link": "https://news.yahoo.co.jp/pickup/6602612?source=rss",
+          "description": "",
+          "pub_date": "2026-11-15T07:24:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "インフルエンサー「あっすん」 風営法違反疑いで逮捕",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76043",
+          "description": "「あっすん」という名前でYouTubeの番組に出演するなどインフルエンサーとして活動している風俗店経営者ら3人が、名古屋市中心部の繁華街のバーで無許可で従業員に客の接待をさせていたとして、風俗営業法違…",
+          "pub_date": "2026-11-15T08:25:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ラヴ上等「あっすん」容疑者逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6602608?source=rss",
+          "description": "",
+          "pub_date": "2026-11-15T07:18:13+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "横田めぐみさん拉致から49年　早紀江さん「会いたい」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75986",
+          "description": "中学1年生だった横田めぐみさんが北朝鮮に拉致されてから15日で49年です。 母親の早紀江さんは、「1回でもいいから会いたい」と訴え、一刻も早い帰国の実現を求めています。",
+          "pub_date": "2026-11-15T10:18:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "横田さん拉致49年 母が思い吐露",
+          "link": "https://news.yahoo.co.jp/pickup/6602620?source=rss",
+          "description": "",
+          "pub_date": "2026-11-15T08:10:36+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
+          "description": "ロシアによる侵攻が続く中、ウクライナのゼレンスキー大統領は、アメリカ側から、NATO＝北大西洋条約機構への加盟を交換条件に、東部ドンバス地域からウクライナ軍を撤退させることができるかどうか打診されたと…",
+          "pub_date": "2026-11-15T09:01:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "ウのNATO加盟で東部撤退 米打診",
+          "link": "https://news.yahoo.co.jp/pickup/6602627?source=rss",
+          "description": "",
+          "pub_date": "2026-11-15T08:42:31+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす 通算2勝目",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75990",
+      "description": "サッカー日本代表は14日夜、シンガポールで行われた強化試合でブラジルと対戦し、3対2で競り勝ちました。ワールドカップの雪辱を果たして、ブラジルから去年10月以来となる通算2勝目をあげました。",
+      "pub_date": "2026-11-15T00:04:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 松山参院会長 消費税減税法案“国民・公明 方向性同じ”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de76006",
+      "description": "食料品の消費税減税関連法案をめぐり、自民党の松山参議院議員会長は、国民民主党や公明党とは政策の方向性が同じだとして、それぞれの主張に耳を傾け、幅広い賛同を得て成立させたいという考えを示しました。",
+      "pub_date": "2026-11-14T23:07:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "天皇皇后両陛下 大阪で海づくり大会関係者と懇談",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75988",
+      "description": "天皇皇后両陛下は「全国豊かな海づくり大会」に出席するため大阪府を訪れ、水産資源の保護や漁業に取り組む人たちと懇談されました。",
+      "pub_date": "2026-11-14T21:58:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "杉原千畝「命のビザ」パスポートの複製 生存のユダヤ人に寄贈",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75993",
+      "description": "第2次世界大戦中に日本の外交官、杉原千畝が発給したビザに救われ、戦後、アメリカでその功績を伝えてきた94歳のユダヤ人の女性に、杉原の出身地、岐阜県八百津町から当時使われた女性の父のパスポートのレプリカ…",
+      "pub_date": "2026-11-14T22:08:50+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ラグビー日本代表 イングランドに13トライ奪われ大敗【詳報】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75976",
+      "description": "イギリスに遠征しているラグビー日本代表は、国際大会「ネーションズチャンピオンシップ」でイングランド代表と対戦し、15対78で敗れました。 記事後半では試合の経過を詳しくお伝えしています。",
+      "pub_date": "2026-11-15T05:29:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ASEAN首脳会議開幕へ トランプ大統領のアジアへの姿勢にも注目",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261114de75995",
+      "description": "ASEAN＝東南アジア諸国連合の一連の首脳会議が15日からフィリピンで始まり、領有権をめぐって中国とフィリピンなどが対立する南シナ海や、ミャンマー情勢をめぐる議論が焦点になります。 日程のなかでは日…",
+      "pub_date": "2026-11-15T05:12:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ 航空機運航停止の影響で14日も混乱続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76032",
+      "description": "アメリカでは全土の空港で航空機の運航を停止する措置がとられた影響で、14日も4000便あまりが欠航する見通しになるなど、混乱が続いています。 ダフィー運輸長官は、通信設備を更新する際に障害が起きたと…",
+      "pub_date": "2026-11-15T06:31:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】熊本県で震度3 津波の心配なし(06:17）",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76036",
+      "description": "15日午前6時17分ごろ、熊本県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。",
+      "pub_date": "2026-11-15T06:53:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "経産省とアジア開発銀行 アジアの原発導入支援 協力覚書で調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76028",
+      "description": "経済産業省は、アジア各国への原子力発電所の導入に向けて、ADB＝アジア開発銀行と協力の覚書を交わす方向で調整していることがわかりました。将来、拡大が見込まれる、アジアの原発市場への日本企業の参入につな…",
+      "pub_date": "2026-11-15T06:05:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "若手登竜門の国際コンクール バイオリンで小西真璃花さん4位",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76044",
+      "description": "若手音楽家の登竜門として知られる音楽コンクール「ロン・ティボー国際コンクール」のバイオリン部門の決勝がフランスで行われ、日本人の19歳、小西真璃花さんが4位に選ばれました。",
+      "pub_date": "2026-11-15T08:53:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76047",
+      "description": "アメリカの宇宙開発企業スペースXは、大型宇宙船の飛行試験を行い、宇宙飛行を終えた機体を発射台で回収することに初めて成功しました。 月や火星への飛行を見据え、宇宙船を再利用する技術開発が大きく前進した…",
+      "pub_date": "2026-11-15T09:46:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI悪用攻撃拠点か 世界で千台発見",
+      "link": "https://news.yahoo.co.jp/pickup/6602602?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T22:45:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "縦型ショートドラマ トラブル急増",
+      "link": "https://news.yahoo.co.jp/pickup/6602597?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T21:56:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体に障害 恋愛は無理と思っていた",
+      "link": "https://news.yahoo.co.jp/pickup/6602599?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T22:07:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鎌田大地が代表離脱 クラブ事情",
+      "link": "https://news.yahoo.co.jp/pickup/6602603?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T22:55:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大倉士門 妻との連絡1日100往復超",
+      "link": "https://news.yahoo.co.jp/pickup/6602605?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T22:56:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "MS 障害原因は過去の増強作業",
+      "link": "https://news.yahoo.co.jp/pickup/6602606?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T23:42:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本兵の墓が無縁化 解消に法の壁",
+      "link": "https://news.yahoo.co.jp/pickup/6602590?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T21:32:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ブラジル監督 会見も怒り収まらず",
+      "link": "https://news.yahoo.co.jp/pickup/6602607?source=rss",
+      "description": "",
+      "pub_date": "2026-11-14T23:56:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "きょう近畿や東海で激しい雨 注意",
+      "link": "https://news.yahoo.co.jp/pickup/6602621?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T08:07:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "7時頃登校し清掃 校長に児童感化",
+      "link": "https://news.yahoo.co.jp/pickup/6602624?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T08:28:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Netflixが値上げ 最安は990円に",
+      "link": "https://news.yahoo.co.jp/pickup/6602619?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T07:58:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "G高橋ヘッド 背番号は33+55で88",
+      "link": "https://news.yahoo.co.jp/pickup/6602613?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T07:41:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "退場のブラジル主将 判定を批判",
+      "link": "https://news.yahoo.co.jp/pickup/6602610?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T07:28:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NHK紅白歌合戦 注目の大トリ誰か",
+      "link": "https://news.yahoo.co.jp/pickup/6602616?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T07:43:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中露会談 3首脳の思惑が交錯",
+      "link": "https://news.yahoo.co.jp/pickup/6602626?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T08:41:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "住宅強盗 寝ていた82歳女性が重傷",
+      "link": "https://news.yahoo.co.jp/pickup/6602623?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T08:40:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・田中将大 織田翔希に初言及",
+      "link": "https://news.yahoo.co.jp/pickup/6602622?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T08:19:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANTドラム編 地上波初放送へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602625?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T08:37:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米知事選 民主党が計6州を奪還",
+      "link": "https://news.yahoo.co.jp/pickup/6602637?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T10:02:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "月収2万円と年金5万円 70代の現実",
+      "link": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T10:06:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "公務員が白塗りニンニク姿 体張る",
+      "link": "https://news.yahoo.co.jp/pickup/6602633?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T09:51:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "再開発が大赤字 大阪・阿倍野の今",
+      "link": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T09:24:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「日本は強豪」ブラジル監督評価",
+      "link": "https://news.yahoo.co.jp/pickup/6602634?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T10:02:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "令和キッズの間で「宝石ブーム」",
+      "link": "https://news.yahoo.co.jp/pickup/6602617?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T07:57:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "瀬戸康史 帰宅早い理由は「家族」",
+      "link": "https://news.yahoo.co.jp/pickup/6602638?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T10:05:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "検事の取り調べ AIでチェックへ",
+      "link": "https://news.yahoo.co.jp/pickup/6602643?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T10:48:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "0歳に暴行「こんなパパでごめん」",
+      "link": "https://news.yahoo.co.jp/pickup/6602640?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T10:55:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "子どもの間で「宝石集め」ブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6602647?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T11:23:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東京で「臭い豚骨」がブーム 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6602644?source=rss",
+      "description": "",
+      "pub_date": "2026-11-15T10:52:40+09:00"
+    }
+  ]
+}
