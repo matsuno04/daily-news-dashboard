@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "matched_at": "2026-11-16T11:45:43.409878+09:00",
+  "matched_at": "2026-11-16T21:45:47.680114+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -17,15 +17,35 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "福岡市長選 再選挙が確実に",
-          "link": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
+          "title": "福岡市長選が再選挙へ 憤る市民も",
+          "link": "https://news.yahoo.co.jp/pickup/6602799?source=rss",
           "description": "",
-          "pub_date": "2026-11-16T08:22:11+09:00"
+          "pub_date": "2026-11-16T15:48:42+09:00"
         }
       }
     },
     {
       "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "野球日本代表 韓国に5対1で勝利し大会3連覇",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76311",
+          "description": "野球の国際大会「アジアプロ野球チャンピオンシップ」は、15日決勝が行われ日本がソフトバンクの正木智也選手のスリーランホームランなどで韓国に5対1で勝って、大会3連覇を果たしました。",
+          "pub_date": "2026-11-16T01:37:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "侍J宗山塁が大会MVP 正木苦笑い",
+          "link": "https://news.yahoo.co.jp/pickup/6602733?source=rss",
+          "description": "",
+          "pub_date": "2026-11-15T22:56:37+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -45,15 +65,15 @@
       }
     },
     {
-      "event_id": "evt-0003",
+      "event_id": "evt-0004",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "7～9月GDP 年率換算で-0.1％ 4期ぶりマイナス 個人消費減少で",
+          "title": "7～9月GDP 年率換算で-0.1％ 4期ぶりマイナス 個人消費減少",
           "link": "https://news.web.nhk/newsweb/na/nd-20261116de76344",
           "description": "ことし7月から9月までのGDP＝国内総生産は個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と、4期ぶりのマイナスとなりました。",
-          "pub_date": "2026-11-16T10:52:42+09:00"
+          "pub_date": "2026-11-16T11:49:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -65,15 +85,15 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "NTTドコモ 全国で通信障害 不正アクセスか含め原因調査急ぐ",
+          "title": "NTTドコモ 一部利用者で通信障害 今月3度目 原因調査を急ぐ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261116de76369",
-          "description": "NTTドコモによりますと、現在、全国で音声通話やデータ通信、ショートメールといった携帯電話のサービスが利用しにくい状況が発生しているということです。 会社は原因の調査を進めていて、不正アクセスによる…",
-          "pub_date": "2026-11-16T10:53:00+09:00"
+          "description": "NTTドコモによりますと、16日午前10時すぎから、一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生しているということです。",
+          "pub_date": "2026-11-16T12:44:13+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -85,15 +105,15 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
           "title": "元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決",
           "link": "https://news.web.nhk/newsweb/na/nd-20261116de76383",
-          "description": "お笑いトリオ「ジャングルポケット」のメンバーだった斉藤慎二被告が20代の女性に性的暴行をした罪などに問われた裁判で、東京地方裁判所は無罪の主張を退け、懲役4年の実刑判決を言い渡しました。",
-          "pub_date": "2026-11-16T11:22:34+09:00"
+          "description": "お笑いトリオ「ジャングルポケット」のメンバーだった斉藤慎二被告が20代の女性に性的暴行をした罪などに問われた裁判で、東京地方裁判所は「みずからの性欲を満たすために行った犯行の動機に酌むべき点はない」と…",
+          "pub_date": "2026-11-16T14:01:19+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -105,15 +125,15 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "茨城 常磐道で車複数台の事故 十数人けがの情報 消防",
+          "title": "茨城 常磐道で車7台の事故 十数人けがの情報 2人搬送",
           "link": "https://news.web.nhk/newsweb/na/nd-20261116de76371",
-          "description": "消防によりますと、16日午前9時ごろ、茨城県かすみがうら市の常磐自動車道の千代田石岡インターチェンジ付近の下り線で、複数台の車が関係する事故があり、十数人がけがをしているという情報があるということです…",
-          "pub_date": "2026-11-16T11:00:57+09:00"
+          "description": "16日午前、茨城県かすみがうら市の常磐自動車道の下り線で車7台が関係する事故があり、消防によりますと十数人がけがをしたという情報があり、このうち2人が病院に運ばれました。警察などが詳しい事故の状況を調…",
+          "pub_date": "2026-11-16T11:58:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -125,7 +145,7 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -137,10 +157,90 @@
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "「I'm so happy」中井亜美GP連勝",
-          "link": "https://news.yahoo.co.jp/pickup/6602754?source=rss",
+          "title": "今季世界最高V 中井亜美がガッツ",
+          "link": "https://news.yahoo.co.jp/pickup/6602775?source=rss",
           "description": "",
-          "pub_date": "2026-11-16T08:26:08+09:00"
+          "pub_date": "2026-11-16T11:52:10+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76603",
+          "description": "理化学研究所のスーパーコンピューター「富岳」が外部から不正アクセスを受けたことがわかり、理化学研究所は富岳の稼働を停止し、情報流出などの被害がないか詳しい状況を確認しています。",
+          "pub_date": "2026-11-16T17:17:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "富岳に不正アクセス 理研が明かす",
+          "link": "https://news.yahoo.co.jp/pickup/6602790?source=rss",
+          "description": "",
+          "pub_date": "2026-11-16T14:05:16+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ファッション雑誌元モデルの女性殺害か 内縁の夫逮捕 警視庁",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76620",
+          "description": "ことし7月、東京 豊島区のマンションで以前、ファッション雑誌の専属モデルだった30代の女性に殴るなどの暴行を加えて殺害したとして、42歳の内縁の夫が殺人の疑いで警視庁に逮捕されました。調べに対し、容疑…",
+          "pub_date": "2026-11-16T18:38:05+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "元eggモデルを殺害疑い 男逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6602793?source=rss",
+          "description": "",
+          "pub_date": "2026-11-16T15:01:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "関文科相 パーティーにバイオ医薬品関係者が出席 寄付あたらず",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76709",
+          "description": "関文部科学大臣は、自身が代表を務める自民党支部がおととし6月に開催した政治資金パーティーについて、会費は9万円で、バイオ医薬品の企業関係者が出席し、厚生労働省の担当者から治験制度の説明を受けたと明らか…",
+          "pub_date": "2026-11-16T18:04:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "文科相のパーティー 会費は9万円",
+          "link": "https://news.yahoo.co.jp/pickup/6602811?source=rss",
+          "description": "",
+          "pub_date": "2026-11-16T17:33:57+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京 中野 女性が刺され意識不明 刺したとみられる男を確保",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76817",
+          "description": "16日夜、東京 中野区の路上で20代くらいの女性が何者かに刃物で刺され、病院に搬送されましたが、意識不明の状態だということです。 刺した人物は現場から逃走していましたが、警視庁が刺したとみられる30…",
+          "pub_date": "2026-11-16T21:12:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "中野区で女性が刺され重体 男逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6602836?source=rss",
+          "description": "",
+          "pub_date": "2026-11-16T21:27:57+09:00"
         }
       }
     }
@@ -159,13 +259,6 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261115de76094",
       "description": "15日に投票が行われた愛媛県知事選挙は、現職の中村時広氏が5回目の当選を果たしました。",
       "pub_date": "2026-11-16T02:13:54+09:00"
-    },
-    {
-      "source": "NHK",
-      "title": "野球日本代表 韓国に5対1で勝利し大会3連覇",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261115de76311",
-      "description": "野球の国際大会「アジアプロ野球チャンピオンシップ」は、15日決勝が行われ日本がソフトバンクの正木智也選手のスリーランホームランなどで韓国に5対1で勝って、大会3連覇を果たしました。",
-      "pub_date": "2026-11-16T01:37:18+09:00"
     },
     {
       "source": "NHK",
@@ -224,6 +317,111 @@
       "pub_date": "2026-11-16T11:13:48+09:00"
     },
     {
+      "source": "NHK",
+      "title": "高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76382",
+      "description": "高市総理大臣は16日午後、ASEANの首脳会議の開催地、フィリピンに到着しました。17日に関連の会議に出席し、アジア地域で石油備蓄の協調放出のルールづくりなどを検討する新たな枠組みの創設を提唱する見通…",
+      "pub_date": "2026-11-16T16:33:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ベッセント米財務長官「エヌビディア 後任は社外から登用を」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76473",
+      "description": "半導体大手エヌビディアのジェンスン・フアン氏が辞任した問題でアメリカのベッセント財務長官は、後任は社外から登用すべきだという考えを示しました。先端半導体の中国へのう回輸出があったのではないかという疑惑…",
+      "pub_date": "2026-11-16T13:06:42+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "株価 終値も6万円割れ 半導体関連の銘柄中心に売り注文広がる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76445",
+      "description": "週明け16日の東京株式市場、半導体関連の銘柄を中心に売り注文が広がり、日経平均株価は値下がりして終値として6万円を割り込みました。",
+      "pub_date": "2026-11-16T16:38:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "火災で焼失した「首里城正殿」が復元 11月23日から一般公開へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76402",
+      "description": "7年前の火災で焼失した首里城正殿（せいでん）が復元され、2026年11月23日の一般公開を前に内部が報道関係者に公開されました。",
+      "pub_date": "2026-11-16T12:29:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76469",
+      "description": "中国外務省は16日、習近平国家主席がアメリカのトランプ大統領、ロシアのプーチン大統領と3か国の首脳会談を今月19日に行うと発表しました。アメリカ側は核軍縮やイラン情勢について協議する予定だとしています…",
+      "pub_date": "2026-11-16T18:51:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "香港のディズニーで不正アクセス 電子チケット盗み取られたか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76430",
+      "description": "香港のディズニーランドでオンラインチケットの販売システムに不正アクセスがあり、香港のメディアは、およそ1万7000枚分の電子チケットのQRコードが盗み取られた疑いがあると伝えています。",
+      "pub_date": "2026-11-16T14:54:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "富山市の交番襲撃事件 弁護側「死刑を科すべきではない」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76514",
+      "description": "2018年、富山市の交番で警察官を殺害し、拳銃を奪って近くにいた警備員を殺害した罪に問われている元自衛官の差し戻しの裁判で、被告の弁護士は、拳銃を奪う目的はなく強盗殺人罪は成立しないなどとして、検察の…",
+      "pub_date": "2026-11-16T14:30:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "3文書改定“財源必要あれば税調で議論” 自民 小野寺税調会長",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76562",
+      "description": "安全保障関連の3文書の改定に向けた議論で、防衛費の規模が焦点となる中、自民党の小野寺税制調査会長は、財源の確保に向けた税制改正の必要があれば、今後、税制調査会で検討する考えを示しました。",
+      "pub_date": "2026-11-16T15:41:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "定数削減法案 今国会成立へ早期の衆院通過目指す 自民維新幹部",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76590",
+      "description": "衆議院議員の定数を比例代表で31議席削減するなどとした法案をめぐり、自民・維新両党の幹事長らが会談し、今の国会での成立に向けて委員会審議を積み重ね、できるだけ早い時期の衆議院通過を図る方針で一致しまし…",
+      "pub_date": "2026-11-16T16:26:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76647",
+      "description": "大阪・ミナミの若者が多く集まる場所として知られる通称「グリ下」で「帝王」と呼ばれる30代の男の容疑者が、収入があることを隠して住民票がある徳島市から生活保護費およそ78万円を不正に受け取った疑いで逮捕…",
+      "pub_date": "2026-11-16T17:14:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東京大学総長選考 教職員有志「説明は一定程度進んだ」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76596",
+      "description": "東京大学の次の総長の選考をめぐって、教職員の有志らは3回目の文書を大学側に提出しました。選考会議による説明が一定程度進んだと評価する一方、今後、意向投票と異なる判断をする場合の基準の整備などを求めてい…",
+      "pub_date": "2026-11-16T16:28:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "一度太ると痩せにくくなるメカニズム マウスの実験で解明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76627",
+      "description": "一度太ると、減量しても痩せにくくなったり、リバウンドしやすくなったりするのは、余分な脂肪を処理する免疫細胞の働きの変化が原因の1つだとする動物実験の結果を昭和医科大学などのグループがまとめました。新た…",
+      "pub_date": "2026-11-16T17:57:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "片山財務相 消費税減税法案 支援金の対象“データ精査し確定”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
+      "description": "食料品の消費税減税関連法案をめぐり片山財務大臣は、高市総理大臣が所得に応じた支援金の対象を勤労者の5割以上とする方向で検討する考えを示したことを受けて、最新のデータを精査しながら予算編成の過程で対象な…",
+      "pub_date": "2026-11-16T18:55:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76537",
+      "description": "「ルフィ」などと名乗る指示役らによる広域強盗事件で、強盗致死などの罪に問われている特殊詐欺グループのトップ、渡邉優樹被告の裁判が開かれ、被告は2017年に中国に拠点を置く組織の関係者から依頼を受けたこ…",
+      "pub_date": "2026-11-16T19:04:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広島カープ“契約更新せず”通告された3選手 説明求め申し入れ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76820",
+      "description": "プロ野球、広島から指定薬物をめぐる内部調査の結果を理由に来シーズンの契約を結ばないと通告された3人の選手が、球団の対応は不当だとして詳しい説明を求める申し入れを行いました。 球団は「今後、対応してい…",
+      "pub_date": "2026-11-16T21:00:19+09:00"
+    },
+    {
       "source": "Yahoo!ニュース",
       "title": "NVIDIAフアン氏復帰を 署名広がる",
       "link": "https://news.yahoo.co.jp/pickup/6602724?source=rss",
@@ -250,13 +448,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6602732?source=rss",
       "description": "",
       "pub_date": "2026-11-15T22:56:05+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "侍J宗山塁が大会MVP 正木苦笑い",
-      "link": "https://news.yahoo.co.jp/pickup/6602733?source=rss",
-      "description": "",
-      "pub_date": "2026-11-15T22:56:37+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -292,6 +483,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6602740?source=rss",
       "description": "",
       "pub_date": "2026-11-16T06:41:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡市長選 再選挙が確実に",
+      "link": "https://news.yahoo.co.jp/pickup/6602753?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T08:22:11+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -344,6 +542,13 @@
     },
     {
       "source": "Yahoo!ニュース",
+      "title": "「I'm so happy」中井亜美GP連勝",
+      "link": "https://news.yahoo.co.jp/pickup/6602754?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T08:26:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
       "title": "コンテナホテル8年で145店舗 背景",
       "link": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
       "description": "",
@@ -369,6 +574,286 @@
       "link": "https://news.yahoo.co.jp/pickup/6602761?source=rss",
       "description": "",
       "pub_date": "2026-11-16T10:04:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日韓首脳 17日にフィリピンで会談",
+      "link": "https://news.yahoo.co.jp/pickup/6602766?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T11:38:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神戸6歳死亡 叔父は起訴内容否認",
+      "link": "https://news.yahoo.co.jp/pickup/6602768?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T11:37:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "介護事業所 昨年度は38.3%が赤字",
+      "link": "https://news.yahoo.co.jp/pickup/6602756?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T09:18:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ちばてつやさん死去 賞は継続方針",
+      "link": "https://news.yahoo.co.jp/pickup/6602771?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T11:43:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "常磐道で車7台絡む事故 2人けが",
+      "link": "https://news.yahoo.co.jp/pickup/6602781?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T12:52:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「国道にウマ」札幌で通報相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6602773?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T11:56:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小学生兄弟 暗算「珠聖10段」合格",
+      "link": "https://news.yahoo.co.jp/pickup/6602782?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T13:15:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT「日曜9時」手放さぬ背景",
+      "link": "https://news.yahoo.co.jp/pickup/6602783?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T13:03:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今週後半ほど気温低く 冬の空気に",
+      "link": "https://news.yahoo.co.jp/pickup/6602780?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T12:29:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI株下げ 日経平均一時6万円割れ",
+      "link": "https://news.yahoo.co.jp/pickup/6602786?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T13:59:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "斉藤被告 判決言い渡し静かに聞く",
+      "link": "https://news.yahoo.co.jp/pickup/6602788?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T13:54:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "分譲マンション賃料過去最高 東京",
+      "link": "https://news.yahoo.co.jp/pickup/6602785?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T13:30:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "若者に広がる投資熱 その実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6602779?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T12:11:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "TOBE 年内でISSEIとの契約終了",
+      "link": "https://news.yahoo.co.jp/pickup/6602791?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T14:09:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "判決不服 斉藤慎二被告が控訴",
+      "link": "https://news.yahoo.co.jp/pickup/6602789?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T14:05:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PS5の世界出荷1億台 成功の背景",
+      "link": "https://news.yahoo.co.jp/pickup/6602776?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T13:34:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴジラ-0.0 米ヒットも割れる評価",
+      "link": "https://news.yahoo.co.jp/pickup/6602794?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T14:56:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日経平均は反落 AI株が下げ主導",
+      "link": "https://news.yahoo.co.jp/pickup/6602802?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T16:24:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国スパイ 諜報の傾向とパターン",
+      "link": "https://news.yahoo.co.jp/pickup/6602800?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T15:55:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PS5の世界出荷1億台超 なぜ成功",
+      "link": "https://news.yahoo.co.jp/pickup/6602798?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T15:35:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中井亜美 同い年の島田麻央に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6602797?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T15:47:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドコモ「5G SA」で障害 完全復旧",
+      "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T17:04:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AIカンニングに韓国政府が危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6602806?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T16:38:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山形ユキオ氏死去 アニメで主題歌",
+      "link": "https://news.yahoo.co.jp/pickup/6602804?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T16:25:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "祖父母ら3人殺害事件 死刑を求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6602805?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T16:46:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タイムズカーの会員数 1.4万人減",
+      "link": "https://news.yahoo.co.jp/pickup/6602816?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T18:17:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "尖圭コンジローマ 男性患者が増加",
+      "link": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T17:40:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "どう思う 夫婦のセパレート帰省",
+      "link": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T17:55:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "X-GUNさがね・まさひろ氏市議に",
+      "link": "https://news.yahoo.co.jp/pickup/6602808?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T17:53:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "俳優・中田乃愛さんが死去 23歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602814?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T17:56:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マンション短期売買 課税強化検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602817?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T18:40:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横綱・豊昇龍まさかの5敗目 9日目",
+      "link": "https://news.yahoo.co.jp/pickup/6602821?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T19:05:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴルフ植竹希望 交通事故遭い欠場",
+      "link": "https://news.yahoo.co.jp/pickup/6602818?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T18:43:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コカイン摘発 過去最多更新ペース",
+      "link": "https://news.yahoo.co.jp/pickup/6602825?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T20:00:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "没収の供託金はどこへ 福岡市長選",
+      "link": "https://news.yahoo.co.jp/pickup/6602824?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T19:43:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦力外の矢野雅哉ら 球団に要請書",
+      "link": "https://news.yahoo.co.jp/pickup/6602822?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T19:22:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日テレ・徳島えりかアナが退社へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602823?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T19:35:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府 19日の米中ロ首脳会談を注視",
+      "link": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T19:16:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳死亡 枚方市長「悔やまれる」",
+      "link": "https://news.yahoo.co.jp/pickup/6602828?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T20:26:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中田乃愛さん死去 テレ東など追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6602827?source=rss",
+      "description": "",
+      "pub_date": "2026-11-16T20:15:16+09:00"
     }
   ]
 }
