@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "matched_at": "2026-11-17T11:46:10.274857+09:00",
+  "matched_at": "2026-11-17T21:46:13.285016+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -50,6 +50,46 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76925",
+          "description": "11月16日、東京・中野区の路上で20代くらいの女性が刃物で刺されて死亡した事件で、逮捕された39歳の男の容疑者が調べに対し、「女性と食事をして、駅に向かう途中で冷たくあしらわれたことに腹が立ち、刺し…",
+          "pub_date": "2026-11-17T11:53:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "女性刺され死亡 雑に扱われたと男",
+          "link": "https://news.yahoo.co.jp/pickup/6602858?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T07:44:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 APECにあわせてプーチン大統領と接触する見通し",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77251",
+          "description": "政権幹部の1人は、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、高市総理大臣がロシアのプーチン大統領と接触する見通しだと明らかにしました。",
+          "pub_date": "2026-11-17T17:33:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首相と露大統領 接触の方向で調整",
+          "link": "https://news.yahoo.co.jp/pickup/6602931?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T18:15:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "トランプ大統領 アジア訪問へ出発 19日には初の米中ロ首脳会談",
           "link": "https://news.web.nhk/newsweb/na/nd-20261117de76879",
           "description": "アメリカのトランプ大統領は、アジア訪問に向けてアメリカを出発しました。 フィリピンでは、日米豪印4か国でつくる枠組み「クアッド」の首脳会合に出席するほか、中国では、習近平国家主席とロシアのプーチン大…",
@@ -65,7 +105,27 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領 中国で「キム総書記と会うかもしれない」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
+          "description": "アメリカのトランプ大統領は北朝鮮のキム・ジョンウン総書記と訪問先の中国で会談を行う可能性があることを明らかにしました。 「キム総書記が来るかもしれない。中国の習近平国家主席次第だ」と述べていて、会談…",
+          "pub_date": "2026-11-17T05:05:01+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米大統領 金正恩氏と会談の可能性",
+          "link": "https://news.yahoo.co.jp/pickup/6602867?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T09:09:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -85,7 +145,7 @@
       }
     },
     {
-      "event_id": "evt-0005",
+      "event_id": "evt-0008",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -105,15 +165,15 @@
       }
     },
     {
-      "event_id": "evt-0006",
+      "event_id": "evt-0009",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "ロシア機か 一時領空侵犯 福岡 沖ノ島周辺",
+          "title": "ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺",
           "link": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
-          "description": "関係者によりますと、けさ4時すぎ、ロシア機と推定される航空機が福岡県の沖ノ島周辺の日本の領海上空を侵犯したということです。 航空自衛隊の戦闘機がスクランブル＝緊急発進するなどして対応しました。 防…",
-          "pub_date": "2026-11-17T10:37:43+09:00"
+          "description": "防衛省は、17日、福岡県沖でロシア機とみられる航空機2機が日本の領空を侵犯したと発表しました。領空に入ったのはいずれも3分ほどで、防衛省が飛行の目的を分析するとともに警戒と監視を続けています。",
+          "pub_date": "2026-11-17T10:37:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -125,15 +185,15 @@
       }
     },
     {
-      "event_id": "evt-0007",
+      "event_id": "evt-0010",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "群馬 前橋 住宅街にクマが出没 男性1人が襲われ頭などにけが",
+          "title": "群馬 前橋 住宅街にクマが出没 男性1人けが 子グマ1頭を捕獲",
           "link": "https://news.web.nhk/newsweb/na/nd-20261117de76952",
-          "description": "17日朝、前橋市の住宅街で、親子とみられるクマ2頭が相次いで目撃され、近くに住む男性1人が襲われて頭などにけがをしました。午前10時半の時点でクマは捕獲されていないということで市や警察が注意を呼びかけ…",
-          "pub_date": "2026-11-17T11:12:00+09:00"
+          "description": "17日、前橋市の住宅街で、親子とみられるクマ2頭が相次いで目撃され、近くに住む男性1人が襲われて頭などにけがをしました。 このうち1頭は市内の川沿いを逃げ、午後2時ごろ麻酔銃により捕獲されましたが、も…",
+          "pub_date": "2026-11-17T17:10:31+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -145,7 +205,7 @@
       }
     },
     {
-      "event_id": "evt-0008",
+      "event_id": "evt-0011",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -161,6 +221,106 @@
           "link": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
           "description": "",
           "pub_date": "2026-11-17T08:08:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0012",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77026",
+          "description": "プロ野球、阪神や広島などでピッチャーとして活躍した江夏豊さんが17日までに亡くなりました。78歳でした。",
+          "pub_date": "2026-11-17T20:41:30+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「伝説の左腕」江夏豊さんが死去",
+          "link": "https://news.yahoo.co.jp/pickup/6602890?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T11:56:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0013",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "来年秋の朝ドラ ヒロインに飯沼愛さん【会見動画】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76932",
+          "description": "大阪と鹿児島・与論島が舞台の来年秋から始まるNHKの連続テレビ小説「なぎさの進化論」のヒロインが17日発表されました。 ヒロインを務めるのは、飯沼愛さんです。会見の様子です。",
+          "pub_date": "2026-11-17T14:02:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "来秋朝ドラヒロイン 飯沼愛に決定",
+          "link": "https://news.yahoo.co.jp/pickup/6602901?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T13:44:49+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0014",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "FIFA会長選 UEFAが候補者擁立 田嶋氏の立候補に影響か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77117",
+          "description": "UEFA＝ヨーロッパサッカー連盟は、FIFA＝国際サッカー連盟の会長選挙の候補者としてフランスサッカー連盟のフィリップ・ディアロ会長を擁立することを決めました。 会長選挙を巡っては日本サッカー協会の…",
+          "pub_date": "2026-11-17T16:26:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "FIFA会長選 UEFAが仏会長を擁立",
+          "link": "https://news.yahoo.co.jp/pickup/6602856?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T07:36:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0015",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "東京 葛飾区 住宅街にシカ出没 7時間あまり後に捕獲",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77219",
+          "description": "17日朝、東京 葛飾区の住宅街にシカ1頭が出没し、7時間あまりたった午後3時前に麻酔銃などを使って捕獲されました。このシカによるけが人はいませんでした。",
+          "pub_date": "2026-11-17T17:25:30+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "東京・葛飾区の住宅街にシカ1頭",
+          "link": "https://news.yahoo.co.jp/pickup/6602884?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T11:16:52+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0016",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "楽天証券 約447万口座で利用者の年収や保有商品情報漏えいか",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77397",
+          "description": "ネット証券大手の楽天証券は、社内のシステムが不正アクセスを受け、およそ447万口座で利用者の年収や金融資産、保有する金融商品などの情報が漏えいした可能性があると発表しました。",
+          "pub_date": "2026-11-17T20:34:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "楽天証券 最大1125万口座分流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6602935?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T18:38:48+09:00"
         }
       }
     }
@@ -203,13 +363,6 @@
     },
     {
       "source": "NHK",
-      "title": "トランプ大統領 中国で「キム総書記と会うかもしれない」",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
-      "description": "アメリカのトランプ大統領は北朝鮮のキム・ジョンウン総書記と訪問先の中国で会談を行う可能性があることを明らかにしました。 「キム総書記が来るかもしれない。中国の習近平国家主席次第だ」と述べていて、会談…",
-      "pub_date": "2026-11-17T05:05:01+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "衆院議員 定数削減法案“比例で31議席削減”きょう審議入り",
       "link": "https://news.web.nhk/newsweb/na/nd-20261117de76877",
       "description": "国会では、自民、維新、国民の3党が提出した衆議院議員の定数を比例代表で31議席削減するなどとした法案が17日審議入りします。 3党は、法案の成立に向けて早期に衆議院を通過させたい考えなのに対し、野党…",
@@ -249,6 +402,146 @@
       "link": "https://news.web.nhk/newsweb/na/nd-20261117de76910",
       "description": "愛知県小牧市の住宅で80代の女性が現金を要求した男らに殴られて大けがをした事件で、現場付近で確認された盗難車を運転していたなどとして逮捕された5人の中に中学生が含まれていることが捜査関係者への取材で分…",
       "pub_date": "2026-11-17T09:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "クアッド首脳会合 高市首相 “自由で開かれたインド太平洋を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
+      "description": "日米豪印4か国の枠組み、クアッドの首脳会合がフィリピンの首都マニラで日本時間の17日午後8時前から行われています。 高市総理大臣は海洋安全保障など幅広い分野で、各国の自律性と強じん性を強化し「自由で…",
+      "pub_date": "2026-11-17T20:49:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de76926",
+      "description": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたこと…",
+      "pub_date": "2026-11-17T12:16:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "横須賀基地所属の米兵 酒に酔ってマンションの扉破壊か 逮捕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77047",
+      "description": "アメリカ海軍横須賀基地に所属する26歳の兵士が、市内のマンションのガラス扉を消火器で壊したとして逮捕されました。当時、酒に酔った状態で、警察が詳しいいきさつを調べています。",
+      "pub_date": "2026-11-17T13:04:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関文科相 2024年6月の政治資金パーティー“法的に問題なし”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77033",
+      "description": "関文部科学大臣は、自身が代表を務める自民党支部がおととし6月に開催した政治資金パーティーについて、法的に問題はなかったという認識を重ねて示しました。",
+      "pub_date": "2026-11-17T12:57:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛子さま シンガポールに向けて出発",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77001",
+      "description": "天皇皇后両陛下の長女の愛子さまは17日午前、シンガポールに向けて羽田空港を出発されました。",
+      "pub_date": "2026-11-17T12:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東大総長選考“学内検証で説明責任果たすのが望ましい”文科相",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77079",
+      "description": "東京大学の次の総長の選考をめぐって詳しい説明を求める声があがる中、関文部科学大臣は、文部科学省として依頼している大学内の検証で説明責任を果たすことが望ましいという考えを示しました。",
+      "pub_date": "2026-11-17T14:09:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大阪 枚方女児死亡事件 父親「健診で発達の遅れ指摘された」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77157",
+      "description": "大阪・枚方市で3歳の娘に暴行を加えて殺害したとして逮捕された父親が逮捕前の任意の調べに対して「2歳の健診で運動面での発達の遅れを指摘された」と話していたことが捜査関係者への取材で分かりました。 娘が…",
+      "pub_date": "2026-11-17T16:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "キリン AIに入力した個人情報 委託先不正アクセスで漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77170",
+      "description": "キリンホールディングスは、従業員が社内ルールに反してAIツールに入力した個人情報が外部に漏えいしたと発表しました。AIツールを提供している会社の委託先が不正アクセスを受けたことが要因です。",
+      "pub_date": "2026-11-17T16:20:41+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "エヌビディア フアン氏 CEO復帰めぐる議論活発化 株価にも影響",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77131",
+      "description": "半導体大手「エヌビディア」のCEOを辞任したジェンスン・フアン氏をめぐり、実業家のイーロン・マスク氏らがCEOへの復帰を求める署名運動に参加する一方、会社の取締役会は復帰を検討していないと報じられるな…",
+      "pub_date": "2026-11-17T15:54:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米商務省 アリス・フアン氏に去年事情聴取 関連企業も調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77205",
+      "description": "アメリカの商務省と司法省は、半導体大手「エヌビディア」のジェンスン・フアン前CEOと親密な関係にあったとされるアリス・フアン氏について、去年、商務省が本人に事情聴取を行い、幹部を務めていた会社も調査し…",
+      "pub_date": "2026-11-17T17:23:04+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中野 女性刺殺事件 「女性を殺して自分も死のうと思った」供述",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77103",
+      "description": "11月16日、東京・中野区の路上で20代の女性が刃物で刺されて死亡した事件で、逮捕された39歳の男の容疑者がその後の調べに対し、「つきあえないのであれば女性を殺して自分も死のうと思った」などと供述して…",
+      "pub_date": "2026-11-17T18:25:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "政府広報に都市伝説系ユーチューバーを起用で物議",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77253",
+      "description": "政府が、根拠のない情報や陰謀論を「都市伝説」として紹介しているユーチューバーを政府広報に起用したことについて、SNSでは「本当におかしい」と指摘する投稿がおよそ190万回表示されるなど物議を醸していま…",
+      "pub_date": "2026-11-17T17:52:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「命より大切な仕事はない」過労死防止 遺族が大学生に訴え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77271",
+      "description": "これから社会人として企業などで働く若い世代を対象に過労死を防ぐための対策などを伝える授業が、17日、東京 国分寺市の大学で開かれました。授業では過労死で子どもを亡くした遺族が登壇し、「命より大切な仕事…",
+      "pub_date": "2026-11-17T18:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "レッサーパンダ「風太」が最高齢でギネス世界記録認定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77236",
+      "description": "背筋を伸ばして後ろ足で立ち上がる姿で人気を集めた千葉市動物公園のレッサーパンダ「風太」が、最高齢のレッサーパンダとしてギネス世界記録に認定されました。",
+      "pub_date": "2026-11-17T17:58:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領がマニラ到着 一連のアジア外交スタート",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77165",
+      "description": "アメリカのトランプ大統領は日本時間の17日夜、フィリピンの首都マニラに到着しました。このあと、日米豪印4か国でつくる枠組み「クアッド」の首脳会合などに臨む予定で、一連のアジア外交をスタートさせます。",
+      "pub_date": "2026-11-17T19:04:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "小渕氏処分「二重処罰」と執行部対応批判の意見 自民総務会で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77361",
+      "description": "食料品の消費税減税関連法案をめぐり、衆議院本会議での採決を前に退席した自民党の小渕元選挙対策委員長が戒告の処分に続いて税制調査会の役員を退任するよう求められたことについて、17日の党の総務会で「二重処…",
+      "pub_date": "2026-11-17T19:15:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "週末にかけて広く荒れた天気 冬型強まり日本海側など雪も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77370",
+      "description": "低気圧や湿った空気の影響で、東日本や西日本を中心に大気の状態が不安定になっていて、関東や伊豆諸島などでは18日の明け方にかけて雨が強まるおそれがあります。急速に発達する低気圧の影響で週末にかけて広く荒…",
+      "pub_date": "2026-11-17T19:27:20+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "タマホーム不正請求疑い “業績連動の報酬が動機の可能性も”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77357",
+      "description": "住宅メーカー「タマホーム」で火災保険の保険金を不正に請求していた疑いが出ている問題で、会社が損害保険会社側に対し、初期の調査内容として業績に応じた報酬や社内での評価の獲得が動機につながった可能性がある…",
+      "pub_date": "2026-11-17T19:21:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "鶏もも肉 100グラム価格が2003年以降の最高値に並ぶ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77353",
+      "description": "農林水産省は今月の食品価格の調査結果を公表し、鶏肉の価格がこれまでで最も高かった水準に並んだほか、豚肉や卵などの価格も平年を上回っていて、高止まりの状況が続いています。",
+      "pub_date": "2026-11-17T19:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "メガネの「ジンズ」で個人情報漏えい 最大1800万件余の可能性",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77389",
+      "description": "メガネチェーンの「ジンズ」は、メールマガジンの配信を委託していた会社が不正アクセスを受けた影響で、会員の氏名の一部や生年月日、メールアドレスなどの個人情報が漏えいしたと明らかにしました。",
+      "pub_date": "2026-11-17T20:11:40+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -336,24 +629,10 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "女性刺され死亡 雑に扱われたと男",
-      "link": "https://news.yahoo.co.jp/pickup/6602858?source=rss",
-      "description": "",
-      "pub_date": "2026-11-17T07:44:31+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "「オーケー」関西出店加速 強みは",
       "link": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
       "description": "",
       "pub_date": "2026-11-17T07:49:00+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "FIFA会長選 UEFAが仏会長を擁立",
-      "link": "https://news.yahoo.co.jp/pickup/6602856?source=rss",
-      "description": "",
-      "pub_date": "2026-11-17T07:36:03+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -413,17 +692,269 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "東京・葛飾区の住宅街にシカ1頭",
-      "link": "https://news.yahoo.co.jp/pickup/6602884?source=rss",
-      "description": "",
-      "pub_date": "2026-11-17T11:16:52+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "「白い麻婆豆腐」じわじわ拡大",
       "link": "https://news.yahoo.co.jp/pickup/6602880?source=rss",
       "description": "",
       "pub_date": "2026-11-17T10:47:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「防衛産業基盤戦略」概要が判明",
+      "link": "https://news.yahoo.co.jp/pickup/6602866?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T09:05:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "工藤監督就任の中日 コーチら発表",
+      "link": "https://news.yahoo.co.jp/pickup/6602888?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T12:15:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "磯山さやか43歳 連ドラ単独初主演",
+      "link": "https://news.yahoo.co.jp/pickup/6602891?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T12:22:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ケーキ店死傷 死亡の男を書類送検",
+      "link": "https://news.yahoo.co.jp/pickup/6602897?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T12:53:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "江夏豊さん死去 数々の伝説残す",
+      "link": "https://news.yahoo.co.jp/pickup/6602898?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T13:10:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ドコモ障害再発防止求める 総務相",
+      "link": "https://news.yahoo.co.jp/pickup/6602899?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T13:34:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "6歳虐待死 獄中の母が悔恨の手紙",
+      "link": "https://news.yahoo.co.jp/pickup/6602886?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T12:02:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "しし座流星群 17日深夜から見ごろ",
+      "link": "https://news.yahoo.co.jp/pickup/6602874?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T10:07:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科相のパーティー問題 残る疑問",
+      "link": "https://news.yahoo.co.jp/pickup/6602896?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T14:41:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イラン「汚い爆弾」米高官狙いか",
+      "link": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T11:45:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "公園の池に人骨のようなもの 大阪",
+      "link": "https://news.yahoo.co.jp/pickup/6602904?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T14:33:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "コメダがタイ初出店 朝から行列",
+      "link": "https://news.yahoo.co.jp/pickup/6602885?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T11:28:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "グルメフェス炎上 主催者2人直撃",
+      "link": "https://news.yahoo.co.jp/pickup/6602907?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T15:26:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ココリコ田中 俳優で活躍の背景",
+      "link": "https://news.yahoo.co.jp/pickup/6602893?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T14:02:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "再選挙へ 福岡市で掲示板一旦撤去",
+      "link": "https://news.yahoo.co.jp/pickup/6602911?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T15:50:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "東大寺でシカの体の一部見つかる",
+      "link": "https://news.yahoo.co.jp/pickup/6602908?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T15:32:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "江夏豊さん死去 江夏の21球とは",
+      "link": "https://news.yahoo.co.jp/pickup/6602916?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T16:12:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソフトバンク 助っ人5人自由契約",
+      "link": "https://news.yahoo.co.jp/pickup/6602910?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T15:31:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "飯沼愛 朝ドラヒロインに涙ぐむ",
+      "link": "https://news.yahoo.co.jp/pickup/6602909?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T15:35:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米国防長官 12月の訪日で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T16:21:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "駅そばを倍に値上げ 決断した75歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602919?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T16:59:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "江夏豊さん死去 田淵幸一氏が追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6602922?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T17:24:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "矢野雅哉トライアウト 二盗&三盗",
+      "link": "https://news.yahoo.co.jp/pickup/6602921?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T17:09:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "来秋朝ドラヒロイン飯沼愛 X反応",
+      "link": "https://news.yahoo.co.jp/pickup/6602914?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T16:25:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "物議の選挙ポスター AIと認める",
+      "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T16:58:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "閉山中に中国人遭難 懸賞金に指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6602924?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T17:37:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鳥の生食 宮崎・鹿児島で聞いた声",
+      "link": "https://news.yahoo.co.jp/pickup/6602925?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T18:01:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "緊急地震速報の誤報巡る対応 完了",
+      "link": "https://news.yahoo.co.jp/pickup/6602934?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T18:40:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東 明け方にかけ警報級大雨恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6602933?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T18:41:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「女性専用」ジム拡大 悩みに対応",
+      "link": "https://news.yahoo.co.jp/pickup/6602937?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T19:05:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府広報 陰謀論系YouTuber起用",
+      "link": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T20:20:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山崎怜奈 第1子を出産したと発表",
+      "link": "https://news.yahoo.co.jp/pickup/6602944?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T20:11:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Travis Japanの駅広告 1日で終了",
+      "link": "https://news.yahoo.co.jp/pickup/6602938?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T19:30:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国首相 高市氏との接触避けたか",
+      "link": "https://news.yahoo.co.jp/pickup/6602947?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T20:50:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JT ロシア問題で巨額損失の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6602948?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T21:03:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "矢野雅哉 ファンの方に申し訳ない",
+      "link": "https://news.yahoo.co.jp/pickup/6602950?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T21:06:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "イワクラ 飢えしのいだ父との生活",
+      "link": "https://news.yahoo.co.jp/pickup/6602945?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T20:39:52+09:00"
     }
   ]
 }
