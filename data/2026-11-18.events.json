@@ -1,0 +1,336 @@
+{
+  "date": "2026-11-18",
+  "matched_at": "2026-11-18T11:46:13.321800+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76934",
+          "description": "日米豪印4か国の枠組み、クアッドの首脳会合が17日夜、フィリピンで行われました。4か国の首脳は、中国の動向も念頭に、経済的な威圧に対し、深刻な懸念を表明するとした共同文書をまとめました。",
+          "pub_date": "2026-11-17T22:56:54+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日米豪印が共同文書 中国念頭",
+          "link": "https://news.yahoo.co.jp/pickup/6602965?source=rss",
+          "description": "",
+          "pub_date": "2026-11-17T23:00:52+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261118de77484",
+          "description": "アメリカの半導体大手、エヌビディアのCEOを辞任したジェンスン・フアン氏が、17日、SNSへの投稿で復帰に意欲を示しました。AI・半導体の分野で大きな影響力を持ってきたフアン氏の動向に高い関心が集まる…",
+          "pub_date": "2026-11-18T10:31:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "NVIDIA前CEO 復帰なら「光栄」",
+          "link": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
+          "description": "",
+          "pub_date": "2026-11-18T07:22:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "APEC首脳会議　日中接触や米中ロ首脳会談が焦点",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261118de77459",
+          "description": "APEC＝アジア太平洋経済協力会議の首脳会議が18日から中国の深センで開かれます。 日中関係が悪化した状態が続く中、高市総理大臣と中国の習近平国家主席が接触し、関係改善に向けた動きが見られるかや、ア…",
+          "pub_date": "2026-11-18T05:11:40+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "APECきょう開幕 付近は厳戒態勢",
+          "link": "https://news.yahoo.co.jp/pickup/6602997?source=rss",
+          "description": "",
+          "pub_date": "2026-11-18T09:37:51+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "リニア中央新幹線 JR東海“開業時期の見通し 年内公表断念”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77431",
+      "description": "JR東海は、リニア中央新幹線の品川・名古屋間の開業時期の見通しについて、これまで目指していた年内の公表を断念し、国土交通省に伝えたことが関係者への取材で分かりました。",
+      "pub_date": "2026-11-17T22:33:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛子さま 公式訪問先のシンガポールに到着",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77414",
+      "description": "天皇皇后両陛下の長女の愛子さまは公式訪問先のシンガポールに到着されました。",
+      "pub_date": "2026-11-17T21:43:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関東などで一時雨強まる　低気圧急発達で荒天に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77485",
+      "description": "気圧の谷や湿った空気の影響で、昨夜から関東や東海などで雨が強まり、千葉県では18日未明、局地的に非常に激しい雨が降りました。 低気圧が急速に発達するため、沿岸部を中心にしだいに風が強まり各地で荒れた…",
+      "pub_date": "2026-11-18T06:35:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相がAPECで訪中 プーチン大統領と接触調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77470",
+      "description": "高市総理大臣は、APECの首脳会議に出席するため、きょう中国を訪問します。 習近平国家主席との間で関係改善に向けた動きがあるかが注目されているほか、ロシアのプーチン大統領との接触が実現すれば、記者の…",
+      "pub_date": "2026-11-18T05:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "防衛費5年間で50兆円台前半の案 安保3文書改定の政府内調整",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77432",
+      "description": "安全保障関連の3文書の改定で焦点の1つとなる防衛費について、政府内のこれまでの調整で財務省が来年度からの5年間で50兆円台前半を目安とする案を示していることが分かりました。防衛省は防衛力の抜本的な強化…",
+      "pub_date": "2026-11-18T05:13:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛知 強盗殺人未遂事件 関与ほのめかす5人のうち3人中学生",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77490",
+      "description": "愛知県小牧市の80代の女性の住宅で起きた強盗殺人未遂事件で、事件への関与をほのめかしている少年など5人のうち3人が宮城県内の中学生であることが捜査関係者への取材で分かりました。",
+      "pub_date": "2026-11-18T06:51:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77491",
+      "description": "フィリピンを訪問している高市総理大臣は、日本時間の17日夜、アメリカのトランプ大統領と短時間、懇談し、インド太平洋情勢を含む諸課題について今後とも緊密に連携していくことを確認しました。",
+      "pub_date": "2026-11-18T06:56:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77531",
+      "description": "緊張が続く中東のホルムズ海峡の周辺では、イランがこの1週間で3度目となる、対岸のバーレーンにあるアメリカ軍の施設を攻撃したとする声明を出したのに対し、アメリカ軍の当局者はイランのミサイル発射施設を攻撃…",
+      "pub_date": "2026-11-18T10:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "能登半島地震 災害関連死3人答申 認定なら死者761人に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77511",
+      "description": "能登半島地震のあとに亡くなった石川県内の3人について、専門家の審査会は災害関連死と認定するよう答申を出しました。自治体から正式に認定されると能登半島地震の死者は761人になる見通しです。",
+      "pub_date": "2026-11-18T10:24:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ASEAN 米大統領へ「特別待遇」",
+      "link": "https://news.yahoo.co.jp/pickup/6602954?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T22:02:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領 冗談交じりに高市氏評す",
+      "link": "https://news.yahoo.co.jp/pickup/6602960?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T22:57:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "交際1人でも子宮頸がん 子供諦め",
+      "link": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T22:48:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "速報森保J パラグアイが2点リード",
+      "link": "https://news.yahoo.co.jp/pickup/6602964?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T22:51:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "救命病棟24時なぜ人気 3つの要素",
+      "link": "https://news.yahoo.co.jp/pickup/6602966?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T23:06:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "浜辺美波 手描きキングギドラ披露",
+      "link": "https://news.yahoo.co.jp/pickup/6602959?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T22:38:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "広島戦力外3選手が要請書 狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6602967?source=rss",
+      "description": "",
+      "pub_date": "2026-11-17T23:28:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本版DBSに脆弱性 稼働延期へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602982?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T07:14:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小渕優子氏更迭 自民総務会で反発",
+      "link": "https://news.yahoo.co.jp/pickup/6602978?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T06:32:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NHK 職員に「飲み会22時頃まで」",
+      "link": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T06:19:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ポーカー大会無許可開催疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602981?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T07:22:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保監督 来季は欧州で指揮を希望",
+      "link": "https://news.yahoo.co.jp/pickup/6602980?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T06:47:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリックス 藤浪晋太郎を獲得へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602979?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T06:52:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "給食でアレルギー症状 資料改ざん",
+      "link": "https://news.yahoo.co.jp/pickup/6602985?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T07:41:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "個人向け国債 税優遇見送りで調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602987?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T08:15:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "転職組の教員免許を容易に 改革案",
+      "link": "https://news.yahoo.co.jp/pickup/6602984?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T07:41:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NVIDIA会長 フアン氏CEO復帰ない",
+      "link": "https://news.yahoo.co.jp/pickup/6602988?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T08:30:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "前田真剣佑 改名後初のドラマ主演",
+      "link": "https://news.yahoo.co.jp/pickup/6602986?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T08:10:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゾコーバ治験 米助成金削減が影響",
+      "link": "https://news.yahoo.co.jp/pickup/6602992?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T09:03:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "受診遅れ死亡 皆保険の日本でなぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6602993?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T09:34:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "硫黄島 新たな陸地ドーム10個分に",
+      "link": "https://news.yahoo.co.jp/pickup/6602996?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T09:50:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "横から見ると靴底に穴 人気の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6602998?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T09:54:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森保監督 涙のラストミーティング",
+      "link": "https://news.yahoo.co.jp/pickup/6602989?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T08:15:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "猪木さんの孫 新日本プロレス入門",
+      "link": "https://news.yahoo.co.jp/pickup/6602991?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T09:39:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "経済損失1.2兆円 男性更年期対策",
+      "link": "https://news.yahoo.co.jp/pickup/6602999?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T10:04:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "看護師の死 突きつける命の格差",
+      "link": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T10:32:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "町内会に入らずごみ出し 法的には",
+      "link": "https://news.yahoo.co.jp/pickup/6603004?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T10:53:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷翔平 2026年「無冠」確定",
+      "link": "https://news.yahoo.co.jp/pickup/6603002?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T10:28:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「1リットルの涙」沢村一樹ら出演",
+      "link": "https://news.yahoo.co.jp/pickup/6603007?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T11:19:42+09:00"
+    }
+  ]
+}
