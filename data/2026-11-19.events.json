@@ -1,11 +1,51 @@
 {
   "date": "2026-11-19",
-  "matched_at": "2026-11-19T11:45:36.202627+09:00",
+  "matched_at": "2026-11-19T21:45:38.034405+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
     {
       "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78097",
+          "description": "19日未明、震度5弱の揺れを観測する地震があった熊本県では、その後も地震活動が続いています。気象庁は、ことし7月の熊本地震の一連の活動だとして、今後1週間ほどは最大震度5弱程度の地震に注意するよう呼び…",
+          "pub_date": "2026-11-19T13:38:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "熊本県で震度5弱 津波の心配なし",
+          "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T02:27:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
+          "description": "アメリカのトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領による初めての3か国の首脳会談が中国の※深センで日本時間の19日夕方、行われました。 3か国の首脳は「平和宣言」を取りまとめ、核…",
+          "pub_date": "2026-11-19T21:26:11+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米中露首脳「平和宣言」を発表",
+          "link": "https://news.yahoo.co.jp/pickup/6603204?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T20:59:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -25,7 +65,7 @@
       }
     },
     {
-      "event_id": "evt-0002",
+      "event_id": "evt-0004",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -45,7 +85,7 @@
       }
     },
     {
-      "event_id": "evt-0003",
+      "event_id": "evt-0005",
       "adopted": true,
       "sources": {
         "NHK": {
@@ -65,22 +105,122 @@
       }
     },
     {
-      "event_id": "evt-0004",
+      "event_id": "evt-0006",
       "adopted": true,
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78097",
-          "description": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。気象庁はことし7月の熊本地震の一連の活動だとして、今後1週間程度は最大震度5弱程度の地震に注意するとともに、さらに強い揺れの…",
-          "pub_date": "2026-11-19T11:13:13+09:00"
+          "title": "東日本大震災 6日後に見つかった遺体 当時90歳の男性と判明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78288",
+          "description": "東日本大震災の6日後に岩手県大槌町で見つかった遺体について警察は、町内に住み、震災後に行方不明となっていた当時90歳の男性と特定されたと発表しました。",
+          "pub_date": "2026-11-19T13:18:32+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "熊本県で震度5弱 津波の心配なし",
-          "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+          "title": "岩手の震災遺体 90歳男性と判明",
+          "link": "https://news.yahoo.co.jp/pickup/6603154?source=rss",
           "description": "",
-          "pub_date": "2026-11-19T02:27:46+09:00"
+          "pub_date": "2026-11-19T13:49:30+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "死亡の3歳女児“パパたたく” 警察調べた児相側記録に 兵庫",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78321",
+          "description": "兵庫県伊丹市の自宅で3歳の次女に暴行を加えて死亡させたとして父親が逮捕された事件で、警察が調べた児童相談所側の記録の中に、「次女が『パパがたたく』と話している」という趣旨の記載があったことが、捜査関係…",
+          "pub_date": "2026-11-19T14:22:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "兵庫3歳死亡「パパたたく」と記録",
+          "link": "https://news.yahoo.co.jp/pickup/6603179?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T17:34:05+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "トランプ大統領とプーチン大統領が会談",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78346",
+          "description": "アメリカのトランプ大統領は、19日、訪問先の中国で、ロシアのプーチン大統領と会談しました。 会談の冒頭、トランプ大統領は、「私たちは長年すばらしい関係にある。今回の会談で多くのすばらしい成果が得られ…",
+          "pub_date": "2026-11-19T14:06:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米露首脳が対面会談 ウ巡り協議",
+          "link": "https://news.yahoo.co.jp/pickup/6603170?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T16:19:02+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0009",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78324",
+          "description": "木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行う…",
+          "pub_date": "2026-11-19T13:37:08+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "サーバーソフト「nginx」に脆弱性",
+          "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T09:01:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0010",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78445",
+          "description": "JT＝日本たばこ産業は、ロシア国内にあるグループのすべての現地法人が大統領令によって一時的にロシア企業の管理下に置かれていることを受けて、実質的な経営権を喪失しているとしてグループの連結から除外し、こ…",
+          "pub_date": "2026-11-19T19:49:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "JT 露の子会社7社を連結から除外",
+          "link": "https://news.yahoo.co.jp/pickup/6603167?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T16:03:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0011",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78663",
+          "description": "北海道帯広市に本社がある菓子メーカー「六花亭」は、運営するオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性があると発表しました。",
+          "pub_date": "2026-11-19T20:12:55+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "六花亭 セキュリティコード流出か",
+          "link": "https://news.yahoo.co.jp/pickup/6603168?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T16:20:54+09:00"
         }
       }
     }
@@ -123,13 +263,6 @@
     },
     {
       "source": "NHK",
-      "title": "注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
-      "description": "APEC＝アジア太平洋経済協力会議が開かれている中国の※深センで19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領が、3か国の首脳による初めての会談を行います。核軍縮…",
-      "pub_date": "2026-11-19T04:46:00+09:00"
-    },
-    {
-      "source": "NHK",
       "title": "消費減税に合わせた支援金 年収56万円程度からの案",
       "link": "https://news.web.nhk/newsweb/na/nd-20261119de78090",
       "description": "政府は、食料品の消費税減税と合わせて導入するとしている「支援金」の支給が始まる年収について、これまで複数の案を示してきましたが、新たに年収56万円程度からとする案を検討していることがわかりました。",
@@ -137,10 +270,10 @@
     },
     {
       "source": "NHK",
-      "title": "低気圧発達で風強まる 北海道中心に暴風に警戒",
+      "title": "北日本 北陸は暴風警戒 日本海側の山沿い 積雪も 20日にかけて",
       "link": "https://news.web.nhk/newsweb/na/nd-20261119de78132",
-      "description": "日本付近にある2つの低気圧が急速に発達している影響で、19日は、北日本から東日本の日本海側を中心に風が強まり、波も高くなる見込みです。北海道を中心に暴風に警戒してください。冬型の気圧配置が強まるため、…",
-      "pub_date": "2026-11-19T06:18:00+09:00"
+      "description": "強い冬型の気圧配置の影響で、北日本や北陸を中心に20日にかけて非常に強い風が吹く見込みで暴風に警戒が必要です。上空には寒気が流れ込むため、日本海側で雨雲や雪雲が発達し、山沿いでは積雪となるおそれがあり…",
+      "pub_date": "2026-11-19T19:11:00+09:00"
     },
     {
       "source": "NHK",
@@ -158,10 +291,73 @@
     },
     {
       "source": "NHK",
-      "title": "前橋 クマ2頭出没の住宅地 再び目撃情報 未発見の親グマか",
+      "title": "前橋 クマ出没の住宅街 再度目撃も見つからず 警戒続く",
       "link": "https://news.web.nhk/newsweb/na/nd-20261119de78168",
-      "description": "警察によりますと19日午前8時すぎ、前橋市天川大島町で、通学中の男子高校生から「クマに追いかけられた」と通報があったということです。",
-      "pub_date": "2026-11-19T10:33:38+09:00"
+      "description": "17日からクマの出没が相次ぐ前橋市の住宅街で、19日朝も目撃情報があり捜索が行われましたが、クマは見つかりませんでした。警察や市は、捜索や警戒を続けることにしています。",
+      "pub_date": "2026-11-19T18:16:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相 訪問先の中国で記者会見【動画 全編】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
+      "description": "高市総理大臣は、訪問先の中国で記者会見しました。 詳細をお伝えします。",
+      "pub_date": "2026-11-19T18:09:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮メディア トランプ大統領「米朝会談」発言に反応伝えず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78261",
+      "description": "アメリカのトランプ大統領は中国で開かれているAPEC＝アジア太平洋経済協力会議にあわせて、北朝鮮のキム・ジョンウン（金正恩）総書記と会談を行う可能性に言及していますが、北朝鮮のメディアはこれまでのとこ…",
+      "pub_date": "2026-11-19T12:49:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛子さまにちなんだ「らん」の命名式 シンガポール植物園",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78233",
+      "description": "天皇皇后両陛下の長女の愛子さまの訪問を記念して、シンガポールの植物園で品種改良したらんに愛子さまにちなんだ名前が付けられ、命名式が行われました。",
+      "pub_date": "2026-11-19T11:53:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78419",
+      "description": "アメリカのトランプ大統領と中国の習近平国家主席は中国の※深センでことし3回目となる首脳会談を行い、米中両国が安定した関係の構築に引き続き取り組むことを確認するとともに、貿易やAIなどについて意見を交わ…",
+      "pub_date": "2026-11-19T19:07:46+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日経平均株価値上がり AI・半導体関連銘柄 期待感から買う動き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78267",
+      "description": "19日の東京株式市場、アメリカのAI開発企業「アンソロピック」の上場を前に期待感からAI・半導体関連の銘柄を買う動きが出て、日経平均株価は値上がりしました。",
+      "pub_date": "2026-11-19T16:15:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関文科相の政治資金パーティーめぐり 与野党折り合わず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78444",
+      "description": "参議院文教科学委員会の理事懇談会が開かれ、野党側は、関文部科学大臣側が衆議院の内規で禁止されている議員会館内で開いた政治資金パーティーについて説明が不十分だとして詳細を示すよう求めたのに対し、与党側は…",
+      "pub_date": "2026-11-19T16:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "熊本 水俣市の避難指示 解除",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78471",
+      "description": "19日未明の地震で震度5弱の揺れを観測した熊本県水俣市は、市内全域に出していた避難指示を午後3時すぎに解除しました。",
+      "pub_date": "2026-11-19T16:30:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "NASA長官「月面で日米の宇宙飛行士が肩を並べる日を楽しみに」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78588",
+      "description": "日本を訪れているNASA＝アメリカ航空宇宙局のアイザックマン長官が都内で記者会見し、アメリカが主導する国際月探査プロジェクト「アルテミス計画」について、「月面で日本とアメリカの宇宙飛行士が肩を並べる日…",
+      "pub_date": "2026-11-19T18:24:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "PHP 新たなぜい弱性が判明 サービス休止を計画する動きも",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78620",
+      "description": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開する…",
+      "pub_date": "2026-11-19T18:38:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -284,13 +480,6 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "サーバーソフト「nginx」に脆弱性",
-      "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
-      "description": "",
-      "pub_date": "2026-11-19T09:01:46+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "ボージョレ 今年は「ふくよか」",
       "link": "https://news.yahoo.co.jp/pickup/6603114?source=rss",
       "description": "",
@@ -379,6 +568,293 @@
       "link": "https://news.yahoo.co.jp/pickup/6603127?source=rss",
       "description": "",
       "pub_date": "2026-11-19T11:08:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日露首脳対話 関係改善の道険しく",
+      "link": "https://news.yahoo.co.jp/pickup/6603135?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T11:34:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "栃木強殺 勧誘役の高校生に有罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603140?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T11:56:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "訪問介護先付近に放火疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6603139?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T11:53:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "外来種のインコ増殖 住民は困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6603143?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T12:08:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小便器「丸見え」女性記者が驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6603145?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T12:10:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "根尾昂が更改 初めて1000万円割る",
+      "link": "https://news.yahoo.co.jp/pickup/6603141?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T11:53:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "韓国で大学入試 AI不正の対策徹底",
+      "link": "https://news.yahoo.co.jp/pickup/6603120?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T09:57:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平均年齢75.7歳 歴史的首脳会談へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603148?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T12:32:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スバル 米国製SUVを「逆輸入」",
+      "link": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T13:05:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天 MLB通算123発テジェス獲得",
+      "link": "https://news.yahoo.co.jp/pickup/6603149?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T12:49:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ポン・デ・ライオン」CMが復活",
+      "link": "https://news.yahoo.co.jp/pickup/6603136?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T11:49:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "APEC 中国が見せた「線引き」",
+      "link": "https://news.yahoo.co.jp/pickup/6603146?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T13:37:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "タマホーム 高松以外も不正請求か",
+      "link": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T12:05:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴッホ晩年の大作 300億円で落札",
+      "link": "https://news.yahoo.co.jp/pickup/6603155?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T14:03:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・松井秀喜監督 アメリカ帰国",
+      "link": "https://news.yahoo.co.jp/pickup/6603152?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T13:40:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米露首脳会談 ウ情勢で意見交換か",
+      "link": "https://news.yahoo.co.jp/pickup/6603161?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T15:12:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科相の進退巡り 野党の足並み鍵",
+      "link": "https://news.yahoo.co.jp/pickup/6603144?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T14:03:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦車事故 陸自が原因を特定し公表",
+      "link": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T14:58:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマに追いかけられた 高校生通報",
+      "link": "https://news.yahoo.co.jp/pickup/6603160?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T14:48:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "23年に男性死亡 仕事仲間の男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6603158?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T14:32:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科相進退 鍵を握る国民民主党",
+      "link": "https://news.yahoo.co.jp/pickup/6603165?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T15:32:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "年数はルーキー 東浜巨が入団会見",
+      "link": "https://news.yahoo.co.jp/pickup/6603163?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T15:35:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市首相 外遊成果に「手応え」",
+      "link": "https://news.yahoo.co.jp/pickup/6603175?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T16:55:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡市長選の再選挙 費用約8億円",
+      "link": "https://news.yahoo.co.jp/pickup/6603176?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T17:09:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "催涙スプレー 学校トラブル相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6603174?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T16:56:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ハチミツ二郎 離婚後娘に泣かれた",
+      "link": "https://news.yahoo.co.jp/pickup/6603169?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T16:36:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中露首脳 核軍縮やイラン議論か",
+      "link": "https://news.yahoo.co.jp/pickup/6603185?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T17:51:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "店でネックレス奪う 男が逃走中",
+      "link": "https://news.yahoo.co.jp/pickup/6603189?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T18:24:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "分厚い塊肉 ポークステーキ店拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6603181?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T18:01:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府 配信者の発言全ては確認せず",
+      "link": "https://news.yahoo.co.jp/pickup/6603188?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T18:26:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "入浴施設で作業 熱中症で男性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T18:49:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "歌舞伎町で路駐問題 救急車妨げも",
+      "link": "https://news.yahoo.co.jp/pickup/6603186?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T18:19:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くら寿司 ちいかわ寿司皿再配布へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603187?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T18:35:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FIFA会長選 田嶋氏ら3人が届け出",
+      "link": "https://news.yahoo.co.jp/pickup/6603192?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T19:01:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3カ国会談 中露は「戦勝国」強調",
+      "link": "https://news.yahoo.co.jp/pickup/6603198?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T20:14:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "育休とった男性の心身不調 症状は",
+      "link": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T19:32:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "夜景ショー終了にみる 香港の低迷",
+      "link": "https://news.yahoo.co.jp/pickup/6603183?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T19:44:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロヒンギャ迫害 ジェノサイド認定",
+      "link": "https://news.yahoo.co.jp/pickup/6603205?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T21:15:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天証券に報告徴求命令 金融庁",
+      "link": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T21:06:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "運転手の不適切動画 京急バス謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603202?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T21:21:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NHK ラジオで関係ない音声を放送",
+      "link": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T20:29:30+09:00"
     }
   ]
 }
