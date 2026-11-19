@@ -1,0 +1,384 @@
+{
+  "date": "2026-11-19",
+  "matched_at": "2026-11-19T11:45:36.202627+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 プーチン大統領と意見交換 習主席とは握手",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78112",
+          "description": "APECの首脳会議に出席するため中国を訪問している高市総理大臣は、日本時間の18日夜、ロシアのプーチン大統領と意見を交わし、ロシアの治安機関による北海道新聞記者の拘束などについて、日本側の立場を直接伝…",
+          "pub_date": "2026-11-19T04:50:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首相 プーチン大統領と30分対話",
+          "link": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T06:13:33+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "国連 北朝鮮人権決議採択もアメリカが異例の投票求め棄権",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78130",
+          "description": "国連で北朝鮮の人権侵害を非難し、すべての拉致被害者の即時帰還を求める決議案が22年連続で採択されました。しかしアメリカが11年ぶりとなる投票での採決を求めたうえで棄権する異例の展開となりました。",
+          "pub_date": "2026-11-19T05:36:39+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "北朝鮮非難の国連決議 米国が棄権",
+          "link": "https://news.yahoo.co.jp/pickup/6603126?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T10:50:20+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米下院議長に民主党のジェフリーズ氏選出へ 初のアフリカ系",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78146",
+          "description": "11月に行われたアメリカの中間選挙で大勝し、上下両院で多数派を奪還した野党・民主党は、次の下院議長に、現在、党の下院トップを務めるジェフリーズ氏を推すことを決め、アフリカ系で初めての下院議長が誕生する…",
+          "pub_date": "2026-11-19T09:52:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米史上初 黒人の下院議長誕生へ",
+          "link": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T07:57:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78097",
+          "description": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。気象庁はことし7月の熊本地震の一連の活動だとして、今後1週間程度は最大震度5弱程度の地震に注意するとともに、さらに強い揺れの…",
+          "pub_date": "2026-11-19T11:13:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "熊本県で震度5弱 津波の心配なし",
+          "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T02:27:46+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77556",
+      "description": "APEC＝アジア太平洋経済協力会議の首脳会議が18日夜に開幕するのを前に、議長国 中国の習近平国家主席は開催地の※深センでロシアや韓国の首脳と相次いで会談していて、積極的に首脳外交を展開しています。 …",
+      "pub_date": "2026-11-18T21:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "うその説明で投資を勧誘 監視委が行政処分を勧告",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78027",
+      "description": "投資の助言業務を行っている都内の会社が、顧客に対して「優れた実績を持つ部長がいる」と架空の人物像を作り出すうその説明などをして勧誘していたとして、証券取引等監視委員会は行政処分を行うよう金融庁に勧告し…",
+      "pub_date": "2026-11-18T21:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サッカー日本代表 森保監督が最後の指揮終えて帰国",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de77990",
+      "description": "サッカー日本代表の指揮官を退任する森保一監督が18日夜、最後の強化試合を戦ったシンガポールから帰国し、「充実した幸せな時間を過ごさせていただいた」と感謝を述べました。",
+      "pub_date": "2026-11-18T22:44:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "審理に関与していない裁判官が判決に署名押印するミス",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78047",
+      "description": "ことし5月に東京地方裁判所が言い渡した民事裁判の判決について、2審の東京高等裁判所は「審理に関与していない裁判官が署名や押印をしていて、手続きは法律違反だ」として取り消し、審理のやり直しを命じる判決を…",
+      "pub_date": "2026-11-18T22:40:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本とインドとの関係強化へ 政財界の関係者が議論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78046",
+      "description": "日本とインドとの関係を一段と深めようと、両国の政財界の関係者が日本企業によるインドへの投資の将来性などについて議論する会議が、東京都内で始まりました。",
+      "pub_date": "2026-11-18T22:30:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
+      "description": "APEC＝アジア太平洋経済協力会議が開かれている中国の※深センで19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領が、3か国の首脳による初めての会談を行います。核軍縮…",
+      "pub_date": "2026-11-19T04:46:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "消費減税に合わせた支援金 年収56万円程度からの案",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78090",
+      "description": "政府は、食料品の消費税減税と合わせて導入するとしている「支援金」の支給が始まる年収について、これまで複数の案を示してきましたが、新たに年収56万円程度からとする案を検討していることがわかりました。",
+      "pub_date": "2026-11-19T06:14:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "低気圧発達で風強まる 北海道中心に暴風に警戒",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78132",
+      "description": "日本付近にある2つの低気圧が急速に発達している影響で、19日は、北日本から東日本の日本海側を中心に風が強まり、波も高くなる見込みです。北海道を中心に暴風に警戒してください。冬型の気圧配置が強まるため、…",
+      "pub_date": "2026-11-19T06:18:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "来年度税制改正 東京と地方の偏在是正など論点 自民税制調査会",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78073",
+      "description": "来年度の税制改正に向けて、自民党は19日から本格的な議論を始めることにしていて、東京とそれ以外の地域との税収格差の是正などが論点となります。また今後、安全保障関連の3文書が改定されるのに伴って、防衛費…",
+      "pub_date": "2026-11-19T05:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78144",
+      "description": "アメリカのFRB＝連邦準備制度理事会が公表した先月の会合の議事録で、ほぼすべての参加者が今後、数か月で追加の利上げが適切になる可能性が高いとの見解を示していたことがわかりました。来月の会合で大幅な利上…",
+      "pub_date": "2026-11-19T08:36:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "前橋 クマ2頭出没の住宅地 再び目撃情報 未発見の親グマか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78168",
+      "description": "警察によりますと19日午前8時すぎ、前橋市天川大島町で、通学中の男子高校生から「クマに追いかけられた」と通報があったということです。",
+      "pub_date": "2026-11-19T10:33:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "APEC首脳宣言 AI活用などで調整",
+      "link": "https://news.yahoo.co.jp/pickup/6603083?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T21:57:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日中首脳が握手 会談は見送りへ",
+      "link": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T22:07:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "太田裕美さん 夫明かす最期の様子",
+      "link": "https://news.yahoo.co.jp/pickup/6603082?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T22:05:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "富士山で中国人遭難 捜索打ち切り",
+      "link": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T22:52:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大道芸 ギリヤーク尼ヶ崎さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6603087?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T22:34:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NHK飲み会通達 記者が不満漏らす",
+      "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T00:00:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "川に展示の美術作品 さらに破壊か",
+      "link": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
+      "description": "",
+      "pub_date": "2026-11-18T23:05:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 前ソフトB牧原巧汰ら獲得へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603097?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T06:30:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "剛力彩芽9年ぶりキー局連ドラ主演",
+      "link": "https://news.yahoo.co.jp/pickup/6603098?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T06:43:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防衛費財務省案 自民内で異論噴出",
+      "link": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T07:21:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "少子化相 日本版DBS脆弱性を謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T07:37:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏 露大統領と個別会談へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T07:21:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "秋田のアシカ・リオン 移動中死ぬ",
+      "link": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T07:59:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マリナーズ 3対3の電撃トレード",
+      "link": "https://news.yahoo.co.jp/pickup/6603103?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T07:35:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "橋本愛が初教師役「楽しい現場」",
+      "link": "https://news.yahoo.co.jp/pickup/6603102?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T07:33:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "21日にかけ風強まる 暴風など警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T08:35:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米 ベネズエラと軍事協力で合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603113?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T09:18:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サーバーソフト「nginx」に脆弱性",
+      "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T09:01:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ボージョレ 今年は「ふくよか」",
+      "link": "https://news.yahoo.co.jp/pickup/6603114?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T09:14:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FA新制度 ドラフト指名巡る特例",
+      "link": "https://news.yahoo.co.jp/pickup/6603111?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T08:59:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "太田裕美さん死去 イルカが悼む",
+      "link": "https://news.yahoo.co.jp/pickup/6603106?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T08:05:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Anthropic IPO公開価格は83ドル",
+      "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T09:34:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中学生はねられ意識不明 70歳逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T10:19:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "四ツ谷駅の除草ヤギ 今月で見納め",
+      "link": "https://news.yahoo.co.jp/pickup/6603119?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T09:44:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鈴木誠也の移籍先 パドレス浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6603121?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T09:48:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐野勇斗 日テレ日曜ドラマで主演",
+      "link": "https://news.yahoo.co.jp/pickup/6603108?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T08:20:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本で震度5弱 住民「夜は怖い」",
+      "link": "https://news.yahoo.co.jp/pickup/6603128?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T11:10:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2人死亡事故 容疑者勤務先を捜索",
+      "link": "https://news.yahoo.co.jp/pickup/6603123?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T10:37:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "賃上げより手取り増 食事補助注目",
+      "link": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T10:41:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "国枝慎吾さん 国際テニス殿堂入り",
+      "link": "https://news.yahoo.co.jp/pickup/6603125?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T10:49:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Netflix新作恋リア 舞台は海の家",
+      "link": "https://news.yahoo.co.jp/pickup/6603127?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T11:08:47+09:00"
+    }
+  ]
+}
