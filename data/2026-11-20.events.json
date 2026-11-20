@@ -1,0 +1,363 @@
+{
+  "date": "2026-11-20",
+  "matched_at": "2026-11-20T11:45:41.448242+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "高市首相 トランプ大統領から米中ロ首脳会談の説明受ける",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78721",
+          "description": "高市総理大臣は19日夜、アメリカのトランプ大統領と電話会談を行いました。このあと高市総理大臣は記者団に対し、アメリカ、中国、ロシアの3か国の首脳による会談の内容などについて説明を受けた上で、国際社会の…",
+          "pub_date": "2026-11-19T23:48:26+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "高市首相 トランプ氏と電話会談",
+          "link": "https://news.yahoo.co.jp/pickup/6603216?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T23:00:34+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米AI開発「アンソロピック」上場 過去最大規模の約13兆円調達",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78753",
+          "description": "アメリカのAI開発企業、「アンソロピック」が19日、ナスダック市場に上場しました。 調達額は813億ドル、日本円にしておよそ13兆円にのぼり、ことし6月に上場した宇宙開発などを手がける「スペースX」…",
+          "pub_date": "2026-11-20T07:23:06+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "アンソロピック 米ナスダック上場",
+          "link": "https://news.yahoo.co.jp/pickup/6603220?source=rss",
+          "description": "",
+          "pub_date": "2026-11-19T23:50:41+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "10月消費者物価 生鮮食品除く指数 前年同月比＋2.2％",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
+          "description": "家庭で消費するモノやサービスの値動きをみる10月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2.2％上昇しました。 上昇率は、9月の2.1％から0.1ポイント拡大…",
+          "pub_date": "2026-11-20T09:03:53+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "10月の消費者物価指数 2.2%上昇",
+          "link": "https://news.yahoo.co.jp/pickup/6603241?source=rss",
+          "description": "",
+          "pub_date": "2026-11-20T09:49:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "株価 一時2800円超の下落 AI・半導体業界の先行き懸念で",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
+          "description": "20日の東京株式市場、取引開始直後から売り注文が広がり、日経平均株価は一時、2800円以上、値下がりしています。 19日のニューヨーク市場では、アメリカのAI開発企業「アンソロピック」が上場した一方…",
+          "pub_date": "2026-11-20T10:22:30+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "日経平均 一時2800円以上値下がり",
+          "link": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
+          "description": "",
+          "pub_date": "2026-11-20T10:12:04+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
+      "description": "アメリカのトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領による初めての3か国の首脳会談が中国の※深センで日本時間の19日夕方、行われました。 3か国の首脳は「平和宣言」を取りまとめ、核…",
+      "pub_date": "2026-11-19T21:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高市首相 フィリピン・中国の訪問を終えて帰国",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78707",
+      "description": "高市総理大臣はフィリピンと中国で国際会議に出席するなどの一連の日程を終え、19日夜、羽田空港に帰国しました。",
+      "pub_date": "2026-11-19T22:36:35+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78716",
+      "description": "ミャンマー国内の少数派、ロヒンギャへの迫害についてICJ＝国際司法裁判所は、国家によるジェノサイド、集団殺害だったと認定する判決を言い渡しました。人種や民族を破壊する意図で危害を加えるジェノサイドへの…",
+      "pub_date": "2026-11-20T08:26:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "初の米中ロ首脳会談 国際秩序や国際情勢への影響が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78735",
+      "description": "アメリカ、中国、ロシアによる初めての3か国の首脳会談が19日、中国の※深センで開かれました。会談の中で3か国の首脳は、世界の問題に中心となって取り組み、国際秩序を主導しようとする姿勢を演出していて、今…",
+      "pub_date": "2026-11-20T06:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "強い冬型の気圧配置 北海道・北陸で暴風警戒 山沿いでは積雪も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78769",
+      "description": "強い冬型の気圧配置の影響で、北海道と北陸を中心に20日夜にかけて暴風に警戒が必要です。日本海側では雨雲や雪雲が発達し、山沿いでは積雪となっているところもあり、積雪や路面の凍結による交通への影響にも注意…",
+      "pub_date": "2026-11-20T07:09:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78749",
+      "description": "高市総理大臣は19日夜、アメリカのトランプ大統領と電話で会談し、アメリカと中国、ロシアの3か国の首脳会談などの内容について説明を受けました。政府は3か国の首脳会談の結果が国際情勢に与える影響を注視する…",
+      "pub_date": "2026-11-20T08:04:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ダウ平均株価が5万ドル割れ 終値としては約5か月ぶり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78760",
+      "description": "19日のニューヨーク株式市場では、AI開発の先行きをめぐる不透明感などが根強いなかで幅広い銘柄に売り注文が広がり、ダウ平均株価の終値は前日と比べて1101ドル11セント安い、4万9097ドル6セントで…",
+      "pub_date": "2026-11-20T07:15:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "独首相「ヤルタ形式平和もたらさず」 大国外交をけん制",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78778",
+      "description": "ウクライナを支援する有志連合の会合が開かれ、ドイツのメルツ首相はアメリカ、中国、ロシア3か国の首脳会談を踏まえ「ヤルタ形式は平和をもたらさない」と述べて、大国の頭越しの外交をけん制しました。",
+      "pub_date": "2026-11-20T09:18:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "陸自射撃場3人殺傷事件 初公判で弁護士が無罪主張 岐阜地裁",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78822",
+      "description": "3年前、岐阜市の陸上自衛隊の射撃場で隊員3人が小銃で撃たれ、2人が死亡し1人が大けがをした事件で、強盗殺人などの罪に問われている元自衛官候補生の初公判が開かれ、被告は起訴された内容について「特にないで…",
+      "pub_date": "2026-11-20T11:08:23+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領アジア訪問終える 米中ロ直接対話重視の姿勢も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78759",
+      "description": "アメリカのトランプ大統領は19日夜、アジア訪問の日程を終え帰国の途につきました。日本などとインド太平洋地域での連携を重視する考えを示した一方、中国やロシアとの史上初めての3か国の首脳会談ではICC＝国…",
+      "pub_date": "2026-11-20T09:52:10+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "将棋「竜王戦」第4局始まる 藤井聡太六冠 6連覇なるか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de78847",
+      "description": "将棋の八大タイトルの最高峰「竜王戦」は20日、宮崎県で第4局が始まりました。これまでの対局で、タイトルを持つ藤井聡太六冠（24）が挑戦者の服部慎一郎七段（27）に3連勝していて、4勝目を挙げれば「竜王…",
+      "pub_date": "2026-11-20T11:11:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市首相を「冷遇」? 中国が反論",
+      "link": "https://news.yahoo.co.jp/pickup/6603208?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T22:03:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "丸山隆平 沢尻エリカと意気投合",
+      "link": "https://news.yahoo.co.jp/pickup/6603211?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T22:28:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "橋本環奈 おばを訪ね初の一人海外",
+      "link": "https://news.yahoo.co.jp/pickup/6603209?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T22:05:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "千葉3人切りつけ事件 男を再逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6603214?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T22:47:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "太田裕美さん死去 乳がんを解説",
+      "link": "https://news.yahoo.co.jp/pickup/6603215?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T22:51:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AFC最優秀監督にJ1町田・黒田氏",
+      "link": "https://news.yahoo.co.jp/pickup/6603213?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T22:55:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "APECが閉幕 AI活用の推進で一致",
+      "link": "https://news.yahoo.co.jp/pickup/6603210?source=rss",
+      "description": "",
+      "pub_date": "2026-11-19T22:23:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天証券に対し集団訴訟の動き",
+      "link": "https://news.yahoo.co.jp/pickup/6603224?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T06:42:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "地面師たち 新シリーズの制作決定",
+      "link": "https://news.yahoo.co.jp/pickup/6603223?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T06:31:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高畑充希「FIRST TAKE」に初挑戦",
+      "link": "https://news.yahoo.co.jp/pickup/6603222?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T06:23:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "習氏 台湾問題で米大統領をけん制",
+      "link": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T07:22:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳暴行死 母親が後悔の言葉",
+      "link": "https://news.yahoo.co.jp/pickup/6603225?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T07:18:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相の中国訪問「新ヤルタ」警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6603228?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T07:35:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "21日にかけ寒波 北陸など暴風警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6603236?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T08:18:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アンソロピック 初日終値約97ドル",
+      "link": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T07:36:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カビなど原因「加湿器肺炎」とは",
+      "link": "https://news.yahoo.co.jp/pickup/6603232?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T07:57:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "常総学院・島田直也監督が退任",
+      "link": "https://news.yahoo.co.jp/pickup/6603230?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T07:43:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "露 クリミア橋攻撃受け報復宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T08:31:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大学教員40歳はまだ「若手」背景",
+      "link": "https://news.yahoo.co.jp/pickup/6603234?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T08:15:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "故ピート・ローズ氏に死後恩赦",
+      "link": "https://news.yahoo.co.jp/pickup/6603240?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T09:15:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "地面師たち 綾野&豊川が再び主演",
+      "link": "https://news.yahoo.co.jp/pickup/6603237?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T08:32:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体調不良でAI相談 回答うのみ注意",
+      "link": "https://news.yahoo.co.jp/pickup/6603231?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T07:44:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「スシロー」NY店がオープン",
+      "link": "https://news.yahoo.co.jp/pickup/6603245?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T09:51:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "桜田ひより GP帯ドラマ単独主演",
+      "link": "https://news.yahoo.co.jp/pickup/6603247?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T10:02:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "楽天証券の情報流出 遺憾と金融相",
+      "link": "https://news.yahoo.co.jp/pickup/6603253?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T11:04:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "人気の米のカバ死ぬ ニット帽誤飲",
+      "link": "https://news.yahoo.co.jp/pickup/6603251?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T10:41:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "空港で靴磨き 航空会社の元社長",
+      "link": "https://news.yahoo.co.jp/pickup/6603252?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T10:41:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "M!LK曽野舜太 初の恋愛映画出演",
+      "link": "https://news.yahoo.co.jp/pickup/6603254?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T11:19:33+09:00"
+    }
+  ]
+}
