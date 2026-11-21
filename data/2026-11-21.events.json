@@ -1,0 +1,384 @@
+{
+  "date": "2026-11-21",
+  "matched_at": "2026-11-21T11:45:41.263099+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "長野 国道142号の新和田トンネル付近 車の滞留が解消",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79424",
+          "description": "20日午後、長野県の長和町と下諏訪町にまたがる国道142号の「新和田トンネル」付近で、スリップした車の影響などで、後続の車が動けなくなり、一時、100台ほどが動けない状態となりました。警察が車をUター…",
+          "pub_date": "2026-11-20T23:58:26+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "一時100台ほど車が立ち往生 長野",
+          "link": "https://news.yahoo.co.jp/pickup/6603346?source=rss",
+          "description": "",
+          "pub_date": "2026-11-20T23:03:53+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ナスダック指数が一時5%超の急落 AIブーム持続性に疑問符",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79481",
+          "description": "20日のニューヨーク株式市場ではAI関連の政策をめぐる不透明感などを背景に半導体を中心に幅広い銘柄で売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は5％を超える急落となりました。投資家の…",
+          "pub_date": "2026-11-21T07:01:32+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米株式市場急落 ナスダック5%安",
+          "link": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
+          "description": "",
+          "pub_date": "2026-11-21T07:30:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "英王立音楽大学が久石譲さんに名誉学位 日本人では初",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79509",
+          "description": "世界有数の音楽大学、イギリスの王立音楽大学は作曲家の久石譲さんに名誉学位を授与しました。 音楽や映画への卓越した貢献をたたえるとしていて、日本人への授与は初めてです。",
+          "pub_date": "2026-11-21T07:40:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "久石譲さんに名誉学位 英王立音大",
+          "link": "https://news.yahoo.co.jp/pickup/6603359?source=rss",
+          "description": "",
+          "pub_date": "2026-11-21T07:59:10+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "埼玉 三郷ジャンクション近くの物流施設で火事 消火活動続く",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79548",
+          "description": "21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。 消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。",
+          "pub_date": "2026-11-21T10:14:09+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大型物流倉庫で火事 三郷JCT付近",
+          "link": "https://news.yahoo.co.jp/pickup/6603380?source=rss",
+          "description": "",
+          "pub_date": "2026-11-21T10:20:54+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "関文科相 2024年に ほかに3回省庁職員が出席のパーティー開催",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79430",
+      "description": "関文部科学大臣は20日夜、文部科学省で記者団の取材に応じ、新たに2024年3月と5月、それに12月に開いた政治資金パーティーに内閣府や公正取引委員会の職員が出席していたと明らかにしました。",
+      "pub_date": "2026-11-20T22:21:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中国外務省 高市首相の台湾めぐる説明に「誤った言動是正を」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79438",
+      "description": "高市総理大臣が19日、訪問先の中国で行った記者会見で台湾に対する日本政府の立場は1972年の日中共同声明から変更はないと説明したことについて、中国外務省の報道官はいわゆる「台湾有事」をめぐる高市総理大…",
+      "pub_date": "2026-11-20T21:40:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "FIFA会長選挙 田嶋氏 立候補の推薦確保までの詳しい経緯 語る",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79127",
+      "description": "FIFA＝国際サッカー連盟の会長選挙への立候補の届け出が受理されたことを受けて、日本サッカー協会の田嶋幸三名誉会長がNHKのインタビューに応じ、立候補に必要な推薦を確保するまでの経緯を語りました。 ま…",
+      "pub_date": "2026-11-20T21:40:56+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大崎電気 ネット上に技術情報の掲載確認 ランサムウエア攻撃で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79441",
+      "description": "サイバー攻撃を受け、スマートメーターなどの生産・出荷を停止している「大崎電気工業」は、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを確認したと発表しま…",
+      "pub_date": "2026-11-20T22:28:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "冬型の気圧配置 新潟は大雨 北～東日本の山沿いは積雪",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79490",
+      "description": "冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があります。土砂災害に厳重に警戒してください。 北日本から東日本の山沿いでは積雪が増えていて、車を運転…",
+      "pub_date": "2026-11-21T07:08:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関文科相 政治資金パーティーめぐり 野党から辞任要求相次ぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79475",
+      "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣は、2024年に開いた3回のパーティーに、それぞれ省庁の職員が出席していたと新たに明らかにしました。野党側からは「疑念が強まった」などとして、…",
+      "pub_date": "2026-11-21T06:30:58+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 中ロ首脳との3者会談の意義強調",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79489",
+      "description": "アメリカのトランプ大統領は一連のアジア訪問についてホワイトハウスで記者会見を開き、中国の習近平国家主席とロシアのプーチン大統領との3か国の首脳会談について「3人の関係はすばらしく、核保有国としての責任…",
+      "pub_date": "2026-11-21T06:26:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本企業などから高額収入の海外居住者 課税強化へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261120de79460",
+      "description": "来年度の税制改正をめぐり、政府は、日本企業などから高額な収入を得ている海外居住者の所得税の負担が相対的に軽くなっているとして、年間の収入が4000万円を超える場合、課税を強化する案をまとめました。",
+      "pub_date": "2026-11-21T05:33:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】今後の雨と積雪の見通しは 気象予報士解説 （21日）",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79497",
+      "description": "冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル４土砂災害危険警報」が発表されている地域があります。土砂災害に厳重に警戒してください。 北日本から東日本の山沿いでは積雪が増えていて、車を運転…",
+      "pub_date": "2026-11-21T07:34:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新築マンション 投機的な取り引き抑制を検討 来年度税制改正",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79532",
+      "description": "新築マンションの価格が高止まりする中、政府・与党は、投機目的の短期的な売買が価格を押し上げる一因となっているとして、2027年度の税制改正で、こうした取り引きを抑制する税制上の措置を講じることを検討し…",
+      "pub_date": "2026-11-21T10:05:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "トランプ大統領 米国外のデータセンター建設認めず 罰則も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79543",
+      "description": "アメリカのトランプ大統領は、AIの普及で需要が増すデータセンターについて、アメリカ企業が国外に建設することを認めないとしたうえで、建設した場合、「巨額の税を課す」と述べ、罰則を設ける意向を示しました。",
+      "pub_date": "2026-11-21T10:16:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ペルーでM6.7の地震 津波のおそれなし 米海洋大気局",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79540",
+      "description": "USGS＝アメリカの地質調査所によりますと、日本時間の21日午前9時ごろ、南米のペルー中部を震源とする地震がありました。 震源の深さは108キロ、地震の規模を示すマグニチュードは6.7と推定されてい…",
+      "pub_date": "2026-11-21T09:47:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィギュアGPフィンランド大会 島田麻央が首位発進",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79478",
+      "description": "フィギュアスケートのグランプリシリーズ第5戦、フィンランド大会は女子シングル前半のショートプログラムが行われ、カナダ大会で優勝した島田麻央選手が2位におよそ10ポイントの差をつけ首位に立ちました。",
+      "pub_date": "2026-11-21T09:41:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79559",
+      "description": "経営の立て直しに向けて他社との資本提携の検討を進めている東京電力ホールディングスは、交渉相手に対し、電力の安定供給など経営上、重要な事項の意思決定に関しては、提携後も国が事実上の拒否権を持ち続けること…",
+      "pub_date": "2026-11-21T11:16:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "愛子さま マーライオン公園を視察 帰国へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79551",
+      "description": "天皇皇后両陛下の長女の愛子さまは、訪問先のシンガポールで、国のシンボルとなっているマーライオン公園を訪ねられました。 愛子さまは5日間の日程を終え、21日に帰国されます。",
+      "pub_date": "2026-11-21T11:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "リニア工事現場付近の川で水吹き上がる JR東海が関連調査 川崎",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79560",
+      "description": "20日午後、川崎市を流れる川で、水が吹き上がっているのが確認されました。 周辺の地下では、リニア中央新幹線のトンネル工事が行われていて、JR東海は掘削作業を中断し、工事との関連を調べています。",
+      "pub_date": "2026-11-21T11:13:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本県で震度4 津波の心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6603337?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T21:53:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "安保3文書素案 原潜「検討着手」",
+      "link": "https://news.yahoo.co.jp/pickup/6603335?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T21:31:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「KARTE」情報漏えい延べ2200社",
+      "link": "https://news.yahoo.co.jp/pickup/6603339?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T22:09:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神戸市 マンション空室税の条例案",
+      "link": "https://news.yahoo.co.jp/pickup/6603341?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T22:18:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ポーランドにミサイル 被害なし",
+      "link": "https://news.yahoo.co.jp/pickup/6603345?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T22:42:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "EV補助金受け付け終了 予算枯渇",
+      "link": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T23:58:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "官僚参加パーティー5件に 文科相",
+      "link": "https://news.yahoo.co.jp/pickup/6603350?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T00:11:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サウジ原油 日本での備蓄3倍合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T21:32:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "丸井 EC顧客名など883万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6603344?source=rss",
+      "description": "",
+      "pub_date": "2026-11-20T22:31:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 APECで台湾代表と会談せず",
+      "link": "https://news.yahoo.co.jp/pickup/6603354?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T07:36:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「リーマン予想」生成AIが証明か",
+      "link": "https://news.yahoo.co.jp/pickup/6603360?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T07:51:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷翔平 NBと異例「生涯契約」",
+      "link": "https://news.yahoo.co.jp/pickup/6603364?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T08:15:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリックス宗佑磨 DeNA入り決断",
+      "link": "https://news.yahoo.co.jp/pickup/6603351?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T07:20:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "レコード大賞 優秀作品賞10作発表",
+      "link": "https://news.yahoo.co.jp/pickup/6603353?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T07:38:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "外国代理人 届け出義務3要件整理",
+      "link": "https://news.yahoo.co.jp/pickup/6603362?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T08:10:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相中国到着時の段差 木原氏説明",
+      "link": "https://news.yahoo.co.jp/pickup/6603366?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T08:46:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「精子力」チェック 受ける意義",
+      "link": "https://news.yahoo.co.jp/pickup/6603371?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T09:16:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "異例 大谷がNBと引退まで契約",
+      "link": "https://news.yahoo.co.jp/pickup/6603369?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T08:41:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ミサイル落下 ポーランドが露非難",
+      "link": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T10:04:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "兵庫3歳児暴行死 頭部に致命傷か",
+      "link": "https://news.yahoo.co.jp/pickup/6603367?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T08:53:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3万円超シャワーヘッド 売れる訳",
+      "link": "https://news.yahoo.co.jp/pickup/6603374?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T09:44:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大岩J スペイン人コーチ入閣へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603363?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T08:29:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "正恩氏 トランプ氏本気度に疑心か",
+      "link": "https://news.yahoo.co.jp/pickup/6603378?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T10:04:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スタック車 ほぼノーマルタイヤか",
+      "link": "https://news.yahoo.co.jp/pickup/6603383?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T11:01:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "なぜ実家暮らし 40代未婚者の答え",
+      "link": "https://news.yahoo.co.jp/pickup/6603379?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T10:20:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "松井玲奈 結婚の形は人それぞれ",
+      "link": "https://news.yahoo.co.jp/pickup/6603381?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T10:35:00+09:00"
+    }
+  ]
+}
