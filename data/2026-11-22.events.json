@@ -1,0 +1,406 @@
+{
+  "date": "2026-11-22",
+  "matched_at": "2026-11-22T11:46:06.776650+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79776",
+          "description": "21日未明、兵庫県西宮市の会社経営者の住宅に何者かが侵入し、金塊およそ20キロや現金およそ2500万円などが盗まれる被害が確認されました。金塊20キロは現在の金の価格で4億円相当にのぼり、警察が窃盗事…",
+          "pub_date": "2026-11-22T00:03:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "金塊20kgなど盗まれる 兵庫の住宅",
+          "link": "https://news.yahoo.co.jp/pickup/6603477?source=rss",
+          "description": "",
+          "pub_date": "2026-11-21T22:43:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79741",
+          "description": "那覇市にある首里城正殿は7年前（2019年）の火災で焼失したあと復元され、22日、完成を祝う国主催の式典が行われます。",
+          "pub_date": "2026-11-22T04:50:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "焼失7年 首里城正殿きょう完成式",
+          "link": "https://news.yahoo.co.jp/pickup/6603492?source=rss",
+          "description": "",
+          "pub_date": "2026-11-22T07:52:28+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "COP31 会期延長し協議続く 化石燃料からの脱却などめぐり",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79786",
+          "description": "気候変動対策を話し合う国連の会議「COP31」は、成果文書案に化石燃料からの脱却について盛り込まれなかったことなどをめぐり、会期を延長して協議が続いていて、各国が一致した方針を打ち出せるか不透明な状況…",
+          "pub_date": "2026-11-22T07:06:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "「脱化石」削除巡り紛糾 COP31",
+          "link": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
+          "description": "",
+          "pub_date": "2026-11-22T09:26:56+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79490",
+      "description": "冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があるほか、北日本と東日本の山沿いを中心に積雪が増えています。 冬型の気圧配置は西からしだいに緩みます…",
+      "pub_date": "2026-11-21T23:11:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79712",
+      "description": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。",
+      "pub_date": "2026-11-21T21:38:33+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "将棋「竜王戦」第4局 藤井聡太六冠が防衛 6連覇果たす",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79696",
+      "description": "20日から宮崎県で行われていた将棋の八大タイトルの最高峰「竜王戦」の第4局は、藤井聡太六冠（24）が挑戦者の服部慎一郎七段（27）に勝って4勝目を挙げ、「竜王戦」6連覇を果たしました。 藤井六冠は、…",
+      "pub_date": "2026-11-21T22:41:05+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナ支援の有志連合 初の軍事演習をメディアに公開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79750",
+      "description": "ウクライナを支援する有志連合による初めての大規模な軍事演習が20日、メディアに公開され、各国の部隊はウクライナの安全の保証に向けて現地で活動するため、連携を確認していました。",
+      "pub_date": "2026-11-21T21:30:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ラグビー日本代表 スコットランドに62点差の大敗【詳報】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79756",
+      "description": "イギリスに遠征しているラグビー日本代表は、国際大会「ネーションズチャンピオンシップ」でスコットランド代表と対戦し、11個のトライを奪われ、5対67で敗れました。 記事後半では試合の詳しい経過をお伝え…",
+      "pub_date": "2026-11-22T04:10:09+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "香川 JR予讃線信号トラブル 特急など約6時間立往生も運転再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79790",
+      "description": "JR予讃線は、香川県内の信号設備の不具合と点検のため、一部の区間で21日夜から22日朝にかけて運転見合わせが続き、特急列車が乗客およそ90人を乗せたままおよそ6時間にわたって立往生しました。",
+      "pub_date": "2026-11-22T06:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "山形新幹線 早朝の一部列車を除き通常運転の見通し",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79780",
+      "description": "山形新幹線は大雪の影響で21日、山形県内で終日、運転を取りやめましたが、JR東日本によりますと、22日は早朝の一部の列車を除き、通常通りの運転になる見通しだということです。",
+      "pub_date": "2026-11-22T04:27:02+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79775",
+      "description": "フィギュアスケートのグランプリシリーズ第5戦、フィンランド大会は女子シングル後半のフリーが行われ、18歳の島田麻央選手がカナダ大会に続いて優勝し、シニアデビューのシーズンでシリーズの上位6人で争うグラ…",
+      "pub_date": "2026-11-22T03:24:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79781",
+      "description": "福島県北塩原村ではおとといから雪による倒木が相次いだ影響で国道の一部が通行止めになり、500世帯余りのほか、ホテルの宿泊客の孤立状態が続いています。県は22日朝から除雪作業を再開する予定ですが、通行止…",
+      "pub_date": "2026-11-22T05:02:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "前橋 市街地に出没のクマ見つからず 朝から捜索再開へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79777",
+      "description": "住宅街にクマが出没し警戒が続いている前橋市では21日朝、再び目撃され、市や警察などは一時周辺への立ち入りを規制して捜索しましたが夜までに見つからず、22日朝から捜索を再開することにしています。",
+      "pub_date": "2026-11-22T05:26:59+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79767",
+      "description": "北日本と東日本の日本海側を中心に雨や雪が降り、新潟県では「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 山沿いではこれまでの雪で積雪が多くなっている地域があるほか、2…",
+      "pub_date": "2026-11-22T10:39:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "暗号資産利用者の申告漏れ多く 国税当局が調査体制強化へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79765",
+      "description": "暗号資産の利用者が年々増えるなか、東京国税局が昨年度、利用者90人あまりに税務調査を行い、あわせて39億円余りの申告漏れを指摘したことが関係者への取材でわかりました。税務申告をしない利用者が多いことか…",
+      "pub_date": "2026-11-22T05:51:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "AI自律兵器の国際会議 法的拘束力あるルール作りで合意できず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79771",
+      "description": "人間が関与せず、AIなどを用いて自律して攻撃する兵器システムをテーマにした国際会議はヨーロッパ各国が法的拘束力のあるルール作りを求めたのに対し、アメリカやロシアが反対したため合意には至りませんでした。",
+      "pub_date": "2026-11-22T06:02:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ホテル更衣室で保育園児など盗撮疑い 福島県警の行政職員逮捕",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79820",
+      "description": "千葉県内のホテルの浴場の更衣室で、訪れていた保育園児などを盗撮したとして、福島県警の40歳の行政職員が逮捕されました。容疑を否認しているということです。",
+      "pub_date": "2026-11-22T07:29:44+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ゼレンスキー大統領「3か国首脳会談はロシアにとっては失敗」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79819",
+      "description": "ウクライナのゼレンスキー大統領はアメリカ、中国、ロシアによる3か国の首脳会談について「ロシアにとっては失敗に終わった」と述べ、プーチン大統領の期待どおりには進まなかったという認識を示しました。",
+      "pub_date": "2026-11-22T08:07:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79796",
+      "description": "北欧デンマークの首相府は、国内での暗殺計画を警察などが阻止したと発表しました。ロシアの情報機関が計画を主導したとみられるとして、フレデリクセン首相はロシアへの制裁を強化するとしています。",
+      "pub_date": "2026-11-22T08:38:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アンソロピックの数学者 AIで難問「リーマン予想」証明と主張",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+      "description": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。",
+      "pub_date": "2026-11-22T10:10:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "火災で焼失の首里城正殿 午後から国主催の復元完成式 沖縄",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
+      "description": "7年前の火災で焼失したあと復元された、那覇市にある首里城正殿で、22日午後1時から完成を祝う国主催の式典が行われます。",
+      "pub_date": "2026-11-22T11:15:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雪影響で約1500人孤立状態 福島",
+      "link": "https://news.yahoo.co.jp/pickup/6603473?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T21:46:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3歳暴行死 園関係者「心が痛い」",
+      "link": "https://news.yahoo.co.jp/pickup/6603475?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T22:23:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FA上林誠知 阪神との交渉認める",
+      "link": "https://news.yahoo.co.jp/pickup/6603478?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T22:49:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "M-1 ドンデコルテやエバース敗退",
+      "link": "https://news.yahoo.co.jp/pickup/6603474?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T22:17:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "危険運転で婚約者犠牲 にじむ無念",
+      "link": "https://news.yahoo.co.jp/pickup/6603481?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T23:11:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "LED信号機に弱点 発熱少なく着雪",
+      "link": "https://news.yahoo.co.jp/pickup/6603485?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T23:41:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "推薦入試 不合格者に1秒間誤通知",
+      "link": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
+      "description": "",
+      "pub_date": "2026-11-21T23:26:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福間女流四冠が第2子妊娠公表",
+      "link": "https://news.yahoo.co.jp/pickup/6603488?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T07:22:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "FC東京 10戦連続無失点でJ1記録",
+      "link": "https://news.yahoo.co.jp/pickup/6603487?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T07:26:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "菊池風磨 ドラマで初の歌手・父役",
+      "link": "https://news.yahoo.co.jp/pickup/6603486?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T07:14:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関文科相の辞任論 与党内で拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6603489?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T07:35:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "兵庫3歳死亡 家庭へ復帰なぜ判断",
+      "link": "https://news.yahoo.co.jp/pickup/6603495?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T08:04:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DIYで溶接中に出火か 男性が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T07:50:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "チェルシーを撃破 田中碧に高評価",
+      "link": "https://news.yahoo.co.jp/pickup/6603494?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T07:52:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "DeNA 広島FAの森下暢仁と交渉",
+      "link": "https://news.yahoo.co.jp/pickup/6603490?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T07:38:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "氷河期世代の正社員率改善も 格差",
+      "link": "https://news.yahoo.co.jp/pickup/6603504?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T08:49:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「叱らない育児」を意識 悩む母",
+      "link": "https://news.yahoo.co.jp/pickup/6603500?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T08:22:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "村上春樹さんが村上龍さんを追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6603503?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T08:39:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ホカロンのロゴ入り靴下 売れた訳",
+      "link": "https://news.yahoo.co.jp/pickup/6603506?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T09:12:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GTA6 売上で記録も賛否ある背景",
+      "link": "https://news.yahoo.co.jp/pickup/6603499?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T08:20:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大雪で水族館停電 生き物を移動",
+      "link": "https://news.yahoo.co.jp/pickup/6603510?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T09:38:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "児童2人の小学校 残り少ない日々",
+      "link": "https://news.yahoo.co.jp/pickup/6603502?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T08:44:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "メンズメイク 若者を悩ます世代差",
+      "link": "https://news.yahoo.co.jp/pickup/6603512?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T09:58:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "J3奈良の大黒将志監督 判定に怒り",
+      "link": "https://news.yahoo.co.jp/pickup/6603513?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T10:05:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三山 紅白より多い234人とけん玉",
+      "link": "https://news.yahoo.co.jp/pickup/6603514?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T10:09:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "VIVANT ゲイの描き方に識者疑問",
+      "link": "https://news.yahoo.co.jp/pickup/6603511?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T09:42:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "税収格差是正 都と地方せめぎ合い",
+      "link": "https://news.yahoo.co.jp/pickup/6603498?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T08:18:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今年8人転落の防波堤 全員県外客",
+      "link": "https://news.yahoo.co.jp/pickup/6603517?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T10:35:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大学オールジェンダートイレ 賛否",
+      "link": "https://news.yahoo.co.jp/pickup/6603518?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T10:47:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自衛隊から芸人経て巡査 男性の今",
+      "link": "https://news.yahoo.co.jp/pickup/6603519?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T11:00:19+09:00"
+    }
+  ]
+}
