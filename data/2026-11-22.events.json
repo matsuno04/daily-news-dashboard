@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "matched_at": "2026-11-22T11:46:06.776650+09:00",
+  "matched_at": "2026-11-22T21:46:09.596036+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -50,6 +50,46 @@
       "sources": {
         "NHK": {
           "source": "NHK",
+          "title": "沖縄 首里城正殿が復元“二度と失われないよう つないでいく”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
+          "description": "7年前の火災で焼失した首里城正殿が復元されました。22日の国主催の式典では、復元に携わった琉球大学の名誉教授が「二度と失われないよう、未来に切れ目なくつないでいく」と決意を述べました。",
+          "pub_date": "2026-11-22T18:06:44+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首里城正殿 完成祝うテープカット",
+          "link": "https://news.yahoo.co.jp/pickup/6603553?source=rss",
+          "description": "",
+          "pub_date": "2026-11-22T15:29:31+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福島 国道459号の通行止め解除 北塩原村の孤立状態ほぼ解消",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80050",
+          "description": "雪による倒木の影響で通行止めとなっていた福島県の国道459号の一部は、22日午後6時に解除されました。これにより、北塩原村の500世帯余りの孤立状態は解消されました。",
+          "pub_date": "2026-11-22T18:57:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "福島の大雪 滞在者ら孤立状態解消",
+          "link": "https://news.yahoo.co.jp/pickup/6603560?source=rss",
+          "description": "",
+          "pub_date": "2026-11-22T16:18:07+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
           "title": "COP31 会期延長し協議続く 化石燃料からの脱却などめぐり",
           "link": "https://news.web.nhk/newsweb/na/nd-20261122de79786",
           "description": "気候変動対策を話し合う国連の会議「COP31」は、成果文書案に化石燃料からの脱却について盛り込まれなかったことなどをめぐり、会期を延長して協議が続いていて、各国が一致した方針を打ち出せるか不透明な状況…",
@@ -61,6 +101,66 @@
           "link": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
           "description": "",
           "pub_date": "2026-11-22T09:26:56+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
+          "description": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。",
+          "pub_date": "2026-11-22T15:11:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "タワーレコード 1100万件情報流出",
+          "link": "https://news.yahoo.co.jp/pickup/6603588?source=rss",
+          "description": "",
+          "pub_date": "2026-11-22T19:41:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「東アジア反日武装戦線」メンバーの死刑囚が東京拘置所で死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79958",
+          "description": "1974年から翌年にかけて起きた連続企業爆破事件で死刑が確定していた、過激派組織「東アジア反日武装戦線」のメンバー、益永利明、旧姓・片岡利明死刑囚が、22日朝、東京拘置所で死亡しました。法務省によりま…",
+          "pub_date": "2026-11-22T20:37:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "益永死刑囚が死亡 連続企業爆破",
+          "link": "https://news.yahoo.co.jp/pickup/6603563?source=rss",
+          "description": "",
+          "pub_date": "2026-11-22T16:31:35+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0008",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "韓国 大学入試 スマートグラスなどの対策で混乱 教育相が辞意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80041",
+          "description": "韓国で今月19日に行われた大学進学のための共通試験で、スマートグラスを使用するなどAIを悪用した不正行為への対策を政府が試験直前に強化して混乱が広がったことを受け、教育相が22日、辞意を表明しました。",
+          "pub_date": "2026-11-22T20:21:50+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "韓国 教育相が入試巡る混乱で辞意",
+          "link": "https://news.yahoo.co.jp/pickup/6603542?source=rss",
+          "description": "",
+          "pub_date": "2026-11-22T14:12:21+09:00"
         }
       }
     }
@@ -124,24 +224,24 @@
     },
     {
       "source": "NHK",
-      "title": "福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く",
+      "title": "福島 北塩原村 宿泊客帰宅開始も514世帯孤立 猪苗代町でも孤立",
       "link": "https://news.web.nhk/newsweb/na/nd-20261122de79781",
-      "description": "福島県北塩原村ではおとといから雪による倒木が相次いだ影響で国道の一部が通行止めになり、500世帯余りのほか、ホテルの宿泊客の孤立状態が続いています。県は22日朝から除雪作業を再開する予定ですが、通行止…",
-      "pub_date": "2026-11-22T05:02:31+09:00"
+      "description": "20日から降り続いた雪の影響で、福島県北塩原村では国道の通行止めが続いています。周辺のホテルでは一時孤立した状態になりましたが、緊急車両が通行できるようになったことから、一部の宿泊客が帰宅を始めていま…",
+      "pub_date": "2026-11-22T14:13:04+09:00"
     },
     {
       "source": "NHK",
-      "title": "前橋 市街地に出没のクマ見つからず 朝から捜索再開へ",
+      "title": "クマは地下水路に? 内部調査も姿は確認できず 警戒続く前橋",
       "link": "https://news.web.nhk/newsweb/na/nd-20261122de79777",
-      "description": "住宅街にクマが出没し警戒が続いている前橋市では21日朝、再び目撃され、市や警察などは一時周辺への立ち入りを規制して捜索しましたが夜までに見つからず、22日朝から捜索を再開することにしています。",
-      "pub_date": "2026-11-22T05:26:59+09:00"
+      "description": "住宅街にクマが出没し警戒が続いている前橋市では、22日、クマがとどまっているとみられる地下水路の内部を、県や市などが自走式のカメラで調査しましたが、クマの姿や痕跡は確認できませんでした。現場では水路を…",
+      "pub_date": "2026-11-22T20:45:28+09:00"
     },
     {
       "source": "NHK",
-      "title": "日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を",
+      "title": "平年を上回る積雪 23日は晴れも 連休後に再び荒天の見込み",
       "link": "https://news.web.nhk/newsweb/na/nd-20261121de79767",
-      "description": "北日本と東日本の日本海側を中心に雨や雪が降り、新潟県では「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 山沿いではこれまでの雪で積雪が多くなっている地域があるほか、2…",
-      "pub_date": "2026-11-22T10:39:40+09:00"
+      "description": "冬型の気圧配置は緩み、雪の範囲はしだいに狭まっていますが、北日本と東日本の日本海側の山沿いを中心にこの時期としては積雪が多くなっています。連休最終日の23日は晴れの範囲が広がりますが、週の半ばにかけて…",
+      "pub_date": "2026-11-22T18:34:21+09:00"
     },
     {
       "source": "NHK",
@@ -180,17 +280,101 @@
     },
     {
       "source": "NHK",
-      "title": "アンソロピックの数学者 AIで難問「リーマン予想」証明と主張",
+      "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
       "link": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
       "description": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。",
-      "pub_date": "2026-11-22T10:10:00+09:00"
+      "pub_date": "2026-11-22T14:24:00+09:00"
     },
     {
       "source": "NHK",
-      "title": "火災で焼失の首里城正殿 午後から国主催の復元完成式 沖縄",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
-      "description": "7年前の火災で焼失したあと復元された、那覇市にある首里城正殿で、22日午後1時から完成を祝う国主催の式典が行われます。",
-      "pub_date": "2026-11-22T11:15:23+09:00"
+      "title": "イラン バーレーンの米軍施設を標的に攻撃と発表 緊張続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79868",
+      "description": "断続的な攻撃の応酬が続く中東のホルムズ海峡周辺では、イランがバーレーンにあるアメリカ軍のレーダー施設を攻撃したと発表しました。バーレーンは民間の施設に被害が出たとして攻撃を非難していて、地域で緊張が続…",
+      "pub_date": "2026-11-22T12:22:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "安保3文書 非核三原則などめぐり与野党意見交わす NHK日曜討論",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79839",
+      "description": "安全保障関連の3文書の改定に向けて政府・与党が検討を進めるなか、NHKの日曜討論に与野党の安全保障政策の担当者らが出演し、非核三原則を見直すかどうかや原子力潜水艦の保有の是非などをめぐって意見を交わし…",
+      "pub_date": "2026-11-22T12:32:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィンランド沖 ロシアの貨物船に無人機攻撃 ウクライナ関与か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79863",
+      "description": "フィンランド軍などは、南部の沖合でロシアの貨物船が無人機による攻撃を受け、火災が発生したと発表しました。ロシア軍と関連のある船だとしていて、攻撃はウクライナが関与している可能性が高いとしています。",
+      "pub_date": "2026-11-22T12:42:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
+      "description": "北海道帯広市に本社がある菓子メーカー「六花亭」のオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性がある問題で、会社は、カード情報の不正利用とみられる被害が…",
+      "pub_date": "2026-11-22T14:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日本の探査機「みお」水星の周回軌道に投入 欧州の探査機と",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79873",
+      "description": "太陽に最も近い惑星、水星を目指して8年前の2018年から飛行を続けてきた日本の探査機「みお」は、連結しているヨーロッパの探査機とともに水星を周回する軌道に投入されたと、ESA＝ヨーロッパ宇宙機関が発表…",
+      "pub_date": "2026-11-22T14:29:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「いい夫婦の日」に夫婦岩で愛を叫ぶ催し 三重 伊勢",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79954",
+      "description": "11月22日は語呂合わせで「いい夫婦の日」です。三重県伊勢市の観光名所「夫婦岩」では、家族やパートナーへの思いを叫ぶイベントが開かれました。",
+      "pub_date": "2026-11-22T16:15:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大相撲九州場所 十両優勝は若隆景 緊急手術経て3場所ぶり復帰",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79948",
+      "description": "大相撲九州場所の十両は千秋楽、左太ももの緊急手術を経て3場所ぶりに復帰した若隆景が14勝1敗で優勝しました。",
+      "pub_date": "2026-11-22T16:22:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79989",
+      "description": "大相撲九州場所は千秋楽、横綱・大の里が13勝2敗で並んだ平幕の若元春との優勝決定戦を制し、7回目の優勝を果たしました。大の里は横綱に昇進してから初めての2場所連続での優勝となります。",
+      "pub_date": "2026-11-22T20:10:45+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国民 玉木代表“関文科相は問責決議案に値する 進退判断を”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79962",
+      "description": "関文部科学大臣が国会答弁などを修正する形で、新たに3回の政治資金パーティーに省庁の職員が出席していたと明らかにしたことについて、国民民主党の玉木代表は、国会で事実と異なる説明をしたことは重く、問責決議…",
+      "pub_date": "2026-11-22T16:34:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "千葉 印旛沼の堤防決壊 コメ作りに影響 鋭いトゲのオニビシも",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79985",
+      "description": "ことし9月、台風による記録的な大雨で千葉県の印旛沼の堤防が決壊してから、22日で2か月になります。印旛沼周辺では被災した田んぼの復旧が進まず、来年のコメ作りに向けた準備を始められないなど、今も影響が続…",
+      "pub_date": "2026-11-22T18:11:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "木原官房長官“関文科相の説明重要 人事は総理が決めること”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de80043",
+      "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、木原官房長官は訪問先の那覇市で記者団に対し、自身がしっかり説明することが重要だという認識を重ねて示しました。また、関大臣の進退につい…",
+      "pub_date": "2026-11-22T19:09:11+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "熊本地震で被災の小学生 陸上の全国大会で堂々の走り",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de80058",
+      "description": "陸上の小学生の全国大会が都内で行われ、ことし7月の熊本地震で被災した子どもたちも、はつらつとした走りを見せました。",
+      "pub_date": "2026-11-22T21:21:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "スピードスケートW杯帯広大会 女子団体パシュート日本は4位",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de80064",
+      "description": "北海道帯広市で行われたスピードスケートのワールドカップ第2戦、女子団体パシュートで、日本は4位でした。",
+      "pub_date": "2026-11-22T20:29:26+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -401,6 +585,300 @@
       "link": "https://news.yahoo.co.jp/pickup/6603519?source=rss",
       "description": "",
       "pub_date": "2026-11-22T11:00:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI兵器先行の米露 規制に消極姿勢",
+      "link": "https://news.yahoo.co.jp/pickup/6603522?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T11:31:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "無資格注射疑いのペット店 実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6603523?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T11:33:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "既婚者専用マッチングアプリ 実態",
+      "link": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T12:19:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "坂元達裕が衝撃ゴール 完璧ミドル",
+      "link": "https://news.yahoo.co.jp/pickup/6603528?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T11:53:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "自民 原潜保有議論「排除せず」",
+      "link": "https://news.yahoo.co.jp/pickup/6603529?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T12:02:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "記録的降水量の北陸 土砂災害警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6603534?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T12:42:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "若者の手芸ブーム AI時代になぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6603515?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T10:05:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原辰徳氏 松井監督への信頼明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6603536?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T12:44:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元GKシュナイダー潤之介さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6603539?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T13:19:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "声優・青木志貴 性自認公表の理由",
+      "link": "https://news.yahoo.co.jp/pickup/6603530?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T12:35:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "地方銀行再編 各地でくすぶる火種",
+      "link": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T09:29:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ウ大統領出身地に露「3連続」攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6603535?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T12:59:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "うーん 買い取り店で揺れる人の心",
+      "link": "https://news.yahoo.co.jp/pickup/6603538?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T13:44:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "坂本氏 選手権前りくりゅうと旅行",
+      "link": "https://news.yahoo.co.jp/pickup/6603543?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T14:16:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原発敷地でガラスの下敷きに 重体",
+      "link": "https://news.yahoo.co.jp/pickup/6603547?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T14:46:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "12歳男子中学生が行方不明 郡山市",
+      "link": "https://news.yahoo.co.jp/pickup/6603546?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T14:33:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "裸足で24h走り続ける大会なぜ参加",
+      "link": "https://news.yahoo.co.jp/pickup/6603551?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T15:18:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "桑田真澄氏58歳が118キロ球 騒然",
+      "link": "https://news.yahoo.co.jp/pickup/6603545?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T14:22:21+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「夜職」相次ぐ海外入国トラブル",
+      "link": "https://news.yahoo.co.jp/pickup/6603554?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T15:36:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "麒麟・田村 スキンヘッドを披露",
+      "link": "https://news.yahoo.co.jp/pickup/6603558?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T15:55:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "リーマン予想 AI証明巡り共同声明",
+      "link": "https://news.yahoo.co.jp/pickup/6603568?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T17:07:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "金沢に白タクまん延 手口は巧妙化",
+      "link": "https://news.yahoo.co.jp/pickup/6603561?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T16:37:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クイーンズ駅伝 齋藤みう14人抜き",
+      "link": "https://news.yahoo.co.jp/pickup/6603571?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T17:29:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ホルムズ海峡を遠泳 環境被害訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:08:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "原発構内でガラスの下敷きに 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:02:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田中希実ら失格→記録復活 駅伝",
+      "link": "https://news.yahoo.co.jp/pickup/6603577?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:14:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ソフトバンク 新ユニホームを発表",
+      "link": "https://news.yahoo.co.jp/pickup/6603575?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:03:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "西野七瀬 理想は友達のような夫婦",
+      "link": "https://news.yahoo.co.jp/pickup/6603579?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:28:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東で広く乾燥 火災相次ぎ死者も",
+      "link": "https://news.yahoo.co.jp/pickup/6603581?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:35:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三原則例外 被爆者「言語道断だ」",
+      "link": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T17:45:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "海転落相次ぐ 生死分けた救命胴衣",
+      "link": "https://news.yahoo.co.jp/pickup/6603580?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:49:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジュノンボーイGP 兵庫出身の高3",
+      "link": "https://news.yahoo.co.jp/pickup/6603585?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T18:58:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熱海富士 仕切り直前に突然の鼻血",
+      "link": "https://news.yahoo.co.jp/pickup/6603587?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T19:22:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "23日は空気が乾燥 感染予防を",
+      "link": "https://news.yahoo.co.jp/pickup/6603559?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T16:25:13+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「サイバー保険」に加入 企業増加",
+      "link": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T20:11:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "72歳の建築士 2度目の首里城復元",
+      "link": "https://news.yahoo.co.jp/pickup/6603592?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T20:07:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田中希実 失格取り消しで大粒の涙",
+      "link": "https://news.yahoo.co.jp/pickup/6603593?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T20:15:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "声優・安野希世乃が結婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6603586?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T19:25:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「普天間」負担軽減会議 開催へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603582?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T19:07:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米大統領側 訪日時のオバマ氏やゆ",
+      "link": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T21:11:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "踏切内に電動車いすの79歳 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603599?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T21:22:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "体育館屋根から転落 作業員が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603596?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T20:59:24+09:00"
     }
   ]
 }
