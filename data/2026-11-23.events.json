@@ -1,0 +1,371 @@
+{
+  "date": "2026-11-23",
+  "matched_at": "2026-11-23T11:45:22.835330+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
+          "description": "トルコで開かれた気候変動対策を話し合う国連の会議「COP31」は、会期を延長して行われましたが、会議全体を総括する成果文書を採択できずに閉幕しました。 文書案に化石燃料からの脱却などについて言及がなか…",
+          "pub_date": "2026-11-23T04:45:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "COP31 合意文書採択できず閉幕",
+          "link": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
+          "description": "",
+          "pub_date": "2026-11-23T06:58:55+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80078",
+          "description": "那覇市にある首里城正殿は、7年前の火災で焼失したあと復元され、23日午前、沖縄県が主催して完成を祝う式典が行われたあと、正午から一般公開が始まります。 正殿の公開を迎え、火災から復元に至る歩みが大きな…",
+          "pub_date": "2026-11-23T06:42:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "首里城正殿の復元 県知事「万感」",
+          "link": "https://news.yahoo.co.jp/pickup/6603641?source=rss",
+          "description": "",
+          "pub_date": "2026-11-23T10:03:54+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "野党 関文科相辞任求める声強まる 木原官房長官“説明が重要”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80109",
+          "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、野党側では国会で事実と異なる説明をしたのは虚偽答弁にあたるなどとして辞任を求める声が強まっています。 一方、木原官房長官は関大臣自身…",
+          "pub_date": "2026-11-23T06:18:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "野党 文科相の「問責」提出の構え",
+          "link": "https://news.yahoo.co.jp/pickup/6603638?source=rss",
+          "description": "",
+          "pub_date": "2026-11-23T09:34:04+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79989",
+      "description": "大相撲九州場所は千秋楽、横綱・大の里が13勝2敗で並んだ平幕の若元春との優勝決定戦を制し、7回目の優勝を果たしました。大の里は横綱に昇進してから初めての2場所連続での優勝となります。",
+      "pub_date": "2026-11-22T23:11:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震速報】熊本県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de80074",
+      "description": "23日午前2時46分ごろ地震がありました。 この地震による津波の心配はありません。 震源地は熊本県天草・芦北地方で震源の深さは10キロ、地震の規模を示すマグニチュードは4.1と推定されます。 各市町村…",
+      "pub_date": "2026-11-23T02:53:12+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80114",
+      "description": "ロシアによる軍事侵攻が続くウクライナで22日、首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました。ロシア軍の攻撃はこの数日で激しさを増していて、さらなる攻撃に警戒が強まっています…",
+      "pub_date": "2026-11-23T05:19:29+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
+      "description": "インドネシアの首都ジャカルタの近郊にある菓子の製造工場で21日、火災が発生し、地元当局によりますと3人が死亡し、36人が行方不明になっています。",
+      "pub_date": "2026-11-23T05:40:07+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "住宅街にクマ出没の前橋 地下水路に潜んでいる可能性 警戒続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de80089",
+      "description": "住宅街にクマが出没した前橋市では、22日、クマが潜んでいる可能性がある地下水路の出入り口が土のうなどで封鎖されました。 市や警察は23日も警戒を続けるとともに、クマの居場所の特定を進めることにしていま…",
+      "pub_date": "2026-11-23T06:01:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】鹿児島県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80110",
+      "description": "23日午前7時49分ごろ、鹿児島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+      "pub_date": "2026-11-23T08:09:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "松山市中心部近くの住宅で火事 2人と連絡取れず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80132",
+      "description": "23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。 警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、…",
+      "pub_date": "2026-11-23T08:27:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【動画】上空から見た首里城正殿は？",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80128",
+      "description": "火災から7年、琉球王国の歴史をいまにつなぐ沖縄のシンボルが再び姿を現しました。 那覇市の市街地と海を見下ろす丘の上、中央に見えてきた「首里城正殿」の正面には金ぱくが施された豪華な木彫りの装飾。 壁…",
+      "pub_date": "2026-11-23T08:08:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80134",
+      "description": "名探偵・金田一耕助シリーズで知られる推理小説作家の横溝正史が、戦時下、陸軍が発行した雑誌に掲載した短編の推理小説が見つかりました。 専門家は「時局にそぐわないとして推理小説の発表の場が失われつつあった…",
+      "pub_date": "2026-11-23T09:16:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“会談模索もキム総書記の条件を米が受け入れられず”米報道",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80133",
+      "description": "アメリカの有力紙ウォール・ストリート・ジャーナルは、トランプ大統領の先週のアジア訪問にあわせて、アメリカと北朝鮮の双方が首脳会談の可能性を模索したものの、キム・ジョンウン（金正恩）総書記が提示した条件…",
+      "pub_date": "2026-11-23T09:26:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ドイツ最大労組 メルセデスの工場でも24時間ストライキ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80139",
+      "description": "大手自動車メーカーの従業員が加入するドイツ最大の労働組合は、賃上げなどをめぐって22日から新たにメルセデス・ベンツグループの工場で24時間のストライキに踏み切ることになり、地元メディアは、影響は広い範…",
+      "pub_date": "2026-11-23T09:48:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "台風25号 温暖化で水蒸気増え雨量が2～4割増か 研究グループ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80146",
+      "description": "ことし9月、関東などで浸水被害や土砂災害が相次いだ台風25号による記録的な大雨について研究グループが解析した結果、地球温暖化の影響で大気中の水蒸気量が増えたほか、雨の量も20％から40％程度増加した可…",
+      "pub_date": "2026-11-23T11:27:51+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80145",
+      "description": "緊張が続く中東のホルムズ海峡で、イギリス人のスイマーが3日間にわたってあわせて15キロを泳ぎ切り、船舶への攻撃が海洋生物などに深刻な影響をおよぼすおそれがあると訴えました。",
+      "pub_date": "2026-11-23T10:36:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "COP31合意採択断念 EUなど反対",
+      "link": "https://news.yahoo.co.jp/pickup/6603603?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T21:43:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科相の「交代示唆」木原氏否定",
+      "link": "https://news.yahoo.co.jp/pickup/6603601?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T21:39:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "社員を監禁疑い 社長ら4人逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6603608?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T22:36:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田中希実らの失格撤回 大会側説明",
+      "link": "https://news.yahoo.co.jp/pickup/6603607?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T22:30:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジュノンボーイGPの高3 12kg減量",
+      "link": "https://news.yahoo.co.jp/pickup/6603605?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T22:25:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "三山ひろしの紅白選外 長女は涙",
+      "link": "https://news.yahoo.co.jp/pickup/6603602?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T21:36:11+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "参政党が首長選に積極擁立 狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6603611?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T23:22:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "アンソロピックIPO巡り銀行に制約",
+      "link": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T22:45:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ゴルフ佐久間朱莉がSNSに謝罪文",
+      "link": "https://news.yahoo.co.jp/pickup/6603613?source=rss",
+      "description": "",
+      "pub_date": "2026-11-22T23:30:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "24年の1億円超所得者 10年で倍増",
+      "link": "https://news.yahoo.co.jp/pickup/6603620?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T07:21:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "たまごっち30周年「復活」の歴史",
+      "link": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T07:11:46+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤浪がオリに入団 23日にも発表へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603618?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T07:16:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中島美嘉 約8年ぶりに連ドラ出演",
+      "link": "https://news.yahoo.co.jp/pickup/6603621?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T07:22:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "連休最終日 西-東日本は行楽日和",
+      "link": "https://news.yahoo.co.jp/pickup/6603622?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T07:35:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SOS見せず突然退職 企業どう防ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T08:08:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中2でがん 20歳でプロゴルファー",
+      "link": "https://news.yahoo.co.jp/pickup/6603625?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T07:56:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "空手・植草歩さん 結婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6603619?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T07:34:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SASUKE 富栄ドラムら100人参戦",
+      "link": "https://news.yahoo.co.jp/pickup/6603629?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T08:13:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米民主党が下‌院で258議席 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T08:30:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北極航路 温暖化で氷解け通航量増",
+      "link": "https://news.yahoo.co.jp/pickup/6603627?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T08:09:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中央分離帯越え車と衝突 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6603634?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T08:50:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "スクバルが9年714億円で合意 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6603633?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T08:56:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相の国会出席削減 自民が議論",
+      "link": "https://news.yahoo.co.jp/pickup/6603632?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T08:48:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "リビアで露軍艦爆発 無人機攻撃か",
+      "link": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T09:25:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "死亡事故受け 柏崎刈羽で工事中止",
+      "link": "https://news.yahoo.co.jp/pickup/6603635?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T09:08:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ほぼ日手帳」海外で人気のワケ",
+      "link": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T09:20:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "オリックス 藤浪晋太郎の獲得発表",
+      "link": "https://news.yahoo.co.jp/pickup/6603639?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T09:51:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏 イラン再攻撃に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6603648?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T11:04:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "田中和基が引退 楽天で10年プレー",
+      "link": "https://news.yahoo.co.jp/pickup/6603645?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T10:34:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "塩貝健人が負傷で今季絶望か 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6603646?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T10:44:10+09:00"
+    }
+  ]
+}
