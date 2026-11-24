@@ -1,0 +1,375 @@
+{
+  "date": "2026-11-24",
+  "matched_at": "2026-11-24T11:45:36.848102+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エヌビディアCEO 辞任のフアン氏が復帰へ 株価一時36％超上昇",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80304",
+          "description": "アメリカの半導体大手「エヌビディア」は、中国の情報機関の協力者とされる女性と親密な関係にあったと報じられ、辞任したジェンスン・フアン氏がCEOに復帰したと発表しました。会社はフアン氏の復帰が国家安全保…",
+          "pub_date": "2026-11-24T11:11:37+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "フアン氏 エヌビディアCEOに復帰",
+          "link": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
+          "description": "",
+          "pub_date": "2026-11-23T23:17:46+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "荒れた天気 強風・土砂災害に十分注意 あす日本海側で雪強まる",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80284",
+          "description": "低気圧と前線の影響で、24日は大気の状態が非常に不安定になり、雨風ともに強まって荒れた天気となる見込みです。 気象庁は強風や大雨による土砂災害に十分注意し、落雷や竜巻などの激しい突風にも注意するよう…",
+          "pub_date": "2026-11-24T06:22:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "前線通過 全国的に荒れた天気に",
+          "link": "https://news.yahoo.co.jp/pickup/6603747?source=rss",
+          "description": "",
+          "pub_date": "2026-11-24T08:10:25+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシア拘束の北海道新聞記者に2回目の領事面会 健康に問題なし",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80287",
+          "description": "ロシアに駐在する武藤大使らがロシアの治安機関に拘束されている北海道新聞の記者との2回目の「領事面会」を行い、健康状態に問題はないことが確認されました。日本大使館は、引き続き即時解放などを強く求めていく…",
+          "pub_date": "2026-11-24T05:41:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "拘束の記者 駐露日本大使が面会",
+          "link": "https://news.yahoo.co.jp/pickup/6603725?source=rss",
+          "description": "",
+          "pub_date": "2026-11-23T22:33:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "ロシアが年内に核弾頭搭載の衛星打ち上げ計画か ドイツ報道",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80347",
+          "description": "ドイツのメディアは、ロシアが核弾頭を搭載した衛星を年内にも宇宙へ打ち上げる計画があるとする欧米の情報機関などの見方を伝えました。こうした衛星が低い軌道で爆発した場合、軌道上のすべての衛星が機能停止に陥…",
+          "pub_date": "2026-11-24T07:27:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "露が核衛星を年内打ち上げか 報道",
+          "link": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
+          "description": "",
+          "pub_date": "2026-11-23T21:54:35+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "タジキスタンICC脱退へ さらなる脱退の動き懸念",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80353",
+          "description": "ロシアが勢力圏と見なす中央アジアのタジキスタンは、ICC＝国際刑事裁判所からの脱退を国連に通知しました。 ICCをめぐっては、アメリカ、中国、ロシアの3か国の首脳が先週、管轄権を乱用してはならないと…",
+          "pub_date": "2026-11-24T08:21:25+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "タジキスタンがICC脱退を通告",
+          "link": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
+          "description": "",
+          "pub_date": "2026-11-24T09:19:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "名古屋市中川の鋼板工場で爆発音 屋根や外壁の一部吹き飛ぶ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80365",
+          "description": "24日午前、名古屋市中川区の鋼板工場で「爆発音がした」と通報があり、警察と消防が詳しい状況を調べています。",
+          "pub_date": "2026-11-24T11:04:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "鉄鋼メーカー工場で爆発 1人けが",
+          "link": "https://news.yahoo.co.jp/pickup/6603774?source=rss",
+          "description": "",
+          "pub_date": "2026-11-24T11:03:55+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "リーグ連覇の阪神がパレード ファンと喜び分かち合う",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80286",
+      "description": "プロ野球、セ・リーグ連覇を果たした阪神の選手たちが大阪・御堂筋でパレードを行い、ファンと喜びを分かち合いました。",
+      "pub_date": "2026-11-23T22:06:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "野党 関大臣の問責決議案協議 政府・与党 情勢見極め対応検討",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80283",
+      "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、野党側は、問責決議案の提出も視野に協議を行うことにしています。 一方、政府・与党内からは大臣自身が説明を尽くすよう求める指摘や国会…",
+      "pub_date": "2026-11-24T04:53:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "雪の影響で停電続く 岐阜県内約3190戸 長野県内470戸",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80343",
+      "description": "岐阜県の山沿いの地域では、雪の影響による停電が続いていて、長いところでは24日で5日目になります。 また、先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部でも今も停電が続いています…",
+      "pub_date": "2026-11-24T06:32:38+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "有価証券報告書の制度見直しへ 経営者はより責任持って確認を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80289",
+      "description": "企業の不正会計などが相次ぐ中、金融庁は、有価証券報告書の内容に経営者がより責任を持つよう制度を見直します。 「確認書」という有価証券報告書と同じタイミングで開示する書類に、経営者が了承した旨を形式的…",
+      "pub_date": "2026-11-24T05:31:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "株価 一時2600円超の値上がり NY株式市場の上昇の流れ引き継ぎ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80352",
+      "description": "連休明けの24日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、2600円以上値上がりしています。",
+      "pub_date": "2026-11-24T10:28:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "関文科相 パーティー指摘 改めて陳謝“襟を正して職務まい進”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80396",
+      "description": "関文部科学大臣は、政治資金パーティーをめぐる指摘が相次いでいることについて改めて陳謝した上で引き続き、襟を正して職務に全力で取り組む考えを示しました。",
+      "pub_date": "2026-11-24T11:25:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "地銀など定期預金金利を大幅上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T21:48:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "インフル「偽陰性」時間長く 注意",
+      "link": "https://news.yahoo.co.jp/pickup/6603721?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T22:08:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "年収1000万円 社内ニートの不安",
+      "link": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T21:34:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "麻雀クラブ なぜ米国の若者に人気",
+      "link": "https://news.yahoo.co.jp/pickup/6603717?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T21:41:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首里城正殿 すごく濃い赤との声も",
+      "link": "https://news.yahoo.co.jp/pickup/6603722?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T22:22:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中1不明 学校周辺や河川を捜索",
+      "link": "https://news.yahoo.co.jp/pickup/6603726?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T22:29:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤浪をなぜ獲得 オリ本部長が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6603728?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T22:45:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "麻生久美子 髪の毛30cm大胆カット",
+      "link": "https://news.yahoo.co.jp/pickup/6603727?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T22:41:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NY株大幅反発 フアン氏復帰好感",
+      "link": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T07:21:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米正副大統領 フアン氏復帰に関与",
+      "link": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T06:28:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "COP 脱化石遅れで農業へ影響深刻",
+      "link": "https://news.yahoo.co.jp/pickup/6603730?source=rss",
+      "description": "",
+      "pub_date": "2026-11-23T23:10:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ロッククライミング中に滑落 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603737?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T07:03:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人 織田翔希と26日に初対面",
+      "link": "https://news.yahoo.co.jp/pickup/6603738?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T07:03:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 FAの上林誠知と契約合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603734?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T06:15:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "木村拓哉 観客と大合唱で感極まる",
+      "link": "https://news.yahoo.co.jp/pickup/6603739?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T07:21:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3文書改定 経済安保の概要案判明",
+      "link": "https://news.yahoo.co.jp/pickup/6603742?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T07:36:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "奨学金利率が急上昇 負担減求める",
+      "link": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T07:45:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SAKAMOTO DAYS 6年の連載に幕",
+      "link": "https://news.yahoo.co.jp/pickup/6603748?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T08:11:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フォークリフトが倒れ下敷き 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603756?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T09:02:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "事務職の新卒採用減らす2割 調査",
+      "link": "https://news.yahoo.co.jp/pickup/6603745?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T07:58:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "塩貝健人が重度筋損傷 長期離脱へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603750?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T08:32:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ラッパーのBASIさん 5年前に死去",
+      "link": "https://news.yahoo.co.jp/pickup/6603759?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T09:18:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日経平均 一時2800円超値上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6603771?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T10:15:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科相 自宅家賃を政治資金で支出",
+      "link": "https://news.yahoo.co.jp/pickup/6603766?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T09:46:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フアン氏のCEO復帰 米議会反発",
+      "link": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T09:40:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NVIDIA時価総額 1日で151兆円増",
+      "link": "https://news.yahoo.co.jp/pickup/6603765?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T09:47:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "今田美桜 カーテン購入で失敗",
+      "link": "https://news.yahoo.co.jp/pickup/6603767?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T10:05:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "立憲 最大5万円給付案を参院提出",
+      "link": "https://news.yahoo.co.jp/pickup/6603770?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T10:28:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "小泉今日子 2027年に活動を再開",
+      "link": "https://news.yahoo.co.jp/pickup/6603773?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T10:51:56+09:00"
+    }
+  ]
+}
