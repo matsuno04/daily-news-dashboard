@@ -1,0 +1,376 @@
+{
+  "date": "2026-11-25",
+  "matched_at": "2026-11-25T11:45:35.861786+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "中国上海市トップが規律違反疑いで調査　中国国営メディア",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80879",
+          "description": "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました。 陳氏は今後、最高指…",
+          "pub_date": "2026-11-25T02:59:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "上海市トップを調査 規律違反疑い",
+          "link": "https://news.yahoo.co.jp/pickup/6603853?source=rss",
+          "description": "",
+          "pub_date": "2026-11-24T23:10:09+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "三冠王 佐藤輝明選手がカブスと合意 契約6年 約191億円 米報道",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80905",
+          "description": "プロ野球・阪神で三冠王に輝きポスティングシステムを使って大リーグへの移籍を目指していた佐藤輝明選手が、カブスとの契約に合意したと大リーグの公式サイトなどアメリカの複数のメディアが伝えました。契約は6年…",
+          "pub_date": "2026-11-25T02:52:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "佐藤輝明がカブスと契約合意 報道",
+          "link": "https://news.yahoo.co.jp/pickup/6603856?source=rss",
+          "description": "",
+          "pub_date": "2026-11-25T06:20:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "神奈川 小田原厚木道路で77歳運転の逆走車が衝突 34歳男性死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80911",
+          "description": "24日夕方、神奈川県平塚市の有料道路「小田原厚木道路」を逆走した軽乗用車が軽貨物車と正面衝突し、軽貨物車を運転していた34歳の男性が死亡しました。",
+          "pub_date": "2026-11-25T01:52:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "逆走車に衝突されたか 運転手死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6603855?source=rss",
+          "description": "",
+          "pub_date": "2026-11-24T23:55:44+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米司法長官 エヌビディアのフアン氏のリスク判断 説明避ける",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80921",
+          "description": "アメリカの半導体大手「エヌビディア」のCEOに復帰したジェンスン・フアン氏をめぐり、トランプ大統領が国家安全保障上のリスクを抱えていないと説明したことについて、調査にあたっていたブランチ司法長官は「大…",
+          "pub_date": "2026-11-25T08:24:09+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "NVIDIAは善良な企業 米司法長官",
+          "link": "https://news.yahoo.co.jp/pickup/6603870?source=rss",
+          "description": "",
+          "pub_date": "2026-11-25T08:32:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80916",
+          "description": "2025年6月、広島県庄原市の住宅で1人暮らしの当時84歳の女性が殺害された事件で、警察は事件から1年半近くがたった24日夜、東広島市に住む55歳の会社員を強盗殺人などの疑いで逮捕しました。調べに対し…",
+          "pub_date": "2026-11-25T06:59:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "広島女性死亡 強盗殺人疑い男逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6603863?source=rss",
+          "description": "",
+          "pub_date": "2026-11-25T07:37:56+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "カイロス4号機 来年1月22日に打ち上げ 企業が発表",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80861",
+      "description": "民間企業単独としては国内初となる人工衛星の軌道投入を目指す小型ロケット「カイロス」の4号機について、開発した東京の企業は2027年1月22日に和歌山県にある発射場から打ち上げると発表しました。",
+      "pub_date": "2026-11-24T23:18:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "「あ・じゃ・ぱん！」「ららら科學の子」矢作俊彦さん死去",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80832",
+      "description": "「あ・じゃ・ぱん！」や「ららら科學の子」などの作品で知られる作家の矢作俊彦さんが今月21日、心不全のため亡くなりました。76歳でした。",
+      "pub_date": "2026-11-24T21:36:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "楽天証券情報漏えいの詳細判明 全体件数は約441万件",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80890",
+      "description": "不正アクセスを受けて、個人情報が漏えいした可能性があると発表していたネット証券大手の楽天証券は、顧客から預かっている資産残高の情報などおよそ441万件が漏えいしたことを明らかにしました。",
+      "pub_date": "2026-11-24T23:33:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "WHO テドロス事務局長がキューバ視察 米制裁が医療に影響",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80880",
+      "description": "WHO＝世界保健機関のテドロス事務局長は、アメリカによる経済制裁の影響で停電が相次ぐキューバで小児病院を視察し、このところ乳児や妊産婦の死亡率が上昇しているなどとして支援を検討する考えを示しました。",
+      "pub_date": "2026-11-24T23:25:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "野党 関文科相への問責決議案提出へ 与党 採決に備え働きかけ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80903",
+      "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、参議院の野党6党は、閣僚にふさわしくないとして問責決議案を提出する方針です。 これに対し与党側は、法的には問題が無いとして、決議案…",
+      "pub_date": "2026-11-25T05:02:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ナスダック 一転下落 エヌビディア企業統治に懸念",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80932",
+      "description": "24日のニューヨーク株式市場は、前日に急騰したハイテク株の比率が高いナスダックの株価指数が、半導体大手「エヌビディア」の企業統治をめぐる懸念が出たことなどから一転して下落しました。",
+      "pub_date": "2026-11-25T07:09:54+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "EU 中国製ハイブリッド車 輸入急増で制限へ 日本製も対象に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80923",
+      "description": "EU＝ヨーロッパ連合の執行機関は24日、域内の自動車産業の保護を目的としてハイブリッド車などの輸入台数の増加を抑えるため暫定的な制限措置を発動すると発表しました。輸入が急増している中国製を念頭に置いた…",
+      "pub_date": "2026-11-25T06:41:28+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "前橋 親グマ行方分からず 地下水路の追加捜索を検討",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261124de80866",
+      "description": "市街地にクマが出没し、警戒が続いている前橋市では21日に最後に目撃されて以降、新たな情報は入っていません。 一方、市はクマが最後に確認された地下水路について無人機を使った新たな捜索を検討するなど、捕獲…",
+      "pub_date": "2026-11-25T07:00:57+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "サウジアラビア首都の高層ビルにフーシ派攻撃か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80931",
+      "description": "サウジアラビアと隣国イエメンの反政府勢力フーシ派の攻撃の応酬が続く中、サウジアラビアでは首都リヤドの高層ビルが攻撃され11人がけがをしました。 サウジアラビア側はフーシ派による攻撃だとしています。",
+      "pub_date": "2026-11-25T08:11:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "ロシア軍の戦死者49万人超か ロシア独立系メディアが分析",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80935",
+      "description": "ロシアの独立系メディアは、軍事侵攻で死亡したロシア軍の兵士の数が、2026年9月時点で49万人を超えたと報じました。",
+      "pub_date": "2026-11-25T08:45:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "株価 一時1600円超の値下がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80958",
+      "description": "25日の東京株式市場、日経平均株価は、一時、1600円以上値下がりしています。",
+      "pub_date": "2026-11-25T09:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "埼玉 上尾で住宅火災 親子2人と連絡とれず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80995",
+      "description": "25日朝、埼玉県上尾市の住宅から火が出て、この家に住む70代と50代の親子2人と連絡が取れなくなっています。警察と消防が安否の確認を進めるとともに詳しい状況を調べています。",
+      "pub_date": "2026-11-25T11:21:40+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80970",
+      "description": "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…",
+      "pub_date": "2026-11-25T10:41:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "EUのEV優遇 修正案でも日本除外",
+      "link": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T21:39:02+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 第2次補正予算案編成を指示",
+      "link": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T22:13:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "支援金「最大年27万円」の給付案",
+      "link": "https://news.yahoo.co.jp/pickup/6603841?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T22:03:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "クマ捕獲で苦情多数 市業務に支障",
+      "link": "https://news.yahoo.co.jp/pickup/6603848?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T22:34:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "巨人・浅野翔吾 女子大で調理実習",
+      "link": "https://news.yahoo.co.jp/pickup/6603851?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T22:31:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山田まりや 子に正直に伝えた離婚",
+      "link": "https://news.yahoo.co.jp/pickup/6603847?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T22:12:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新人王が発表へ セ・パ有力候補は",
+      "link": "https://news.yahoo.co.jp/pickup/6603854?source=rss",
+      "description": "",
+      "pub_date": "2026-11-24T23:28:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "副首都 来年秋に複数同時に指定",
+      "link": "https://news.yahoo.co.jp/pickup/6603860?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T06:51:04+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平良海馬がBジェイズと合意 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6603858?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T06:37:10+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "財政難の兵庫県 新庁舎面積削減へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603862?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T07:36:00+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米で鳥インフルに3人感染 WHO",
+      "link": "https://news.yahoo.co.jp/pickup/6603865?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T07:54:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "直木賞ノミネート 5作品決まる",
+      "link": "https://news.yahoo.co.jp/pickup/6603867?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T07:56:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "竹内まりや KFCのCM曲がギネス",
+      "link": "https://news.yahoo.co.jp/pickup/6603872?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T08:27:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米中に次ぐAI国家確立へ 政府案",
+      "link": "https://news.yahoo.co.jp/pickup/6603868?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T08:10:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "住宅で流血の女性が死亡 殺人か",
+      "link": "https://news.yahoo.co.jp/pickup/6603869?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T08:17:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新型ウォークマン 歴代最高65万円",
+      "link": "https://news.yahoo.co.jp/pickup/6603878?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T09:16:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中日 201cm外国人右腕と基本合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603875?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T09:05:20+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "カブス 佐藤輝明と巨額契約の背景",
+      "link": "https://news.yahoo.co.jp/pickup/6603874?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T08:44:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相が文科相擁護 辞任ドミノ懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6603876?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T09:18:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米CIAのシステム ハッカーが侵入",
+      "link": "https://news.yahoo.co.jp/pickup/6603881?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T10:12:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤浪にオリ期待する訳 上原氏見解",
+      "link": "https://news.yahoo.co.jp/pickup/6603883?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T09:56:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マツダ本社工場にイノシシ 捜索中",
+      "link": "https://news.yahoo.co.jp/pickup/6603891?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T10:56:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "中国の宇宙船 初の外国人乗組員",
+      "link": "https://news.yahoo.co.jp/pickup/6603886?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T10:22:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "JFA「J4」相当の新リーグ設立へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603888?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T10:34:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "唐沢&山口 結婚後初の地上波共演",
+      "link": "https://news.yahoo.co.jp/pickup/6603892?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T10:56:32+09:00"
+    }
+  ]
+}
