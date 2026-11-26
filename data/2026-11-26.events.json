@@ -1,0 +1,333 @@
+{
+  "date": "2026-11-26",
+  "matched_at": "2026-11-26T11:46:12.666885+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "福岡 駅員殴った疑いで49歳逮捕 男性刺殺事件と関連調べ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de81511",
+          "description": "25日昼前、福岡市の地下鉄の駅構内で駅員を殴ったとして、警察は、49歳の容疑者を暴行の疑いで逮捕しました。服装や外見の特徴などから、この直後に福岡市西区の駅の駐輪場で働く70歳の男性が刺されて死亡した…",
+          "pub_date": "2026-11-26T06:20:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "福岡刺殺 確保の男を別容疑で逮捕",
+          "link": "https://news.yahoo.co.jp/pickup/6603982?source=rss",
+          "description": "",
+          "pub_date": "2026-11-25T22:04:10+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "「いのちのスープ」料理研究家の辰巳芳子さん死去 101歳",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81547",
+          "description": "良質な食材を使った介護食「いのちのスープ」で知られ、料理番組などに出演して家庭料理や食文化のあり方を提言してきた料理研究家の辰巳芳子さんが25日、亡くなりました。 101歳でした。",
+          "pub_date": "2026-11-26T00:35:13+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "料理家・辰巳芳子さん死去 101歳",
+          "link": "https://news.yahoo.co.jp/pickup/6604025?source=rss",
+          "description": "",
+          "pub_date": "2026-11-26T10:44:40+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "米 過剰生産で日本など追加関税 既存税率含め日本は最大15％に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81560",
+          "description": "USTR＝アメリカ通商代表部は、過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしているとして、通商法301条に基づき日本を含む14の国と地域に新たな追加関税を課す方針を明らかにしました。 この…",
+          "pub_date": "2026-11-26T06:35:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "米 日中やEUなどに新関税を提案",
+          "link": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
+          "description": "",
+          "pub_date": "2026-11-26T00:17:03+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "【ライブ配信】参院 野党側 関文科相に対する問責決議案を提出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81559",
+          "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、野党側は、国会で事実と異なる説明をするなど閣僚にふさわしくないとして、参議院に問責決議案を提出しました。",
+          "pub_date": "2026-11-26T10:42:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "野党 文科相の問責案を参院に提出",
+          "link": "https://news.yahoo.co.jp/pickup/6604023?source=rss",
+          "description": "",
+          "pub_date": "2026-11-26T10:21:49+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "エジプト カイロ近郊で交通事故 火災が発生して31人死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81584",
+          "description": "エジプトの首都カイロ近郊の環状道路で25日、タンクローリーが絡む事故が起き、火災が発生して多くの車両が巻き込まれ、これまでに31人が死亡しました。",
+          "pub_date": "2026-11-26T08:55:10+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "エジプトで複数台事故 30人超死亡",
+          "link": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
+          "description": "",
+          "pub_date": "2026-11-26T08:29:24+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大谷翔平が今季振り返り 来季の巻き返し誓う 一問一答も掲載",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81587",
+          "description": "大リーグ、ドジャースの大谷翔平選手がオンラインの会見でワールドシリーズ3連覇を逃した今シーズンを振り返り、「悔しい気持ちはある。早くシーズンが終わったので、悔しさを晴らすための期間にしていきたい」と来…",
+          "pub_date": "2026-11-26T11:25:04+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "大谷 今後の二刀流について語る",
+          "link": "https://news.yahoo.co.jp/pickup/6603994?source=rss",
+          "description": "",
+          "pub_date": "2026-11-26T06:52:32+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "PayPayのシステム障害が復旧 クレジットカード連携決済が再開",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de81532",
+      "description": "スマホ決済大手のPayPayは、システム障害によって25日午後8時過ぎからクレジットカードと連携したサービスで決済ができなくなっていましたが、26日午前4時50分ごろに復旧したと発表しました。",
+      "pub_date": "2026-11-26T10:07:06+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福岡 駐輪場刺殺事件 警察が男から事情聴く 事件に関与か",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de81118",
+      "description": "25日午後、福岡市西区の駅の駐輪場で働く70歳の男性が刺されて死亡した事件で、警察が事件に関わったとみられる男から事情を聴いていることが、捜査関係者への取材で分かりました。警察は事件の詳しいいきさつを…",
+      "pub_date": "2026-11-25T22:15:39+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民調査会 「教員不足」解消へ緊急決議案",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de81508",
+      "description": "学校現場の「教員不足」が深刻化する中、自民党の調査会は今後3年間を集中改革期間と位置づけ、教員志願者の大幅な拡大に向けて、教員になった人への奨学金の返還支援のほか、留学や資格の取得といった学びの機会を…",
+      "pub_date": "2026-11-25T22:53:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "高額な保険診療目的の外国人の入国 対応強化で調整 厚労省",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de81522",
+      "description": "日本を訪れる外国人による公的医療保険の不適切な利用を防ぐため、厚生労働省は、医療機関などと連携し、対応を強化する方向で調整に入りました。高額な保険診療を受ける目的で入国したと確認されれば、必要に応じて…",
+      "pub_date": "2026-11-25T23:06:22+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "NY株式市場 ナスダック 一時4％超の下落 その後は買い戻しも",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261126de81556",
+      "description": "25日のニューヨーク株式市場では、「AIブーム」の持続性に対する懸念が根強いなかで半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、4％を超える大幅な下落となりまし…",
+      "pub_date": "2026-11-26T07:46:21+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "鹿児島 姶良で住宅火災 住んでいるとみられる3人と連絡取れず",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261126de81572",
+      "description": "25日午後10時すぎ、鹿児島県姶良市の住宅で火事があり、警察によりますと、住んでいるとみられる3人と連絡が取れていないということで、警察が安否の確認を進めています。",
+      "pub_date": "2026-11-26T06:54:36+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "アメリカ バンス副大統領「フアン氏は捜査対象ではない」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261126de81573",
+      "description": "アメリカの半導体大手「エヌビディア」のCEOに復帰したジェンスン・フアン氏をめぐり、バンス副大統領は、司法省などによる捜査の対象にはなっていないとあらためて強調しました。トランプ政権の閣僚らからはフア…",
+      "pub_date": "2026-11-26T07:12:47+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "FRB“幅広い業種でコスト上昇”来月の追加利上げ判断注目",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261126de81570",
+      "description": "アメリカのFRB＝連邦準備制度理事会は最新の経済報告を公表し、物価は全体として緩やかに上昇したとしています。金融市場ではFRBがインフレの再加速を抑えるため、来月開く会合で追加の利上げに踏み切るとの見…",
+      "pub_date": "2026-11-26T06:26:53+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【地震情報】熊本県で震度3 津波の心配なし",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de81455",
+      "description": "26日午前7時31分ごろ、熊本県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。",
+      "pub_date": "2026-11-26T08:07:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "問責決議案巡り 与野党攻防が激化",
+      "link": "https://news.yahoo.co.jp/pickup/6603980?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T22:17:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "3文書 防衛力整備計画の指針判明",
+      "link": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T23:12:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "くら寿司 ちいかわ企画初日で終了",
+      "link": "https://news.yahoo.co.jp/pickup/6603987?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T23:17:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "パイロット不足 航空の2030年問題",
+      "link": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T22:01:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "佐藤輝がセMVP 表彰式異例の欠席",
+      "link": "https://news.yahoo.co.jp/pickup/6603986?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T22:51:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神奈川の死亡事故 5分以上逆走か",
+      "link": "https://news.yahoo.co.jp/pickup/6603988?source=rss",
+      "description": "",
+      "pub_date": "2026-11-25T23:46:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フアン氏の復帰 企業統治に批判",
+      "link": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T06:15:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "趣里&杉野遥亮 フジ月9でW主演",
+      "link": "https://news.yahoo.co.jp/pickup/6603992?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T06:25:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "AI法改正案の概要判明 罰則新設",
+      "link": "https://news.yahoo.co.jp/pickup/6603997?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T07:44:06+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "二宮和也 2年ぶりに映画主演へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603995?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T07:33:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日本語試験の増設を検討 外務省",
+      "link": "https://news.yahoo.co.jp/pickup/6603996?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T07:52:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "窓開けリンゴ確保 クマの学習能力",
+      "link": "https://news.yahoo.co.jp/pickup/6604008?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T09:04:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大谷 MLB挑戦表明の織田に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6604007?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T08:54:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "上田綺世 バイエルン相手に復活弾",
+      "link": "https://news.yahoo.co.jp/pickup/6604009?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T08:51:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ギタリスト A・テイラーさん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6604010?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T09:15:57+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米36州がDC事業者に規制を導入",
+      "link": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T08:09:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "NVIDIAを格下げ方向で見直し S&P",
+      "link": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T09:44:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "男性を車で120m引きずり疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6604014?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T09:29:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "店の壁に遺体事件 被告が一部否認",
+      "link": "https://news.yahoo.co.jp/pickup/6604024?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T10:32:44+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "若者が注目「フリース」再ブーム",
+      "link": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
+      "description": "",
+      "pub_date": "2026-11-26T11:26:05+09:00"
+    }
+  ]
+}
