@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "matched_at": "2026-11-27T11:46:09.751322+09:00",
+  "matched_at": "2026-11-27T21:46:02.940694+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -10,17 +10,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "【更新中】関文科相問責決議案 採決へ 可否は見通せない情勢",
+          "title": "関文科相への問責決議案 4票差で否決 参院本会議",
           "link": "https://news.web.nhk/newsweb/na/nd-20261127de82148",
-          "description": "関文部科学大臣に対する問責決議案は、午前10時からの参議院本会議で趣旨説明や討論のあと、採決が行われます。 与野党とも可決か否決かギリギリの情勢だとみていて、党内の引き締めなどが行われました。",
-          "pub_date": "2026-11-27T10:57:41+09:00"
+          "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案は、参議院本会議で採決が行われ、自民・維新両党などの反対多数で否決されました。",
+          "pub_date": "2026-11-27T19:01:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "問責案きょう採決 可否は見通せず",
-          "link": "https://news.yahoo.co.jp/pickup/6604133?source=rss",
+          "title": "関文科相の問責決議案 否決",
+          "link": "https://news.yahoo.co.jp/pickup/6604161?source=rss",
           "description": "",
-          "pub_date": "2026-11-27T07:33:53+09:00"
+          "pub_date": "2026-11-27T11:40:11+09:00"
         }
       }
     },
@@ -52,8 +52,8 @@
           "source": "NHK",
           "title": "処方された糖尿病治療薬「マンジャロ」を他人に販売か 逮捕",
           "link": "https://news.web.nhk/newsweb/na/nd-20261127de82227",
-          "description": "病院で処方された糖尿病の治療薬「マンジャロ」を他人に販売したとして、都内に住む40歳の女の容疑者が警視庁に逮捕されたことが、捜査関係者への取材で分かりました。警視庁は、この薬をダイエット目的の人に転売…",
-          "pub_date": "2026-11-27T11:11:42+09:00"
+          "description": "病院で医師に処方された糖尿病の治療薬「マンジャロ」を他人に販売したとして、都内に住む40歳の女の容疑者が逮捕されました。警視庁は、この薬をダイエット目的の人に転売する危険なケースが相次いでいるとみて警…",
+          "pub_date": "2026-11-27T18:25:00+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
@@ -61,6 +61,86 @@
           "link": "https://news.yahoo.co.jp/pickup/6604158?source=rss",
           "description": "",
           "pub_date": "2026-11-27T11:21:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "宇宙飛行士を2027年4月ごろ募集へ “学歴や専門分野は不問”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82211",
+          "description": "文部科学省などは、2027年4月ごろ、新たに宇宙飛行士を募集すると発表しました。若干名を採用する計画で、選抜試験を経て2028年の秋ごろ結果を発表するとしています。",
+          "pub_date": "2026-11-27T11:34:34+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "JAXA 日本人宇宙飛行士を募集へ",
+          "link": "https://news.yahoo.co.jp/pickup/6604153?source=rss",
+          "description": "",
+          "pub_date": "2026-11-27T09:52:49+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "フィギュアNHK杯 女子は千葉 男子はマリニンが首位【全結果】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82343",
+          "description": "フィギュアスケートのグランプリシリーズ、最終第6戦のNHK杯が27日に開幕し、男子シングル前半のショートプログラムでアメリカのイリア・マリニン選手がショートプログラムの歴代世界最高得点をマークしてトッ…",
+          "pub_date": "2026-11-27T21:27:59+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "千葉百音がSP首位で発進 NHK杯",
+          "link": "https://news.yahoo.co.jp/pickup/6604214?source=rss",
+          "description": "",
+          "pub_date": "2026-11-27T18:14:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "公明 神崎武法元代表が死去",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82226",
+          "description": "1998年からおよそ8年間、公明党の代表を務め、自民党との協力関係の基盤を築いた神崎武法氏が25日、東京都内で亡くなりました。83歳でした。",
+          "pub_date": "2026-11-27T16:04:18+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "神崎武法・元公明党代表が死去",
+          "link": "https://news.yahoo.co.jp/pickup/6604157?source=rss",
+          "description": "",
+          "pub_date": "2026-11-27T10:45:48+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0007",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "乗用車など10台以上絡む事故で10人病院搬送 静岡 清水町",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82723",
+          "description": "27日午後、静岡県清水町の県道で乗用車など10台以上が関係する事故があり、これまでに10人が病院に搬送されました。警察によりますと、60代の男性が運転する乗用車が対向車線の車などに次々に衝突したという…",
+          "pub_date": "2026-11-27T21:10:24+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "事故で10人程けが 「暴走車」通報",
+          "link": "https://news.yahoo.co.jp/pickup/6604226?source=rss",
+          "description": "",
+          "pub_date": "2026-11-27T19:42:51+09:00"
         }
       }
     }
@@ -124,17 +204,101 @@
     },
     {
       "source": "NHK",
-      "title": "東京23区の11月の消費者物価指数 前年同月比2.9%上昇",
+      "title": "東京23区 11月消費者物価指数上昇 物価高でクリスマスケーキは",
       "link": "https://news.web.nhk/newsweb/na/nd-20261127de82195",
-      "description": "東京23区の11月の消費者物価指数の速報値は、天候による変動が大きい生鮮食品を除いた総合で、去年2025年の11月と比べて2.9％上昇しました。 上昇率は、10月と比べて、0.3ポイント拡大しました…",
-      "pub_date": "2026-11-27T09:02:54+09:00"
+      "description": "東京23区の今月の消費者物価指数の速報値は、天候による変動が大きい生鮮食品を除いた総合で、去年の同じ月と比べて2.9％上昇しました。上昇率が2％を上回るのは3か月連続です。 物価高が続く中、洋菓子店…",
+      "pub_date": "2026-11-27T19:34:00+09:00"
     },
     {
       "source": "NHK",
       "title": "「副首都」来年秋に指定 再来年春から運用へ 想定日程公表",
       "link": "https://news.web.nhk/newsweb/na/nd-20261127de82236",
       "description": "大規模災害の際に首都の代替機能を担う「副首都」をめぐり、政府は、2027年秋に複数の道府県を指定し、2028年春に運用が始まるなどとしたスケジュールの想定を公表しました。",
-      "pub_date": "2026-11-27T11:27:35+09:00"
+      "pub_date": "2026-11-27T11:27:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "福岡 男性刺殺事件 駐輪場の事務所に立ち寄った後襲ったか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82318",
+      "description": "福岡市の駐輪場で男性が刺されて死亡した事件で、刺した男は駐輪場の事務所に立ち寄った後、外で男性を襲っていたことが捜査関係者への取材で分かりました。駐輪場にいたのは数分間だったことも分かり、警察はこの短…",
+      "pub_date": "2026-11-27T12:00:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "井林国交相 国の公共事業請け負う企業の寄付を返金",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82303",
+      "description": "井林国土交通大臣は、過去の衆議院選挙で、みずからが代表を務める自民党の支部が国の公共事業を請け負っていた企業から寄付を受けていたと一部で報じられたことについて、「事業者が国の事業を請け負っていることを…",
+      "pub_date": "2026-11-27T12:17:24+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "【記者解説】関文科相への問責決議案 なぜ否決",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82351",
+      "description": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案は、参議院本会議で採決が行われ、自民・維新両党などの反対多数で否決されました。 その理由や政権運営への影響などについて政治…",
+      "pub_date": "2026-11-27T12:51:49+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "パーソルキャリア 転職サービス利用者個人情報61万件余漏えい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82399",
+      "description": "人材紹介などを行うパーソルキャリアは、委託先の会社が不正アクセスを受けたため、利用者の氏名や電話番号、それに勤務先などの個人情報61万件余りが漏えいしたと発表しました。",
+      "pub_date": "2026-11-27T14:21:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "オーストラリア LNG国内供給強化へ 日本に影響の可能性も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82383",
+      "description": "オーストラリア議会は国内のガス価格の高騰を抑えるため、LNG＝液化天然ガスの輸出業者に対し、輸出量の最大2割に相当するガスを国内市場に供給することを義務づける法案を可決しました。日本のLNG輸入量のお…",
+      "pub_date": "2026-11-27T13:47:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "来年クマ出没大幅増の可能性 ロードマップ見直し指示 官房長官",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82442",
+      "description": "クマ被害対策の関係閣僚会議が開かれ、木原官房長官は、来年はクマの出没が大幅に増える可能性があるとして、ことし3月に決定した対策のロードマップを見直すよう指示しました。",
+      "pub_date": "2026-11-27T18:20:55+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "新米の1等米比率79.7％ 長雨影響懸念も品質おおむね平年並みに",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82378",
+      "description": "新米の10月末までの品質検査で、最も評価が高い「1等米」の割合は、過去5年間で最も高い79.7％でした。ことし秋の長雨による影響が懸念されたものの、農林水産省は品質はおおむね平年並みだとしています。",
+      "pub_date": "2026-11-27T16:14:18+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "インフルエンザ患者数 緩やかなペースで増加続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82486",
+      "description": "11月22日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関あたり13.51人と、5週続けて緩やかなペースで増えています。各自治体は注意報を出すなどして対策を呼びかけています。",
+      "pub_date": "2026-11-27T16:20:52+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "去年の政治資金収入11％余増加 パーティー収入は37％余の増加",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82680",
+      "description": "総務省が公開した去年1年分の政治資金収支報告書によりますと、政党や政治団体の収入の総額は前の年から11％あまり増えました。このうちパーティー収入は、政治とカネの問題を受けてほぼ半減した前の年と比べて、…",
+      "pub_date": "2026-11-27T18:14:32+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "横浜のサル きょうは中心部 桜木町駅近くで目撃 県西部からか",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82694",
+      "description": "横浜市内でサルの目撃情報が相次ぐ中、27日は市中心部のJR桜木町駅近くの住宅街で目撃されました。サルは群れからはぐれて県西部から移動してきた可能性があるということで、市などは、サルを見かけても刺激しな…",
+      "pub_date": "2026-11-27T18:41:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "日経新聞社 個人情報約540万件漏えい 委託先に不正アクセス",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82772",
+      "description": "日本経済新聞社は、マーケティングに利用している外部の「KARTE」というサービスが不正アクセスを受けた影響で、日経電子版の会員などの個人情報およそ540万件が漏えいしたと発表しました。",
+      "pub_date": "2026-11-27T20:36:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "去年の政治資金 “動画”関連に5億円超支出 活用する議員は？",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82241",
+      "description": "政策や選挙の公約の訴えなどでネット上の動画が活用されるケースが増えています。 総務省が27日、公表した去年1年分の政治資金収支報告書をNHKが分析したところ、動画の制作や編集などに5億3700万円が…",
+      "pub_date": "2026-11-27T20:02:00+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -198,6 +362,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6604128?source=rss",
       "description": "",
       "pub_date": "2026-11-27T06:39:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "問責案きょう採決 可否は見通せず",
+      "link": "https://news.yahoo.co.jp/pickup/6604133?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T07:33:53+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -306,24 +477,290 @@
     },
     {
       "source": "Yahoo!ニュース",
-      "title": "神崎武法・元公明党代表が死去",
-      "link": "https://news.yahoo.co.jp/pickup/6604157?source=rss",
-      "description": "",
-      "pub_date": "2026-11-27T10:45:48+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
-      "title": "JAXA 日本人宇宙飛行士を募集へ",
-      "link": "https://news.yahoo.co.jp/pickup/6604153?source=rss",
-      "description": "",
-      "pub_date": "2026-11-27T09:52:49+09:00"
-    },
-    {
-      "source": "Yahoo!ニュース",
       "title": "子供の遊び場設置で売上増も 背景",
       "link": "https://news.yahoo.co.jp/pickup/6604150?source=rss",
       "description": "",
       "pub_date": "2026-11-27T10:18:50+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "8年で生徒2人自死 傷抱える遺族",
+      "link": "https://news.yahoo.co.jp/pickup/6604160?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T11:53:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マック 休止の新チキン商品再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604171?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T12:20:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元広島・田村俊介 オイシックスへ",
+      "link": "https://news.yahoo.co.jp/pickup/6604170?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T12:19:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "28日は関東で警報級大雨の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6604174?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T12:51:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "格闘家 ぱんちゃん璃奈容疑者逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6604172?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T12:24:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「バブみ」メイク 下まぶたがキモ",
+      "link": "https://news.yahoo.co.jp/pickup/6604169?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T12:12:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "うたまさNHK杯棄権 森田が涙",
+      "link": "https://news.yahoo.co.jp/pickup/6604173?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T12:28:17+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "首相 関文科相を続投させる構え",
+      "link": "https://news.yahoo.co.jp/pickup/6604175?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T13:23:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "食べ残し持ち帰り 政府が呼びかけ",
+      "link": "https://news.yahoo.co.jp/pickup/6604166?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T13:36:49+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "郡山市の中1不明 新たな写真公開",
+      "link": "https://news.yahoo.co.jp/pickup/6604182?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T13:56:28+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "紀平緊張も笑顔 りかしん自己最高",
+      "link": "https://news.yahoo.co.jp/pickup/6604186?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T14:28:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ポリティカルパン 世間に一石",
+      "link": "https://news.yahoo.co.jp/pickup/6604177?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T13:19:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "第3子以降出産で1千万円 自民が案",
+      "link": "https://news.yahoo.co.jp/pickup/6604188?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T14:59:41+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "施設の屋上から缶投げ捨て 車損傷",
+      "link": "https://news.yahoo.co.jp/pickup/6604183?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T14:11:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "インド最大野党 メタと政府を提訴",
+      "link": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T15:23:19+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "新INFOBAR 日本の若者に刺さるか",
+      "link": "https://news.yahoo.co.jp/pickup/6604193?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T15:51:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ぱんちゃん璃奈 契約イベ出場停止",
+      "link": "https://news.yahoo.co.jp/pickup/6604189?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T15:18:36+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政府 防災の「国家戦略」を初策定",
+      "link": "https://news.yahoo.co.jp/pickup/6604199?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T17:06:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "匿流の特命捜査班新設へ 東京地検",
+      "link": "https://news.yahoo.co.jp/pickup/6604191?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T16:14:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本ふっこう応援割 第2弾実施へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604192?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T15:53:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "市保管の婚姻届 市議が撮影し投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6604198?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T16:37:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "27時間テレビ 来夏に3年ぶり復活",
+      "link": "https://news.yahoo.co.jp/pickup/6604207?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T16:58:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "文科相の問責決議案 紙一重の否決",
+      "link": "https://news.yahoo.co.jp/pickup/6604218?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T18:13:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関東など 朝にかけ大雨になる所も",
+      "link": "https://news.yahoo.co.jp/pickup/6604206?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T17:15:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "神崎武法さんが死去 選挙CM話題",
+      "link": "https://news.yahoo.co.jp/pickup/6604203?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T17:08:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "マイナアプリ 旧Ver.に脆弱性",
+      "link": "https://news.yahoo.co.jp/pickup/6604215?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T18:12:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ジャガー横田 夫に置き手紙書く訳",
+      "link": "https://news.yahoo.co.jp/pickup/6604204?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T17:35:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "元「テラハ」田辺莉咲子が結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6604212?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T17:45:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "GMO サイバー攻撃防ぐ構想発表",
+      "link": "https://news.yahoo.co.jp/pickup/6604216?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T18:37:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「負動産」有料引き取り広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6604200?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T16:49:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "Suicaペンギンの銅像 春にも撤去",
+      "link": "https://news.yahoo.co.jp/pickup/6604221?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T18:49:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "あべこうじ芸能活動自粛 吉本発表",
+      "link": "https://news.yahoo.co.jp/pickup/6604217?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T18:32:45+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "問責案否決 重く受け止めると関氏",
+      "link": "https://news.yahoo.co.jp/pickup/6604220?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T18:29:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "ふるさと納税仲介料上限 政府検討",
+      "link": "https://news.yahoo.co.jp/pickup/6604225?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T19:41:27+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "廃止浄水場から25年間水道水供給",
+      "link": "https://news.yahoo.co.jp/pickup/6604227?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T20:05:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "福岡刺殺 直前に被害男性と接触か",
+      "link": "https://news.yahoo.co.jp/pickup/6604229?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T20:12:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "野球規則 球に「フーフー」禁止に",
+      "link": "https://news.yahoo.co.jp/pickup/6604223?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T19:23:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防衛省がAI活用新指針 3つの課題",
+      "link": "https://news.yahoo.co.jp/pickup/6604211?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T19:33:40+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「高齢者」の定義引き上げ 自民案",
+      "link": "https://news.yahoo.co.jp/pickup/6604235?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T21:08:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "悩んでいる 去就注目の森下暢仁",
+      "link": "https://news.yahoo.co.jp/pickup/6604236?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T21:21:58+09:00"
     }
   ]
 }
