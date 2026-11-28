@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-28",
+  "matched_at": "2026-11-28T11:46:01.850352+09:00",
+  "model": "claude-haiku-5-5",
+  "required_source_count": 2,
+  "events": [
+    {
+      "event_id": "evt-0001",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "問責決議案否決 与党“消費税法案成立を” 野党“疑惑を追及”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261128de82805",
+          "description": "関文部科学大臣に対する問責決議案は、27日に採決が行われ、自民・維新両党などの反対多数で否決されました。国会の会期末まで2週間となる中、与党側は食料品の消費税減税関連法案などの成立に全力を挙げる方針な…",
+          "pub_date": "2026-11-28T06:29:57+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "文科相の問責案否決 火種消えず",
+          "link": "https://news.yahoo.co.jp/pickup/6604258?source=rss",
+          "description": "",
+          "pub_date": "2026-11-28T07:51:18+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0002",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "宮城県山中で身元不明2人の遺体 1人は横浜の女子高校生か 警察",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82799",
+          "description": "27日、宮城県の山中で身元が分からない2人が遺体で見つかり、警察はこのうち1人は10月から行方が分からなくなっている横浜市の高校1年の女子生徒の可能性があるとみて確認を進めています。警察は女子生徒を連…",
+          "pub_date": "2026-11-28T08:39:49+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "山中に2遺体 1人は不明の高校生か",
+          "link": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
+          "description": "",
+          "pub_date": "2026-11-27T23:27:39+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0003",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "西武 高橋光成 大リーグ ダイヤモンドバックスと1年契約で合意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261128de82839",
+          "description": "プロ野球・西武から海外を含むFA＝フリーエージェントとなり大リーグへの移籍を目指していた高橋光成投手が、ダイヤモンドバックスとの1年契約に合意したと、複数のアメリカメディアが伝えました。",
+          "pub_date": "2026-11-28T08:37:00+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "高橋光成Dバックスと合意 米報道",
+          "link": "https://news.yahoo.co.jp/pickup/6604256?source=rss",
+          "description": "",
+          "pub_date": "2026-11-28T07:44:00+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0004",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "大リーグ カブスが佐藤輝明 Bジェイズが平良海馬と契約合意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261128de82844",
+          "description": "大リーグ、カブスはプロ野球・阪神で三冠王に輝き大リーグへの移籍を目指していた佐藤輝明選手と6年契約で合意したと正式に発表しました。ブルージェイズもプロ野球・西武の平良海馬投手と5年契約で合意したと発表…",
+          "pub_date": "2026-11-28T08:31:14+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "カブスが佐藤輝明と契約 正式発表",
+          "link": "https://news.yahoo.co.jp/pickup/6604265?source=rss",
+          "description": "",
+          "pub_date": "2026-11-28T08:41:14+09:00"
+        }
+      }
+    }
+  ],
+  "unmatched": [
+    {
+      "source": "NHK",
+      "title": "凍ったゼリー詰まらせ園児死亡 複数職員が注意書き認識か 奈良",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82782",
+      "description": "奈良県香芝市の民間のこども園で4歳の園児が凍らせたゼリーをのどに詰まらせて死亡した事故で、ゼリーのパッケージに凍らせて食べないよう注意を促す記載があり、この注意書きについて複数の職員が、市の聞き取りに…",
+      "pub_date": "2026-11-27T21:49:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "フィギュアNHK杯 女子は千葉 男子はマリニンが首位【全結果】",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82343",
+      "description": "フィギュアスケートのグランプリシリーズ、最終第6戦のNHK杯が27日に開幕し、男子シングル前半のショートプログラムでアメリカのイリア・マリニン選手がショートプログラムの歴代世界最高得点をマークしてトッ…",
+      "pub_date": "2026-11-27T22:39:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "警察 ICC赤根所長の安全確保 最高ランク「特A」で警戒強化",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82788",
+      "description": "ICC＝国際刑事裁判所の赤根智子所長について、国際社会からの注目が集まる中で不測の事態を防ぐ体制を強化する必要があるとして、日本の警察当局が、安全確保などを行う際の警戒の区分を最も高いランクに指定して…",
+      "pub_date": "2026-11-28T05:03:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "広範囲で大気不安定 北日本や東日本の山沿い中心に今夜から雪",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82831",
+      "description": "低気圧や前線などの影響で広い範囲で大気の状態が非常に不安定になり、北日本や伊豆諸島では局地的に雨雲が発達しています。この時期としては強い寒気も流れ込むため、29日にかけて広い範囲で大気の不安定な状態が…",
+      "pub_date": "2026-11-28T07:32:25+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "東電 資本提携の交渉先に「株式売却時は国の了承必要」と提示",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82791",
+      "description": "経営の立て直しに向けて他社との資本提携の交渉を進める東京電力ホールディングスは、交渉相手に対し、出資によって得た株式を売却する際には国の了承が必要だとする条件を提示していたことが新たにわかりました。交…",
+      "pub_date": "2026-11-28T06:32:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "生成AIへの不安 「犯罪に悪用される」が73% NHK世論調査",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82786",
+      "description": "急速に普及が進む生成AIについて、NHKの世論調査で期待と不安を聞いたところ、期待することとしては「仕事の効率化が進む」が62％だった一方、不安は「犯罪に悪用される」が最も多く73％でした。",
+      "pub_date": "2026-11-28T05:34:31+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "自民 麻生副総裁 茂木外相らが会談 消費税減税法案など成立を",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82796",
+      "description": "自民党の麻生副総裁と茂木外務大臣らが27日夜、会談し、関文部科学大臣への問責決議案の否決を受けて、食料品の消費税減税関連法案などの成立に向けて緊張感を持って対応していくことを確認しました。",
+      "pub_date": "2026-11-27T23:43:30+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "データセンター整備めぐり 政府が関係者向け指針策定へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82863",
+      "description": "全国各地で整備が進むデータセンターをめぐって、一部の事業者と周辺住民との間で摩擦も起きる中、政府は、整備にあたって事業者や地元自治体、それに電力会社が守るべき指針を新たに策定する方針を固めました。",
+      "pub_date": "2026-11-28T10:47:55+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "住宅で2400万円強盗被害 3人逃走",
+      "link": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T21:58:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "舞妓を狙う観光客の迷惑行為 拍車",
+      "link": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T22:00:25+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "森下暢仁 去就巡り「悩んでいる」",
+      "link": "https://news.yahoo.co.jp/pickup/6604240?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T21:37:23+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "関氏18年食事会で300万円収入計上",
+      "link": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T23:08:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防衛相ら 献金報道巡り違法性否定",
+      "link": "https://news.yahoo.co.jp/pickup/6604248?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T00:15:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "阪神 FAの中川圭太と契約合意",
+      "link": "https://news.yahoo.co.jp/pickup/6604249?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T07:20:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「かっぱ寿司」なぜ赤字に転落",
+      "link": "https://news.yahoo.co.jp/pickup/6604250?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T07:26:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "映画「国宝」1/2-3にテレビ初放送",
+      "link": "https://news.yahoo.co.jp/pickup/6604253?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T07:40:08+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "政治資金パーティーの収入 37%増",
+      "link": "https://news.yahoo.co.jp/pickup/6604259?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T07:58:39+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "2遺体 不明生徒誘拐疑いで男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T08:20:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北島三郎 白組演歌「0」に理解",
+      "link": "https://news.yahoo.co.jp/pickup/6604257?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T07:42:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "気温変化 暖かい雨から冷たい雨へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604269?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T09:13:15+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "邦人を売春させた疑い 韓国で捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6604254?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T08:08:30+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "基礎控除上乗せ見直し 先送り方針",
+      "link": "https://news.yahoo.co.jp/pickup/6604266?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T08:53:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "北海道で左タイヤの脱落頻発 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6604261?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T08:22:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "鎌田大地選手を英国で起訴 英報道",
+      "link": "https://news.yahoo.co.jp/pickup/6604273?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T10:00:59+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "平良 Bジェイズと5年127億円契約",
+      "link": "https://news.yahoo.co.jp/pickup/6604272?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T09:45:52+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "独 核禁止条約再検討会議を欠席へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604275?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T10:11:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "疲弊する管理職 重荷を下ろす制度",
+      "link": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T10:34:03+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "お台場オワコン説は本当? 分析",
+      "link": "https://news.yahoo.co.jp/pickup/6604270?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T10:01:05+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "宇多田ヒカル 初めて楽曲提供",
+      "link": "https://news.yahoo.co.jp/pickup/6604274?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T10:25:32+09:00"
+    }
+  ]
+}
