@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "matched_at": "2026-11-28T11:46:01.850352+09:00",
+  "matched_at": "2026-11-28T21:46:18.634695+09:00",
   "model": "claude-haiku-5-5",
   "required_source_count": 2,
   "events": [
@@ -30,17 +30,17 @@
       "sources": {
         "NHK": {
           "source": "NHK",
-          "title": "宮城県山中で身元不明2人の遺体 1人は横浜の女子高校生か 警察",
+          "title": "宮城の山中の2人遺体 1人は一部白骨化 身元の手がかりなし",
           "link": "https://news.web.nhk/newsweb/na/nd-20261127de82799",
-          "description": "27日、宮城県の山中で身元が分からない2人が遺体で見つかり、警察はこのうち1人は10月から行方が分からなくなっている横浜市の高校1年の女子生徒の可能性があるとみて確認を進めています。警察は女子生徒を連…",
-          "pub_date": "2026-11-28T08:39:49+09:00"
+          "description": "宮城県の山中で身元が分からない2人の遺体が見つかった事件で、警察は、このうち1人は行方が分からなくなっている横浜市の女子高校生の可能性があるとみていますが、もう1人は遺体の一部が白骨化した状態だったこ…",
+          "pub_date": "2026-11-28T19:31:07+09:00"
         },
         "Yahoo!ニュース": {
           "source": "Yahoo!ニュース",
-          "title": "山中に2遺体 1人は不明の高校生か",
-          "link": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
+          "title": "山中に2人の遺体 一部は白骨化",
+          "link": "https://news.yahoo.co.jp/pickup/6604305?source=rss",
           "description": "",
-          "pub_date": "2026-11-27T23:27:39+09:00"
+          "pub_date": "2026-11-28T15:36:11+09:00"
         }
       }
     },
@@ -83,6 +83,46 @@
           "pub_date": "2026-11-28T08:41:14+09:00"
         }
       }
+    },
+    {
+      "event_id": "evt-0005",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "“日本ハム 伊藤大海がカブスと契約合意”米メディア伝える",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261128de82897",
+          "description": "プロ野球・日本ハムからポスティングシステムを使って大リーグへの移籍を目指していた伊藤大海投手が、カブスとの契約に合意したと大リーグの公式サイトなどアメリカの複数のメディアが伝えました。",
+          "pub_date": "2026-11-28T14:28:01+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "伊藤大海がカブスと契約合意 報道",
+          "link": "https://news.yahoo.co.jp/pickup/6604285?source=rss",
+          "description": "",
+          "pub_date": "2026-11-28T11:59:01+09:00"
+        }
+      }
+    },
+    {
+      "event_id": "evt-0006",
+      "adopted": true,
+      "sources": {
+        "NHK": {
+          "source": "NHK",
+          "title": "イノシシが店舗のガラス破り 路上で次々と人襲う 7人けが 静岡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261128de82992",
+          "description": "27日夜、静岡市清水区の住宅街でイノシシが店舗のガラスを破ったあと、路上で次々と人を襲うなどして、あわせて7人がけがをしました。 イノシシは28日朝に駆除されたということです。",
+          "pub_date": "2026-11-28T17:53:19+09:00"
+        },
+        "Yahoo!ニュース": {
+          "source": "Yahoo!ニュース",
+          "title": "男女7人けが 襲ったイノシシ駆除",
+          "link": "https://news.yahoo.co.jp/pickup/6604280?source=rss",
+          "description": "",
+          "pub_date": "2026-11-28T11:06:09+09:00"
+        }
+      }
     }
   ],
   "unmatched": [
@@ -109,10 +149,10 @@
     },
     {
       "source": "NHK",
-      "title": "広範囲で大気不安定 北日本や東日本の山沿い中心に今夜から雪",
+      "title": "大気不安定続く 北～東日本 標高の高いところ中心に雪の見込み",
       "link": "https://news.web.nhk/newsweb/na/nd-20261128de82831",
-      "description": "低気圧や前線などの影響で広い範囲で大気の状態が非常に不安定になり、北日本や伊豆諸島では局地的に雨雲が発達しています。この時期としては強い寒気も流れ込むため、29日にかけて広い範囲で大気の不安定な状態が…",
-      "pub_date": "2026-11-28T07:32:25+09:00"
+      "description": "低気圧や前線の影響で、日本海側を中心に大気の状態が非常に不安定になり、雨や風が強まっているところがあります。 上空にこの時期としては強い寒気が流れ込むため、29日にかけて北日本から東日本の標高の高い…",
+      "pub_date": "2026-11-28T18:51:00+09:00"
     },
     {
       "source": "NHK",
@@ -143,6 +183,76 @@
       "pub_date": "2026-11-28T10:47:55+09:00"
     },
     {
+      "source": "NHK",
+      "title": "【速報中】フィギュアNHK杯 男子シングル後半 マリニンに注目",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82900",
+      "description": "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯の2日目の演技が東京・調布市で開かれ、現在、男子シングル後半のフリーが行われています。前半、歴代世界最高得点をマークし、トップに立っているアメ…",
+      "pub_date": "2026-11-28T20:57:15+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "北朝鮮 12月下旬に党の重要会議開催 外交や核開発など方針注目",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82908",
+      "description": "北朝鮮のメディアは、朝鮮労働党の重要政策を決める中央委員会総会が12月下旬に開催されると伝え、トランプ大統領がキム・ジョンウン（金正恩）総書記との会談に意欲を示す中、今後の外交政策などについてどのよう…",
+      "pub_date": "2026-11-28T14:00:26+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "長崎 高校生平和大使 米国に出発 核兵器禁止条約再検討会議へ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82910",
+      "description": "11月30日からニューヨークで始まる核兵器禁止条約の初めての再検討会議にあわせて現地に派遣される長崎の「高校生平和大使」が28日、長崎市を出発し、「核兵器のある世界でこの先過ごしたくないという思いを訴…",
+      "pub_date": "2026-11-28T14:11:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "木原官房長官 福井の拉致現場視察“最後の大臣になる覚悟で”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82943",
+      "description": "北朝鮮による拉致問題を担当する木原官房長官は、48年前に地村保志さん、富貴恵さん夫妻が拉致された福井県の現場を視察し、問題の解決には一刻の猶予もないとしてみずからが最後の担当大臣になる覚悟で取り組むと…",
+      "pub_date": "2026-11-28T15:14:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "阪神ドラフト1位 明治大の榊原七斗が仮契約「息の長い選手に」",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82954",
+      "description": "プロ野球のドラフト会議で阪神から1位で指名された明治大の榊原七斗選手が、球団と仮契約を結び「息の長い選手になりたい」と意気込みを話しました。",
+      "pub_date": "2026-11-28T15:39:34+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "オープンAIがアップルを提訴 開発競争を背景に対立深まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82903",
+      "description": "アメリカのAI企業オープンAIが機密情報を持ち出されたとしてIT大手アップルを訴えました。アップルはこれより前、オープンAIを訴えていて、開発競争を背景に両社の対立があらわになっています。",
+      "pub_date": "2026-11-28T13:55:00+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "航空機に乱気流知らせる注意情報1000件余 事故防ぐ対策に課題",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82899",
+      "description": "航空機の運航に影響する気象の状況をパイロットなどに知らせる「SIGMET」と呼ばれる注意情報のうち、気象庁が乱気流について発表したのは、2025年の1年間に1000件余りになることがわかりました。乱気…",
+      "pub_date": "2026-11-28T19:38:48+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "“エヌビディア半導体 輸出規制先の中国で確認”米メディア",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82966",
+      "description": "アメリカのメディア、ブルームバーグは半導体大手エヌビディア製の先端半導体を搭載したサーバーが中国、上海のデータセンターに設置されていたと報じました。 データセンターはエヌビディアのCEOジェンスン・…",
+      "pub_date": "2026-11-28T19:15:43+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "通販「フェリシモ」アドレスなど最大166万件余 漏えいのおそれ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de82980",
+      "description": "神戸市に本社がある通信販売会社「フェリシモ」は、不正アクセスの影響でメールの配信先となっていた最大166万件あまりのメールアドレスなどが外部に漏えいしたおそれがあると明らかにしました。",
+      "pub_date": "2026-11-28T17:18:13+09:00"
+    },
+    {
+      "source": "NHK",
+      "title": "中学生不明 父親が新たな写真公開し情報提供求める 福島 郡山",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261128de83037",
+      "description": "福島県郡山市で行方が分からなくなっている中学1年の男子生徒について、父親が新たな写真や動画を公開し、広く情報提供を求めています。",
+      "pub_date": "2026-11-28T19:21:00+09:00"
+    },
+    {
       "source": "Yahoo!ニュース",
       "title": "住宅で2400万円強盗被害 3人逃走",
       "link": "https://news.yahoo.co.jp/pickup/6604242?source=rss",
@@ -169,6 +279,13 @@
       "link": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
       "description": "",
       "pub_date": "2026-11-27T23:08:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "山中に2遺体 1人は不明の高校生か",
+      "link": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
+      "description": "",
+      "pub_date": "2026-11-27T23:27:39+09:00"
     },
     {
       "source": "Yahoo!ニュース",
@@ -288,6 +405,265 @@
       "link": "https://news.yahoo.co.jp/pickup/6604274?source=rss",
       "description": "",
       "pub_date": "2026-11-28T10:25:32+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "南海フェリー 撤退回避の壁高く",
+      "link": "https://news.yahoo.co.jp/pickup/6604277?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T10:39:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大人紙おむつ ごみ処理悩む自治体",
+      "link": "https://news.yahoo.co.jp/pickup/6604278?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T10:44:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "プロレスラー B・リードさん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6604283?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T12:22:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "希空 映画主演に「心臓バクバク」",
+      "link": "https://news.yahoo.co.jp/pickup/6604286?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T12:48:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "熊本地震 災害関連死の申請相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6604289?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T13:16:54+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "生徒誘拐疑いの男 ネットで接点か",
+      "link": "https://news.yahoo.co.jp/pickup/6604287?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T12:53:24+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台湾の統一地方選 与党の伸長焦点",
+      "link": "https://news.yahoo.co.jp/pickup/6604291?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T13:46:47+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "SNS動画 支持獲得を狙い各党注力",
+      "link": "https://news.yahoo.co.jp/pickup/6604294?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T14:00:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "美容クリーム誤認表示疑い 返金へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604282?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T11:33:42+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "L.L.Bean 日本支社を閉鎖へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604295?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T14:10:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「ゆで太郎」会員制度やめた理由",
+      "link": "https://news.yahoo.co.jp/pickup/6604290?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T13:37:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "美勇士 約10年前に離婚していた",
+      "link": "https://news.yahoo.co.jp/pickup/6604292?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T13:56:14+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米議会 フアンCEOの追及本格化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604299?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T14:48:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "台湾の統一地方選 与党が伸長か",
+      "link": "https://news.yahoo.co.jp/pickup/6604298?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T14:47:48+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "転落しそうな4歳保護 小学生手柄",
+      "link": "https://news.yahoo.co.jp/pickup/6604288?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T12:52:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "戦力外通告 大物の決まらぬ去就",
+      "link": "https://news.yahoo.co.jp/pickup/6604302?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T14:57:35+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "29日にかけ急な強い雨や落雷注意",
+      "link": "https://news.yahoo.co.jp/pickup/6604304?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T15:34:31+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "フォークリフトにはねられる 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T14:54:26+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "顔に大きな穴 希少がんと闘う22歳",
+      "link": "https://news.yahoo.co.jp/pickup/6604303?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T15:20:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "米空軍のシステムに不正侵入 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6604311?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T16:56:12+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "「一生結婚しない」が2割超 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6604313?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T17:08:43+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "車同士が正面衝突 運転の女性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6604307?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T16:44:51+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "書店がYouTube 10分で4千冊完売",
+      "link": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T16:52:07+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "藤田ニコル 産後ダメージ想像以上",
+      "link": "https://news.yahoo.co.jp/pickup/6604310?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T16:43:16+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "拘束記者の妻手記 露で相次ぎ報道",
+      "link": "https://news.yahoo.co.jp/pickup/6604316?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T17:25:58+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "サン電子 300億円超申告漏れ指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6604314?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T17:18:37+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "防衛費5年「60兆円弱」米側は難色",
+      "link": "https://news.yahoo.co.jp/pickup/6604325?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T19:00:38+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大学病院 老朽化トラブル相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6604318?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T18:04:01+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "OpenAIがAppleを反訴 AI巡り対立",
+      "link": "https://news.yahoo.co.jp/pickup/6604317?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T18:03:22+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "日ハム・今川 契約交渉でパワポ",
+      "link": "https://news.yahoo.co.jp/pickup/6604328?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T19:16:18+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "LiSAと鈴木達央 離婚を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6604323?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T18:34:09+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "寺で無許可ダンスバトル 法的には",
+      "link": "https://news.yahoo.co.jp/pickup/6604300?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T15:15:53+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "銚子のサバ加工ピンチ 6社が倒産",
+      "link": "https://news.yahoo.co.jp/pickup/6604326?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T19:13:34+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "孤独のグルメ なぜ大みそかに放送",
+      "link": "https://news.yahoo.co.jp/pickup/6604327?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T19:40:56+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "高市氏側 昨年企業Gから分散献金",
+      "link": "https://news.yahoo.co.jp/pickup/6604330?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T21:15:29+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "PL学園全校 28年度生徒募集休止",
+      "link": "https://news.yahoo.co.jp/pickup/6604329?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T20:28:33+09:00"
+    },
+    {
+      "source": "Yahoo!ニュース",
+      "title": "大槻義彦氏が死去 早大名誉教授",
+      "link": "https://news.yahoo.co.jp/pickup/6604332?source=rss",
+      "description": "",
+      "pub_date": "2026-11-28T20:55:53+09:00"
     }
   ]
 }
